@@ -1,4 +1,4 @@
-# Creators Organizations
+# Creator\(s\)
 
 
 
