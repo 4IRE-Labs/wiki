@@ -1,7 +1,3 @@
----
-description: 'Welcome, check the chapters below'
----
-
 # Welcome!
 
 We're developing solutions for decentralized crowdfunding:
