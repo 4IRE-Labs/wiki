@@ -1,4 +1,4 @@
-# Aragon Funding App \(Apiary\)
+# Aragon Fundraising App \(Apiary\)
 
 ## **Abstract**
 
