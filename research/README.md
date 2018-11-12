@@ -1,7 +1,5 @@
 # Research
 
-
-
 Materials on Crowdfunding by [https://4irelabs.com/crowdfunding3](https://4irelabs.com/crowdfunding3)
 
 ### Crowdfunding by category:
