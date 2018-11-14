@@ -26,7 +26,7 @@ We're developing products for decentralized crowdfunding:
     </tr>
     <tr>
       <td style="text-align:left">Product/Market Fit</td>
-      <td style="text-align:left"><a href="https://wiki.crowdfunding3.com/docs/investor-panel">Funder: Investor Panel</a>
+      <td style="text-align:left"><a href="https://wiki.crowdfunding3.com/docs/investor-panel">Funder Dashboard</a>
       </td>
     </tr>
   </tbody>

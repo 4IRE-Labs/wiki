@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [Investor Panel \(Iconx\)](investor-panel/README.md)
+* [Funder Dashboard \(Iconx\)](investor-panel/README.md)
   * [Implementation Handbook](investor-panel/implementation-handbook.md)
   * [Features](investor-panel/features.md)
   * [Product FAQ](investor-panel/faq.md)
