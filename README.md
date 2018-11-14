@@ -2,9 +2,12 @@
 
 We're developing solutions for decentralized crowdfunding:
 
-* Investor Panel
-* Aragon Funding App
-* Community Engagement App
+| Stage | Product |
+| :--- | :--- |
+| Ideation |  |
+| Problem/Solution Fit |  |
+| Product/Market Fit | [Investor Panel](https://wiki.crowdfunding3.com/docs/investor-panel) |
+| Scaling |  |
 
 [https://crowdfunding3.com/](https://crowdfunding3.com/)
 
