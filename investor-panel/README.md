@@ -2,7 +2,7 @@
 
 ### Problem / need
 
-Launch ICO \(secure, compliant, simple, high check\)
+Fund \(invest\) in projects / companies
 
 Alternatives: ...
 
