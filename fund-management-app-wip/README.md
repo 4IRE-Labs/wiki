@@ -1,33 +1,27 @@
 # Fund Management App \(WIP\)
 
-Customer Segments
+### Customer Segments
 
-Early Adopters
+Startup founders
 
-Problem / Need
+Early adopters: Crypro entreprenurs
 
+### Problem / Need
 
+Accept funding
 
-Alternatives
+Alternatives: 
 
-
-
-Key Features:
+### Key Features
 
 * Multisig
-* 1
+* Token launch
+* Direct Distribution
+* Mass Distribution
+
+### Key Metrics
 
 
 
-Key Metrics
-
-
-
-Unfair advantage
-
-
-
-Cost Structure 
-
-Revenue Streams
+### Revenue Streams
 

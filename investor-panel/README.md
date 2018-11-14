@@ -18,9 +18,7 @@ Unique value proposition: Best price, _CRM-integrated Investor Panel_, with mobi
 
 ### Customer Segments
 
-Startup founders
 
-Early adopters: Crypro entreprenurs
 
 ### Key Metrics
 
