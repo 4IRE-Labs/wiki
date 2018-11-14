@@ -1,2 +1,0 @@
-# Curation Market \(WIP\)
-
