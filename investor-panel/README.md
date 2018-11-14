@@ -32,7 +32,7 @@ Investor number
 
 Partners, SoMe 
 
-### Cost Structure: –
+### Revenue Streams
 
-### Revenue Streams: –
+Paid license?
 
