@@ -2,33 +2,33 @@
 
 ### Problem / need
 
-Fund \(invest\) in projects / companies
+Fund \(invest\) in projects or organizations
 
 Alternatives: ...
 
 ### Key Features
 
-* signup + KYC
-* calculator
-* transaction history
-* referral report
-* withdraw tokens
-
-Unique value proposition: Best price, _CRM-integrated Investor Panel_, with mobile app
+* Signup \(incl. KYC\)
+* Fund
+  * Calculate / Convert different currencies
+  * Send funds
+  * Get notification
+* See history
 
 ### Customer Segments
 
-
+* ICO Investors
+* Contributors / Impact investors 
 
 ### Key Metrics
 
-Leads Transaction volume
-
-Investor number
+* Leads Transaction volume
+* Investor number
 
 ### Channels
 
-Partners, SoMe 
+* Partners
+* SoMe 
 
 ### Revenue Streams
 

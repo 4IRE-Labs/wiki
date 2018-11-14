@@ -8,15 +8,20 @@ Early adopters: Crypro entreprenurs
 
 ### Problem / Need
 
-Accept funding
+Collect funding
 
 Alternatives: 
 
+* [https://coinlaunch.market/](https://coinlaunch.market/)
+* [https://www.kickico.com/](https://www.kickico.com/)
+* [https://icoyard.io/](https://icoyard.io/)
+* [https://melonport.com/](https://melonport.com/)
+
 ### Key Features
 
-* Multisig
-* Token launch
-* Direct Distribution
+* Setup Multisig
+* Launch Token
+* Direct \(PreSale\) Distribution
 * Mass Distribution
 
 ### Key Metrics
