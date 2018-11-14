@@ -12,7 +12,8 @@ We're developing products for decentralized crowdfunding:
   <tbody>
     <tr>
       <td style="text-align:left">Ideation</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://wiki.crowdfunding3.com/docs/community-engagement-app-motiv8">Curation Market</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Problem/Solution Fit</td>
