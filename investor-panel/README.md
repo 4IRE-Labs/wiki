@@ -1,4 +1,4 @@
-# Funder Dashboard \(Iconx\)
+# Backer Dashboard
 
 ### Problem / need
 

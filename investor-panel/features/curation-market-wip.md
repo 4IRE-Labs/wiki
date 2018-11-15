@@ -13,3 +13,13 @@
 * [Aragon Research forum thread](https://research.aragon.org/t/request-for-comment-aragon-crowdfunding-app-to-enable-more-responsible-crowdfunding-with-daos/144)
 * [Telegram chat](https://t.me/joinchat/E9cyAxB_6FdwNvJ7Mh7wDQ)
 
+## Possible Attacks
+
+### Bonding curve exploit / race conditions
+
+Static bonding curve?
+
+
+
+[https://blog.relevant.community/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17?gi=f275a521fc3b](https://blog.relevant.community/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17?gi=f275a521fc3b)
+
