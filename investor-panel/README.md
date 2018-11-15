@@ -2,9 +2,11 @@
 
 ### Problem / need
 
-Fund \(invest\) in projects or organizations
+Create max impact \(profits\) with the funds
 
-Alternatives: ...
+Alternatives:
+
+* KickICO
 
 ### Key Features
 
@@ -15,6 +17,9 @@ Alternatives: ...
   * Calculate / Convert different currencies
   * Send funds
   * Get notification
+* Manage portfolio
+  * Multisig
+  * Curation
 * See history
 
 ### Customer Segments
