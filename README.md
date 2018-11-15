@@ -12,15 +12,15 @@ We're developing products for decentralized crowdfunding:
   <tbody>
     <tr>
       <td style="text-align:left">Ideation</td>
-      <td style="text-align:left"><a href="https://wiki.crowdfunding3.com/docs/community-engagement-app-motiv8">Funder: Curation Markett</a>
+      <td style="text-align:left"><a href="https://wiki.crowdfunding3.com/docs/community-engagement-app-motiv8">Funder Curation Market</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Problem/Solution Fit</td>
       <td style="text-align:left">
-        <p><a href="https://wiki.crowdfunding3.com/docs/fund-management-app-wip">Founder: Fund Management App</a>
+        <p><a href="https://wiki.crowdfunding3.com/docs/fund-management-app-wip">Founder Fund Management App</a>
         </p>
-        <p><a href="https://wiki.crowdfunding3.com/docs/community-engagement-app-motiv8">Founder: Community Engagement App</a>
+        <p><a href="https://wiki.crowdfunding3.com/docs/community-engagement-app-motiv8">Founder Community Engagement App</a>
         </p>
       </td>
     </tr>
