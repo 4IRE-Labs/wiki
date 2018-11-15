@@ -8,8 +8,10 @@ Alternatives: ...
 
 ### Key Features
 
-* Signup \(incl. KYC\)
+* Signup
+* Enable KYC compliance
 * Fund
+  * Discover
   * Calculate / Convert different currencies
   * Send funds
   * Get notification
@@ -18,7 +20,8 @@ Alternatives: ...
 ### Customer Segments
 
 * ICO Investors
-* Contributors / Impact investors 
+* Community Contributors
+* Impact investors 
 
 ### Key Metrics
 
