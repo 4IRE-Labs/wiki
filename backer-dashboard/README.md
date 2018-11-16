@@ -51,7 +51,7 @@
       <td style="text-align:left">(Semi-) Manual</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">A</td>
       <td style="text-align:left">Work contributor</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">Bounty Platforms</td>
