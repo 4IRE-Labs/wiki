@@ -17,10 +17,9 @@
   * [Use case: Network](fund-management-app-wip/ecosystem-networks.md)
   * [Temp](fund-management-app-wip/temp/README.md)
     * [Promo Page Integration](fund-management-app-wip/temp/promo-page-integration.md)
-* [Community Engagement App \(Motiv8\)](community-engagement-app-motiv8.md)
+* [Community Engagement App \(Motiv8\)](community-engagement-app-motiv8/README.md)
+  * [Investor Relations \(BZNTM\)](community-engagement-app-motiv8/investor-relations-bzntm.md)
 * [Research](research/README.md)
   * [Crowdfunding Services](research/crowdfunding-services.md)
   * [Crowdfunding Marketing Providers](research/crowdfunding-marketing-providers.md)
-  * [Investor Relations \(BZNTM\)](research/investor-relations-bzntm.md)
-  * [ICO Marketing Providers](research/ico-marketing-providers.md)
 
