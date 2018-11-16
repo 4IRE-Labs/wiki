@@ -1,8 +1,6 @@
-# Users FAQ
+# Fund
 
-## Buy Tokens  <a id="ICONXProductFAQ-BuyTokens"></a>
-
-### What is Price calculator? <a id="ICONXProductFAQ-WhatisPricecalculator?"></a>
+### What is Price calculator?
 
 Price calculator lets you know how many tokens you can get for certain amount of currency and vice versa.
 
@@ -87,66 +85,4 @@ Another reason is when User pressed Done button on side menu without purchasing 
 In case you press Done button without purchasing tokens with your external wallet, new transaction will be created in Transaction history on your dashboard and will have Pending status until you will make a transaction with MetaMask or other wallets. Read the instruction how to buy tokens.
 
 If you follow the instructions and still have a problem with receiving tokens you can check whether your transaction was successful following the link to Etherscan or other transactions explorer provided by your wallet.
-
-## Referral <a id="ICONXProductFAQ-Referral"></a>
-
-### What is Referrals?  <a id="ICONXProductFAQ-WhatisReferrals?"></a>
-
-You may get bonus tokens by inviting other investors to register in the system and buy some tokens. You will get 5% of token amount that purchased by users you invited personally \(1st tier\), 3% of transactions from 2d tier investors, and 2% from 3d tier ones.
-
-![](https://lh5.googleusercontent.com/FTRGewS1-hwTt3UL1WWAnWzQLtUcB03IZCofWjwaofcr60iI_96HFp8RqsPi-BdsXdytM6pLCYydy70Ba1oyZBIegnVhrrYl9Va_zY5g0kyXlrxRF01_9j3QgSMXNjE0eZmsLJlE)
-
-In Transactions you can see how many bonus tokens you get from every confirmed referral transaction which amount are displayed in Amount column.
-
-![](https://lh3.googleusercontent.com/UtBlavu_M0nQ59GPmp-km4JvrnTbnGakzOQLL2wet-E3KJepFjPVoJrbDNXTg5rPyYXYWgyM1WNY-qoDG2OZXJsZf1CHgXnkzPU3c-io5M5c586VeDhwjXBTuBH3AsLN4xFCurjS)
-
-### What is Affiliates? <a id="ICONXProductFAQ-WhatisAffiliates?"></a>
-
-Affiliates are all of your invited investors and investors invited by them.
-
-![](https://lh6.googleusercontent.com/vR24Wy_aIkpNlNgS62S9XVzLBrgM6DtTaM0TvQ-evV7fhZpOWtXCv4MNVeSLUDOH5K9ur5kqwuetZuQnkyYepVczgdeoKCEPncld0y7CID6T5jAudXtMBGPuwXMQHIoAEBWHsGTe)
-
-### What is Total purchases?  <a id="ICONXProductFAQ-WhatisTotalpurchases?"></a>
-
-Total purchases is a sum of tokens of all confirmed tansactions of your Affiliates.
-
-### What is Total bonus? <a id="ICONXProductFAQ-WhatisTotalbonus?"></a>
-
-Total bonus is a sum of bonus tokens you recieved from all confirmed tansactions of your Affiliates.
-
-## Withdraw Tokens and Settings <a id="ICONXProductFAQ-WithdrawTokensandSettings"></a>
-
-### How can I use my tokens from System Generated Wallet? <a id="ICONXProductFAQ-HowcanIusemytokensfromSystemGeneratedWallet?"></a>
-
-You have access to your System Generated Wallet with your Private Key, using it in other wallets you able to see and make transactions with your tokens.
-
-### Where can I find my Private Key? <a id="ICONXProductFAQ-WherecanIfindmyPrivateKey?"></a>
-
-To get your Private Key follow next steps:
-
-At the top of your Dashboard page open User’s menu and select My Wallets.
-
-![](https://lh4.googleusercontent.com/BEQLRZ1uS3uUy5YSkgVPkDL2u6i8VxaQ1fcDDg2F4TT3ld4W2vDgEARi-x9bJ-4bw0YEN37pTcMq6EKMUs38QZ3f6D5u77CwaM0Xt1CaG4Q0Mze6ubcaSbiOkR_Z341k5n1JJ64X)
-
-On side menu enter your account password and press Copy Private Key button. You will be able to copy your Private Key.
-
-![](https://lh4.googleusercontent.com/ZWbjzl73l-FE4RpJPQIqfH5tpp5VItoi59s6oomJgsswYj3K7jOgh5pQLm3FpI9sx5f3tyw6spnoULMvs7rEhY0-OgJZcnauMHxrKjXq3gtrUq-0DWWD_EgofyAEQWS1epjVJ0xA)
-
-### When do I get my referral bonus? <a id="ICONXProductFAQ-WhendoIgetmyreferralbonus?"></a>
-
-You receive bonus tokens from every transaction of investors invited by you. You get your referral bonus as soon as status of your Affiliate’stransactions becomes Confirmed.
-
-### How can I change password? <a id="ICONXProductFAQ-HowcanIchangepassword?"></a>
-
-To change your password open User’s menu at the top of the page and select Change Password.
-
-![](https://lh6.googleusercontent.com/l4O_roik2O5n0ZoeUSc5PvV5vYMMmS_inH7NVD-YzzUBCn6rVjThK7K_pWfnjguTXnBS5ewVzqpRYwXQrwOyfy143KwI2rFtYbwfXEcP0ccRh_fuY0EjQLiiAS_vsxyCRsG-dJjZ)
-
-On the next page fill all the fields and press Change Password button.
-
-![](https://lh5.googleusercontent.com/ZjCmPCAB2LOdBuQLuuiruJOSI-j5M9K8C0nB3SRUQ_NbUlqvBcmHc9cmtfKrhJbS60I5hKpKfTNRpY7q4ozvHUNXTKSxx_H1C4erkUOqDxMLf-byct56a7YFuQ13iVfYNstmjHKh)
-
-### How to recover my password? <a id="ICONXProductFAQ-Howtorecovermypassword?"></a>
-
-You are not able to recover your password for security reasons. You can only change your password for one that is more acceptable for you.
 
