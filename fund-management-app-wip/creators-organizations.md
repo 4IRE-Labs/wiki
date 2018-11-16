@@ -1,4 +1,4 @@
-# Creator\(s\)
+# Use Case: Software Project
 
 [Patreon](http://www.patreon.com/) is a highly successful service for supporting the creators with $12M monthly payouts for over 100k or creators. With that Patreon has some issues with [censorship](http://www.openlettertopatreon.com/) and [high pledge fees](https://www.reddit.com/r/patreon/comments/7i8pwa/new_pledge_fee_discussion/). Not saying that it’s easily solved, though there’s a place for similar services, like [Stake Tree](https://staketree.com/). So a potential organization with more than 1 creator can do a responsible crowdfunding. It can be a podcast, youtube show, book, research etc.
 
@@ -29,6 +29,4 @@ The fund initiator creates a payout rule e.g. $20k of value or 10% of ethereum c
 Also with a new app for Aragon, the fund can open up the crowdsale/exchange. The fund initiator setups an initial price and pricing model \(flat, gradual or different types of curved\).
 
 Investors can fund directly \(in case of ether\) or via some interface if other coins \(e.g. btc\). At any time they can exchange back with a rate setup by the bonding curve.
-
-## Dgov Foundation
 

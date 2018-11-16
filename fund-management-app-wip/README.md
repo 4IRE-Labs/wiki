@@ -12,7 +12,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">(Crypto) Startup founder</td>
+      <td style="text-align:left">Software project</td>
       <td style="text-align:left">Collect funds</td>
       <td style="text-align:left">
         <p><a href="https://coinlaunch.market/">https://coinlaunch.market/</a>
@@ -28,15 +28,20 @@
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">Network</td>
+      <td style="text-align:left">Collect funds</td>
+      <td style="text-align:left">Aragon?</td>
+    </tr>
+    <tr>
       <td style="text-align:left">??</td>
-      <td style="text-align:left">STO</td>
+      <td style="text-align:left">STO??</td>
       <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>## Key Features
 
-* Account management
-  * sign in with email, password reset, auto-logout
+* Storage management
+  * Sign in with email, password reset, auto-logout
   * 2FA
   * Multisig
 * Token generation
