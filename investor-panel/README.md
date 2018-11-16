@@ -108,18 +108,10 @@ Design: [https://www.figma.com/file/QpCtateVnPmMwN4yqj5RWS/Funder-Panel-v-1.1?no
 * Manage portfolio
   * Storage \(Multisig?\)
   * Withdrawal
-  * Curation Market
+  * [Curation Market](https://wiki.crowdfunding3.com/docs/investor-panel/curation-market-wip)
   * Accounting
   * Transaction history
-
-### Sign up
-
-1. User enters email
-2. User confirms email
-3. User logins with password sent to email
-4. User fills in the KYC form \(Onfido, Cynopsis\)
-5. User gets notification on the approval or rejext
-6. User can see the invest functionality
+  * Governance? \(e.g. liquidation\)
 
 ## Key Metrics & Channels
 
