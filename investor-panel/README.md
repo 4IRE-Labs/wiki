@@ -1,5 +1,7 @@
 # Backer Dashboard
 
+Design: [https://www.figma.com/file/QpCtateVnPmMwN4yqj5RWS/Funder-Panel-v-1.1?node-id=2690%3A2482](https://www.figma.com/file/QpCtateVnPmMwN4yqj5RWS/Funder-Panel-v-1.1?node-id=2690%3A2482)
+
 ### Problem / need
 
 Create max impact \(profits\) with the funds
