@@ -1,6 +1,6 @@
 # Fund Management App
 
-### Customer Segments
+## Customer Segments & Needs
 
 <table>
   <thead>
@@ -38,7 +38,7 @@
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>## Key Features
+</table>## Solution & Key Features
 
 * Storage management
   * Sign in with email, password reset, auto-logout
