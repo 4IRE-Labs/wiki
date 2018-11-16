@@ -85,7 +85,7 @@
 
 * [Manage account](https://wiki.crowdfunding3.com/docs/investor-panel/manage-account)
   * Storage \(Multisig?\)
-  * KYC compliance
+  * KYC compliance \(Onfido, Cynopsis\)
 * [Fund](https://wiki.crowdfunding3.com/docs/backer-dashboard/fund)
   * Discover
   * Calculate / Convert different currencies
@@ -97,6 +97,10 @@
   * Accounting
   * Transaction history
   * Governance? \(e.g. liquidation\)
+
+Usability: Multilingual, Mobile adaptive + PWA
+
+Security: Server monitoring and alerting, DDoS protection \(Cloudflare\)
 
 [Design on Figma](https://www.figma.com/file/QpCtateVnPmMwN4yqj5RWS/Funder-Panel-v-1.1?node-id=2690%3A2482)
 

@@ -6,7 +6,7 @@
   * [Fund](backer-dashboard/fund.md)
   * [Curation Market \(WIP\)](backer-dashboard/curation-market-wip.md)
   * [Implementation Handbook](backer-dashboard/implementation-handbook.md)
-* [Fund Management App \(WIP\)](fund-management-app-wip/README.md)
+* [Fund Management App](fund-management-app-wip/README.md)
   * [Admin Panel](fund-management-app-wip/admin-panel.md)
   * [Long-shot Ideas](fund-management-app-wip/long-shot-ideas.md)
   * [Instant Liquidation](fund-management-app-wip/possible-attacks.md)
