@@ -14,14 +14,12 @@
   <tbody>
     <tr>
       <td style="text-align:left">A</td>
-      <td style="text-align:left">
-        <p>Crypto Funds</p>
-        <p><a href="https://www.1confirmation.com/">1confirmation</a>,</p>
-      </td>
+      <td style="text-align:left">Crypto Funds (<a href="https://www.1confirmation.com/">1confirmation</a>,
+        <a
+        href="https://coinfund.io">coinfund.io</a>)</td>
       <td style="text-align:left">
         <p>Increase the return on investments?</p>
-        <p></p>
-        <p></p>
+        <p>Manage portfolio?</p>
       </td>
       <td style="text-align:left">Melonport?</td>
     </tr>
@@ -37,22 +35,20 @@
     </tr>
     <tr>
       <td style="text-align:left">A</td>
-      <td style="text-align:left">(Crypto) Community Backer</td>
-      <td style="text-align:left">
-        <p>Maximize Impact?</p>
-        <p></p>
-        <p></p>
-      </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Individual (Crypto) Community Backer</td>
+      <td style="text-align:left">Maximize Impact?</td>
+      <td style="text-align:left">Giveth, Bounty Platforms</td>
     </tr>
     <tr>
       <td style="text-align:left">A</td>
+      <td style="text-align:left">Ecosystem development funds (<a href="https://github.com/aragon/nest">Aragon Nest</a>,
+        <a
+        href="https://stable.fund/">Stable Fund</a>)</td>
       <td style="text-align:left">
-        <p>Ecosystem development funds</p>
-        <p><a href="https://github.com/aragon/nest">Aragon Nest</a>, <a href="https://stable.fund/">Stable Fund</a>,</p>
+        <p>Maximize impact?</p>
+        <p>Do accounting</p>
       </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">(Semi-) Manual</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -105,7 +101,7 @@ Design: [https://www.figma.com/file/QpCtateVnPmMwN4yqj5RWS/Funder-Panel-v-1.1?no
   * Get notification
 * Manage portfolio
   * Storage \(Multisig?\)
-  * Curation
+  * Curation Market
   * Accounting
   * Transaction history
 
