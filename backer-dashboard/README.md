@@ -58,38 +58,19 @@
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left">Impact investor</td>
-      <td style="text-align:left">
-        <p></p>
-        <p></p>
-        <p></p>
-      </td>
+      <td style="text-align:left">Individual impact investor (e.g. for specific cause)</td>
+      <td style="text-align:left">Maximize Impact?</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left">(crypto) Corp innovation funds</td>
+      <td style="text-align:left">(Crypto) Corp innovation funds (e.g. Banks, Supply chains)</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left">
-        <p>Impact fund</p>
-        <p>e.g. green energy</p>
-      </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Individual charity</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Corporate charity</td>
+      <td style="text-align:left">Institutional impact fund (e.g. for specific cause)</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
