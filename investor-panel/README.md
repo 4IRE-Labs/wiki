@@ -11,15 +11,23 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">ICO Investors</td>
+      <td style="text-align:left">Crypto Funds</td>
       <td style="text-align:left">
         <p>Increase the return on investments?</p>
         <p></p>
-        <p>Alternatives: KickICO?</p>
+        <p></p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Community Contributors</td>
+      <td style="text-align:left">Individual Crypto Investors</td>
+      <td style="text-align:left">
+        <p>Increase the return on investments?</p>
+        <p>
+          <br />Alternatives: KickICO?</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">(Crypto) Community Backer</td>
       <td style="text-align:left">
         <p>Maximize Impact?</p>
         <p></p>
