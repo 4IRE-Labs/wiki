@@ -1,12 +1,12 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [Backer Dashboard](investor-panel/README.md)
-  * [Manage account](investor-panel/manage-account.md)
-  * [Curation Market \(WIP\)](investor-panel/curation-market-wip.md)
-  * [Temp](investor-panel/temp/README.md)
-    * [Implementation Handbook](investor-panel/temp/implementation-handbook.md)
-    * [Users FAQ](investor-panel/temp/users-faq.md)
+* [Backer Dashboard](backer-dashboard/README.md)
+  * [Manage account](backer-dashboard/manage-account.md)
+  * [Curation Market \(WIP\)](backer-dashboard/curation-market-wip.md)
+  * [Temp](backer-dashboard/temp/README.md)
+    * [Implementation Handbook](backer-dashboard/temp/implementation-handbook.md)
+    * [Users FAQ](backer-dashboard/temp/users-faq.md)
 * [Fund Management App \(WIP\)](fund-management-app-wip/README.md)
   * [Admin Panel](fund-management-app-wip/admin-panel.md)
   * [Long-shot Ideas](fund-management-app-wip/long-shot-ideas.md)
