@@ -100,11 +100,11 @@ Design: [https://www.figma.com/file/QpCtateVnPmMwN4yqj5RWS/Funder-Panel-v-1.1?no
 
 * [Manage account](https://wiki.crowdfunding3.com/docs/investor-panel/manage-account)
   * KYC compliance
-* Fund
+* [Fund](https://wiki.crowdfunding3.com/docs/backer-dashboard/fund)
   * Discover
   * Calculate / Convert different currencies
   * Send funds
-  * Get notification
+  * Get notification on transaction status
 * Manage portfolio
   * Storage \(Multisig?\)
   * Withdrawal
