@@ -58,6 +58,12 @@
     </tr>
     <tr>
       <td style="text-align:left"></td>
+      <td style="text-align:left">Institutional investor</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
       <td style="text-align:left">Individual impact investor (e.g. for specific cause)</td>
       <td style="text-align:left">Maximize Impact?</td>
       <td style="text-align:left"></td>
@@ -78,6 +84,7 @@
 </table>## Solution / Key Features
 
 * [Manage account](https://wiki.crowdfunding3.com/docs/investor-panel/manage-account)
+  * Storage \(Multisig?\)
   * KYC compliance
 * [Fund](https://wiki.crowdfunding3.com/docs/backer-dashboard/fund)
   * Discover
@@ -85,7 +92,6 @@
   * Send funds
   * Get notification on transaction status
 * Manage portfolio
-  * Storage \(Multisig?\)
   * Withdrawal
   * [Curation Market](https://wiki.crowdfunding3.com/docs/investor-panel/curation-market-wip)
   * Accounting
