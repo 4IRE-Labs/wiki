@@ -3,7 +3,7 @@
 * [Welcome!](README.md)
 * [Backer Dashboard](backer-dashboard/README.md)
   * [Manage account](backer-dashboard/manage-account.md)
-  * [Fund](backer-dashboard/users-faq.md)
+  * [Fund](backer-dashboard/fund.md)
   * [Curation Market \(WIP\)](backer-dashboard/curation-market-wip.md)
   * [Implementation Handbook](backer-dashboard/implementation-handbook.md)
 * [Fund Management App \(WIP\)](fund-management-app-wip/README.md)
