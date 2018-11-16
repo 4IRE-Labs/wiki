@@ -77,8 +77,6 @@
   </tbody>
 </table>## Solution / Key Features
 
-Design: [https://www.figma.com/file/QpCtateVnPmMwN4yqj5RWS/Funder-Panel-v-1.1?node-id=2690%3A2482](https://www.figma.com/file/QpCtateVnPmMwN4yqj5RWS/Funder-Panel-v-1.1?node-id=2690%3A2482)
-
 * [Manage account](https://wiki.crowdfunding3.com/docs/investor-panel/manage-account)
   * KYC compliance
 * [Fund](https://wiki.crowdfunding3.com/docs/backer-dashboard/fund)
@@ -93,6 +91,8 @@ Design: [https://www.figma.com/file/QpCtateVnPmMwN4yqj5RWS/Funder-Panel-v-1.1?no
   * Accounting
   * Transaction history
   * Governance? \(e.g. liquidation\)
+
+[Design on Figma](https://www.figma.com/file/QpCtateVnPmMwN4yqj5RWS/Funder-Panel-v-1.1?node-id=2690%3A2482)
 
 ## Key Metrics & Channels
 
