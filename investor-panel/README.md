@@ -11,7 +11,10 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Crypto Funds</td>
+      <td style="text-align:left">
+        <p>Crypto Funds</p>
+        <p><a href="https://www.1confirmation.com/">1confirmation</a>,</p>
+      </td>
       <td style="text-align:left">
         <p>Increase the return on investments?</p>
         <p></p>
@@ -21,7 +24,9 @@
     <tr>
       <td style="text-align:left">Individual Crypto Investors</td>
       <td style="text-align:left">
-        <p>Increase the return on investments?</p>
+        <p>Increase the return on investments?
+          <br />Filter out scam?</p>
+        <p>Ease up the process of investment? min. barriers.</p>
         <p>
           <br />Alternatives: KickICO?</p>
       </td>
@@ -35,12 +40,35 @@
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">
+        <p>Corp innovation funds</p>
+        <p></p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>Ecosystem development funds</p>
+        <p><a href="https://github.com/aragon/nest">Aragon Nest</a>, <a href="https://stable.fund/">Stable Fund</a>,</p>
+        <p></p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">Impact investors</td>
       <td style="text-align:left">
         <p></p>
         <p></p>
         <p></p>
       </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Individual charity</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Corporate charity</td>
+      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>## Solution / Key Features
