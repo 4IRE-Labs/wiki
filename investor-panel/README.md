@@ -106,7 +106,7 @@ Design: [https://www.figma.com/file/QpCtateVnPmMwN4yqj5RWS/Funder-Panel-v-1.1?no
 * Leads Transaction volume
 * Investor number
 
-
+### Channels
 
 * Partners
 * SoMe 
