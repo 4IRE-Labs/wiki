@@ -1,4 +1,4 @@
-# Admin Panel
+# Reporting
 
 ## **User Management**
 
