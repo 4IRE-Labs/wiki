@@ -46,12 +46,6 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Corp innovation funds</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
       <td style="text-align:left">A</td>
       <td style="text-align:left">
         <p>Ecosystem development funds</p>
@@ -72,6 +66,12 @@
     </tr>
     <tr>
       <td style="text-align:left"></td>
+      <td style="text-align:left">(crypto) Corp innovation funds</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
       <td style="text-align:left">
         <p>Impact fund</p>
         <p>e.g. green energy</p>
@@ -80,7 +80,7 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">A</td>
+      <td style="text-align:left"></td>
       <td style="text-align:left">Individual charity</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
