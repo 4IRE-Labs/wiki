@@ -2,9 +2,8 @@
 
 * [Welcome!](README.md)
 * [Backer Dashboard](investor-panel/README.md)
-  * [Features](investor-panel/features/README.md)
-    * [Curation Market \(WIP\)](investor-panel/features/curation-market-wip.md)
-    * [Instant Liquidation](investor-panel/features/possible-attacks.md)
+  * [Curation Market \(WIP\)](investor-panel/curation-market-wip.md)
+  * [Instant Liquidation](investor-panel/possible-attacks.md)
   * [Temp](investor-panel/temp/README.md)
     * [Implementation Handbook](investor-panel/temp/implementation-handbook.md)
     * [Users FAQ](investor-panel/temp/users-faq.md)

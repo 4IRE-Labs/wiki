@@ -37,7 +37,7 @@
       <td style="text-align:left">A</td>
       <td style="text-align:left">Individual (Crypto) Community Backer</td>
       <td style="text-align:left">Maximize Impact?</td>
-      <td style="text-align:left">Giveth, Bounty Platforms</td>
+      <td style="text-align:left">Giveth</td>
     </tr>
     <tr>
       <td style="text-align:left">A</td>
@@ -49,6 +49,12 @@
         <p>Do accounting</p>
       </td>
       <td style="text-align:left">(Semi-) Manual</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Work contributor</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Bounty Platforms</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -101,9 +107,19 @@ Design: [https://www.figma.com/file/QpCtateVnPmMwN4yqj5RWS/Funder-Panel-v-1.1?no
   * Get notification
 * Manage portfolio
   * Storage \(Multisig?\)
+  * Withdrawal
   * Curation Market
   * Accounting
   * Transaction history
+
+### Sign up
+
+1. User enters email
+2. User confirms email
+3. User logins with password sent to email
+4. User fills in the KYC form \(Onfido, Cynopsis\)
+5. User gets notification on the approval or rejext
+6. User can see the invest functionality
 
 ## Key Metrics & Channels
 
