@@ -8,6 +8,7 @@
       <th style="text-align:left">Prio</th>
       <th style="text-align:left">Segment</th>
       <th style="text-align:left">Need</th>
+      <th style="text-align:left">Alternatives</th>
     </tr>
   </thead>
   <tbody>
@@ -22,6 +23,7 @@
         <p></p>
         <p></p>
       </td>
+      <td style="text-align:left">Melonport?</td>
     </tr>
     <tr>
       <td style="text-align:left">A</td>
@@ -30,9 +32,8 @@
         <p>Increase the return on investments?
           <br />Filter out scam?</p>
         <p>Ease up the process of investment? min. barriers.</p>
-        <p>
-          <br />Alternatives: KickICO?</p>
       </td>
+      <td style="text-align:left">KickICO</td>
     </tr>
     <tr>
       <td style="text-align:left">A</td>
@@ -42,10 +43,12 @@
         <p></p>
         <p></p>
       </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">Corp innovation funds</td>
+      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -54,6 +57,7 @@
         <p>Ecosystem development funds</p>
         <p><a href="https://github.com/aragon/nest">Aragon Nest</a>, <a href="https://stable.fund/">Stable Fund</a>,</p>
       </td>
+      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -64,6 +68,7 @@
         <p></p>
         <p></p>
       </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -72,15 +77,18 @@
         <p>e.g. green energy</p>
       </td>
       <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">A</td>
       <td style="text-align:left">Individual charity</td>
       <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">Corporate charity</td>
+      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
   </tbody>
