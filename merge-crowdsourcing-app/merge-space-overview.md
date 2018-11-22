@@ -1,4 +1,4 @@
-# Merge Overview
+# Merging.Space Overview
 
 ## Problems <a id="MergeSpaceOverview-Problems"></a>
 
@@ -32,7 +32,7 @@ In the best case answer can be: "As much as a room admits"
 
 TODO
 
-## Solution Tomorrow \| Merge <a id="MergeSpaceOverview-SolutionTomorrow|HiveMerge"></a>
+## Solution Tomorrow \| Merging.Space <a id="MergeSpaceOverview-SolutionTomorrow|HiveMerge"></a>
 
 ### How it works? <a id="MergeSpaceOverview-Howitworks?"></a>
 

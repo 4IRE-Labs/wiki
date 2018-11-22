@@ -1,11 +1,11 @@
-# Merge – crowdsourcing app
+# Merging.Space – crowdsourcing app
 
 ## Customer Segments & Needs
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Segment</th>
+      <th style="text-align:left">Customer Segment</th>
       <th style="text-align:left">Need</th>
       <th style="text-align:left">Alternative</th>
     </tr>
@@ -13,82 +13,83 @@
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p>Founders</p>
-        <p></p>
-        <p>команди, які хочуть втілити опенсорс ідеї, але не мають коштів для дорогих
-          dev розробників (стартапи).</p>
         <ul>
-          <li>гранти</li>
+          <li>Founders</li>
+          <li>Startups</li>
+          <li>Grants</li>
         </ul>
       </td>
-      <td style="text-align:left">Можливість розробки продукту при відсутності фінансування.</td>
+      <td style="text-align:left">Ability developing a product without money</td>
       <td style="text-align:left">
         <ul>
-          <li>Інкубатори</li>
-          <li>Портали з фрілансерами?</li>
+          <li>Incubators</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">
         <ul>
-          <li>прогери, які мають достатній прибуток, але які хочуть зробити свій внесок
-            в опенсорс</li>
-          <li>дизайнери</li>
-          <li>QA</li>
+          <li>developers with stable salary</li>
+          <li>designers</li>
+          <li>QA?</li>
         </ul>
-      </td>
-      <td style="text-align:left">
-        <p>Знаходження проекту, який був би цікавий розробнику</p>
-        <p>Можливість стати інвестором без вкладення фінансів</p>
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Простори GitHub</li>
+          <li>Taking a part to a project wich will be interested for executor</li>
+          <li>Ability become an investor without investing real money</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>GitHub</li>
         </ul>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
-</table>Потребує: Метод глубинного інтерв'ювера
+</table>## Solution & Key Features <a id="MergeSpace-Solution&amp;KeyFeatures"></a>
 
-## Solution & Key Features <a id="MergeSpace-Solution&amp;KeyFeatures"></a>
+The solition is the SaaS platform where ideas holder can describe a project and tasks which must be done to launch or improve the startup. On the other hand, executors can do investments by doing the tasks. The main purpose that investors make investments not by funds but by their engagement in the project by doing the tasks.
 
-Проблема вирішується за допомогою агрегатора проектів, які потребують розробників ПО. Відрізняється проект від існуючих систем тим, що ти можеш інвестувати не фінансами, а зробленими задачами.
-
-* Контрібутор має можливість стати інвестором продукту без фінансових вкладень
-* Носій ідеї може легко і без фінансів стартувати розробку проекту
-* Прозорий підрахунок інвестування в проект
+* Executor can become investor of the project without investing funds 
+* Idea holdec can easy start developing the project without money
+* Transparant calculation the size of ownership
 
 ## Channels & Metrics <a id="MergeSpace-Channels&amp;Metrics"></a>
 
-Канали:
+Chanels:
 
-* Піар через носіїв ідей, опис їх продуктів на блогах, соцмережах
-* Сарафанне радіо
-* Реклама у соц мережах
+* Describing projects on blogs / networks by idea holders
+* Peer to peer
+* Advertision on social networks
 
-Не риночна конкретна перевага: Єдиноріг в даній сфері?
+**Unfair advantage**: Unique model of investment to the projects
 
- Метрики:
+ Metrics:
 
-* Кількість проектів на платформі
-* Кількість виконавців
-* Кількість зроблених задач
+* Amount of projects
+* Amount of executors
+* Amount of finished tasks
 
 ## Financials <a id="MergeSpace-Financials"></a>
 
-**Структура затрат**
+**Cost Structure**
 
-* Затрати на інфраструктуру
-* Затрати на продукт менеджера
-* Затрати на дизайнера
-* Затрати на дев команду
-* Затрати на маркетинг
+* Infrastructure
+* Product Manager salary
+* Designer
+* Developer team
+* Marketing
 
-**Потокі виручки**
+**Revenue Streams**
 
-* інвестиції
-* розміщення реклами своїх проектів
-* зняття лімітів на кількість поданих проектів.
-* email marketing \(weekly mailing about interesting projects\)
+* investments
+* % by incoming fungs per project
+* unlock some limitations.
+* email marketing \(be at the top of weekly mailing about interesting projects\)
 
