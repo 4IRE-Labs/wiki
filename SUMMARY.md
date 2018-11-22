@@ -19,6 +19,8 @@
     * [Promo Page Integration](fund-management-app-wip/temp/promo-page-integration.md)
 * [Community Engagement App \(Motiv8\)](community-engagement-app-motiv8/README.md)
   * [Investor Relations \(BZNTM\)](community-engagement-app-motiv8/investor-relations-bzntm.md)
+* [Merge – crowdsourcing app](merge-crowdsourcing-app/README.md)
+  * [Merge Space Overview](merge-crowdsourcing-app/merge-space-overview.md)
 * [Research](research/README.md)
   * [Crowdfunding Services](research/crowdfunding-services.md)
   * [Crowdfunding Marketing Providers](research/crowdfunding-marketing-providers.md)
