@@ -14,19 +14,19 @@
   <tbody>
     <tr>
       <td style="text-align:left">A</td>
-      <td style="text-align:left">Individual Crypto Investors</td>
+      <td style="text-align:left">Individual Crypto Investors (Angels?)</td>
       <td style="text-align:left">
         <p>Increase the return on investments?
           <br />Filter out scam?</p>
-        <p>Ease up the process of investment? min. barriers.</p>
+        <p>Improve liquidity</p>
       </td>
-      <td style="text-align:left">KickICO</td>
+      <td style="text-align:left">KickICO, Angel list</td>
     </tr>
     <tr>
       <td style="text-align:left">A</td>
       <td style="text-align:left">Individual (Crypto) Community Backer</td>
       <td style="text-align:left">Maximize Impact?</td>
-      <td style="text-align:left">Giveth</td>
+      <td style="text-align:left">Giveth, StakeTree</td>
     </tr>
     <tr>
       <td style="text-align:left">A</td>
@@ -83,10 +83,9 @@
 * 
 ## Solution & Key Features
 
-Platform / Wallet for investments
+Platform / Wallet for investments with the Continuous Token Model
 
 * [Manage account](https://wiki.crowdfunding3.com/docs/investor-panel/manage-account)
-  * Storage \(Multisig?\)
   * KYC compliance \(Onfido, Cynopsis\)
 * [Fund](https://wiki.crowdfunding3.com/docs/backer-dashboard/fund)
   * Discover
@@ -109,7 +108,8 @@ Security: Server monitoring and alerting, DDoS protection \(Cloudflare\)
 
 
 [https://peepeth.com/a/crowdfunding](https://peepeth.com/a/crowdfunding)  
-maybe Aragon fund can double the people allocation
+maybe Aragon fund can double the people allocation  
+Fund with altcoins
 
 ## Key Metrics & Channels
 
