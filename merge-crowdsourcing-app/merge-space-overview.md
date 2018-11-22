@@ -36,16 +36,16 @@ TODO
 
 ### How it works? <a id="MergeSpaceOverview-Howitworks?"></a>
 
-Nowadays, it is very convenient to use online SaaS solutions. Such applications are often updated more frequently than traditional software cause they are hosted centrally and no any blockers to do that.
+Nowadays, it is very convenient to use online SaaS solutions. Such applications are often updated more frequently than traditional software cause they are hosted centrally and no any blockers to prevent improving the platform.
 
 There are 2 types of users for this platform.
 
 * Idea holders. It can be a one person or whole team. 
 * Executer. The person who will commit the tasks.
 
-On the platform users can create projects. To get involved more and more executers, founders provide information about the idea in any convenient way: description / images / video review / links to prototypes and so on.
+On the platform users can create projects. Describe the main idea of the startup and fill backlog with tasks to achive that. To get involved more and more executers, founders provide information about the idea, purpose, existing team in any convenient way: description / images / video review / links to prototypes and so on.
 
-Every executer can select the project that is interesting for him. 
+Every executer can select the project that is most attractive for him. More over, everybody implement the task that they want to do.
 
 ### Improvement P2P Economy <a id="MergeSpaceOverview-ImprovementP2PEconomy"></a>
 
