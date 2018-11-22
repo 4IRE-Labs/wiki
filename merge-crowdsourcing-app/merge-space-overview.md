@@ -1,4 +1,4 @@
-# Merge Space Overview
+# Merge Overview
 
 ## Problems <a id="MergeSpaceOverview-Problems"></a>
 
@@ -28,7 +28,7 @@ How many angel investors can look at the developed work at the pitching day?
 
 In the best case answer can be: "As much as a room admits"
 
-## Solution Tomorrow \| HiveMerge <a id="MergeSpaceOverview-SolutionTomorrow|HiveMerge"></a>
+## Solution Tomorrow \| Merge <a id="MergeSpaceOverview-SolutionTomorrow|HiveMerge"></a>
 
 ### How it works? <a id="MergeSpaceOverview-Howitworks?"></a>
 
