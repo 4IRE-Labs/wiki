@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Crowdfunding 3.0 Thesis](README.md)
 * [Backer Dashboard](backer-dashboard/README.md)
   * [Manage account](backer-dashboard/manage-account.md)
   * [Fund](backer-dashboard/fund.md)
