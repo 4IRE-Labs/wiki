@@ -1,4 +1,4 @@
-# Merge Space Overview
+# Merge Overview
 
 ## Problems <a id="MergeSpaceOverview-Problems"></a>
 

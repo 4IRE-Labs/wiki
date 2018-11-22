@@ -14,8 +14,6 @@
 
 chat tech for community engagement / also crypto purchase – e.g. site embeded or telegram
 
-[https://peepeth.com/a/crowdfunding](https://peepeth.com/a/crowdfunding)
-
 ## Key Metrics
 
 

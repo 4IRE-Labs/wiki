@@ -14,17 +14,6 @@
   <tbody>
     <tr>
       <td style="text-align:left">A</td>
-      <td style="text-align:left">Crypto Funds (<a href="https://www.1confirmation.com/">1confirmation</a>,
-        <a
-        href="https://coinfund.io">coinfund.io</a>)</td>
-      <td style="text-align:left">
-        <p>Increase the return on investments?</p>
-        <p>Manage portfolio?</p>
-      </td>
-      <td style="text-align:left">Melonport?</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">A</td>
       <td style="text-align:left">Individual Crypto Investors</td>
       <td style="text-align:left">
         <p>Increase the return on investments?
@@ -51,10 +40,15 @@
       <td style="text-align:left">(Semi-) Manual</td>
     </tr>
     <tr>
-      <td style="text-align:left">A</td>
-      <td style="text-align:left">Work contributor</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left">Bounty Platforms</td>
+      <td style="text-align:left">Crypto Funds (<a href="https://www.1confirmation.com/">1confirmation</a>,
+        <a
+        href="https://coinfund.io">coinfund.io</a>)</td>
+      <td style="text-align:left">
+        <p>Increase the return on investments?</p>
+        <p>Manage portfolio?</p>
+      </td>
+      <td style="text-align:left">Melonport?</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -111,6 +105,11 @@ Usability: Multilingual, Mobile adaptive + PWA
 Security: Server monitoring and alerting, DDoS protection \(Cloudflare\)
 
 [Design on Figma](https://www.figma.com/file/QpCtateVnPmMwN4yqj5RWS/Funder-Panel-v-1.1?node-id=2690%3A2482)
+
+
+
+[https://peepeth.com/a/crowdfunding](https://peepeth.com/a/crowdfunding)  
+maybe Aragon fund can double the people allocation
 
 ## Key Metrics & Channels
 
