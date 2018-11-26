@@ -75,13 +75,7 @@
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>
-
-### Examples:
-
-* [https://opencollective.com/discover](https://opencollective.com/discover)
-* 
-## Solution & Key Features
+</table>## Solution & Key Features
 
 Platform / Wallet for investments with the Continuous Token Model
 
