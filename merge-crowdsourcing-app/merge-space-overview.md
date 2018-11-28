@@ -45,7 +45,12 @@ There are 2 types of consumers on this platform.
 
 On the platform users can create projects. Describe the main idea of their startups and fill backlog with tasks. To get involved more and more executers, founders provide information about the idea, the purpose, describe milestones and introduce existing team in any convenient way: text description, photo and video materials, links to prototypes and so on.
 
-Executors can view dashboard \(jira-like\) of a project and do tasks that is most attractive for him. There are a lot of advantages of such approach. First of all, is displaying the real state of the tasks and whole project. What tasks are in the process, who do it, when it was started and full discussion inside the task. Another one is about transparency of calculating the percentage of owning a project. After finishing a task, executor moves task from "In progress" column to "In QA review" \(if the task is programming, the executor must create pull request\). The act of accepting implemented task will be merging the pull request, so the system will automatically recalculate percentage of project ownership.
+Executors can view dashboard \(jira-like\) of a project and do tasks that is most attractive for them. There are a lot of advantages of such approach. First of all, it is displaying the real state of the project tasks and the project at all. Everybody can monitors what tasks are in process, who does / did it, when it was started and full discussion inside the task. Another one is about transparency of calculating the percentage of owning a project. After finishing a task, executor moves task from "In progress" column to "In QA review". 
+
+* If the task is programming, the developer must create pull request, so the act of accepting implemented task \(moving task to "done" column\) will be merging the pull request to the dev branch.
+* If the task is design / research etc, the act of accepting task will be moving task to "done" column by any of existing team menber.
+
+So the system will automatically recalculate percentage of project ownership after the task will be moved from "in progress" to "done".  It brings more transparency to all processes so increase trust projects which listed on the platform.
 
 ### Improvement P2P Economy <a id="MergeSpaceOverview-ImprovementP2PEconomy"></a>
 
