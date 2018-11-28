@@ -50,7 +50,7 @@ Executors can view dashboard \(jira-like\) of a project and do tasks that is mos
 * If the task is programming, the developer must create pull request, so the act of accepting implemented task \(moving task to "done" column\) will be merging the pull request to the dev branch.
 * If the task is design / research etc, the act of accepting task will be moving task to "done" column by any of existing team menber.
 
-So the system will automatically recalculate percentage of project ownership after the task will be moved from "in progress" to "done".  It brings more transparency to all processes so increase trust projects which listed on the platform.
+So the system will automatically recalculate percentage of project ownership after the task will be moved from "in progress" to "done".  It brings more transparency to all processes therefore increase trust to projects which listed on the Merging.Space platform.
 
 ### Improvement P2P Economy <a id="MergeSpaceOverview-ImprovementP2PEconomy"></a>
 
