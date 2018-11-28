@@ -38,14 +38,14 @@ TODO
 
 Nowadays, it is very convenient to use online SaaS solutions. Such applications are often updated more frequently than traditional software cause they are hosted centrally and no any blockers to prevent improving the platform.
 
-There are 2 types of users for this platform.
+There are 2 types of consumers on this platform.
 
-* Idea holders. It can be a one person or whole team. 
-* Executer. The person who will commit the tasks.
+* Idea holders. It can be a one person or a whole team. 
+* Executer. The person who will commit finished tasks.
 
-On the platform users can create projects. Describe the main idea of the startup and fill backlog with tasks to achive that. To get involved more and more executers, founders provide information about the idea, purpose, existing team in any convenient way: description / images / video review / links to prototypes and so on.
+On the platform users can create projects. Describe the main idea of their startups and fill backlog with tasks. To get involved more and more executers, founders provide information about the idea, the purpose, describe milestones and introduce existing team in any convenient way: text description, photo and video materials, links to prototypes and so on.
 
-Every executer can select the project that is most attractive for him. More over, everybody implement the task that they want to do.
+Executors can view dashboard \(jira-like\) of a project and do tasks that is most attractive for him. There are a lot of advantages of such approach. First of all, is displaying the real state of the tasks and whole project. What tasks are in the process, who do it, when it was started and full discussion inside the task. Another one is about transparency of calculating the percentage of owning a project. After finishing a task, executor moves task from "In progress" column to "In QA review" \(if the task is programming, the executor must create pull request\). The act of accepting implemented task will be merging the pull request, so the system will automatically recalculate percentage of project ownership.
 
 ### Improvement P2P Economy <a id="MergeSpaceOverview-ImprovementP2PEconomy"></a>
 
