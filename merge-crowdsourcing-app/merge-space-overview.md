@@ -44,7 +44,7 @@ There are 3 types of consumers on this platform.
 * Executer. The person who will commit finished tasks.
 * Investors
 
-![Diagram of ownership a project](../.gitbook/assets/untitled-diagram.svg)
+![](../.gitbook/assets/ownership_project.svg)
 
 On the platform users can create projects. Describe the main idea of their startups and fill backlog with tasks. To get involved more and more executers, founders provide information about the idea, the purpose, describe milestones and introduce existing team in any convenient way: text description, photo and video materials, links to prototypes and so on.
 
