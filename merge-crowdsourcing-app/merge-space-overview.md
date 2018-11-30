@@ -55,6 +55,18 @@ Executors can view dashboard \(jira-like\) of a project and do tasks that is mos
 
 So the system will automatically recalculate percentage of project ownership after the task will be moved from "in progress" to "done".  It brings more transparency to all processes therefore increase trust to projects which listed on the Merging.Space platform.
 
+### Monetization model <a id="MergeSpaceOverview-Howitworks?"></a>
+
+* Receive % by incoming funds to a project as investition or grant
+* Unlock some limitations \(Ability creating 2+ private projects\).
+* Email marketing \(be at the top of weekly mailing about interesting projects\)
+
+
+
+
+
+
+
 ### Improvement P2P Economy <a id="MergeSpaceOverview-ImprovementP2PEconomy"></a>
 
 TODO

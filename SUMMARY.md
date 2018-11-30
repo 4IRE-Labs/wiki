@@ -24,4 +24,5 @@
 * [Research](research/README.md)
   * [Crowdfunding Services](research/crowdfunding-services.md)
   * [Crowdfunding Marketing Providers](research/crowdfunding-marketing-providers.md)
+  * [Blockchain incubators](research/blockchain-incubators.md)
 
