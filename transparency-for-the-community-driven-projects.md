@@ -21,8 +21,7 @@ A community can be a prime source of funding, adoption, advocacy etc. Building t
 
 ### How you do that: Tips & Examples
 
-Things you can make transparent:  
-
+Things you can make transparent:
 
 * Strategy: vision, goals & metrics, priorities
 * Org structure: roles, position, appointments, access \(chat/contacts\)

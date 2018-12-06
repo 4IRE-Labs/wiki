@@ -97,7 +97,7 @@ Usability: Multilingual, Mobile adaptive + PWA
 
 Security: Server monitoring and alerting, DDoS protection \(Cloudflare\)
 
-[Design on Figma](https://www.figma.com/file/QpCtateVnPmMwN4yqj5RWS/Funder-Panel-v-1.1?node-id=2690%3A2482)
+[Design on Figma](https://www.figma.com/file/CQCJb0uoSTjhKjmukbMP1q/ICON-0.22?node-id=0%3A1)
 
 
 
