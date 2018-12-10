@@ -12,47 +12,26 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">
-        <ul>
-          <li>Founders</li>
-          <li>Startups</li>
-          <li>Grants</li>
-        </ul>
-      </td>
+      <td style="text-align:left">Startup Founders</td>
       <td style="text-align:left">Ability developing a product without money</td>
-      <td style="text-align:left">
-        <ul>
-          <li>Incubators</li>
-        </ul>
-      </td>
+      <td style="text-align:left">Incubators</td>
     </tr>
     <tr>
+      <td style="text-align:left">Specialists</td>
       <td style="text-align:left">
-        <ul>
-          <li>developers with stable salary</li>
-          <li>designers</li>
-          <li>QA?</li>
-        </ul>
+        <p>Taking a part to a project wich will be interested for executor</p>
+        <p>Ability become an investor without investing real money</p>
       </td>
-      <td style="text-align:left">
-        <ul>
-          <li>Taking a part to a project wich will be interested for executor</li>
-          <li>Ability become an investor without investing real money</li>
-        </ul>
-      </td>
-      <td style="text-align:left">
-        <ul>
-          <li>GitHub</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">GitHub</td>
     </tr>
   </tbody>
-</table>## Solution & Key Features <a id="MergeSpace-Solution&amp;KeyFeatures"></a>
+</table>Use cases:
+
+* [The Open Coop Governance Model in Guerrilla Translation: an Overview](https://wiki.guerrillamediacollective.org/index.php/The_Open_Coop_Governance_Model_in_Guerrilla_Translation:_an_Overview)
+* [How RewardDAO Works \(aka What Are Points??\)](https://medium.com/giveth/how-rewarddao-works-aka-what-are-points-7388f70269a) + [app itself](https://fame.giveth.io/month/11_2018)
+* [https://gitcoin.co/kudos/marketplace/?order\_by=-price\_finney](https://gitcoin.co/kudos/marketplace/?order_by=-price_finney)
+
+## Solution & Key Features <a id="MergeSpace-Solution&amp;KeyFeatures"></a>
 
 The solition is the SaaS platform where ideas holder can describe a project and tasks which must be done to launch or improve the startup. On the other hand, executors can do investments by doing the tasks. The main purpose that investors make investments not by funds but by their engagement in the project by doing the tasks.
 
@@ -62,7 +41,7 @@ The solition is the SaaS platform where ideas holder can describe a project and 
 
 ## Channels & Metrics <a id="MergeSpace-Channels&amp;Metrics"></a>
 
-Chanels:
+**Channels:**
 
 * Describing projects on blogs / networks by idea holders
 * Peer to peer
@@ -70,7 +49,7 @@ Chanels:
 
 **Unfair advantage**: Unique model of investment to the projects
 
- Metrics:
+**Metrics:**
 
 * Amount of projects
 * Amount of executors

@@ -17,7 +17,7 @@
 * [Community Engagement App \(Motiv8\)](community-engagement-app-motiv8/README.md)
   * [Investor Relations \(BZNTM\)](community-engagement-app-motiv8/investor-relations-bzntm.md)
 * [Merging.Space – crowdsourcing app](merge-crowdsourcing-app/README.md)
-  * [Tasks to strat](merge-crowdsourcing-app/plan.md)
+  * [Tasks to start](merge-crowdsourcing-app/plan.md)
   * [Merging.Space Overview](merge-crowdsourcing-app/merge-space-overview.md)
 * [Research](research/README.md)
   * [Crowdfunding Services](research/crowdfunding-services.md)
