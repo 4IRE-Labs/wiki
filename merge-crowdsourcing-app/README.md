@@ -20,6 +20,7 @@ The solition is the SaaS platform where ideas holder can describe a project and 
 * Executor can become investor of the project without investing funds 
 * Idea holder can easy start developing the project without money
 * Transparent calculation the size of ownership
+* Ease of use
 
 ### Challenges
 
