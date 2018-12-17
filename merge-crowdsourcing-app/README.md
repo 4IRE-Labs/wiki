@@ -4,7 +4,7 @@
 
 | Customer Segment | Need | Alternative |
 | :--- | :--- | :--- |
-| Founders low on cash | Compensate specialists with the equity | Excel, docs + GitCoin, Bounty networks |
+| Founders low on cash | Compensate specialists with the equity | Excel, docs + GitCoin, Bounty networks, [ethkan.io](https://www.ethkan.io/) |
 | Specialists | Invest in the interesting projects with work | GitCoin, Bounty networks |
 
 ### Use cases
