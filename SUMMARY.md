@@ -14,8 +14,6 @@
   * [Product FAQ](fund-management-app-wip/faq.md)
   * [Promo Page Integration](fund-management-app-wip/promo-page-integration.md)
 * [Transparency for the Community-Driven Projects](transparency-for-the-community-driven-projects.md)
-* [Community Engagement App \(Motiv8\)](community-engagement-app-motiv8/README.md)
-  * [Investor Relations \(BZNTM\)](community-engagement-app-motiv8/investor-relations-bzntm.md)
 * [Merging.Space – crowdsourcing app](merge-crowdsourcing-app/README.md)
   * [Tasks to start](merge-crowdsourcing-app/plan.md)
   * [Merging.Space Overview](merge-crowdsourcing-app/merge-space-overview.md)
