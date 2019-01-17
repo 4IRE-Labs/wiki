@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Crowdfunding 3.0 Thesis](README.md)
+* [DeFi Labs Thesis](README.md)
 * [Backer Dashboard](backer-dashboard/README.md)
   * [Manage account](backer-dashboard/manage-account.md)
   * [Fund](backer-dashboard/fund.md)
@@ -19,8 +19,12 @@
 * [Merging.Space – crowdsourcing app](merge-crowdsourcing-app/README.md)
   * [Tasks to start](merge-crowdsourcing-app/plan.md)
   * [Merging.Space Overview](merge-crowdsourcing-app/merge-space-overview.md)
-* [Research](research/README.md)
-  * [Crowdfunding Services](research/crowdfunding-services.md)
-  * [Crowdfunding Marketing Providers](research/crowdfunding-marketing-providers.md)
-  * [Blockchain incubators](research/blockchain-incubators.md)
+* [SAFU Scoring](safu-scoring.md)
+
+## MISC
+
+* [Blockchain incubators](misc/blockchain-incubators.md)
+* [Research](misc/research/README.md)
+  * [Crowdfunding Services](misc/research/crowdfunding-services.md)
+  * [Crowdfunding Marketing Providers](misc/research/crowdfunding-marketing-providers.md)
 
