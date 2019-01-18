@@ -24,4 +24,5 @@
 * [Research](misc/research/README.md)
   * [Crowdfunding Services](misc/research/crowdfunding-services.md)
   * [Crowdfunding Marketing Providers](misc/research/crowdfunding-marketing-providers.md)
+* [Hackathons](misc/hackathons.md)
 
