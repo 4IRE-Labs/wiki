@@ -7,6 +7,8 @@ The primary pitfalls of centralized financial services include:
 * Counterparty Risk
 * Opacity/Lack of Transparency
 
+There are now companies building out a stack of financial primitives — the basic building blocks of a financial system. While these tools are in very early stages, it is possible today to use Ethereum-based protocols to take out loans, to lend money and earn a return, to buy bundles of assets, to hedge your risk, to trade assets trustlessly, and to make payments for zero fees
+
 ### Product Hypothesis
 
 * [Backer Dashboard](https://wiki.crowdfunding3.com/docs/backer-dashboard)
