@@ -17,5 +17,7 @@ There are now companies building out a stack of financial primitives — the
 * [Crowdsourcing app](https://wiki.crowdfunding3.com/docs/merge-crowdsourcing-app)
 * [SAFU Scoring](https://wiki.crowdfunding3.com/docs/safu-scoring)
 
+![](.gitbook/assets/image%20%2836%29.png)
+
 More on [https://crowdfunding3.com/](https://crowdfunding3.com/)
 
