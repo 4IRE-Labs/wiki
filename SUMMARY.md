@@ -11,7 +11,6 @@
   * [Reporting](fund-management-app-wip/admin-panel.md)
   * [Long-shot Ideas](fund-management-app-wip/long-shot-ideas.md)
   * [Support Service-Level Agreement](fund-management-app-wip/support-terms.md)
-  * [Product FAQ](fund-management-app-wip/faq.md)
   * [Promo Page Integration](fund-management-app-wip/promo-page-integration.md)
 * [Transparency for the Community-Driven Projects](transparency-for-the-community-driven-projects.md)
 * [Merging.Space – crowdsourcing app](merge-crowdsourcing-app/README.md)
