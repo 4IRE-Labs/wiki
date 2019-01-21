@@ -21,9 +21,10 @@
 ## MISC
 
 * [Blockchain incubators](misc/blockchain-incubators.md)
-* [Research](misc/research/README.md)
+* [Crowdfunding](misc/research/README.md)
   * [Crowdfunding Services](misc/research/crowdfunding-services.md)
   * [Crowdfunding Marketing Providers](misc/research/crowdfunding-marketing-providers.md)
 * [Hackathons](misc/hackathons/README.md)
   * [0x](misc/hackathons/0x.md)
+* [Metrics](misc/metrics.md)
 
