@@ -1,4 +1,4 @@
-# SAFU Scoring
+# Compliance / SAFU Scoring
 
 Approach: We suggest to create a global service that can accept complaints for the public addresses with some sort of witness \(like a screenshot that proves the complaint or filling the form, [see the link](https://www.scamwatch.gov.au/report-a-scam) as an example\). This service in the background will analyze the blockchain transactions that have outputs and inputs pointing to the scam address. The scam score will be given to all addresses in the chain. This score will be calculated depending on the Euclidean distance in the blockchain. Thus, even if user creates the new public address, he wouldn’t have a possibility to use money that he has on other “scam” addresses by sending them to the new address and he will not have possibility to use exchanges which are working with our service. The only possibilities to exchange this funds will be in the gray zone.
 
