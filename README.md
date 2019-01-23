@@ -19,11 +19,17 @@ There are now companies building out a stack of financial primitives — the
 
 ### Product Hypothesis
 
-* [Backer Dashboard](https://wiki.crowdfunding3.com/docs/backer-dashboard)
-* [Fund Management app](https://wiki.crowdfunding3.com/docs/fund-management-app-wip)
-* [Audit / Accounting app](https://wiki.crowdfunding3.com/docs/transparency-for-the-community-driven-projects)
-* [Crowdsourcing app](https://wiki.crowdfunding3.com/docs/merge-crowdsourcing-app)
-* [SAFU Scoring](https://wiki.crowdfunding3.com/docs/safu-scoring)
+**Ideas**
+
+* Audit / Accounting app
+* Compliance / Scoring
+
+**In Validation**
+
+* Crowdsourcing app
+* Crowdfunding app
+
+**Validated**
 
 More on [https://crowdfunding3.com/](https://crowdfunding3.com/)
 
