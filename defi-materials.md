@@ -1,4 +1,6 @@
-# DeFi Materials
+# Research
+
+## DeFi Materials
 
 * [https://tokeneconomy.co/mapping-the-decentralized-financial-system-7c5af65e0335](https://tokeneconomy.co/mapping-the-decentralized-financial-system-7c5af65e0335)
 * [https://www.stateofthedapps.com/dapps?tags=defi](https://www.stateofthedapps.com/dapps?tags=defi)

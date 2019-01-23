@@ -1,11 +1,10 @@
 # Table of contents
 
 * [DeFi Labs Thesis](README.md)
-* [DeFi Materials](defi-materials.md)
+* [Research](defi-materials.md)
 * [Validation](hackathons/README.md)
   * [0x](hackathons/0x.md)
 * [Funding](blockchain-incubators.md)
-* [Metrics](metrics.md)
 * [About us](about-us.md)
 
 ## Product Concepts
