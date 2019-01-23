@@ -1,6 +1,6 @@
-# Blockchain incubators
+# Funding
 
-
+Blockchain incubators
 
 * [https://www.boost.vc/apply](https://www.boost.vc/apply)
 * Y Combinator [https://www.startupschool.org/](https://www.startupschool.org/)

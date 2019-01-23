@@ -1,4 +1,6 @@
-# Hackathons
+# Validation
+
+## Hackathons
 
 * [Binance SAFU](https://www.binancefair.com/safu-hackathon/)
 * [0x Hackathon](https://coinlist.co/build/0x)
