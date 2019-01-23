@@ -8,3 +8,5 @@
 * [https://github.com/ong/awesome-decentralized-finance](https://github.com/ong/awesome-decentralized-finance)
 * [https://www.reddit.com/r/defi/](https://www.reddit.com/r/defi/)
 
+![](.gitbook/assets/image%20%284%29.png)
+
