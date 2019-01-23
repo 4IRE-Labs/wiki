@@ -7,8 +7,9 @@
 
 ### Existing solutions
 
-* [Crystal](https://forklog.com/bitfury-razrabotala-instrument-dlya-otslezhivaniya-somnitelnyh-tranzaktsij/) from Bitfury
+* [Bitfury Crystal](https://crystalblockchain.com/)
 * [Coinfirm](https://www.coinfirm.com) \(show status, but don't provide info for proper compliance\)
+* [Chainalysis](https://www.chainalysis.com/)
 * [Wyre](http://sendwyre.com/) \(has compliance module\)
 
 ### Potential Solution
