@@ -22,7 +22,7 @@
   * [Long-shot Ideas](product-concepts/fund-management-app-wip/long-shot-ideas.md)
   * [Support Service-Level Agreement](product-concepts/fund-management-app-wip/support-terms.md)
   * [Promo Page Integration](product-concepts/fund-management-app-wip/promo-page-integration.md)
-* [Compliance / SAFU Scoring](product-concepts/safu-scoring.md)
+* [Compliance / Scoring](product-concepts/safu-scoring.md)
 * [Backer Dashboard](product-concepts/backer-dashboard/README.md)
   * [Manage account](product-concepts/backer-dashboard/manage-account.md)
   * [Fund](product-concepts/backer-dashboard/fund.md)
