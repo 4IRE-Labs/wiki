@@ -4,6 +4,7 @@
 * [Research](defi-materials.md)
 * [Validation](hackathons/README.md)
   * [0x](hackathons/0x.md)
+  * [Event Calendar](hackathons/event-calendar.md)
 * [Funding](blockchain-incubators.md)
 * [About us](about-us.md)
 
