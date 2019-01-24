@@ -27,5 +27,6 @@
   * [Long-shot Ideas](product-concepts/fund-management-app-wip/long-shot-ideas.md)
   * [Support Service-Level Agreement](product-concepts/fund-management-app-wip/support-terms.md)
   * [Promo Page Integration](product-concepts/fund-management-app-wip/promo-page-integration.md)
-* [Compliance / Scoring](product-concepts/complaince-scoring.md)
+* [Funds origin and risk scoring for Compliance](product-concepts/complaince-scoring.md)
+* [Roaming](product-concepts/roaming.md)
 

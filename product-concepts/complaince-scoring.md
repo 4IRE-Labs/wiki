@@ -1,4 +1,4 @@
-# Compliance / Scoring
+# Funds origin and risk scoring for Compliance
 
 ### Problem Definition
 
