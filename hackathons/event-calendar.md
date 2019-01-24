@@ -12,7 +12,7 @@
 ### Q2
 
 * [Stockholm Blockchain Forum](https://stockholmblockchainforum.com/) – Apr 11
-* ...
+* [EDCON](https://www.edcon.io/) – Apr 8-14, Sydney, Australia
 
 ### Q3
 
