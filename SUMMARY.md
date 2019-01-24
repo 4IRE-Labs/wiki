@@ -29,4 +29,5 @@
   * [Promo Page Integration](product-concepts/fund-management-app-wip/promo-page-integration.md)
 * [Funds origin and risk scoring for Compliance](product-concepts/complaince-scoring.md)
 * [Roaming](product-concepts/roaming.md)
+* [Accounting app for crypto](product-concepts/accounting-app-for-crypto.md)
 
