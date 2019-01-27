@@ -7,6 +7,7 @@
 ### Q1
 
 * [Binance SAFU](https://www.binancefair.com/safu-hackathon/)
+* Aracon, Berlin
 * [EthCC](https://ethcc.io/) + [ETHParis Paris](https://ethparis.com/), France March 5-10, 2019
 
 ### Q2
