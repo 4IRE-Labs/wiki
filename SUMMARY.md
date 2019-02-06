@@ -1,7 +1,7 @@
 # Table of contents
 
 * [DeFi Labs Thesis](README.md)
-* [Architecture Design / Protocol](architecture-design-protocol.md)
+* [Architecture / Protocol Design](architecture-design-protocol.md)
 * [Dapps / Wallets Development](dapps-wallets-development.md)
 * [Asset Tracking](asset-tracking.md)
 * [Crowdfunding](fund-management-app-wip/README.md)
@@ -35,5 +35,6 @@
   * [Tasks to start](product-concepts/developer-community-devxp/plan.md)
   * [Merging.Space Overview](product-concepts/developer-community-devxp/merge-space-overview.md)
 * [Roaming](product-concepts/roaming.md)
+* [Tokenomics Design](product-concepts/tokenomics-design.md)
 * [Archive](product-concepts/archive.md)
 

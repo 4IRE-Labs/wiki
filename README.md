@@ -9,9 +9,9 @@
   * [Dapps Development](dapps-wallets-development.md)
   * DevXP
   * Security Audit
-* Crypto Exchanges \(Binance\)
+* Crypto Exchanges \(Binance, Contractland...\)
   * [Regulatory Compliance Automation](complaince-scoring/)
-* Manufacturing / Retail
+* Manufacturing / Retail \(Zara, Nest\)
   * [Asset tracking](asset-tracking.md) \(supply chain\)
 * Startups
   * [Architecture Design / Protocol](architecture-design-protocol.md)
