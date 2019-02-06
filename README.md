@@ -13,6 +13,7 @@
 * Manufacturing / Retail
   * [Asset tracking](asset-tracking.md) \(supply chain\)
 * Startups
+  * [Architecture Design / Protocol](architecture-design-protocol.md)
   * [Crowdfunding](fund-management-app-wip/)
   * [Dapps Development](dapps-wallets-development.md)
 * Cellular Operators
