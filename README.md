@@ -4,12 +4,12 @@
 
 ## Offerings
 
-* DeFi Protocols \(Dash...\)
+* DeFi Protocols \(Dash, 0x...\)
   * [Architecture Design / Protocol](architecture-design-protocol.md)
   * [Dapps Development](dapps-wallets-development.md)
   * DevXP
   * Security Audit
-* Exchanges
+* Crypto Exchanges \(Binance\)
   * [Regulatory Compliance](complaince-scoring/)
 * Manufacturing / Retail
   * [Asset tracking](asset-tracking.md) \(supply chain\)
