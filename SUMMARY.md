@@ -10,6 +10,7 @@
 
 ## Product Concepts
 
+* [Services](product-concepts/services.md)
 * [Merging.Space – crowdsourcing app](product-concepts/merge-crowdsourcing-app/README.md)
   * [Tasks to start](product-concepts/merge-crowdsourcing-app/plan.md)
   * [Merging.Space Overview](product-concepts/merge-crowdsourcing-app/merge-space-overview.md)
@@ -31,4 +32,5 @@
 * [Funds origin and risk scoring for Compliance](product-concepts/complaince-scoring.md)
 * [Roaming](product-concepts/roaming.md)
 * [Accounting app for crypto](product-concepts/accounting-app-for-crypto.md)
+* [Archive](product-concepts/archive.md)
 
