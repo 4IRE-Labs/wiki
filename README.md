@@ -10,7 +10,7 @@
   * DevXP
   * Security Audit
 * Crypto Exchanges \(Binance\)
-  * [Regulatory Compliance](complaince-scoring/)
+  * [Regulatory Compliance Automation](complaince-scoring/)
 * Manufacturing / Retail
   * [Asset tracking](asset-tracking.md) \(supply chain\)
 * Startups
