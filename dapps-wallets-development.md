@@ -1,6 +1,6 @@
 # Dapps / Wallets Development
 
-
+## Services
 
 * полный цикл разработки
 * Dapps Development
@@ -30,4 +30,57 @@ Expertise development:
 * Ethereum
 * DASH
 * Hyperledger
+
+
+
+* Front [Malkevych Bohdan](http://docs.seductive-cloud.com/display/~webslesar)
+  * Vue.js
+  * SASS / CSS
+  * Webpack
+  * eslint
+  * ES 6
+* Back [Malkevych Bohdan](http://docs.seductive-cloud.com/display/~webslesar)
+  * python 3
+  * pipenv
+  * django
+  * celery
+  * jwt
+  * django rest framework
+  * postgres
+  * redis 
+  * boto3
+* Infrastructure ??
+  * prometheus
+  * logstash
+  * kibana
+  * elasticsearch
+  * grafana
+  * docker
+  * kubernetes
+  * helm
+  * teamcity
+  * nginx
+  * aws
+  * linux
+* Blockchain [Malkevych Bohdan](http://docs.seductive-cloud.com/display/~webslesar), [Kirill](http://docs.seductive-cloud.com/display/~seductive) 
+  * web3 js / py
+  * ethereum
+  * ethermint
+  * tendermint
+  * bitcoin
+  * dash
+  * shapeshift
+  * truffle
+  * testrpc
+  * zeppelin-solidity
+  * solidity
+  * mocha
+  * go
+  * quorum
+  * hyperedger burrow
+  * hyperledger sawtooth lake
+  * hyperledger fabric
+  * NEO
+  * infura
+* Mobile iOS/ PWA [Malkevych Bohdan](http://docs.seductive-cloud.com/display/~webslesar)[Kirill](http://docs.seductive-cloud.com/display/~seductive) 
 
