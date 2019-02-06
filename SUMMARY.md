@@ -10,7 +10,11 @@
 
 ## Product Concepts
 
-* [Services](product-concepts/services.md)
+* [Services](product-concepts/services/README.md)
+  * [Architecture Design / Protocol](product-concepts/services/architecture-design-protocol.md)
+  * [Dapps / Wallets Development](product-concepts/services/dapps-wallets-development.md)
+  * [\* Developer Community / DevXP](product-concepts/services/developer-community-devxp.md)
+  * [\* Security Audit](product-concepts/services/security-audit.md)
 * [Merging.Space – crowdsourcing app](product-concepts/merge-crowdsourcing-app/README.md)
   * [Tasks to start](product-concepts/merge-crowdsourcing-app/plan.md)
   * [Merging.Space Overview](product-concepts/merge-crowdsourcing-app/merge-space-overview.md)
