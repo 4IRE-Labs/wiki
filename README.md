@@ -4,18 +4,23 @@
 
 ## Offerings
 
-* Fintech/DeFi \(Exchanges, Protocols, Payment systems, Investment platforms\)
+* DeFi Protocols \(Dash...\)
   * [Architecture Design / Protocol](architecture-design-protocol.md)
-  * [Regulatory Compliance](complaince-scoring/)
   * [Dapps Development](dapps-wallets-development.md)
   * DevXP
   * Security Audit
+* Exchanges
+  * [Regulatory Compliance](complaince-scoring/)
 * Manufacturing / Retail
   * [Asset tracking](asset-tracking.md) \(supply chain\)
 * Startups
   * [Architecture Design / Protocol](architecture-design-protocol.md)
   * [Crowdfunding](fund-management-app-wip/)
   * [Dapps Development](dapps-wallets-development.md)
+  * White label exchange
+  * White label hybrid wallet
+  * White label payment system
+  * White label crypto investment platform
 * Cellular Operators
   * Roaming optimization
 
