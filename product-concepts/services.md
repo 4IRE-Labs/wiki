@@ -12,6 +12,7 @@
 
 * Ethereum
 * DASH
+* Hyperledger
 
 ## Target Audience
 
