@@ -1,4 +1,4 @@
-# \* Security Audit
+# Security Audit
 
 * Strong knowledge in security 
 * Security

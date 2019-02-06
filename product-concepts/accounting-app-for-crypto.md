@@ -1,2 +1,0 @@
-# Accounting app for crypto
-

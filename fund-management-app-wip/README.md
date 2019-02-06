@@ -51,7 +51,7 @@
 * Setting crowdsale
   * Gradual \(stages, soft / hard cap, prices\) / Continuous
   * Currencies
-  * Limits, Whitelists, specific terrms
+  * Limits, Whitelists, specific terms
 * Reporting
   * [Investors](https://wiki.crowdfunding3.com/docs/~/edit/drafts/-LRSJeVLZO2J0m9vVJ9J/fund-management-app-wip/admin-panel)
   * Crowdsale progress
