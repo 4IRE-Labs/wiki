@@ -10,8 +10,8 @@
   * [Dapps Development](dapps-wallets-development.md)
   * DevXP
   * Security Audit
-* FMCG / Trade / Supply chain
-  * [Asset tracking](asset-tracking.md)
+* Manufacturing / Retail
+  * [Asset tracking](asset-tracking.md) \(supply chain\)
 * Startups
   * [Crowdfunding](fund-management-app-wip/)
   * [Dapps Development](dapps-wallets-development.md)
