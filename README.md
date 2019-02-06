@@ -28,7 +28,7 @@
 ## Team
 
 * [Kirill](https://cryptohire.io/talent/1115)
-* Oleg
+* [Oleg](https://youteam.co.uk/talent/3336)
 * [Bohdan](https://cryptohire.io/talent/2209)
 * Yura
 * Roma
