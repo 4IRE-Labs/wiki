@@ -9,6 +9,7 @@
   * [Dapps Development](dapps-wallets-development.md)
   * DevXP
   * Security Audit
+  * Tokenomics / DAO
 * Crypto Exchanges \(Binance, Contractland...\)
   * [Regulatory Compliance Automation](complaince-scoring/)
 * Manufacturing / Retail \(Zara, Nest\)
