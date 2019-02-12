@@ -64,13 +64,13 @@ TBD
 * Create remittance system based on DLT for immutability and auditability
 * JP Morgan Quorum is used for blockchain solution;
 * Network peers \(nodes\) are divided by user-roles:
-  * CaponeResearch - provides the service
+  * Remittance Service - provides the service
   * Investors - provides liquidity
   * Regulators - for auditability
 * Transactions processing is based on EVM events
 * Domestic remittances initiated via TPP PSD2 integration with Banks\*
 * Custom analytics is built on top of the blockchain part
-* CaponeResearch nodes are maintained on Kaleido platofrm
+* Remittance Service nodes are maintained on Kaleido platofrm
 * Parties \(investors/regulators\) peers may be provided as a service both inside \(kaleido\) / outside infrastructure\*\*  
 * The implementation starts with PoC and extended with a new functionality on demand;
 
@@ -88,11 +88,11 @@ The proposed reference architecture addresses the following key quality attribut
 
 ### Architecture Explained
 
-* The CaponeResearch \(CR\) system operates as TPP \(3rd party payment provider\) in EU. It triggers Bob’s bank API to initiate transaction from his bank to CR’s domestic bank.
-* Once CR’s domestic bank received a payment, it updates transaction by triggering smart-contract on Quorum’s blockchain.
+* The Remittance Service \(RS\) system operates as TPP \(3rd party payment provider\) in EU. It triggers Bob’s bank API to initiate transaction from his bank to RS’s domestic bank.
+* Once RS's domestic bank received a payment, it updates transaction by triggering smart-contract on Quorum’s blockchain.
 * Every time transaction is updated on the blockchain the smart-contract emits the appropriate event.
 * As these events are private they are broadcasted to the blockchain peers via Tessera component of Quorum.
-* CR backend has workers that are polling smart-contract for new events and execute appropriate business logic when an event is received.
+* RS backend has workers that are polling smart-contract for new events and execute appropriate business logic when an event is received.
 
 ### What is captured via blockchain
 
@@ -100,8 +100,8 @@ Since blockchain is considered as an audit trail log for the system it may captu
 
 * Emittance requests
 * Bob’s transaction confirmations
-* Transactions between Bob’s bank and CR’s domestic bank
-* Transactions between CR’s domestic bank and Alice’s bank
+* Transactions between Bob’s bank and RS’s domestic bank
+* Transactions between RS’s domestic bank and Alice’s bank
 
 Although, all transaction will be visible only to regulator role, service role and banks participated in the transaction.  
 
