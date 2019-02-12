@@ -1,6 +1,6 @@
 # Enabling fast, transparent and compliant cross-border payments with the blockchain
 
-For: Remittance services \(Western Union, Transferwise, UAE Exchange [long list](https://www.remitrate.com/money-transfer-companies)\)
+For: Remittance services \(SWIFT, Western Union, Transferwise, UAE Exchange [long list](https://www.remitrate.com/money-transfer-companies)\)
 
 Enabling fast, transparent and compliant cross-border payments with the blockchain
 
