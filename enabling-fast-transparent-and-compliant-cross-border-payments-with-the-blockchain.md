@@ -147,6 +147,28 @@ The main suggestion is to start with PoC implementation which will contain:
 6. Analytics system is out of scope
 7. Blockexplorer integrated into Kaleido
 
+## Case Studies
+
+### SWIFT
+
+The year 2017 started with [SWIFT](https://www.swift.com/news-events/press-releases/swift-explores-blockchain-as-part-of-its-global-payments-innovation-initiative) launching a Proof of Concept \(PoC\) to help banks that are challenged with monitoring and managing their international [nostro accounts](http://www.investopedia.com/terms/n/nostroaccount.asp)—crucial for streamlined cross-border payments. This is a part of SWIFT’s global payments innovation initiative that is looking to set new standards in cross-border payments.
+
+### JPM
+
+Meanwhile J.P. Morgan \([JPM](https://www.nasdaq.com/symbol/jpm)\) launched blockchain-based Interbank Information Network \(IIN\) in collaboration with the Royal Bank of Canada and Australia and New Zealand Banking Group Limited. IIN leverages the distributed ledger technology, or simply blockchain, to minimize friction in the global payments structure by ensuing faster payments in fewer steps but more securely. IIN is powered by [Quorum](https://www.jpmorgan.com/global/Quorum)—an enterprise-focused version of Ethereum developed by JP Morgan. Approximately $5 trillion worth of business payments are processed every day by JP Morgan’s Treasury Services for its clients across more than 100 countries.
+
+### IBM
+
+IBM \([IBM](https://www.nasdaq.com/symbol/ibm)\), which [recently ranked](https://www.juniperresearch.com/press/press-releases/ibm-ranked-no-1-blockchain-technology-leader) as the number one blockchain technology company, announced a blockchain banking solution designed to reduce the settlement time and cost of cross-border payments, customized for businesses and consumers. IBM’s blockchain solution is in collaboration with Stellar.org and KlickEx Group; it is already processing live transactions in 12 currency corridors across the Pacific Islands and Australia, New Zealand and the United Kingdom. 
+
+### Mastercard
+
+The most recent [announcement](https://newsroom.mastercard.com/eu/press-releases/mastercard-opens-up-access-to-blockchain-api-for-partner-banks-and-merchants/) comes from MasterCard \([MA](https://www.nasdaq.com/symbol/ma)\), a prominent name in the payments industry, has opened access to its blockchain technology via its API for partner banks and merchants. MasterCard will begin to implement the technology for business-to-business \(B2B\) space to address challenges of speed, transparency and costs in cross-border payments. MasterCard has been exploring the blockchain technology for some time now and has filed for over 35 patents. It is a member of the Ethereum Enterprise Alliance \(EEA\) and is an investor in the Digital Currency Group.
+
+### Ripple
+
+Additionally, consortiums such as Ripple offer its customers the use of digital asset XRP to process payments anywhere in the world instantly, reliably and at lower costs. [RippleNet](https://ripple.com/files/ripplenet_brochure.pdf), its decentralized global network of banks and payment, boasts of more than 100 financial institution partners.
+
 ## Summary
 
 The blockchain naturally fits business case for cross-border remittances to:
