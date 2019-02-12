@@ -38,3 +38,10 @@
 * [Tokenomics Design](product-concepts/tokenomics-design.md)
 * [Archive](product-concepts/archive.md)
 
+## ORG
+
+* [Strategy](org/strategy/README.md)
+  * [Engineers: Best Earning Opportunities](org/strategy/engineers-best-earning-opportunities.md)
+  * [Customers: high-end blockchain tech expertise](org/strategy/customers-high-end-blockchain-tech-expertise.md)
+  * [Team: Best place to work](org/strategy/team-best-place-to-work.md)
+
