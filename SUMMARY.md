@@ -26,14 +26,10 @@
 ## Research
 
 * [Research Methodology](product-concepts/defi-materials.md)
-* [Validation](product-concepts/hackathons/README.md)
-  * [0x](product-concepts/hackathons/0x.md)
-  * [Event Calendar](product-concepts/hackathons/event-calendar.md)
-  * [Funding](product-concepts/hackathons/blockchain-incubators.md)
+* [Cross-border Payments](product-concepts/cross-border-payments.md)
 * [Security Audit](product-concepts/security-audit.md)
 * [Developer Community / DevXP](product-concepts/developer-community-devxp/README.md)
   * [Merging.Space – crowdsourcing app](product-concepts/developer-community-devxp/merge-crowdsourcing-app.md)
-  * [Tasks to start](product-concepts/developer-community-devxp/plan.md)
   * [Merging.Space Overview](product-concepts/developer-community-devxp/merge-space-overview.md)
 * [Roaming](product-concepts/roaming.md)
 * [Tokenomics Design](product-concepts/tokenomics-design.md)
