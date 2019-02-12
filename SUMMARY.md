@@ -4,6 +4,7 @@
 * [Architecture / Protocol Design](architecture-design-protocol.md)
 * [Dapps / Wallets Development](dapps-wallets-development.md)
 * [Asset Tracking](asset-tracking.md)
+* [Enabling fast, transparent and compliant cross-border payments with the blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
 * [Crowdfunding](fund-management-app-wip/README.md)
   * [Crowdfunding market](fund-management-app-wip/crowdfunding/README.md)
     * [Crowdfunding Services](fund-management-app-wip/crowdfunding/crowdfunding-services.md)
