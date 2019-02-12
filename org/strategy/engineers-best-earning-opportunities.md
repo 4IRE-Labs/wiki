@@ -6,7 +6,7 @@ Total $44k,   $11k per partner
 
 ## Lead Generation
 
-Revenue per partner $10k
+~~Revenue per partner $10k~~ What is KPI here?
 
 * Lead magnets established
 * Email list / CRM approach
