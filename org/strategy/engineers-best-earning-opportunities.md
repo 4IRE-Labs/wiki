@@ -14,7 +14,7 @@ Revenue per partner $10k
 
 ## Low commission
 
-\(~20%\)
+Attracting +4 new blockchain consultants
 
 ## Professional Growth
 
