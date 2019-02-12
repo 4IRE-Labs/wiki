@@ -1,6 +1,6 @@
 # High-end blockchain tech expertise for the industry
 
-## DeFi Research
+## 1. DeFi Research
 
 Protocols & Services \(Dash, 0x, Binance, Contractland...\)
 

@@ -41,7 +41,7 @@
 ## ORG
 
 * [Strategy](org/strategy/README.md)
-  * [Best earning opportunities for blockchain engineers](org/strategy/engineers-best-earning-opportunities.md)
   * [High-end blockchain tech expertise for the industry](org/strategy/customers-high-end-blockchain-tech-expertise.md)
+  * [Best earning opportunities for blockchain engineers](org/strategy/engineers-best-earning-opportunities.md)
   * [Well balanced workplace for the team](org/strategy/team-best-place-to-work.md)
 
