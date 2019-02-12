@@ -1,15 +1,15 @@
 # Enabling fast, transparent and compliant cross-border payments with the blockchain
 
-Enabling fast, transparent and compliant cross-border payments with the blockchain
+For: Remittance services \(Western Union, Transferwise, UAE Exchange [long list](https://www.remitrate.com/money-transfer-companies)\)
 
-For: Remittance services \(like Western Union...\)
+Enabling fast, transparent and compliant cross-border payments with the blockchain
 
 ## Business Context
 
-* Transparency and immutability of ledger - key attribute of the system that creates trust between service, investors and regulators.
+* Transparency and immutability of ledger – key attribute of the system that creates trust between service, investors and regulators.
 * Investors can provide liquidity in domestic banks
 * PSD2 for cheap remittance
-* Dashboards for accountants and regulators.
+* Dashboards for accountants and regulators
 * KYC
 
 ### Why blockchain
@@ -36,7 +36,7 @@ The blockchain technology introduces the following core benefits for this produc
 * EVM based blockchain
 * The backend is running on a cloud infrastructure
 
-## Concepts
+## Concept
 
 ### Quorum
 
@@ -55,7 +55,7 @@ The blockchain technology introduces the following core benefits for this produc
 TBD  
 
 
-## Use case refinement
+### Use case refinement
 
 ![](https://lh6.googleusercontent.com/Ht__AFDeWUK_g2CaD0ZfsgvQMKscOJOISIV-Fv0xcvHZmi34_h1iWJHhVuuRj5NCO9EVsunfpZtVfoGtpHivIoTSUG4N9nXaQf8wUSthfiJwU2y6movh5lkvmIMEGlIqqBKT3mA7)
 
@@ -76,13 +76,11 @@ TBD
 
 \* provide peers as a service in cloud \(kaleido\)s or on premise should be discussed separately
 
-\*\* support only 2 banks in PoC  
-
+\*\* support only 2 banks in PoC
 
 ### What is Unique Value
 
-The proposed reference architecture addresses the following key quality attributes:  
-
+The proposed reference architecture addresses the following key quality attributes:
 
 * Security – cryptography protected history stored on different peers;
 * Immutability – once event is captured it’s no longer can be changed;
@@ -117,14 +115,14 @@ Blockchain transaction may not contain Bob’s and Alice’s identity and privac
 
 ### Integration Explained
 
-Context:
+### Context
 
 1. Update transaction / remittance request state on the blockchain
 2. Process transactions based on events received from the blockchain
 3. Store users identities in local-storage only
 4. Move payment processing into separate service
 
-Benefits:
+### Benefits
 
 1. Data is captured into the blockchain on the earliest possible stage
 2. Local storage cannot run out of sync with ledger
@@ -158,8 +156,4 @@ The blockchain naturally fits business case for cross-border remittances to:
 * The blockchain solution integration process is divided into two milestones:
 * PoC implementation – vertically scalable prototype
 * Further evolution of blockchain part with all required events captured
-
-## Next steps
-
-* Check stellar
 
