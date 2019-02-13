@@ -9,7 +9,7 @@
 * DeFi Protocols & Services \(Dash, 0x, Binance, Contractland...\)
   * DevXP
   * [Regulatory Compliance Automation](complaince-scoring/)
-  * Remittance services – [Cross Border payments with blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
+  * Remittance services – [Cross Border payments with blockchain](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
 * Supply chain \(Zara, Nest\)
   * [Asset tracking](asset-tracking.md) \(supply chain\)
 * ...

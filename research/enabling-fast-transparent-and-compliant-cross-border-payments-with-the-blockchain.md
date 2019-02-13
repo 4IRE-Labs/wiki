@@ -106,12 +106,9 @@ Since blockchain is considered as an audit trail log for the system it may captu
 Although, all transaction will be visible only to regulator role, service role and banks participated in the transaction.  
 
 
-Blockchain transaction may not contain Bob’s and Alice’s identity and privacy data and will store only a reference id to the corresponding data in the original storage. All transactions have timestamps and protected by cryptography.  
-
+Blockchain transaction may not contain Bob’s and Alice’s identity and privacy data and will store only a reference id to the corresponding data in the original storage. All transactions have timestamps and protected by cryptography.
 
 ## Solution Context views
-
-![](https://lh6.googleusercontent.com/xtS4ruNxOEObgKdOEcpLAMCxAhp0ztLBHljWhj7nTFHZzAuyQ4SD732cKYqfDprXcJgJFyIquQoA4mkNvQagn-K5gY8kVm4b8XUxhUTucFDMcaBVIOdrnw1nmd_dHvQ9faN0nX3C)
 
 ### Integration Explained
 
