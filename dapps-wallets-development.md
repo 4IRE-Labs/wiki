@@ -2,7 +2,7 @@
 
 ## Services
 
-* полный цикл разработки
+* Full-cicle development
 * Dapps Development
 * Testing of smart contracts
 * Solidity
@@ -11,7 +11,7 @@
 * UX designing for fintech products
 * POC development and idea validation
 
-Кейсы: winstars\*, kidcoin, iconx, kepler, smartdocs POC, tennagraph, inblockio events
+Case studies: winstars\*, kidcoin, iconx, kepler, smartdocs POC, tennagraph, inblockio events
 
 Who: POC for startups or side projects for established crypto-related companies
 
