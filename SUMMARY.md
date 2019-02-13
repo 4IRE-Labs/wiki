@@ -3,7 +3,6 @@
 * [4IRE Labs Thesis](README.md)
 * [Architecture / Protocol Design](architecture-design-protocol.md)
 * [Dapps / Wallets Development](dapps-wallets-development.md)
-* [Asset Tracking](asset-tracking.md)
 * [Crowdfunding](fund-management-app-wip/README.md)
   * [Crowdfunding market](fund-management-app-wip/crowdfunding/README.md)
     * [Crowdfunding Services](fund-management-app-wip/crowdfunding/crowdfunding-services.md)
@@ -23,6 +22,7 @@
 
 ## Research
 
+* [Asset Tracking](research/asset-tracking.md)
 * [Research Methodology](research/defi-materials.md)
 * [Cross-border Payments](research/cross-border-payments.md)
 * [Enabling fast, transparent and compliant cross-border payments with the blockchain](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)

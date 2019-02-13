@@ -11,7 +11,7 @@
   * [Regulatory Compliance Automation](complaince-scoring/)
   * Remittance services – [Cross Border payments with blockchain](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
 * Supply chain \(Zara, Nest\)
-  * [Asset tracking](asset-tracking.md) \(supply chain\)
+  * [Asset tracking](research/asset-tracking.md) \(supply chain\)
 * ...
   * White label exchange
   * White label hybrid wallet
