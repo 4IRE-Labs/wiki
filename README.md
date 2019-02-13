@@ -8,10 +8,8 @@
 
 * DeFi Protocols & Services \(Dash, 0x, Binance, Contractland...\)
   * DevXP
-  * Tokenomics / DAO
   * [Regulatory Compliance Automation](complaince-scoring/)
   * Remittance services – [Cross Border payments with blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
-  * Security Audit
 * Supply chain \(Zara, Nest\)
   * [Asset tracking](asset-tracking.md) \(supply chain\)
 * ...
