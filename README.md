@@ -20,8 +20,6 @@
   * White label hybrid wallet
   * White label payment system
   * White label crypto investment platform
-* Cellular Operators
-  * Roaming optimization
 
 ## Team
 
