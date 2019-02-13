@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DeFi Labs Thesis](README.md)
+* [4IRE Labs Thesis](README.md)
 * [Architecture / Protocol Design](architecture-design-protocol.md)
 * [Dapps / Wallets Development](dapps-wallets-development.md)
 * [Asset Tracking](asset-tracking.md)

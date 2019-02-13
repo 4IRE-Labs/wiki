@@ -1,4 +1,4 @@
-# DeFi Labs Thesis
+# 4IRE Labs Thesis
 
 **Purpose:** research, ideate and validate insights for \#DeFi \(decentralized finance\) products
 
