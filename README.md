@@ -4,22 +4,27 @@
 
 ## Offerings
 
+### **Products**
+
 * DeFi Protocols & Services \(Dash, 0x, Binance, Contractland...\)
   * DevXP
   * Tokenomics / DAO
   * [Regulatory Compliance Automation](complaince-scoring/)
   * Remittance services – [Cross Border payments with blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
   * Security Audit
-* Retail \(Zara, Nest\)
+* Logistics \(Zara, Nest\)
   * [Asset tracking](asset-tracking.md) \(supply chain\)
-* Startups
-  * [Architecture Design / Protocol](architecture-design-protocol.md)
-  * [Crowdfunding](fund-management-app-wip/)
-  * [Dapps Development](dapps-wallets-development.md)
+* ...
   * White label exchange
   * White label hybrid wallet
   * White label payment system
   * White label crypto investment platform
+
+### **Services**
+
+* [Architecture Design / Protocol](architecture-design-protocol.md)
+* [Crowdfunding](fund-management-app-wip/)
+* [Dapps Development](dapps-wallets-development.md)
 
 ## Team
 
