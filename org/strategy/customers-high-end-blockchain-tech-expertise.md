@@ -26,3 +26,7 @@ Manufacturing / Retail \(Zara, Nest\)
 * White label payment system
 * White label crypto investment platform
 
+## Community building
+
+...
+
