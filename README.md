@@ -10,7 +10,7 @@
   * [Regulatory Compliance Automation](complaince-scoring/)
   * Remittance services – [Cross Border payments with blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
   * Security Audit
-* Manufacturing / Retail \(Zara, Nest\)
+* Retail \(Zara, Nest\)
   * [Asset tracking](asset-tracking.md) \(supply chain\)
 * Startups
   * [Architecture Design / Protocol](architecture-design-protocol.md)
