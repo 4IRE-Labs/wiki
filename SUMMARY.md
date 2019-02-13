@@ -41,3 +41,10 @@
   * [Best earning opportunities for blockchain engineers](org/strategy/engineers-best-earning-opportunities.md)
   * [Well balanced workplace for the team](org/strategy/team-best-place-to-work.md)
 
+## Archive
+
+* [Apiary](archive/apiary/README.md)
+  * [Possible attacks](archive/apiary/possible-attacks.md)
+  * [Use Cases](archive/apiary/use-cases.md)
+  * [Dev plan](archive/apiary/dev-plan.md)
+
