@@ -21,7 +21,6 @@
   * [Promo Page Integration](fund-management-app-wip/promo-page-integration.md)
 * [Regulatory Compliance / Reporting](complaince-scoring/README.md)
   * [Transparency for the Community-Driven Projects](complaince-scoring/transparency-for-the-community-driven-projects.md)
-* [Strategy](strategy.md)
 
 ## Research
 

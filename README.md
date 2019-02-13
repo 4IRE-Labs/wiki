@@ -36,3 +36,11 @@
 
 [https://4irelabs.com/team](https://4irelabs.com/team)
 
+## Geography / Presence
+
+* Kyiv \(HQ\)
+* Toronto \(Scott\)
+* Stockholm \(Johan\)
+* Singapore \(GQ\)
+* Estonia \(Alex\)
+
