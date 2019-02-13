@@ -1,4 +1,4 @@
-# Merging.Space – crowdsourcing app
+# Merging.Space – crowdsourcing app
 
 ## Customer Segments & Needs
 

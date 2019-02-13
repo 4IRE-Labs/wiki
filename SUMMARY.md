@@ -24,15 +24,15 @@
 
 ## Research
 
-* [Research Methodology](product-concepts/defi-materials.md)
-* [Cross-border Payments](product-concepts/cross-border-payments.md)
-* [Security Audit](product-concepts/security-audit.md)
-* [Developer Community / DevXP](product-concepts/developer-community-devxp/README.md)
-  * [Merging.Space – crowdsourcing app](product-concepts/developer-community-devxp/merge-crowdsourcing-app.md)
-  * [Merging.Space Overview](product-concepts/developer-community-devxp/merge-space-overview.md)
-* [Roaming](product-concepts/roaming.md)
-* [Tokenomics Design](product-concepts/tokenomics-design.md)
-* [Archive](product-concepts/archive.md)
+* [Research Methodology](research/defi-materials.md)
+* [Cross-border Payments](research/cross-border-payments.md)
+* [Security Audit](research/security-audit.md)
+* [Developer Community / DevXP](research/developer-community-devxp/README.md)
+  * [Merging.Space – crowdsourcing app](research/developer-community-devxp/merge-crowdsourcing-app.md)
+  * [Merging.Space Overview](research/developer-community-devxp/merge-space-overview.md)
+* [Roaming](research/roaming.md)
+* [Tokenomics Design](research/tokenomics-design.md)
+* [Archive](research/archive.md)
 
 ## ORG
 
