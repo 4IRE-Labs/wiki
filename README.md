@@ -1,6 +1,6 @@
 # 4IRE Labs Thesis
 
-**Purpose:** research, ideate and validate solutions for the industry
+**Purpose:** ideate, research and validate solutions for the industry
 
 ## **Solutions**
 
