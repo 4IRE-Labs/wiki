@@ -86,14 +86,6 @@ The proposed reference architecture addresses the following key quality attribut
 * Immutability – once event is captured it’s no longer can be changed;
 * Auditability – in case of disputes between parties \(end user – bank – investor\) ledger history will be used as a trusted proof; any manual human-related action \(e.g. manual accountant work in case of the false-positive failure detected by the system\) is captured and easily verified later.
 
-### Architecture Explained
-
-* The Remittance Service \(RS\) system operates as TPP \(3rd party payment provider\) in EU. It triggers Bob’s bank API to initiate transaction from his bank to RS’s domestic bank.
-* Once RS's domestic bank received a payment, it updates transaction by triggering smart-contract on Quorum’s blockchain.
-* Every time transaction is updated on the blockchain the smart-contract emits the appropriate event.
-* As these events are private they are broadcasted to the blockchain peers via Tessera component of Quorum.
-* RS backend has workers that are polling smart-contract for new events and execute appropriate business logic when an event is received.
-
 ### What is captured via blockchain
 
 Since blockchain is considered as an audit trail log for the system it may capture the following data:
@@ -103,14 +95,11 @@ Since blockchain is considered as an audit trail log for the system it may captu
 * Transactions between Bob’s bank and RS’s domestic bank
 * Transactions between RS’s domestic bank and Alice’s bank
 
-Although, all transaction will be visible only to regulator role, service role and banks participated in the transaction.  
-
+Although, all transaction will be visible only to regulator role, service role and banks participated in the transaction.
 
 Blockchain transaction may not contain Bob’s and Alice’s identity and privacy data and will store only a reference id to the corresponding data in the original storage. All transactions have timestamps and protected by cryptography.
 
 ## Solution Context views
-
-### Integration Explained
 
 ### Context
 
