@@ -6,9 +6,7 @@
 
 We're convinced that canonical approaches of software architecture in agile is a huge work upfront. That's why we think that the solution architecture and development only the high-level diagrams is enough to start the development in our very fast changing world. 
 
-## **Process:**
-
-### Product: Discovery Phase
+## Product: Discovery Phase Process
 
 1. Architectural Analysis \(AA\) defines the problems an architecture must solve. The outcome of this activity is a set of architecturally significant requirements \(ASRs\).
 2. Architectural Synthesis \(AS\) proposes candidate architecture solutions to address the ASRs collected in AA, thus this activity moves from the problem to the solution space.
@@ -16,11 +14,10 @@ We're convinced that canonical approaches of software architecture in agile is a
 4. Architectural Implementation \(AI\) realizes the architecture by creating a detailed design.
 5. Architectural Maintenance and Evolution \(AME\) is to change an architecture for the purpose of fixing faults and architectural evolution is to respond to new requirements at the architectural level
 
-## **Cases / Researches:** 
+## **Cases Studies**
 
-* blockchain cards
 * Ethereum / Bitcoin bridge
-* * Platio
+* Platio
 * Kidcoin
 * Smart-agreements
 * Mogu
@@ -34,6 +31,6 @@ Keywords: blockchchain, architecture solutions, solution architecture, blockchai
 
 * [Blockchain Cards for selecting the blockchain technology](https://4irelabs.com/blockchain_cards)
 * [Compatible Blockchains for the Fintech Projects. Is Stellar one of them?](https://4irelabs.com/blockchain-fintech-stellar)
-* Fintech report 2018
+* [Fintech report 2019: Market Reports \| Trends, Statistics‎ & Predictions](https://4irelabs.com/fintech-report)
 * [NEO Blockchain: What it Hides from Businesses?](https://4irelabs.com/neo-blockchain-pros-and-cons)
-* 
+

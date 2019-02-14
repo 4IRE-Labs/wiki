@@ -18,7 +18,6 @@
 
 * [Architecture / Protocol Design](services/architecture-design-protocol.md)
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
-* [Security Audit](services/security-audit.md)
 * [Tokenomics Design](services/tokenomics-design.md)
 * [Training / Workshops](services/training-workshops.md)
 
