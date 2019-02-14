@@ -1,7 +1,6 @@
 # Transparency for the Community-Driven Projects
 
-Public reporting is usually attributed to big public companies, like Apple or P&G, or charities. They use funds from wide communities and therefore become responsible to them. Something similar happens now in the blockchain space, as teams rely heavily on the community.  
-
+Public reporting is usually attributed to big public companies, like Apple or P&G, or charities. They use funds from wide communities and therefore become responsible to them. Something similar happens now in the blockchain space, as teams rely heavily on the community.
 
 Being transparent helps a lot in building relationships and can help many smaller organizations \(even outside of blockchain industry\). This is a brief guide on transparency with the comments from industry leaders on the topic.  
 

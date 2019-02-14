@@ -7,19 +7,18 @@
 ### **Products**
 
 * DeFi Protocols & Services \(Dash, 0x, Binance, Contractland...\)
-  * [Regulatory Compliance Automation](complaince-scoring/) – **Kirill**
-  * Remittance services – [Cross Border payments with blockchain](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) – **Kirill**
-  * Asset Security – **Oleg**
+  * [Regulatory Compliance Automation](research/complaince-scoring/) – **Kirill**
+  * [Cross Border payments with blockchain](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) – **Kirill**
+  * [Asset Security](research/asset-security.md) – **Oleg**
   * DevXP – **Max**
 * Supply chain \(Zara, Nest\)
   * [Asset tracking](research/asset-tracking.md) \(supply chain\) – **Bohdan**
-* White label crypto investment platform / STO – **Max**
+* Security Token Offering \(STO\) Platform – **Max**
 
 ### **Services**
 
-* [Architecture Design / Protocol](architecture-design-protocol.md)
-* [Crowdfunding](fund-management-app-wip/)
-* [Dapps Development](dapps-wallets-development.md)
+* [Architecture Design / Protocol](services/architecture-design-protocol.md)
+* [Dapps Development](services/dapps-wallets-development.md)
 
 ## Team
 
