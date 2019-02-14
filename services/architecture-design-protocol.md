@@ -30,13 +30,10 @@ We're convinced that canonical approaches of software architecture in agile is a
 
 Keywords: blockchchain, architecture solutions, solution architecture, blockchain integration consulting, specifications, tech stack, public blockchain, private blockchain, permissioned blockchain, ethereum, ethereum core, custom blockchain, cloud architecture, protocol development, scaling solutions
 
-## 
+## **Additional Resources:**
 
-
-
-## **Plan for expertise development**
-
-1. knowledge sharing \(internal + speaking at conferences\)
-2. adopting best practices of software design to the design of the distributed systems
-3. publishing articles in the corresponding field
-
+* [Blockchain Cards for selecting the blockchain technology](https://4irelabs.com/blockchain_cards)
+* [Compatible Blockchains for the Fintech Projects. Is Stellar one of them?](https://4irelabs.com/blockchain-fintech-stellar)
+* Fintech report 2018
+* [NEO Blockchain: What it Hides from Businesses?](https://4irelabs.com/neo-blockchain-pros-and-cons)
+* 

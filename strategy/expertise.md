@@ -1,6 +1,6 @@
 # Expertise
 
-Purpose: Develop High-end blockchain tech expertise for the industry
+Purpose: Develop High-end blockchain tech expertise for the Finance industry
 
 Metrics:
 

@@ -2,16 +2,17 @@
 
 * [4IRE Labs Thesis](README.md)
 * [Research Methodology](defi-materials.md)
+* [Our Team](engineering-team.md)
 
 ## SOLUTIONS
 
 * [Compliance Automation](research/complaince-scoring/README.md)
   * [Transparency for the Community-Driven Projects](research/complaince-scoring/transparency-for-the-community-driven-projects.md)
 * [Cross-border payments](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
-* [Asset Security](research/asset-security.md)
-* [Asset Tracking](research/asset-tracking.md)
-* [DevXP](research/developer-community-devxp.md)
-* [STO Platform](research/sto-platform.md)
+* [Asset Security \(wip\)](research/asset-security.md)
+* [Asset Tracking \(wip\)](research/asset-tracking.md)
+* [DevXP \(wip\)](research/developer-community-devxp.md)
+* [STO Platform \(wip\)](research/sto-platform.md)
 
 ## Services
 
@@ -19,7 +20,7 @@
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
 * [Security Audit](services/security-audit.md)
 * [Tokenomics Design](services/tokenomics-design.md)
-* [Engineering Team](services/engineering-team.md)
+* [Training / Workshops](services/training-workshops.md)
 
 ## Strategy
 

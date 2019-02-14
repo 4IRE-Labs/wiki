@@ -1,4 +1,4 @@
-# Engineering Team
+# Our Team
 
 * [Kirill](https://cryptohire.io/talent/1115)
 * [Oleg](https://youteam.co.uk/talent/3336)
