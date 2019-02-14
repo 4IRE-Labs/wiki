@@ -5,8 +5,7 @@ Public reporting is usually attributed to big public companies, like Apple or P&
 Being transparent helps a lot in building relationships and can help many smaller organizations \(even outside of blockchain industry\). This is a brief guide on transparency with the comments from industry leaders on the topic.  
 
 
-Here we’ll try to review and advise on the transparency policy from the perspective of the founders of the community-driven projects and organizations.  
-
+Here we’ll try to review and advise on the transparency policy from the perspective of the founders of the community-driven projects and organizations.
 
 ## Why important
 
@@ -34,20 +33,15 @@ Overall you can start by adopting a minimal transparency policy and extending/ch
 
 ### Risks & Mitigation
 
-You can publicly fuck up \(e.g. doing a mistake or missing the goals\). Well, it’s not a transparency problem initially, also what chances are that major problem won’t become known. Sure while some can become angry or upset, for others that would be a signal to support you \(which one would you like to end up with anyway?\). It’s a matter of trust – you better trust yourself and the community. Everybody makes mistakes, especially in innovations, so while you’re in the right place doing things responsibly – that would be ok.  
+You can publicly fuck up \(e.g. doing a mistake or missing the goals\). Well, it’s not a transparency problem initially, also what chances are that major problem won’t become known. Sure while some can become angry or upset, for others that would be a signal to support you \(which one would you like to end up with anyway?\). It’s a matter of trust – you better trust yourself and the community. Everybody makes mistakes, especially in innovations, so while you’re in the right place doing things responsibly – that would be ok.
 
+It can show up something demotivating like unfair compensation. Solve it by changing or explaining. If it’s discovered the open dialogue with your participation is better than silent blame.
 
-It can show up something demotivating like unfair compensation. Solve it by changing or explaining. If it’s discovered the open dialogue with your participation is better than silent blame.  
-
-
-Your competitors will use it against you. E.g. use your product weakness or headhunt your team. Can be, if you have aggressive competitors, but not unavoidable anyways. A positive effect is that they can better coordinate better with you e.g. not pursue the same customer segments or doing the same products. Also, you can become a stronger competitor in the eyes of the market and motivate other open cards as well.  
-
+Your competitors will use it against you. E.g. use your product weakness or headhunt your team. Can be, if you have aggressive competitors, but not unavoidable anyways. A positive effect is that they can better coordinate better with you e.g. not pursue the same customer segments or doing the same products. Also, you can become a stronger competitor in the eyes of the market and motivate other open cards as well.
 
 ## Conclusion
 
-Surely, it can be scary, especially if you don’t see the people you share, not sure about their attitude and reaction. Getting positive feedback \(helping somebody to see more clearly what’s going on\) can relieve that. Getting negative feedback can motivate you for changes and give insights.  
-  
-
+Surely, it can be scary, especially if you don’t see the people you share, not sure about their attitude and reaction. Getting positive feedback \(helping somebody to see more clearly what’s going on\) can relieve that. Getting negative feedback can motivate you for changes and give insights.
 
 References:
 

@@ -1,6 +1,6 @@
 # High-end blockchain tech expertise for the industry
 
-## Go to profile events + Find people with the expertise needed in the community
+## Go to profile events + Talk people with the expertise needed in the community
 
 ### Q1
 
@@ -11,7 +11,7 @@
 ### Q2
 
 * [Stockholm Blockchain Forum](https://stockholmblockchainforum.com/) – Apr 11
-* [DappDev Kyiv](http://dappdev.org/conference) – April
+* [DappDev Kyiv](http://dappdev.org/conference) – April ?
 * [EDCON](https://www.edcon.io/) – Apr 8-14, Sydney, Australia
 
 ### Q3
@@ -27,7 +27,7 @@
 
 ## Create a knowledge base \(wiki\)
 
-## Provide consulting in priority topics with discount or for free
+## Provide consulting in priority topics with discount or for free \(probono, hackathons etc\)
 
 ### 
 

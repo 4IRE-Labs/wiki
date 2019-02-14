@@ -4,20 +4,37 @@ description: (maybe best in Ukraine?)
 
 # High earning opps for blockchain engineers
 
-Engineers: Kirill, Bohdan, Oleg, Andrey
-
 Total $44k, $11k per partner
 
-## Lead Generation
+\#leads, \#meetings
 
-What is KPI here? \#leads, \#meetings
+## LG / Identify Prospects / Campaigns
+
+What is KPI here? 
 
 * Lead magnets established
 * Email list / CRM approach
 
-## High End customers / Pricing policy
 
-* Enterprise or...
+
+## Extend / Empower Partner Network
+
+* Kyiv \(HQ\)
+* Toronto \(Scott\)
+* Stockholm \(Johan\)
+* Singapore \(GQ\)
+* Estonia \(Alex\)
+* Norwegia \(David\)
+* Berlin ...
+* London ...
+* NY ...
+* SF ...
+* HK ...
+
+### Action points
+
+* send on monthly basis report/ updates \( materials, content, company's updates\)
+* Calendar events
 
 ## Lower Commission
 
