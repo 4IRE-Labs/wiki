@@ -1,4 +1,6 @@
-# Well balanced workplace for the team
+# Workplace
+
+Purpose: Well balanced workplace for the team \(~stress, compensation, risk\)
 
 Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 
@@ -9,6 +11,12 @@ Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 ...
 
 ## Inspiring office
+
+...
+
+## Culture
+
+...
 
 
 

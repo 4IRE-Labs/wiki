@@ -1,4 +1,11 @@
-# High-end blockchain tech expertise for the industry
+# Expertise
+
+Purpose: Develop High-end blockchain tech expertise for the industry
+
+Metrics:
+
+* $ vol. consulting projects
+* recognition \(e.g. speeches, awards etc\)
 
 ## Go to profile events + Talk people with the expertise needed in the community
 

@@ -23,9 +23,9 @@
 ## Strategy
 
 * [Goals 2019](strategy/strategy.md)
-* [High-end blockchain tech expertise for the industry](strategy/customers-high-end-blockchain-tech-expertise.md)
-* [High earning opps for blockchain engineers](strategy/engineers-best-earning-opportunities.md)
-* [Well balanced workplace for the team](strategy/team-best-place-to-work.md)
+* [Expertise](strategy/expertise.md)
+* [Opportunities](strategy/opportunities.md)
+* [Workplace](strategy/workplace.md)
 
 ## Archive
 

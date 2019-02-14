@@ -1,19 +1,20 @@
----
-description: (maybe best in Ukraine?)
----
+# Opportunities
 
-# High earning opps for blockchain engineers
+Purpose: High earning opportunities for blockchain engineers
 
-Total $44k, $11k per partner
+* \# opportunities \(leads, meetings etc\)
+* quality of opportunities
 
-\#leads, \#meetings
-
-## Promote / LG / Identify Prospects / Campaigns
+## Industry Profiling / Contacts
 
 What is KPI here? 
 
 * Lead magnets established
 * Email list / CRM approach
+
+## Research Media Support
+
+...
 
 ## Extend / Empower Partner Network
 
@@ -37,4 +38,8 @@ What is KPI here?
 ## Lower Commission
 
 Attracting +4 new blockchain consultants
+
+## Account Management
+
+...
 
