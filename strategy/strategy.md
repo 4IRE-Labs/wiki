@@ -1,6 +1,4 @@
-# Strategy
-
-## Goals 2019
+# Goals 2019
 
 1. Labs: High-end blockchain tech expertise for the industry \(Kirill?\)
    * KPI: validated proposals

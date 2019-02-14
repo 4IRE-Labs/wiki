@@ -2,6 +2,16 @@
 
 * [4IRE Labs Thesis](README.md)
 
+## SOLUTIONS
+
+* [Compliance Automation](research/complaince-scoring/README.md)
+  * [Transparency for the Community-Driven Projects](research/complaince-scoring/transparency-for-the-community-driven-projects.md)
+* [Cross-border payments](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
+* [Asset Tracking](research/asset-tracking.md)
+* [Asset Security](research/asset-security.md)
+* [DevXP](research/developer-community-devxp.md)
+* [STO Platform](research/sto-platform.md)
+
 ## Services
 
 * [Architecture / Protocol Design](services/architecture-design-protocol.md)
@@ -9,29 +19,19 @@
 * [Security Audit](services/security-audit.md)
 * [Tokenomics Design](services/tokenomics-design.md)
 
-## SOLUTIONS
+## Strategy
 
-* [Compliance Automation](research/complaince-scoring/README.md)
-  * [Transparency for the Community-Driven Projects](research/complaince-scoring/transparency-for-the-community-driven-projects.md)
-* [Asset Tracking](research/asset-tracking.md)
-* [Asset Security](research/asset-security.md)
-* [Cross-border payments](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
-* [Developer Community / DevXP](research/developer-community-devxp/README.md)
-  * [Merging.Space Overview](research/developer-community-devxp/merge-space-overview.md)
-* [STO Platform](research/sto-platform.md)
-
-## ORG
-
-* [Strategy](org/strategy/README.md)
-  * [High-end blockchain tech expertise for the industry](org/strategy/customers-high-end-blockchain-tech-expertise.md)
-  * [High earning opps for blockchain engineers](org/strategy/engineers-best-earning-opportunities.md)
-  * [Well balanced workplace for the team](org/strategy/team-best-place-to-work.md)
+* [Goals 2019](strategy/strategy.md)
+* [High-end blockchain tech expertise for the industry](strategy/customers-high-end-blockchain-tech-expertise.md)
+* [High earning opps for blockchain engineers](strategy/engineers-best-earning-opportunities.md)
+* [Well balanced workplace for the team](strategy/team-best-place-to-work.md)
 
 ## Archive
 
 * [Research Methodology](archive/defi-materials.md)
 * [Roaming](archive/roaming.md)
-* [Merging.Space – crowdsourcing app](archive/merge-crowdsourcing-app.md)
+* [Merging.Space – crowdsourcing app](archive/merge-crowdsourcing-app/README.md)
+  * [Merging.Space Overview](archive/merge-crowdsourcing-app/merge-space-overview.md)
 * [Crowdfunding](archive/fund-management-app-wip/README.md)
   * [Crowdfunding market](archive/fund-management-app-wip/crowdfunding/README.md)
     * [Crowdfunding Services](archive/fund-management-app-wip/crowdfunding/crowdfunding-services.md)

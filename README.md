@@ -2,23 +2,23 @@
 
 **Purpose:** research, ideate and validate insights for \#DeFi \(decentralized finance\) products
 
-## Offerings
-
-### **Products**
+## **Solutions**
 
 * DeFi Protocols & Services \(Dash, 0x, Binance, Contractland...\)
   * [Regulatory Compliance Automation](research/complaince-scoring/) – **Kirill**
   * [Cross Border payments with blockchain](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) – **Kirill**
   * [Asset Security](research/asset-security.md) – **Oleg**
-  * DevXP – **Max**
+  * [DevXP](research/developer-community-devxp.md) – **Max**
 * Supply chain \(Zara, Nest\)
   * [Asset tracking](research/asset-tracking.md) \(supply chain\) – **Bohdan**
-* Security Token Offering \(STO\) Platform – **Max**
+* [Security Token Offering \(STO\) Platform](research/sto-platform.md) – **Max**
 
-### **Services**
+## **Services**
 
 * [Architecture Design / Protocol](services/architecture-design-protocol.md)
 * [Dapps Development](services/dapps-wallets-development.md)
+* [Security Audit](services/security-audit.md)
+* [Tokenomics Design](services/tokenomics-design.md)
 
 ## Team
 
