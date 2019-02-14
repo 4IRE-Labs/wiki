@@ -1,6 +1,7 @@
 # Table of contents
 
 * [4IRE Labs Thesis](README.md)
+* [Research Methodology](defi-materials.md)
 
 ## SOLUTIONS
 
@@ -29,7 +30,6 @@
 
 ## Archive
 
-* [Research Methodology](archive/defi-materials.md)
 * [Roaming](archive/roaming.md)
 * [Merging.Space – crowdsourcing app](archive/merge-crowdsourcing-app/README.md)
   * [Merging.Space Overview](archive/merge-crowdsourcing-app/merge-space-overview.md)
