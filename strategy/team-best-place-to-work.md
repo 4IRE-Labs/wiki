@@ -2,13 +2,13 @@
 
 Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 
-## Good stress/compensation balance
+## Easy Docs/Accounting process
+
+### Company in Estonia established
+
+...
+
+## Inspiring office
 
 
-
-## Great office
-
-
-
-## Company in Estonia established
 

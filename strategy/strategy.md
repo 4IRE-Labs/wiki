@@ -1,10 +1,11 @@
 # Goals 2019
 
 1. Labs: High-end blockchain tech expertise for the industry \(Kirill?\)
-   * KPI: validated proposals
+   * KPI: ?
 2. LG: Best earning opportunities for blockchain engineers \(Helen\)
-   * Revenue per partner $10k
-   * Low commission \(~20%\)
+   * Av. income $7-8k
+     * Income per partner $10k
+     * Low commission \(~20%\)
 3. Admin: Well-balanced workplace for the team \(Max\)
    * Company in Estonia established
 
