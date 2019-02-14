@@ -1,5 +1,7 @@
 # Compliance Automation
 
+For services working with crypto payments
+
 ### Problem Definition
 
 * Converting to FIAT through the bank for crypto businesses \(they can freeze, as they can't verify the source of funds\)
