@@ -34,7 +34,7 @@ Metrics:
 
 ## Create a knowledge base \(wiki\)
 
-## Provide consulting in priority topics with discount or for free \(probono, hackathons etc\)
+## Develop experience in the priority topics with discount or for free \(probono, hackathons etc\)
 
 ### 
 
