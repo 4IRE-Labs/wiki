@@ -8,14 +8,12 @@ Total $44k, $11k per partner
 
 \#leads, \#meetings
 
-## LG / Identify Prospects / Campaigns
+## Promote / LG / Identify Prospects / Campaigns
 
 What is KPI here? 
 
 * Lead magnets established
 * Email list / CRM approach
-
-
 
 ## Extend / Empower Partner Network
 
