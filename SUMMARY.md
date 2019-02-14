@@ -23,9 +23,9 @@
 ## Research
 
 * [Asset Tracking](research/asset-tracking.md)
+* [Asset Security](research/asset-security.md)
 * [Research Methodology](research/defi-materials.md)
-* [Cross-border Payments](research/cross-border-payments.md)
-* [Enabling fast, transparent and compliant cross-border payments with the blockchain](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
+* [Cross-border payments](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
 * [Security Audit](research/security-audit.md)
 * [Developer Community / DevXP](research/developer-community-devxp/README.md)
   * [Merging.Space – crowdsourcing app](research/developer-community-devxp/merge-crowdsourcing-app.md)
@@ -38,7 +38,7 @@
 
 * [Strategy](org/strategy/README.md)
   * [High-end blockchain tech expertise for the industry](org/strategy/customers-high-end-blockchain-tech-expertise.md)
-  * [Best earning opportunities for blockchain engineers](org/strategy/engineers-best-earning-opportunities.md)
+  * [High earning opps for blockchain engineers](org/strategy/engineers-best-earning-opportunities.md)
   * [Well balanced workplace for the team](org/strategy/team-best-place-to-work.md)
 
 ## Archive

@@ -7,16 +7,13 @@
 ### **Products**
 
 * DeFi Protocols & Services \(Dash, 0x, Binance, Contractland...\)
-  * DevXP
-  * [Regulatory Compliance Automation](complaince-scoring/)
-  * Remittance services – [Cross Border payments with blockchain](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
+  * [Regulatory Compliance Automation](complaince-scoring/) – **Kirill**
+  * Remittance services – [Cross Border payments with blockchain](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) – **Kirill**
+  * Asset Security – **Oleg**
+  * DevXP – **Max**
 * Supply chain \(Zara, Nest\)
-  * [Asset tracking](research/asset-tracking.md) \(supply chain\)
-* ...
-  * White label exchange
-  * White label hybrid wallet
-  * White label payment system
-  * White label crypto investment platform
+  * [Asset tracking](research/asset-tracking.md) \(supply chain\) – **Bohdan**
+* White label crypto investment platform / STO – **Max**
 
 ### **Services**
 

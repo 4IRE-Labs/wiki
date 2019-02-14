@@ -1,12 +1,16 @@
-# Best earning opportunities for blockchain engineers
+---
+description: (maybe best in Ukraine?)
+---
+
+# High earning opps for blockchain engineers
 
 Engineers: Kirill, Bohdan, Oleg, Andrey
 
-Total $44k,   $11k per partner
+Total $44k, $11k per partner
 
 ## Lead Generation
 
-~~Revenue per partner $10k~~ What is KPI here?
+What is KPI here? \#leads, \#meetings
 
 * Lead magnets established
 * Email list / CRM approach

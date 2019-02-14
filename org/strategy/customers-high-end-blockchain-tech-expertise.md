@@ -1,32 +1,37 @@
 # High-end blockchain tech expertise for the industry
 
-## 1. DeFi Research
+## Go to profile events + Find people with the expertise needed in the community
 
-Protocols & Services \(Dash, 0x, Binance, Contractland...\)
+### Q1
 
-* DevXP
-* Security Audit
-* Tokenomics / DAO
-* ​[Regulatory Compliance Automation](https://defi.4irelabs.com/docs/complaince-scoring)​
-* ​Remittance services – [Cross Border payments with blockchain](https://docs.google.com/document/d/1_hGranGM5bSelSnkbaFitIT1Ief_uxwjubvXJCBTOEo/edit#heading=h.qfpi451ehfxn)​
+* [Binance SAFU](https://www.binancefair.com/safu-hackathon/)
+* Aracon, Berlin
+* [EthCC](https://ethcc.io/) + [ETHParis Paris](https://ethparis.com/), France March 5-10, 2019
 
-## Supply Chain Research
+### Q2
 
-Manufacturing / Retail \(Zara, Nest\)
+* [Stockholm Blockchain Forum](https://stockholmblockchainforum.com/) – Apr 11
+* [DappDev Kyiv](http://dappdev.org/conference) – April
+* [EDCON](https://www.edcon.io/) – Apr 8-14, Sydney, Australia
 
-* ​[Asset tracking](https://defi.4irelabs.com/docs/asset-tracking) \(supply chain\)
+### Q3
 
-## Startups / Outstaff
+* [https://www.dappcon.io](https://www.dappcon.io)
+* ...
 
-* ​[Architecture Design / Protocol](https://defi.4irelabs.com/docs/architecture-design-protocol)​
-* ​[Crowdfunding](https://defi.4irelabs.com/docs/fund-management-app-wip)​
-* ​[Dapps Development](https://defi.4irelabs.com/docs/dapps-wallets-development)​
-* White label exchange
-* White label hybrid wallet
-* White label payment system
-* White label crypto investment platform
+## Create content \(webinar, podcast, interview\) with top experts in the field
 
-## Community building
+## Create an Advisory Board
 
-...
+## Partner with expert companies
+
+## Create a knowledge base \(wiki\)
+
+## Provide consulting in priority topics with discount or for free
+
+### 
+
+
+
+
 

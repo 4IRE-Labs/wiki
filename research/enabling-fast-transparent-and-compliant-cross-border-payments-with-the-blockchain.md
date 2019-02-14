@@ -1,4 +1,4 @@
-# Enabling fast, transparent and compliant cross-border payments with the blockchain
+# Cross-border payments
 
 For: Remittance services \(SWIFT, Western Union, Transferwise, UAE Exchange [long list](https://www.remitrate.com/money-transfer-companies)\)
 
@@ -164,4 +164,8 @@ The blockchain naturally fits business case for cross-border remittances to:
 * The blockchain solution integration process is divided into two milestones:
 * PoC implementation – vertically scalable prototype
 * Further evolution of blockchain part with all required events captured
+
+## More info
+
+​[https://www.toptal.com/finance/market-research-analysts/international-money-transfer](https://www.toptal.com/finance/market-research-analysts/international-money-transfer)
 
