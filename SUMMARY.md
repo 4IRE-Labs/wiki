@@ -28,6 +28,8 @@
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
 * [Tokenomics Design](services/tokenomics-design.md)
 * [Training / Workshops](services/training-workshops.md)
+* [Portfolio](services/portfolio/README.md)
+  * [CMI](services/portfolio/cmi.md)
 
 ## Archive
 
