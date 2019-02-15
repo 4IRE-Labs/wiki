@@ -1,10 +1,11 @@
 # Navigation
 
-## **Org**
+## **4IRE labs**
 
-* [4IRE labs Thesis](org/strategy/)
+* [Thesis](org/strategy/)
+* [Team](org/team/)
 
-## **Solutions**
+### **Solutions**
 
 * DeFi Protocols & Services \(Dash, 0x, Binance, Contractland...\)
   * [Regulatory Compliance Automation](research/complaince-scoring.md) – **Kirill**
@@ -15,14 +16,14 @@
 * Supply chain \(Zara, Nest...\)
   * [Asset tracking](research/asset-tracking.md) \(supply chain\) – **Bohdan**
 
-## **Services**
+### **Services**
 
 * [Architecture Design / Protocol](services/architecture-design-protocol.md)
 * [Dapps Development](services/dapps-wallets-development.md)
 * [Tokenomics Design](services/tokenomics-design.md)
 * [Training / Workshops](services/training-workshops.md)
 
-## Archive
+### Archive
 
 * [Crowdsourcing App](archive/merge-crowdsourcing-app/)
 * [Crowdfunding](archive/fund-management-app-wip/)

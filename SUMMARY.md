@@ -8,6 +8,9 @@
   * [High-end Expertise](org/strategy/expertise.md)
   * [Growth Opportunities](org/strategy/opportunities.md)
   * [Effective Operations](org/strategy/effective-operations.md)
+* [Team](org/team/README.md)
+  * [Kirill Kirikov](org/team/kirill-kirikov.md)
+  * [Max Semenchuk](org/team/max-semenchuk.md)
 
 ## Labs SOLUTIONS
 

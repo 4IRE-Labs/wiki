@@ -15,24 +15,5 @@
 
 Check out [KPIs and Reports](https://docs.google.com/spreadsheets/d/1epM2aFnLFn3F1SnzkvQrVUzJeFgByMQJ7bi5uj2TBbE/edit#gid=274159345)
 
-## Core Team
-
-* ​[Kirill](https://cryptohire.io/talent/1115)​
-* ​[Oleg](https://youteam.co.uk/talent/3336)​
-* ​[Bohdan](https://cryptohire.io/talent/2209)​
-* Yura \(cv in progress\)
-* Roma \(cv in progress\)
-* Max
-* Helen
-* Stas
-
-​Mere on [https://4irelabs.com/team](https://4irelabs.com/team)
-
-## Additional info
-
-{% embed url="https://www.youtube.com/watch?v=u\_xioPOoSuE&feature=youtu.be" %}
-
-{% embed url="https://youtu.be/DhMvMTwArXA?t=3945" %}
-
 
 
