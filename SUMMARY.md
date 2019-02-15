@@ -43,6 +43,9 @@
 * [Maitres](case-studies/maitres.md)
 * [ORME](case-studies/orme.md)
 * [Crypto Improvement Fund](case-studies/crypto-improvement-fund.md)
+* [Tennagraph \(wip\)](case-studies/tennagraph-wip.md)
+* [ICONX \(wip\)](case-studies/iconx-wip.md)
+* [Contractland \(wip\)](case-studies/contractland-wip.md)
 
 ## Archive
 
