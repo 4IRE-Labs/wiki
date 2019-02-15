@@ -43,6 +43,7 @@
 * [Smart Documents](case-studies/smart-documents.md)
 * [Maitres](case-studies/maitres.md)
 * [ORME](case-studies/orme.md)
+* [Crypto Improvement Fund](case-studies/crypto-improvement-fund.md)
 
 ## Archive
 

@@ -25,3 +25,8 @@
 * [Tokenomics Design](services/tokenomics-design.md)
 * [Training / Workshops](services/training-workshops.md)
 
+### Contacts
+
+Helen Petrashchuk  
+[hp@4irelabs.com](mailto:hp@4irelabs.com)
+
