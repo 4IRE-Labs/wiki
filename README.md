@@ -2,6 +2,8 @@
 
 ## **4IRE labs**
 
+**Purpose:** ideate, research and develop solutions for the industry
+
 * [Thesis](org/strategy/)
 * [Team](org/team/)
 

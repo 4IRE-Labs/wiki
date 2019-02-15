@@ -1,6 +1,4 @@
-# 4IRE Labs Thesis
-
-**Purpose:** ideate, research and develop solutions for the industry
+# Strategy
 
 ## Strategy & Goals
 

@@ -2,9 +2,9 @@
 
 * [Navigation](README.md)
 
-## Org
+## About
 
-* [4IRE Labs Thesis](org/strategy/README.md)
+* [Strategy](org/strategy/README.md)
   * [High-end Expertise](org/strategy/expertise.md)
   * [Growth Opportunities](org/strategy/opportunities.md)
   * [Effective Operations](org/strategy/effective-operations.md)
@@ -28,8 +28,10 @@
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
 * [Tokenomics Design](services/tokenomics-design.md)
 * [Training / Workshops](services/training-workshops.md)
-* [Portfolio](services/portfolio/README.md)
-  * [CMI](services/portfolio/cmi.md)
+
+## Case Studies
+
+* [CMI](case-studies/cmi.md)
 
 ## Archive
 
