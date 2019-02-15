@@ -28,5 +28,11 @@ Check out [KPIs and Reports](https://docs.google.com/spreadsheets/d/1epM2aFnLFn3
 
 ​Mere on [https://4irelabs.com/team](https://4irelabs.com/team)
 
+## Additional info
+
+{% embed url="https://www.youtube.com/watch?v=u\_xioPOoSuE&feature=youtu.be" %}
+
+{% embed url="https://youtu.be/DhMvMTwArXA?t=3945" %}
+
 
 
