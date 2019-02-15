@@ -4,12 +4,12 @@
 
 **Purpose:** ideate, research and develop solutions for the industry
 
-* [Thesis](org/strategy/)
+* [Strategy](org/strategy/)
 * [Team](org/team/)
 
 ### **Solutions**
 
-* [Labs thesis](research/defi-materials.md)
+* [Labs Thesis](research/defi-materials.md)
 * [Regulatory Compliance Automation](research/complaince-scoring.md)
 * [Cross Border payments with blockchain](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
 * [Crypto Assets Security](research/asset-security.md)
