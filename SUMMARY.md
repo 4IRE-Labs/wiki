@@ -10,9 +10,9 @@
   * [Effective Operations](org/strategy/effective-operations.md)
 * [Team](org/team/README.md)
   * [Kirill Kirikov](org/team/kirill-kirikov.md)
-  * [Max Semenchuk](org/team/max-semenchuk.md)
   * [Oleg Bugrovoy](org/team/oleg-bugrovoy.md)
   * [Bohdan Malkevych](org/team/bohdan-malkevych.md)
+  * [Max Semenchuk](org/team/max-semenchuk.md)
 
 ## Labs SOLUTIONS
 
