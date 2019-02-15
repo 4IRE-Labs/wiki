@@ -28,7 +28,7 @@
 
 * [CMI](case-studies/cmi.md)
 * [Hiveonline](case-studies/hiveonline.md)
-* [Social. Media Market](case-studies/social.-media-market.md)
+* [Social Media Market](case-studies/social.-media-market.md)
 * [Kidcoin](case-studies/kidcoin.md)
 * [Kepler Collective](case-studies/kepler-collective.md)
 * [Total Security](case-studies/total-security.md)

@@ -1,4 +1,4 @@
-# Social. Media Market
+# Social Media Market
 
 Blockchain-based decentralized advertising marketplace
 
