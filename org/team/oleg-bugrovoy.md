@@ -3,7 +3,7 @@
 Lead Blockchain & Backend EngineerA skilled backend/blockchain engineer with management skills.
 
 I've designed architecture for high load projects. Brought to life several blockchain products. Several Ferrari and Jaguar car lines have software developed by my team and me.  
-12 years of engineering and 6 years of management experience.   
+10 years of engineering and 6 years of management experience.   
 Led distributed teams up to 30 members.
 
 Projects: [Kidcoin](../../case-studies/kidcoin.md), [Kepler Collective](../../case-studies/kepler-collective.md), [Maitres](../../case-studies/maitres.md)
