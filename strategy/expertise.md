@@ -1,4 +1,4 @@
-# Expertise
+# High-end Expertise
 
 Purpose: Develop High-end blockchain tech expertise for the Finance industry
 
@@ -35,10 +35,6 @@ Metrics:
 ## Create a knowledge base \(wiki\)
 
 ## Develop experience in the priority topics with discount or for free \(probono, hackathons etc\)
-
-### 
-
-
 
 
 

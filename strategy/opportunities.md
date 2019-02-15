@@ -1,4 +1,4 @@
-# Opportunities
+# Growth Opportunities
 
 Purpose: High earning opportunities for blockchain engineers
 
@@ -34,10 +34,6 @@ What is KPI here?
 
 * send on monthly basis report/ updates \( materials, content, company's updates\)
 * Calendar events
-
-## Lower Commission
-
-Attracting +4 new blockchain consultants
 
 ## Account Management
 

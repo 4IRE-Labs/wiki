@@ -1,13 +1,13 @@
 # Goals 2019
 
-1. Expertise – **Kirill**
+1. [High-end Expertise](expertise.md) – **Kirill**
    * $ vol. consulting projects
    * recognition
-2. Opportunities – **Helen**
+2. [Growth Opportunities](opportunities.md) – **Helen**
    * \# opportunities \(leads, meetings etc\)
    * quality of opportunities \(rate\)
    * % commission
-3. Workplace – **Max**
+3. [Effective Operations](effective-operations.md) – **Max**
 
-\* [https://realtimeboard.com/app/board/o9J\_ky87vW4=/](https://realtimeboard.com/app/board/o9J_ky87vW4=/)
+[KPIs](https://docs.google.com/spreadsheets/d/1epM2aFnLFn3F1SnzkvQrVUzJeFgByMQJ7bi5uj2TBbE/edit#gid=274159345)
 

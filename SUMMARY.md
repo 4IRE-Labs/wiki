@@ -23,9 +23,9 @@
 ## Strategy
 
 * [Goals 2019](strategy/strategy.md)
-* [Expertise](strategy/expertise.md)
-* [Opportunities](strategy/opportunities.md)
-* [Workplace](strategy/workplace.md)
+* [High-end Expertise](strategy/expertise.md)
+* [Growth Opportunities](strategy/opportunities.md)
+* [Effective Operations](strategy/effective-operations.md)
 
 ## Archive
 
