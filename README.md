@@ -22,5 +22,9 @@
 * [Tokenomics Design](services/tokenomics-design.md)
 * [Training / Workshops](services/training-workshops.md)
 
-## 
+## Archive
+
+* [Crowdsourcing App](archive/merge-crowdsourcing-app/)
+* [Crowdfunding](archive/fund-management-app-wip/)
+* [Apiary](archive/apiary/)
 
