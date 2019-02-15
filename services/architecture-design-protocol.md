@@ -10,6 +10,10 @@ Case Studies: [Kidcoin](../case-studies/kidcoin.md), [Kepler Collective](../case
 
 Consultants: [Kirill Kirikov](../org/team/kirill-kirikov.md), [Oleg Bugrovoy](../org/team/oleg-bugrovoy.md), [Bohdan Malkevych](../org/team/bohdan-malkevych.md)
 
+## Technologies
+
+![](../.gitbook/assets/image%20%2835%29.png)
+
 ## Product: Discovery Phase Process
 
 1. Architectural Analysis \(AA\) defines the problems an architecture must solve. The outcome of this activity is a set of architecturally significant requirements \(ASRs\).
@@ -18,16 +22,7 @@ Consultants: [Kirill Kirikov](../org/team/kirill-kirikov.md), [Oleg Bugrovoy](..
 4. Architectural Implementation \(AI\) realizes the architecture by creating a detailed design.
 5. Architectural Maintenance and Evolution \(AME\) is to change an architecture for the purpose of fixing faults and architectural evolution is to respond to new requirements at the architectural level
 
-## **Cases Studies**
-
-* Ethereum / Bitcoin bridge
-* Platio
-* Kidcoin
-* Smart-agreements
-* Mogu
-* Commade
-* CIF
-* ORME
+![](../.gitbook/assets/image%20%2833%29.png)
 
 Keywords: blockchchain, architecture solutions, solution architecture, blockchain integration consulting, specifications, tech stack, public blockchain, private blockchain, permissioned blockchain, ethereum, ethereum core, custom blockchain, cloud architecture, protocol development, scaling solutions
 

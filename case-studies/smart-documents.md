@@ -6,5 +6,5 @@ The development of backend and frontend, development and audit of Ethereum smart
 
 Team: [Kirill Kirikov](../org/team/kirill-kirikov.md), Roman Malkevych
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 

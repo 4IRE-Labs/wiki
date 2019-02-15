@@ -28,9 +28,9 @@ You have access to change users' KYC information
 
 Select Corporate or Individual KYC
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2850%29.png)
 
-![](../../.gitbook/assets/image%20%2836%29.png)
+![](../../.gitbook/assets/image%20%2838%29.png)
 
 Select or search for user. There are some information about users that is encrypted.
 
@@ -42,15 +42,15 @@ For Corporate KYC: Business name, Business address, Incorporation number, Busine
 
 For Individual KYC: First name, Last name, Document image, Selfie image, Cryptocurrency address are encrypted.
 
-![](../../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%2840%29.png)
 
-![](../../.gitbook/assets/image%20%2845%29.png)
+![](../../.gitbook/assets/image%20%2847%29.png)
 
 You are able to change user's KYC information and the status. In Admin panel KYC status changes authomaticaly according to Artemis status changing, documents and photos uploading.
 
 Note: You receive KYC accepted/rejected emails only in case of changing KYC status on Artemis.
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2842%29.png)
 
 
 
@@ -62,13 +62,13 @@ To review information about referral program and referrals find Referrals tab in
 
 Find in Referral levels how many percent user will get for each referral transaction \(in decimal\)
 
-![](../../.gitbook/assets/image%20%2841%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 Select Referral programs to see more information.
 
 Min to withdraw means the minimal number of referral tokens is needed on user's balance to be able to withdraw them.
 
-![](../../.gitbook/assets/image%20%2835%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
 Select Referrals from the list to view referrals and their referrers. Referrer receives percent from his referrals.
 
@@ -96,7 +96,7 @@ Select Transaction applies to view details about every transaction \(Eth, Btc, N
 
 You can copy transaction hash and find even more details in Bitcoin transaction details, Ethereum contracts logs and Shape shift orders paragraphs, according to currency of copied transaction address
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2834%29.png)
 
 ### **Tokens Allocation Request**
 
@@ -122,7 +122,7 @@ To withdraw Btc follow these next steps:
 
 2. Press Add and enter  title and btc address of receiver. Save it.
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2836%29.png)
 
 3. Go to **new admin panel** and log in with the same credentials that you used to log in to Django admin
 
@@ -130,7 +130,7 @@ To withdraw Btc follow these next steps:
 
 4. From side menu select Withdraw btc in Btc node section
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 5. Select a previously added Btc address, enter amount of Btc to withdraw
 
@@ -138,7 +138,7 @@ To withdraw Btc follow these next steps:
 
 Open Btc wallet settings and Save a new pass phrase. 
 
-![](../../.gitbook/assets/image%20%2843%29.png)
+![](../../.gitbook/assets/image%20%2845%29.png)
 
 ![](../../.gitbook/assets/image%20%288%29.png)
 
@@ -146,5 +146,5 @@ Open Btc wallet settings and Save a new pass phrase.
 
 To make changes in translations select Translate in Localization tab. Choose language from drop-down menu and press the button.
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
