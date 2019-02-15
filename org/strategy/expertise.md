@@ -54,15 +54,23 @@ Metrics:
       </td>
     </tr>
   </tbody>
-</table>## Create content \(webinar, podcast, interview\) with top experts in the field
+</table>## Develop Expertise Content
+
+Experts: Webinar, podcast, interviews
+
+Knowledge base, wikis...
 
 ## Create an Advisory Board
 
-## Partner with expert companies
+Fintech, Regulation etc.
 
-## Create a knowledge base \(wiki\)
+## Partner with Expert Organizations
 
-## Develop experience in the priority topics with discount or for free \(probono, hackathons etc\)
+Ethereum Enterprise Alliance?
+
+## Develop experience in the priority topics
+
+with discount or for free \(probono, hackathons etc\)
 
 
 
