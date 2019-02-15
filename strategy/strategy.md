@@ -6,8 +6,9 @@
 2. [Growth Opportunities](opportunities.md) – **Helen**
    * \# opportunities \(leads, meetings etc\)
    * quality of opportunities \(rate\)
-   * % commission
+   * 
 3. [Effective Operations](effective-operations.md) – **Max**
+   * % commission
 
-[KPIs](https://docs.google.com/spreadsheets/d/1epM2aFnLFn3F1SnzkvQrVUzJeFgByMQJ7bi5uj2TBbE/edit#gid=274159345)
+Check out [KPI Report](https://docs.google.com/spreadsheets/d/1epM2aFnLFn3F1SnzkvQrVUzJeFgByMQJ7bi5uj2TBbE/edit#gid=274159345)
 
