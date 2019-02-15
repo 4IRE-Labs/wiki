@@ -23,6 +23,8 @@ Presentation: [https://docs.google.com/presentation/d/1aomDG1avh0XlVCTqb\_lBXGdf
 * Voting
 * Staking
 
+ERC 1404
+
 ## References
 
 * [https://blog.neufund.org/good-protocols-how-to-properly-standardize-security-tokens-95ff83c81c4a](https://blog.neufund.org/good-protocols-how-to-properly-standardize-security-tokens-95ff83c81c4a)
