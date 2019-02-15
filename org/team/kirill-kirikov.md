@@ -4,6 +4,8 @@ Lead Blockchain Developer: Ethereum/Solidity, Hyperledger, Multichain
 
 12+ years dev experience, managing team \(up to 30 specialists\), released more than 100 apps. Worked on software for Chrysler & Ferrari. Teaching courses on iOS and Blockchain.
 
+Projects: [CMI](../../services/portfolio/cmi.md), ...
+
 ### INDUSTRY EXPERIENCE
 
 Banking & Finance, Environmental Activism & Social Organisations, Entertainment & Games, Construction & Real estate
