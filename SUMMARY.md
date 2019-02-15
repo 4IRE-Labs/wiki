@@ -12,6 +12,7 @@
   * [Kirill Kirikov](org/team/kirill-kirikov.md)
   * [Max Semenchuk](org/team/max-semenchuk.md)
   * [Oleg Bugrovoy](org/team/oleg-bugrovoy.md)
+  * [Bohdan Malkevych](org/team/bohdan-malkevych.md)
 
 ## Labs SOLUTIONS
 
