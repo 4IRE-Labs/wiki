@@ -1,6 +1,13 @@
 # Table of contents
 
-* [4IRE Labs Thesis](README.md)
+* [Navigation](README.md)
+
+## Org
+
+* [4IRE Labs Thesis](org/strategy/README.md)
+  * [High-end Expertise](org/strategy/expertise.md)
+  * [Growth Opportunities](org/strategy/opportunities.md)
+  * [Effective Operations](org/strategy/effective-operations.md)
 
 ## Labs SOLUTIONS
 
@@ -18,13 +25,6 @@
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
 * [Tokenomics Design](services/tokenomics-design.md)
 * [Training / Workshops](services/training-workshops.md)
-
-## Strategy
-
-* [Goals 2019](strategy/strategy.md)
-* [High-end Expertise](strategy/expertise.md)
-* [Growth Opportunities](strategy/opportunities.md)
-* [Effective Operations](strategy/effective-operations.md)
 
 ## Archive
 

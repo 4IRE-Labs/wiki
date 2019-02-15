@@ -1,6 +1,8 @@
-# 4IRE Labs Thesis
+# Navigation
 
-**Purpose:** ideate, research and validate solutions for the industry
+## **Org**
+
+* [4IRE labs Thesis](org/strategy/)
 
 ## **Solutions**
 
@@ -20,16 +22,5 @@
 * [Tokenomics Design](services/tokenomics-design.md)
 * [Training / Workshops](services/training-workshops.md)
 
-## Core Team
-
-* ​[Kirill](https://cryptohire.io/talent/1115)​
-* ​[Oleg](https://youteam.co.uk/talent/3336)​
-* ​[Bohdan](https://cryptohire.io/talent/2209)​
-* Yura \(cv in progress\)
-* Roma \(cv in progress\)
-* Max
-* Helen
-* Stas
-
-​Mere on [https://4irelabs.com/team](https://4irelabs.com/team)
+## 
 
