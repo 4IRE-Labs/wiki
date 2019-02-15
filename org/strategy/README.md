@@ -10,7 +10,6 @@
 2. [Growth Opportunities](opportunities.md) – **Helen**
    * \# opportunities \(leads, meetings etc\)
    * quality of opportunities \(rate\)
-   * 
 3. [Effective Operations](effective-operations.md) – **Max**
    * % commission
 
