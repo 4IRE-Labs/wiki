@@ -1,7 +1,6 @@
 # Table of contents
 
 * [4IRE Labs Thesis](README.md)
-* [Our Team](engineering-team.md)
 
 ## Labs SOLUTIONS
 
