@@ -4,7 +4,7 @@ CIF is the educational ecosystem that is built on the blockchain and is spreadin
 
 Works: Fixing the problems suffered by the CIF's software along with the dash fork development, technical support and consulting.
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 ### Customer review
 
