@@ -29,7 +29,6 @@
 
 ## Archive
 
-* [Roaming](archive/roaming.md)
 * [Merging.Space – crowdsourcing app](archive/merge-crowdsourcing-app/README.md)
   * [Merging.Space Overview](archive/merge-crowdsourcing-app/merge-space-overview.md)
 * [Crowdfunding](archive/fund-management-app-wip/README.md)
