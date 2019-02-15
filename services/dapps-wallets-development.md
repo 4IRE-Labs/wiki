@@ -11,76 +11,107 @@
 * UX designing for fintech products
 * POC development and idea validation
 
-Case studies: winstars\*, kidcoin, iconx, kepler, smartdocs POC, tennagraph, inblockio events
+Case Studies: [Kidcoin](../case-studies/kidcoin.md), [Kepler Collective](../case-studies/kepler-collective.md), [Social. Media Market](../case-studies/social.-media-market.md), [Smart Documents](../case-studies/smart-documents.md), [ORME](../case-studies/orme.md)
 
-Who: POC for startups or side projects for established crypto-related companies
+Consultants: [Kirill Kirikov](../org/team/kirill-kirikov.md), [Oleg Bugrovoy](../org/team/oleg-bugrovoy.md), [Bohdan Malkevych](../org/team/bohdan-malkevych.md)
 
-Techstack: Ethereum/Solidity, Python, Vue.js + some variation
+### Tech stack
 
-Costs: ~$10-100k per app
-
-Expertise development:
-
-* Write / Show more on Design / Usability
-* Fintech examples review
-* Повышать кадровую эффективность
-
-### Tech
-
-* Ethereum
-* DASH
-* Hyperledger
-
-
-
-* Front [Malkevych Bohdan](http://docs.seductive-cloud.com/display/~webslesar)
-  * Vue.js
-  * SASS / CSS
-  * Webpack
-  * eslint
-  * ES 6
-* Back [Malkevych Bohdan](http://docs.seductive-cloud.com/display/~webslesar)
-  * python 3
-  * pipenv
-  * django
-  * celery
-  * jwt
-  * django rest framework
-  * postgres
-  * redis 
-  * boto3
-* Infrastructure ??
-  * prometheus
-  * logstash
-  * kibana
-  * elasticsearch
-  * grafana
-  * docker
-  * kubernetes
-  * helm
-  * teamcity
-  * nginx
-  * aws
-  * linux
-* Blockchain [Malkevych Bohdan](http://docs.seductive-cloud.com/display/~webslesar), [Kirill](http://docs.seductive-cloud.com/display/~seductive) 
-  * web3 js / py
-  * ethereum
-  * ethermint
-  * tendermint
-  * bitcoin
-  * dash
-  * shapeshift
-  * truffle
-  * testrpc
-  * zeppelin-solidity
-  * solidity
-  * mocha
-  * go
-  * quorum
-  * hyperedger burrow
-  * hyperledger sawtooth lake
-  * hyperledger fabric
-  * NEO
-  * infura
-* Mobile iOS/ PWA [Malkevych Bohdan](http://docs.seductive-cloud.com/display/~webslesar)[Kirill](http://docs.seductive-cloud.com/display/~seductive) 
-
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Group</th>
+      <th style="text-align:left">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Blochchain</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>web3 js / py</li>
+          <li>ethereum</li>
+          <li>ethermint</li>
+          <li>tendermint</li>
+          <li>bitcoin</li>
+          <li>dash</li>
+          <li>shapeshift</li>
+          <li>truffle</li>
+          <li>testrpc</li>
+          <li>zeppelin-solidity</li>
+          <li>solidity</li>
+          <li>mocha</li>
+          <li>go</li>
+          <li>quorum</li>
+          <li>hyperedger burrow</li>
+          <li>hyperledger sawtooth lake</li>
+          <li>hyperledger fabric</li>
+          <li>NEO</li>
+          <li>infura</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Front-end</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Vue.js</li>
+          <li>SASS / CSS</li>
+          <li>Webpack</li>
+          <li>eslint</li>
+          <li>ES 6</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Back-end</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>python 3</li>
+          <li>pipenv</li>
+          <li>django</li>
+          <li>celery</li>
+          <li>jwt</li>
+          <li>django rest framework</li>
+          <li>postgres</li>
+          <li>redis</li>
+          <li>boto3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Infrastructure</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>prometheus</li>
+          <li>logstash</li>
+          <li>kibana</li>
+          <li>elasticsearch</li>
+          <li>grafana</li>
+          <li>docker</li>
+          <li>kubernetes</li>
+          <li>helm</li>
+          <li>teamcity</li>
+          <li>nginx</li>
+          <li>aws</li>
+          <li>linux</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Mobile</td>
+      <td style="text-align:left">
+        <ul>
+          <li>iOS</li>
+          <li>PWA
+            <br />
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>

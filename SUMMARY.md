@@ -28,8 +28,8 @@
 
 * [Architecture / Protocol Design](services/architecture-design-protocol.md)
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
-* [Tokenomics Design](services/tokenomics-design.md)
-* [Training / Workshops](services/training-workshops.md)
+* [Tokenomics Design \(wip\)](services/tokenomics-design.md)
+* [Training / Workshops \(wip\)](services/training-workshops.md)
 
 ## Case Studies
 

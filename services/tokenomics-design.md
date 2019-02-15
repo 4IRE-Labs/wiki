@@ -1,4 +1,4 @@
-# Tokenomics Design
+# Tokenomics Design \(wip\)
 
 * Math Modelling
 * Game Theory
