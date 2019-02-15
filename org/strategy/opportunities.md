@@ -7,18 +7,15 @@ Purpose: High earning opportunities for blockchain engineers
 
 ## Industry Profiling
 
-What is KPI here? 
-
-* Lead magnets established
-* Email list / CRM approach
+* Email list
 
 ## Research Media Support
 
-...
+* PR
+* Leads Capture
 
 ## Extend / Empower Partner Network
 
-* Kyiv \(HQ\)
 * Toronto \(Scott\)
 * Stockholm \(Johan\)
 * Singapore \(GQ\)
