@@ -1,11 +1,11 @@
 # Table of contents
 
 * [4IRE Labs Thesis](README.md)
-* [Research Methodology](defi-materials.md)
 * [Our Team](engineering-team.md)
 
-## SOLUTIONS
+## Labs SOLUTIONS
 
+* [Research Methodology](research/defi-materials.md)
 * [Compliance Automation](research/complaince-scoring/README.md)
   * [Transparency for the Community-Driven Projects](research/complaince-scoring/transparency-for-the-community-driven-projects.md)
 * [Cross-border payments](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
