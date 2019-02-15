@@ -14,7 +14,7 @@
   * [Bohdan Malkevych](org/team/bohdan-malkevych.md)
   * [Max Semenchuk](org/team/max-semenchuk.md)
 
-## Labs SOLUTIONS
+## Solutions
 
 * [Labs Thesis](research/defi-materials.md)
 * [Compliance Automation](research/complaince-scoring.md)
