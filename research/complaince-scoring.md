@@ -79,3 +79,7 @@ Goto market: make a small prototype, setup demos/interview meetings with major p
 
 Scaling: present widely the results of the case in media and conferences. Open up automated sign up service. In future - make the service to be decentralized and working on the blockchain.
 
+## References
+
+* [Transparency in Networked Orgs](https://wiki.dgov.foundation/research/transparency-in-networked-orgs)
+
