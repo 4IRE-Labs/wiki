@@ -12,7 +12,7 @@ Banking & Finance, Environmental Activism & Social Organisations, Entertainment 
 
 ### PRODUCT EXPERIENCE
 
-mobile financial management tool, Environment monitoring system/ enterprise app and server/ cameras streaming and recording, Middleware for integration of wallet services and consumers, e-learning gamification solution, ICO
+Mobile financial management tool, Environment monitoring system/ enterprise app and server/ cameras streaming and recording, Middleware for integration of wallet services and consumers, e-learning gamification solution, ICO
 
 ### TECH
 
