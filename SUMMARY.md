@@ -23,6 +23,7 @@
 * [Supply Chain Asset Tracking \(wip\)](research/asset-tracking.md)
 * [DevXP \(wip\)](research/developer-community-devxp.md)
 * [STO Platform \(wip\)](research/sto-platform.md)
+* [Crypto Improvement Fund](research/crypto-improvement-fund.md)
 
 ## Services
 
@@ -37,6 +38,11 @@
 * [HiveOnline](case-studies/hiveonline.md)
 * [Social. Media Market](case-studies/social.-media-market.md)
 * [Kidcoin](case-studies/kidcoin.md)
+* [Kepler Collective](case-studies/kepler-collective.md)
+* [Total Security](case-studies/total-security.md)
+* [Smart Documents](case-studies/smart-documents.md)
+* [Maitres](case-studies/maitres.md)
+* [ORME](case-studies/orme.md)
 
 ## Archive
 
