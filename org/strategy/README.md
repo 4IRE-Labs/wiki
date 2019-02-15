@@ -13,8 +13,7 @@
 3. [Effective Operations](effective-operations.md) – **Max**
    * % commission
 
-Check out [KPIs and Reports](https://docs.google.com/spreadsheets/d/1epM2aFnLFn3F1SnzkvQrVUzJeFgByMQJ7bi5uj2TBbE/edit#gid=274159345)  
-****
+Check out [KPIs and Reports](https://docs.google.com/spreadsheets/d/1epM2aFnLFn3F1SnzkvQrVUzJeFgByMQJ7bi5uj2TBbE/edit#gid=274159345)
 
 ## Core Team
 
