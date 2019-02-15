@@ -2,16 +2,16 @@
 
 For: Logistics, Manufacturers, Transporation, FMCG etc.
 
+Problem statement: defining a technical solution for
+
 * Settlement automation
 * Product Quality Tracking 
 
-
-
-1.The first option based on Onfleet solution
+## 1.The first option based on Onfleet solution
 
 Review API [http://docs.onfleet.com/docs/authentication](https://www.google.com/url?q=http://docs.onfleet.com/docs/authentication&sa=D&ust=1550156358685000) 
 
-Positive Points
+### Positive Points
 
 * Quick start \(SaaS\)
 * Already in production
@@ -22,7 +22,7 @@ Positive Points
 * Covers logistic problem
 * Metadata lets you annotate many of the API’s entities with your own personalized data. This allows to be flexible in describing
 
-Negative Points
+### Negative Points
 
 * Third party service, so some bugs which can be found, can’t be fixed by our team
 * Created to solve general problem \(some your needs can be uncovered\) and hard to expand
@@ -32,7 +32,7 @@ Negative Points
 * Exists mobile app for driver but can’t be modified for our needs.
 * We always need to maintain new versions of OnFleet API.
 
-2.  The second solution based on the white label solution + licence fee
+## 2.  The second solution based on the white label solution + licence fee
 
 As mentioned on a call,  we could suggest considering the ready white-label solution aimed more for tracking the production part that we are partly involved in development with our partner company.
 
@@ -58,13 +58,13 @@ The possible solutions for usage the white label solution :
 
 One of the clients [https://www.sigmaledger.com/](https://www.google.com/url?q=https://www.sigmaledger.com/&sa=D&ust=1550156358689000)
 
-3. The third option could be a custom solution based on IOTA or Hyperledger Sawtooth framework
+## 3. The third option could be a custom solution based on IOTA or Hyperledger Sawtooth framework
 
 Problem
 
 Lack of transparency/proof of product composition/, increase the customer trust and atomization the delivery process for the high-load system                                         
 
-Benefits of using the Sawtooth
+### Benefits of using the Sawtooth
 
 * custom scalable solution with own infrastructure that could decrease the dev costs
 * has the smart contract that could be used for the traceability \( we don't need to write the logic on backend like it would be with IOTA solution as they dont have the smart contracts\)
@@ -76,7 +76,7 @@ Benefits of using the Sawtooth
 * ecosystem based on blockless blockchain
 * lightweigh solution         
 
-Benefits of using the IOTA
+### Benefits of using the IOTA
 
 * IOTA’s architecture is inherently decentralized
 * zero fees for the transaction verification \( verification is done by two randomly chosen transactions in the network.\)
@@ -86,11 +86,11 @@ Benefits of using the IOTA
 
 Comparison of both platforms                                                 
 
-Proof-of-concept stage                                                
+## Proof-of-concept stage                                                
 
 It can be done using Hyperledger Sawtooth or IOTA protocol \(Tange\). Both platforms are developed specifically for IoT and machine economy. There is a small comparison:                                                
 
-**Hyperledger Sawtooth:**
+### **Hyperledger Sawtooth:**
 
 * started in December 2015 by the Linux Foundation                                
 * supported by IBM, Intel and SAP                                                 
@@ -105,7 +105,7 @@ It can be done using Hyperledger Sawtooth or IOTA protocol \(Tange\). Both platf
 * big community                                                                
 * permission blockchain
 
-**IOTA Protocol \(Tange\):**
+### **IOTA Protocol \(Tange\):**
 
 * started in 2015                                                                         
 * open-source
