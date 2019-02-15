@@ -5,7 +5,7 @@ Purpose: High earning opportunities for blockchain engineers
 * \# opportunities \(leads, meetings etc\)
 * quality of opportunities
 
-## Industry Profiling / Contacts
+## Industry Profiling
 
 What is KPI here? 
 
@@ -32,10 +32,8 @@ What is KPI here?
 
 ### Action points
 
-* send on monthly basis report/ updates \( materials, content, company's updates\)
-* Calendar events
+* Send on monthly basis report/ updates \( materials, content, company's updates\)
+* Share costs on attending events
 
-## Account Management
 
-...
 
