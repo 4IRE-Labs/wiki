@@ -6,13 +6,11 @@ Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 
 ## Easy Docs/Accounting process
 
-### Company in Estonia established
-
-...
+Establish a company in Estonia
 
 ## Lower Commission
 
-Attracting +4 new blockchain consultants
+Attracting additional blockchain consultants
 
 ## 
 
