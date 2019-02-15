@@ -1,4 +1,4 @@
-# HiveOnline
+# Hiveonline
 
 The financial trust platform for small businesses
 

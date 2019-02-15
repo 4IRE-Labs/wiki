@@ -9,14 +9,13 @@
 
 ### **Solutions**
 
-* Fintech & DeFi
-  * [Regulatory Compliance Automation](research/complaince-scoring.md) – **Kirill**
-  * [Cross Border payments with blockchain](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) – **Kirill**
-  * [Crypto Assets Security](research/asset-security.md) – **Oleg**
-  * [DevXP](research/developer-community-devxp.md) – **Max**
-  * [Security Token Offering \(STO\) Platform](research/sto-platform.md) – **Max**
-* Supply chain
-  * [Asset tracking](research/asset-tracking.md) \(supply chain\) – **Bohdan**
+* [Labs thesis](research/defi-materials.md)
+* [Regulatory Compliance Automation](research/complaince-scoring.md)
+* [Cross Border payments with blockchain](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
+* [Crypto Assets Security](research/asset-security.md)
+* [DevXP](research/developer-community-devxp.md)
+* [Security Token Offering \(STO\) Platform](research/sto-platform.md)
+* [Supply Chain Asset tracking](research/asset-tracking.md)
 
 ### **Services**
 
@@ -24,6 +23,19 @@
 * [Dapps Development](services/dapps-wallets-development.md)
 * [Tokenomics Design](services/tokenomics-design.md)
 * [Training / Workshops](services/training-workshops.md)
+
+### Portfolio
+
+* [CMI](case-studies/cmi.md)
+* [Hiveonline](case-studies/hiveonline.md)
+* [Social. Media Market](case-studies/social.-media-market.md)
+* [Kidcoin](case-studies/kidcoin.md)
+* [Kepler Collective](case-studies/kepler-collective.md)
+* [Total Security](case-studies/total-security.md)
+* [Smart Documents](case-studies/smart-documents.md)
+* [Maitres](case-studies/maitres.md)
+* [ORME](case-studies/orme.md)
+* [Crypto Improvement Fund](case-studies/crypto-improvement-fund.md)
 
 ### Contacts
 

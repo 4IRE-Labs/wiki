@@ -16,14 +16,13 @@
 
 ## Labs SOLUTIONS
 
+* [Labs Thesis](research/defi-materials.md)
 * [Compliance Automation](research/complaince-scoring.md)
 * [Cross-border payments](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
 * [Crypto Assets Security \(wip\)](research/asset-security.md)
 * [Supply Chain Asset Tracking \(wip\)](research/asset-tracking.md)
 * [DevXP \(wip\)](research/developer-community-devxp.md)
 * [STO Platform \(wip\)](research/sto-platform.md)
-* [Crypto Improvement Fund](research/crypto-improvement-fund.md)
-* [Research Methodology](research/defi-materials.md)
 
 ## Services
 
@@ -35,7 +34,7 @@
 ## Case Studies
 
 * [CMI](case-studies/cmi.md)
-* [HiveOnline](case-studies/hiveonline.md)
+* [Hiveonline](case-studies/hiveonline.md)
 * [Social. Media Market](case-studies/social.-media-market.md)
 * [Kidcoin](case-studies/kidcoin.md)
 * [Kepler Collective](case-studies/kepler-collective.md)
