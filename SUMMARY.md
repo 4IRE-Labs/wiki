@@ -16,7 +16,6 @@
 
 ## Labs SOLUTIONS
 
-* [Research Methodology](research/defi-materials.md)
 * [Compliance Automation](research/complaince-scoring.md)
 * [Cross-border payments](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
 * [Crypto Assets Security \(wip\)](research/asset-security.md)
@@ -24,6 +23,7 @@
 * [DevXP \(wip\)](research/developer-community-devxp.md)
 * [STO Platform \(wip\)](research/sto-platform.md)
 * [Crypto Improvement Fund](research/crypto-improvement-fund.md)
+* [Research Methodology](research/defi-materials.md)
 
 ## Services
 
