@@ -10,7 +10,7 @@
   * [Asset Security](research/asset-security.md) – **Oleg**
   * [DevXP](research/developer-community-devxp.md) – **Max**
   * [Security Token Offering \(STO\) Platform](research/sto-platform.md) – **Max**
-* Supply chain \(Zara, Nest\)
+* Supply chain \(Zara, Nest...\)
   * [Asset tracking](research/asset-tracking.md) \(supply chain\) – **Bohdan**
 
 ## **Services**
