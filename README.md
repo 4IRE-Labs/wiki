@@ -9,13 +9,13 @@
 
 ### **Solutions**
 
-* DeFi Protocols & Services \(Dash, 0x, Binance, Contractland...\)
+* Fintech & DeFi
   * [Regulatory Compliance Automation](research/complaince-scoring.md) – **Kirill**
   * [Cross Border payments with blockchain](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) – **Kirill**
   * [Asset Security](research/asset-security.md) – **Oleg**
   * [DevXP](research/developer-community-devxp.md) – **Max**
   * [Security Token Offering \(STO\) Platform](research/sto-platform.md) – **Max**
-* Supply chain \(Zara, Nest...\)
+* Supply chain
   * [Asset tracking](research/asset-tracking.md) \(supply chain\) – **Bohdan**
 
 ### **Services**
