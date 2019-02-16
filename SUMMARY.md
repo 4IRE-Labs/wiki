@@ -13,6 +13,7 @@
   * [Oleg Bugrovoy](org/team/oleg-bugrovoy.md)
   * [Bohdan Malkevych](org/team/bohdan-malkevych.md)
   * [Max Semenchuk](org/team/max-semenchuk.md)
+* [Credentials \(wip\)](org/credentials-wip.md)
 
 ## Solutions
 

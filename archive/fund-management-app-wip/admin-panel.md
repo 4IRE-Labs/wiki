@@ -146,5 +146,5 @@ Open Btc wallet settings and Save a new pass phrase.
 
 To make changes in translations select Translate in Localization tab. Choose language from drop-down menu and press the button.
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../.gitbook/assets/image%20%2853%29.png)
 
