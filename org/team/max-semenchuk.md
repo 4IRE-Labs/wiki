@@ -22,3 +22,7 @@ Decentralization, Holacracy, Coaching, DAO, Design Thinking, Lean Startup, Produ
 
 {% embed url="https://youtu.be/DhMvMTwArXA?t=3945" %}
 
+{% embed url="https://www.youtube.com/watch?v=qewjx\_Ls1JI&list=PLDj0XyKkeYnfKo\_yGij3ciK8lI9f3\_VhL&index=9" %}
+
+
+
