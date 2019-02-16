@@ -13,7 +13,6 @@
   * [Oleg Bugrovoy](org/team/oleg-bugrovoy.md)
   * [Bohdan Malkevych](org/team/bohdan-malkevych.md)
   * [Max Semenchuk](org/team/max-semenchuk.md)
-* [Credentials \(wip\)](org/credentials-wip.md)
 
 ## Solutions
 
@@ -31,6 +30,7 @@
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
 * [Tokenomics Design \(wip\)](services/tokenomics-design.md)
 * [Training / Workshops \(wip\)](services/training-workshops.md)
+* [Credentials \(wip\)](services/credentials-wip.md)
 
 ## Case Studies
 
