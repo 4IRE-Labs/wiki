@@ -70,6 +70,8 @@ Fintech, Regulation etc.
 
 Ethereum Enterprise Alliance?
 
+Coreteka
+
 ## Develop experience in the priority topics
 
 with discount or for free \(probono, hackathons etc\)
