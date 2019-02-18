@@ -8,15 +8,27 @@
 
 ### Expertise Lead
 
-* [Consultant](https://app.glassfrog.com/roles/10384074)
+Purpose:  Develop [High-end Expertise](strategy/expertise.md)
+
+**Subroles:**
+
 * [DeFi Labs](https://app.glassfrog.com/roles/10097263)
+* [Consultant](https://app.glassfrog.com/roles/10384074)
 
 ### Growth Lead
+
+Purpose: Develop [Growth Opportunities](strategy/opportunities.md) 
+
+**Subroles:**
 
 * [Lead Generator](https://app.glassfrog.com/roles/11365547)
 * [Partnership Program Manager](https://app.glassfrog.com/roles/10086348)
 
 ### Operations Lead
+
+Purpose: Maintain [Effective Operations](strategy/effective-operations.md)
+
+**Subroles:**
 
 * [Менеджер по оформлению контрактов](https://app.glassfrog.com/roles/10939004)
 * [Account Manager](https://app.glassfrog.com/roles/10057397)
