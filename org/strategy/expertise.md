@@ -54,7 +54,9 @@ Metrics:
       </td>
     </tr>
   </tbody>
-</table>## Develop Expertise Content
+</table>trips should be supporting specific research
+
+## Develop Expertise Content
 
 Experts: Webinar, podcast, interviews
 
