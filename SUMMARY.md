@@ -8,6 +8,7 @@
   * [Provide High-End Expertise](org/strategy/expertise.md)
   * [Growth Opportunities](org/strategy/opportunities.md)
   * [Effective Operations](org/strategy/effective-operations.md)
+* [Governance](org/governance.md)
 * [Team](org/team/README.md)
   * [Kirill Kirikov](org/team/kirill-kirikov.md)
   * [Oleg Bugrovoy](org/team/oleg-bugrovoy.md)
