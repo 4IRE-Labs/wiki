@@ -17,6 +17,8 @@ Consultants: [Kirill Kirikov](../org/team/kirill-kirikov.md), [Oleg Bugrovoy](..
 
 ### Tech stack
 
+
+
 <table>
   <thead>
     <tr>
