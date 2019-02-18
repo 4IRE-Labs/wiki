@@ -5,7 +5,7 @@
 ## About
 
 * [Strategy](org/strategy/README.md)
-  * [High-end Expertise](org/strategy/expertise.md)
+  * [Provide High-End Expertise](org/strategy/expertise.md)
   * [Growth Opportunities](org/strategy/opportunities.md)
   * [Effective Operations](org/strategy/effective-operations.md)
 * [Team](org/team/README.md)

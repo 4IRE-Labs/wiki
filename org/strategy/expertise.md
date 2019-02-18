@@ -1,4 +1,4 @@
-# High-end Expertise
+# Provide High-End Expertise
 
 Purpose: Develop High-end blockchain tech expertise for the Finance industry
 
@@ -7,7 +7,7 @@ Metrics:
 * $ vol. consulting projects
 * recognition \(e.g. speeches, awards etc\)
 
-## Participate in the community events
+## Being integrated in the blockchain finance community
 
 <table>
   <thead>
@@ -68,9 +68,8 @@ Fintech, Regulation etc.
 
 ## Partner with Expert Organizations
 
-Ethereum Enterprise Alliance?
-
-Coreteka
+* Ethereum Enterprise Alliance?
+* Coreteka for Logistics
 
 ## Develop experience in the priority topics
 
