@@ -28,7 +28,7 @@ You have access to change users' KYC information
 
 Select Corporate or Individual KYC
 
-![](../../.gitbook/assets/image%20%2851%29.png)
+![](../../.gitbook/assets/image%20%2852%29.png)
 
 ![](../../.gitbook/assets/image%20%2839%29.png)
 
@@ -44,7 +44,7 @@ For Individual KYC: First name, Last name, Document image, Selfie image, Cryptoc
 
 ![](../../.gitbook/assets/image%20%2841%29.png)
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 You are able to change user's KYC information and the status. In Admin panel KYC status changes authomaticaly according to Artemis status changing, documents and photos uploading.
 
@@ -146,5 +146,5 @@ Open Btc wallet settings and Save a new pass phrase.
 
 To make changes in translations select Translate in Localization tab. Choose language from drop-down menu and press the button.
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
