@@ -4,7 +4,7 @@ Kepler Collective is the blockchain application that serves as a hub helping for
 
 Work: Integration of KYC capabilities, the deployment of smart contracts and addition of other blockchain-based features were the responsibilities of our team.
 
-Team: [Kirill Kirikov](../org/team/kirill-kirikov.md), [Oleg Burgovoy](../org/team/oleg-bugrovoy.md)
+Team: [Kirill Kirikov](../about/team/kirill-kirikov.md), [Oleg Burgovoy](../about/team/oleg-bugrovoy.md)
 
 ![](../.gitbook/assets/image%20%281%29.png)
 

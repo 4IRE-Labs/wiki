@@ -2,29 +2,6 @@
 
 * [Navigation](README.md)
 
-## About
-
-* [Strategy](org/strategy/README.md)
-  * [Provide High-End Expertise](org/strategy/expertise.md)
-  * [Growth Opportunities](org/strategy/opportunities.md)
-  * [Effective Operations](org/strategy/effective-operations.md)
-* [Governance](org/governance.md)
-* [Team](org/team/README.md)
-  * [Kirill Kirikov](org/team/kirill-kirikov.md)
-  * [Oleg Bugrovoy](org/team/oleg-bugrovoy.md)
-  * [Bohdan Malkevych](org/team/bohdan-malkevych.md)
-  * [Max Semenchuk](org/team/max-semenchuk.md)
-
-## Solutions
-
-* [Labs Thesis](research/defi-materials.md)
-* [Compliance Automation](research/complaince-scoring.md)
-* [Cross-border payments](research/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
-* [Crypto Assets Security \(wip\)](research/asset-security.md)
-* [Supply Chain Asset Tracking \(wip\)](research/asset-tracking.md)
-* [DevXP \(wip\)](research/developer-community-devxp.md)
-* [STO Platform \(wip\)](research/sto-platform.md)
-
 ## Services
 
 * [Architecture / Protocol Design](services/architecture-design-protocol.md)
@@ -48,6 +25,29 @@
 * [Tennagraph \(wip\)](case-studies/tennagraph-wip.md)
 * [ICONX \(wip\)](case-studies/iconx-wip.md)
 * [Contractland \(wip\)](case-studies/contractland-wip.md)
+
+## About
+
+* [Strategy](about/strategy/README.md)
+  * [Provide High-End Expertise](about/strategy/expertise.md)
+  * [Growth Opportunities](about/strategy/opportunities.md)
+  * [Effective Operations](about/strategy/effective-operations.md)
+* [Governance](about/governance.md)
+* [Team](about/team/README.md)
+  * [Kirill Kirikov](about/team/kirill-kirikov.md)
+  * [Oleg Bugrovoy](about/team/oleg-bugrovoy.md)
+  * [Bohdan Malkevych](about/team/bohdan-malkevych.md)
+  * [Max Semenchuk](about/team/max-semenchuk.md)
+
+## Solutions
+
+* [Labs Thesis](solutions/defi-materials.md)
+* [Compliance Automation](solutions/complaince-scoring.md)
+* [Cross-border payments](solutions/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
+* [Crypto Assets Security \(wip\)](solutions/asset-security.md)
+* [Supply Chain Asset Tracking \(wip\)](solutions/asset-tracking.md)
+* [DevXP \(wip\)](solutions/developer-community-devxp.md)
+* [STO Platform \(wip\)](solutions/sto-platform.md)
 
 ## Archive
 

@@ -52,8 +52,6 @@ Note: You receive KYC accepted/rejected emails only in case of changing KYC stat
 
 ![](../../.gitbook/assets/image%20%2843%29.png)
 
-
-
 ### **Referrals**
 
 To review information about referral program and referrals find Referrals tab in Admin panel
@@ -116,27 +114,24 @@ To withdraw Btc follow these next steps:
 
 1. On Django admin panel open Authorized btc address
 
-
-
 ![](../../.gitbook/assets/image%20%2827%29.png)
 
-2. Press Add and enter  title and btc address of receiver. Save it.
+1. Press Add and enter  title and btc address of receiver. Save it.
 
 ![](../../.gitbook/assets/image%20%2837%29.png)
 
-3. Go to **new admin panel** and log in with the same credentials that you used to log in to Django admin
+1. Go to **new admin panel** and log in with the same credentials that you used to log in to Django admin
 
 ![](../../.gitbook/assets/image%20%2820%29.png)
 
-4. From side menu select Withdraw btc in Btc node section
+1. From side menu select Withdraw btc in Btc node section
 
 ![](../../.gitbook/assets/image%20%2842%29.png)
 
-5. Select a previously added Btc address, enter amount of Btc to withdraw
+1. Select a previously added Btc address, enter amount of Btc to withdraw
+2. Enter passphrase and press Withdraw. This transaction will be displayed below.
 
-6. Enter passphrase and press Withdraw. This transaction will be displayed below.
-
-Open Btc wallet settings and Save a new pass phrase. 
+Open Btc wallet settings and Save a new pass phrase.
 
 ![](../../.gitbook/assets/image%20%2846%29.png)
 
@@ -146,5 +141,5 @@ Open Btc wallet settings and Save a new pass phrase.
 
 To make changes in translations select Translate in Localization tab. Choose language from drop-down menu and press the button.
 
-![](../../.gitbook/assets/image%20%2854%29.png)
+![](../../.gitbook/assets/image-54.png)
 
