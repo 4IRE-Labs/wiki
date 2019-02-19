@@ -18,8 +18,6 @@ Mobile financial management tool, Environment monitoring system/ enterprise app 
 
 #### Programming Languages:
 
-* AMAZON EC2
-* [AMAZON S3](https://cryptohire.io/results/amazon-s3)
 * [DJANGO](https://cryptohire.io/results/django)
 * [FLASK](https://cryptohire.io/results/flask)
 * [JAVASCRIPT](https://cryptohire.io/results/javascript)
@@ -66,6 +64,9 @@ Libraries/Frameworks/Tools: [CSS](https://cryptohire.io/results/css) [XML](https
 
 * [https://ethresear.ch/t/terra-bridge-protocol-for-interchain-token-transfers-between-ethereum-and-bitcoin/4522](https://ethresear.ch/t/terra-bridge-protocol-for-interchain-token-transfers-between-ethereum-and-bitcoin/4522)
 * [https://4irelabs.com/blockchain\_cards](https://4irelabs.com/blockchain_cards)
+* \*\*\*\*[**https://github.com/ContractLand/terra-bridge-btc**](https://github.com/ContractLand/terra-bridge-btc)\*\*\*\*
+
+\*\*\*\*
 
 {% embed url="https://www.youtube.com/watch?v=UQKm10JVj-s" %}
 
