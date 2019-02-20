@@ -14,12 +14,11 @@
   * [Regulatory Compliance Automation](solutions/complaince-scoring.md) – Kirill
   * [Cross Border payments with blockchain](solutions/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) – Kirill
   * [Crypto Assets Security](solutions/asset-security.md) – Oleg
-  * [DevXP](solutions/developer-community-devxp.md) – Max
-  * [Security Token Offering \(STO\) Platform](solutions/sto-platform.md) – Max
   * [Continuous Token Model](solutions/continuous-token-model/) – Max
+  * [Security Token Offering \(STO\) Platform](solutions/sto-platform.md) – Max
 * [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md) – Bohdan
-* Supply chain
-  * [Asset tracking](solutions/asset-tracking.md) \(supply chain\) – Bohdan
+* [Asset tracking for the supply chain](solutions/asset-tracking.md) – Bohdan
+* [DevXP](solutions/developer-community-devxp.md) – Max
 
 ### **Services**
 
