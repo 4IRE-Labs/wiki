@@ -47,6 +47,10 @@
 * [Crypto Assets Security \(wip\)](solutions/asset-security.md)
 * [Supply Chain Asset Tracking \(wip\)](solutions/asset-tracking.md)
 * [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
+* [Continuous Token Model](solutions/continuous-token-model/README.md)
+  * [Possible attacks](solutions/continuous-token-model/possible-attacks.md)
+  * [Use Cases](solutions/continuous-token-model/use-cases.md)
+  * [Dev plan](solutions/continuous-token-model/dev-plan.md)
 * [DevXP \(wip\)](solutions/developer-community-devxp.md)
 * [STO Platform \(wip\)](solutions/sto-platform.md)
 
@@ -68,8 +72,4 @@
   * [Long-shot Ideas](archive/fund-management-app-wip/long-shot-ideas.md)
   * [Support Service-Level Agreement](archive/fund-management-app-wip/support-terms.md)
   * [Promo Page Integration](archive/fund-management-app-wip/promo-page-integration.md)
-* [Apiary](archive/apiary/README.md)
-  * [Possible attacks](archive/apiary/possible-attacks.md)
-  * [Use Cases](archive/apiary/use-cases.md)
-  * [Dev plan](archive/apiary/dev-plan.md)
 

@@ -9,14 +9,17 @@
 
 ### **Solutions**
 
-* [Labs Thesis](solutions/defi-materials.md)
-* [Regulatory Compliance Automation](solutions/complaince-scoring.md)
-* [Cross Border payments with blockchain](solutions/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
-* [Crypto Assets Security](solutions/asset-security.md)
-* [DevXP](solutions/developer-community-devxp.md)
-* [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
-* [Security Token Offering \(STO\) Platform](solutions/sto-platform.md)
-* [Supply Chain Asset tracking](solutions/asset-tracking.md)
+* [Labs Thesis](https://wiki.4irelabs.com/docs/~/edit/drafts/-LZ9cNZoIpjecdEx3N3k/solutions/defi-materials)
+* Fintech & DeFi
+  * [Regulatory Compliance Automation](solutions/complaince-scoring.md) – Kirill
+  * [Cross Border payments with blockchain](solutions/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) – Kirill
+  * [Crypto Assets Security](solutions/asset-security.md) – Oleg
+  * [DevXP](solutions/developer-community-devxp.md) – Max
+  * [Security Token Offering \(STO\) Platform](solutions/sto-platform.md) – Max
+* [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md) – Bohdan
+* [Continuous Token Model](solutions/continuous-token-model/) – Max
+* Supply chain
+  * [Asset tracking](solutions/asset-tracking.md) \(supply chain\) – Bohdan
 
 ### **Services**
 
