@@ -3,13 +3,14 @@
 ## Solutions
 
 * Fintech & DeFi
-  * [Regulatory Compliance Automation](complaince-scoring.md) – **Kirill**
-  * [Cross Border payments with blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) – **Kirill**
-  * [Crypto Assets Security](asset-security.md) – **Oleg**
-  * [DevXP](developer-community-devxp.md) – **Max**
-  * [Security Token Offering \(STO\) Platform](sto-platform.md) – **Max**
+  * [Regulatory Compliance Automation](complaince-scoring.md) – Kirill
+  * [Cross Border payments with blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) – Kirill
+  * [Crypto Assets Security](asset-security.md) – Oleg
+  * [DevXP](developer-community-devxp.md) – Max
+  * [Security Token Offering \(STO\) Platform](sto-platform.md) – Max
+* [How to track document versions and signers on the blockchain](how-to-track-document-versions-and-signers-on-the-blockchain.md) – Bohdan
 * Supply chain
-  * [Asset tracking](asset-tracking.md) \(supply chain\) – **Bohdan**
+  * [Asset tracking](asset-tracking.md) \(supply chain\) – Bohdan
 
 ## Research Methods by Stage
 

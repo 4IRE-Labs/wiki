@@ -14,6 +14,7 @@
 * [Cross Border payments with blockchain](solutions/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
 * [Crypto Assets Security](solutions/asset-security.md)
 * [DevXP](solutions/developer-community-devxp.md)
+* [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
 * [Security Token Offering \(STO\) Platform](solutions/sto-platform.md)
 * [Supply Chain Asset tracking](solutions/asset-tracking.md)
 

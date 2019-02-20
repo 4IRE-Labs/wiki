@@ -46,6 +46,7 @@
 * [Cross-border payments](solutions/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
 * [Crypto Assets Security \(wip\)](solutions/asset-security.md)
 * [Supply Chain Asset Tracking \(wip\)](solutions/asset-tracking.md)
+* [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
 * [DevXP \(wip\)](solutions/developer-community-devxp.md)
 * [STO Platform \(wip\)](solutions/sto-platform.md)
 
