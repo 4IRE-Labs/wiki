@@ -7,7 +7,7 @@ Metrics:
 * $ vol. consulting projects
 * recognition \(e.g. speeches, awards etc\)
 
-## Being integrated in the blockchain finance community
+## Being integrated in the blockchain / finance community
 
 <table>
   <thead>
