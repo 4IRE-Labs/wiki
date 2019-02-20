@@ -2,30 +2,6 @@
 
 * [Navigation](README.md)
 
-## Services
-
-* [Architecture / Protocol Design](services/architecture-design-protocol.md)
-* [Dapps / Wallets Development](services/dapps-wallets-development.md)
-* [Tokenomics Design \(wip\)](services/tokenomics-design.md)
-* [Training / Workshops \(wip\)](services/training-workshops.md)
-* [Credentials \(wip\)](services/credentials-wip.md)
-
-## Case Studies
-
-* [CMI](case-studies/cmi.md)
-* [Hiveonline](case-studies/hiveonline.md)
-* [Social Media Market](case-studies/social.-media-market.md)
-* [Kidcoin](case-studies/kidcoin.md)
-* [Kepler Collective](case-studies/kepler-collective.md)
-* [Total Security](case-studies/total-security.md)
-* [Smart Documents](case-studies/smart-documents.md)
-* [Maitres](case-studies/maitres.md)
-* [ORME](case-studies/orme.md)
-* [Crypto Improvement Fund](case-studies/crypto-improvement-fund.md)
-* [Tennagraph \(wip\)](case-studies/tennagraph-wip.md)
-* [ICONX \(wip\)](case-studies/iconx-wip.md)
-* [Contractland \(wip\)](case-studies/contractland-wip.md)
-
 ## About
 
 * [Strategy](about/strategy/README.md)
@@ -53,6 +29,30 @@
   * [Dev plan](solutions/continuous-token-model/dev-plan.md)
 * [DevXP \(wip\)](solutions/developer-community-devxp.md)
 * [STO Platform \(wip\)](solutions/sto-platform.md)
+
+## Services
+
+* [Architecture / Protocol Design](services/architecture-design-protocol.md)
+* [Dapps / Wallets Development](services/dapps-wallets-development.md)
+* [Tokenomics Design \(wip\)](services/tokenomics-design.md)
+* [Training / Workshops \(wip\)](services/training-workshops.md)
+* [Credentials \(wip\)](services/credentials-wip.md)
+
+## Case Studies
+
+* [CMI](case-studies/cmi.md)
+* [Hiveonline](case-studies/hiveonline.md)
+* [Social Media Market](case-studies/social.-media-market.md)
+* [Kidcoin](case-studies/kidcoin.md)
+* [Kepler Collective](case-studies/kepler-collective.md)
+* [Total Security](case-studies/total-security.md)
+* [Smart Documents](case-studies/smart-documents.md)
+* [Maitres](case-studies/maitres.md)
+* [ORME](case-studies/orme.md)
+* [Crypto Improvement Fund](case-studies/crypto-improvement-fund.md)
+* [Tennagraph \(wip\)](case-studies/tennagraph-wip.md)
+* [ICONX \(wip\)](case-studies/iconx-wip.md)
+* [Contractland \(wip\)](case-studies/contractland-wip.md)
 
 ## Archive
 

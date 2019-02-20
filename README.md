@@ -9,7 +9,6 @@
 
 ### **Solutions**
 
-* [Labs Thesis](https://wiki.4irelabs.com/docs/~/edit/drafts/-LZ9cNZoIpjecdEx3N3k/solutions/defi-materials)
 * Fintech & DeFi
   * [Regulatory Compliance Automation](solutions/complaince-scoring.md) – Kirill
   * [Cross Border payments with blockchain](solutions/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) – Kirill
@@ -19,6 +18,7 @@
 * [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md) – Bohdan
 * [Asset tracking for the supply chain](solutions/asset-tracking.md) – Bohdan
 * [DevXP](solutions/developer-community-devxp.md) – Max
+* [Labs Thesis](https://wiki.4irelabs.com/docs/~/edit/drafts/-LZ9cNZoIpjecdEx3N3k/solutions/defi-materials)
 
 ### **Services**
 
