@@ -16,7 +16,6 @@
 * [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md) \(Bohdan, Kirill\)
 * [Asset tracking for the supply chain](solutions/asset-tracking.md) \(Bohdan\)
 * [Improving Developer Experience](solutions/developer-community-devxp.md) \(Max\)
-* [Labs Thesis](https://wiki.4irelabs.com/docs/~/edit/drafts/-LZ9cNZoIpjecdEx3N3k/solutions/defi-materials)
 
 ### **Services**
 

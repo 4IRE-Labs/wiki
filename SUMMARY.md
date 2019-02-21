@@ -13,7 +13,6 @@
 * [Ethereum / Bitcoin bridge](solutions/ethereum-bitcoin-bridge-wip.md)
 * [Improving Developer Experience](solutions/developer-community-devxp.md)
 * [Improving Asset Liquidity with tokenization](solutions/sto-platform.md)
-* [Labs Thesis](solutions/defi-materials.md)
 
 ## Services
 
