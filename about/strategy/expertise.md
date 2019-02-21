@@ -82,7 +82,7 @@ Fintech, Regulation etc.
 * Sep 6-8 [EthBoston](https://twitter.com/ethboston)
 * Oct 11-13 [EthWaterloo](https://ethwaterloo.com/)
 
-## Provide pro bono or discounted services for NGOs
+## Provide pro bono or discounted services for NGOs in prio domains
 
 ...
 
