@@ -1,6 +1,8 @@
 # Kepler Collective
 
-Kepler Collective is the blockchain application that serves as a hub helping form Crowdfunding pools, find the campaigns that give preferences to the pools and establish solid relations between the founders and the investors in an effective, time-saving way.
+Hub for selecting and investing in ICO pools.
+
+Find the campaigns that give preferences to the pools and establish solid relations between the founders and the investors in an effective, time-saving way.
 
 Work: Integration of KYC capabilities, the deployment of smart contracts and addition of other blockchain-based features were the responsibilities of our team.
 

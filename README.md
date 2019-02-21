@@ -27,9 +27,9 @@
 * [Hiveonline](case-studies/hiveonline.md) – The financial trust platform for small businesses
 * [Social Media Market](case-studies/social.-media-market.md) – Blockchain-based decentralized advertising marketplace
 * [Kidcoin](case-studies/kidcoin.md) – Blockchain-based family finances and digital wallets for kids
-* [Kepler Collective](case-studies/kepler-collective.md)
-* [Total Security](case-studies/total-security.md)
-* [Smart Documents](case-studies/smart-documents.md)
+* [Kepler Collective](case-studies/kepler-collective.md) – Hub for selecting and investing in ICO pools
+* [Total Security](case-studies/total-security.md) – Smart physical access control system for corporate use
+* [Smart Documents](case-studies/smart-documents.md) – Blockchain-based notarization platform
 * [Maitres](case-studies/maitres.md)
 * [ORME](case-studies/orme.md)
 * [Crypto Improvement Fund](case-studies/crypto-improvement-fund.md)

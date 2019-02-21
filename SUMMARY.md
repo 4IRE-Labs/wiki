@@ -47,6 +47,7 @@
   * [Oleg Bugrovoy](about/team/oleg-bugrovoy.md)
   * [Bohdan Malkevych](about/team/bohdan-malkevych.md)
   * [Max Semenchuk](about/team/max-semenchuk.md)
+  * [Roman Malkevych \(wip\)](about/team/roman-malkevych-wip.md)
 * [History & Achievements](about/credentials-wip.md)
 
 ## Archive
