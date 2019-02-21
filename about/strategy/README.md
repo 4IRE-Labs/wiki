@@ -3,11 +3,11 @@
 ## Strategy & Goals
 
 1. [High-end Expertise](expertise.md) – Expertise lead
-   * $ vol. consulting projects
+   * validated researches
    * recognition
 2. [Growth Opportunities](opportunities.md) – Growth lead
-   * \# opportunities \(leads, meetings etc\)
-   * quality of opportunities \(rate\)
+   * revenue
+   * no. of consultants
 3. [Effective Operations](effective-operations.md) – Operations lead
    * % commission
 

@@ -2,8 +2,8 @@
 
 Purpose: High earning opportunities for blockchain engineers
 
-* \# opportunities \(leads, meetings etc\)
-* quality of opportunities
+* revenue
+* no. of consultants
 
 ## Case Study / Research Exposure
 
@@ -11,21 +11,30 @@ Purpose: High earning opportunities for blockchain engineers
 
 ...
 
-### Industry Profiling / contact
+### Setting local meetings
 
 * Email list
 
 ### Research Media Support
 
-* PR
-* Leads Capture
+* Propose for publication in thematic media
+* Propose as speakers
 
 ## Extend / Empower Partner Network
+
+Types of partners:
+
+* Agencies \(e.g. fintech, digitalization etc\)
+* Industrial hubs \(e.g. b hive\)
+* Accelerators
+* Local connectors
+
+Geography:
 
 * Toronto \(Scott\)
 * Stockholm \(Johan\)
 * Singapore \(GQ\)
-* Estonia \(Alex\)
+* Estonia \(**Alex?**\)
 * Norwegia \(David\)
 * Berlin ...
 * London ...
@@ -36,12 +45,23 @@ Purpose: High earning opportunities for blockchain engineers
 
 ### Action points
 
+* Signup agreements
 * Send on monthly basis report/ updates \( materials, content, company's updates\)
-* Share costs on attending events
+* Share costs on attending events?
 
 ## Attracting additional blockchain consultants
 
+Desired focus?
+
 ## Optimal jurisdiction for managing customers
 
+...
 
+## Attracting Grants & Investments
+
+...
+
+## Leads Nurturing
+
+...
 

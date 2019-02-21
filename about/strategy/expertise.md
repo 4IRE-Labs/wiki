@@ -1,11 +1,6 @@
 # Provide High-End Expertise
 
-Purpose: Develop High-end blockchain tech expertise for the Finance industry
-
-Metrics:
-
-* $ vol. consulting projects
-* recognition \(e.g. speeches, awards etc\)
+Purpose: Develop High-end blockchain tech expertise for the ... industry
 
 ## Connect with the Community on Conference
 
