@@ -10,7 +10,7 @@ Services: [Architecture / Protocol Design](../services/architecture-design-proto
 
 Team: [Bohdan Malkevych](../about/team/bohdan-malkevych.md), James Hancock, [Max Semenchuk](../about/team/max-semenchuk.md), Griff Green, Deam
 
-Project got funding from Aragon Nest program, here's the video from the Aracon conference:
+Project got funding from Aragon Nest program, here's our presentation from the Aracon conference:
 
 {% embed url="https://youtu.be/DhMvMTwArXA?t=3945" %}
 
