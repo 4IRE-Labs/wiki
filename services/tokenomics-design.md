@@ -6,5 +6,5 @@
 * DAO consulting
 * DAO integration and consulting
 
-Example: Pithagor, GetEnergy
+Example: Pithagor, GetEnergy, Apiary
 
