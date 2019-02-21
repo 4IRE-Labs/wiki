@@ -34,7 +34,7 @@
 * [ORME](case-studies/orme.md)
 * [Crypto Improvement Fund](case-studies/crypto-improvement-fund.md)
 * [CMI](case-studies/cmi.md)
-* [Tennagraph](case-studies/tennagraph-wip.md)
+* [Tennagraph](case-studies/tennagraph.md)
 * [ICONX](case-studies/iconx-wip.md)
 * [Contractland](case-studies/contractland-wip.md)
 
