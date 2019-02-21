@@ -1,4 +1,4 @@
-# Ethereum / Bitcoin bridge \(wip\)
+# Ethereum / Bitcoin bridge
 
 Protocol for interchain transfers between Ethereum and Bitcoin
 

@@ -10,8 +10,8 @@
 * [Supply Chain Asset Tracking](solutions/asset-tracking.md)
 * [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
 * [Effective resource distribution in commons](solutions/effective-resource-distribution-in-commons.md)
-* [Ethereum / Bitcoin bridge \(wip\)](solutions/ethereum-bitcoin-bridge-wip.md)
-* [Improving Developer Experience \(wip\)](solutions/developer-community-devxp.md)
+* [Ethereum / Bitcoin bridge](solutions/ethereum-bitcoin-bridge-wip.md)
+* [Improving Developer Experience](solutions/developer-community-devxp.md)
 * [Improving Asset Liquidity with tokenization](solutions/sto-platform.md)
 * [Labs Thesis](solutions/defi-materials.md)
 
