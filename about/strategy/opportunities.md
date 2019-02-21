@@ -5,11 +5,17 @@ Purpose: High earning opportunities for blockchain engineers
 * \# opportunities \(leads, meetings etc\)
 * quality of opportunities
 
-## Industry Profiling
+## Case Study / Research Exposure
+
+### Providing good description
+
+...
+
+### Industry Profiling / contact
 
 * Email list
 
-## Research Media Support
+### Research Media Support
 
 * PR
 * Leads Capture
