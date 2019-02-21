@@ -12,7 +12,7 @@
 * [Effective resource distribution in commons](solutions/effective-resource-distribution-in-commons.md)
 * [Ethereum / Bitcoin bridge \(wip\)](solutions/ethereum-bitcoin-bridge-wip.md)
 * [Improving Developer Experience \(wip\)](solutions/developer-community-devxp.md)
-* [STO Platform \(wip\)](solutions/sto-platform.md)
+* [Improving Asset Liquidity with tokenization](solutions/sto-platform.md)
 * [Labs Thesis](solutions/defi-materials.md)
 
 ## Services

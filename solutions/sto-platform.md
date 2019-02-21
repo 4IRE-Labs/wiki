@@ -1,4 +1,6 @@
-# STO Platform \(wip\)
+# Improving Asset Liquidity with tokenization
+
+Improves liquidity of assets
 
 Presentation: [https://docs.google.com/presentation/d/1aomDG1avh0XlVCTqb\_lBXGdf33rnWZYgxL4GsbtpHj8/edit?usp=sharing](https://docs.google.com/presentation/d/1aomDG1avh0XlVCTqb_lBXGdf33rnWZYgxL4GsbtpHj8/edit?usp=sharing)
 

@@ -64,7 +64,7 @@ Libraries/Frameworks/Tools: [CSS](https://cryptohire.io/results/css) [XML](https
 
 * [https://ethresear.ch/t/terra-bridge-protocol-for-interchain-token-transfers-between-ethereum-and-bitcoin/4522](https://ethresear.ch/t/terra-bridge-protocol-for-interchain-token-transfers-between-ethereum-and-bitcoin/4522)
 * [https://4irelabs.com/blockchain\_cards](https://4irelabs.com/blockchain_cards)
-* \*\*\*\*[**https://github.com/ContractLand/terra-bridge-btc**](https://github.com/ContractLand/terra-bridge-btc)\*\*\*\*
+* [https://github.com/ContractLand/terra-bridge-btc](https://github.com/ContractLand/terra-bridge-btc)
 
 \*\*\*\*
 
