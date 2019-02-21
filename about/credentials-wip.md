@@ -1,4 +1,4 @@
-# Credentials \(wip\)
+# History & Achievements
 
 * We've Been Working 8+ years 
 * Our Services and Products are Preferred by 40+ companies

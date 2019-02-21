@@ -18,9 +18,6 @@
 
 * [Architecture / Protocol Design](services/architecture-design-protocol.md)
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
-* [Tokenomics Design \(wip\)](services/tokenomics-design.md)
-* [Training / Workshops \(wip\)](services/training-workshops.md)
-* [Credentials \(wip\)](services/credentials-wip.md)
 
 ## Case Studies
 
@@ -50,6 +47,7 @@
   * [Oleg Bugrovoy](about/team/oleg-bugrovoy.md)
   * [Bohdan Malkevych](about/team/bohdan-malkevych.md)
   * [Max Semenchuk](about/team/max-semenchuk.md)
+* [History & Achievements](about/credentials-wip.md)
 
 ## Archive
 

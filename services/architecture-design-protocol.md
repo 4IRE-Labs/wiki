@@ -26,6 +26,10 @@ Consultants: [Kirill Kirikov](../about/team/kirill-kirikov.md), [Oleg Bugrovoy](
 
 Keywords: blockchchain, architecture solutions, solution architecture, blockchain integration consulting, specifications, tech stack, public blockchain, private blockchain, permissioned blockchain, ethereum, ethereum core, custom blockchain, cloud architecture, protocol development, scaling solutions
 
+## Formats
+
+![](../.gitbook/assets/image%20%2822%29.png)
+
 ## **Additional Resources:**
 
 * [Blockchain Cards for selecting the blockchain technology](https://4irelabs.com/blockchain_cards)
