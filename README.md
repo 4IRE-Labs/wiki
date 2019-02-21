@@ -27,7 +27,7 @@
 ### Case Studies
 
 * [Hiveonline](case-studies/hiveonline.md) – The financial trust platform for small businesses
-* [Social Media Market](case-studies/social.-media-market.md)
+* [Social Media Market](case-studies/social.-media-market.md) – Blockchain-based decentralized advertising marketplace
 * [Kidcoin](case-studies/kidcoin.md) – Blockchain-based family finances and digital wallets for kids
 * [Kepler Collective](case-studies/kepler-collective.md)
 * [Total Security](case-studies/total-security.md)
