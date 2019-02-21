@@ -14,6 +14,7 @@ Purpose: High earning opportunities for blockchain engineers
 ### Setting local meetings
 
 * Email list
+* With Speakers on conferences 
 
 ### Research Media Support
 
