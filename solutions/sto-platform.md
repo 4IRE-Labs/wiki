@@ -1,8 +1,19 @@
 # Improving Asset Liquidity with tokenization
 
-Improves liquidity of assets
+For bond funds, etc.
 
-Presentation: [https://docs.google.com/presentation/d/1aomDG1avh0XlVCTqb\_lBXGdf33rnWZYgxL4GsbtpHj8/edit?usp=sharing](https://docs.google.com/presentation/d/1aomDG1avh0XlVCTqb_lBXGdf33rnWZYgxL4GsbtpHj8/edit?usp=sharing)
+## Benefits
+
+By combining the advantages of blockchain and classical investment instruments, tokenisation can have tremendous effects on trading and investment across borders. The benefits of tokenization are numerous and can be summarised as follows:
+
+* Improves liquidity of assets like real estate
+* Allows fractional ownership
+* Permits the diversification of risk by owning parts of several assets
+* Alleviates territorial and temporal barriers
+* Allows newer models for raising capital
+* Allows more control, and even the ability to choose the level of control over an investment with implemented digital democracy
+* Decreases the number of intermediaries, and therefore the amount of fees
+* Unlocks liquidity premium
 
 ## Features
 

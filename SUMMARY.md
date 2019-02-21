@@ -33,7 +33,7 @@
 * [Crypto Improvement Fund](case-studies/crypto-improvement-fund.md)
 * [CMI \(WIP\)](case-studies/cmi.md)
 * [Tennagraph](case-studies/tennagraph.md)
-* [ICONX \(wip\)](case-studies/iconx-wip.md)
+* [ICONX](case-studies/iconx-wip.md)
 * [Contractland \(wip\)](case-studies/contractland-wip.md)
 
 ## About
