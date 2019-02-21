@@ -7,7 +7,7 @@ Metrics:
 * $ vol. consulting projects
 * recognition \(e.g. speeches, awards etc\)
 
-## Being integrated in the blockchain / finance community
+## Connect with the Community on Conference
 
 <table>
   <thead>
@@ -25,8 +25,7 @@ Metrics:
           <li><a href="https://www.binancefair.com/safu-hackathon/">Binance SAFU</a>
           </li>
           <li>Aracon, Berlin</li>
-          <li><a href="https://ethcc.io/">EthCC</a> + <a href="https://ethparis.com/">ETHParis Paris</a>,
-            France March 5-10, 2019</li>
+          <li><a href="https://ethcc.io/">EthCC</a> France March 5-10, 2019</li>
         </ul>
       </td>
     </tr>
@@ -71,9 +70,19 @@ Fintech, Regulation etc.
 * Ethereum Enterprise Alliance?
 * Coreteka for Logistics
 
-## Develop experience in the priority topics
+## Participate in Hackathons
 
-with discount or for free \(probono, hackathons etc\)
+* Feb 15-17 [EthDenver](https://www.ethdenver.com/)
+* Mar 8-10 [EthParis](https://ethparis.com/)
+* Apr 12-14 [Odyssey](https://www.odyssey.org/odyssey-hackathon/) - Biggest Blockchain & AI hackathon \(Groningen, Netherlands\)
+* Apr 19-21 [EthCapetown](https://ethcapetown.com/)
+* May 13-15 [Consesus](https://www.coindesk.com/events/consensus-2019) \(NYC\)
+* May 17-19 [EthNYC](https://twitter.com/ethnewyork)
+* Aug 10-12 [EthIndia](https://ethindia.co/) \(Bangalore\)
+* Sep 6-8 [EthBoston](https://twitter.com/ethboston)
+* Oct 11-13 [EthWaterloo](https://ethwaterloo.com/)
 
+## Provide pro bono or discounted services for NGOs
 
+...
 
