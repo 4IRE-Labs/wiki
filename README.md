@@ -9,10 +9,10 @@
 * Fintech & DeFi
   * [Cross Border payments with blockchain](solutions/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) \(Kirill, Bohdan, Oleg\)
   * [Crypto Assets Security](solutions/asset-security.md) \(Oleg\)
-  * [Effective resource distribution in commons](solutions/effective-resource-distribution-in-commons/) \(Max, Bohdan\)
   * [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/ethereum-bitcoin-bridge-wip.md) \(Kirill\)
   * [Improving Asset Liquidity with tokenization](solutions/sto-platform.md) \(Max\)
-  * [Regulatory Compliance Automation](solutions/complaince-scoring.md)
+  * [Regulatory Compliance Automation](solutions/complaince-scoring.md) \(Kirill\)
+* [Effective resource distribution in commons](solutions/effective-resource-distribution-in-commons/) \(Max, Bohdan\)
 * [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md) \(Bohdan, Kirill\)
 * [Asset tracking for the supply chain](solutions/asset-tracking.md) \(Bohdan\)
 * [Improving Developer Experience](solutions/developer-community-devxp.md) \(Max\)
