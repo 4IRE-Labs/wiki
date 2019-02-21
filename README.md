@@ -2,7 +2,7 @@
 
 ## **4IRE labs**
 
-**Purpose:** ideate, research and develop solutions for the industry
+**Purpose:** research and develop tech solutions
 
 ### **Solutions**
 
