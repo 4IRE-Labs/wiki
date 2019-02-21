@@ -1,12 +1,13 @@
-# CMI
+# CMI \(WIP\)
 
-Blockchain-based family finances and digital wallets for kids
+Services:
 
-Technical review, project assessment, solution architecture designing, consulting.
+* [Architecture / Protocol Design](../services/architecture-design-protocol.md)
+* [Dapps / Wallets Development](../services/dapps-wallets-development.md)
 
-Team: [Kirill](../about/team/kirill-kirikov.md), Bohdan
+Team: [Kirill Kirikov](../about/team/kirill-kirikov.md), [Bohdan Malkevych](../about/team/bohdan-malkevych.md)
 
-![](../.gitbook/assets/kidcoin_copy-1.png)
+
 
 
 

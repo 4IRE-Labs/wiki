@@ -4,9 +4,6 @@
 
 **Purpose:** ideate, research and develop solutions for the industry
 
-* [Strategy](about/strategy/)
-* [Team](about/team/)
-
 ### **Solutions**
 
 * Fintech & DeFi
@@ -27,21 +24,27 @@
 * [Tokenomics Design](services/tokenomics-design.md)
 * [Training / Workshops](services/training-workshops.md)
 
-### Portfolio
+### Case Studies
 
-* [CMI](case-studies/cmi.md)
 * [Hiveonline](case-studies/hiveonline.md)
 * [Social Media Market](case-studies/social.-media-market.md)
-* [Kidcoin](case-studies/kidcoin.md)
+* [Kidcoin](case-studies/kidcoin.md) – Blockchain-based family finances and digital wallets for kids
 * [Kepler Collective](case-studies/kepler-collective.md)
 * [Total Security](case-studies/total-security.md)
 * [Smart Documents](case-studies/smart-documents.md)
 * [Maitres](case-studies/maitres.md)
 * [ORME](case-studies/orme.md)
 * [Crypto Improvement Fund](case-studies/crypto-improvement-fund.md)
+* [CMI](case-studies/cmi.md)
+* [Tennagraph](case-studies/tennagraph-wip.md)
+* [ICONX](case-studies/iconx-wip.md)
+* [Contractland](case-studies/contractland-wip.md)
 
-### Contacts
+### About
 
-Helen Petrashchuk  
-[hp@4irelabs.com](mailto:hp@4irelabs.com)
+* [Strategy](about/strategy/)
+* [Team](about/team/)
+
+For inquiries contact:  
+Helen Petrashchuk[  hp@4irelabs.com](mailto:hp@4irelabs.com)
 
