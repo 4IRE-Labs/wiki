@@ -38,5 +38,9 @@ Purpose: High earning opportunities for blockchain engineers
 * Send on monthly basis report/ updates \( materials, content, company's updates\)
 * Share costs on attending events
 
+## Attracting additional blockchain consultants
+
+## Optimal jurisdiction for managing customers
+
 
 

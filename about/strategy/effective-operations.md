@@ -10,7 +10,11 @@ Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 
 ## Lower Commission
 
-Attracting additional blockchain consultants
 
-## 
+
+## Transparent Strategy / Info
+
+
+
+## Process education for Team / Onboarding
 
