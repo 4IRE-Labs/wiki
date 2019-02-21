@@ -38,7 +38,7 @@
 * [ICONX](case-studies/iconx-wip.md) – asset tokenization platform
 * [Contractland](case-studies/contractland-wip.md) – DEX
 
-### About
+### About us
 
 * [Strategy](about/strategy/)
 * [Governance](about/governance.md)
