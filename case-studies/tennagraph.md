@@ -14,5 +14,5 @@ Project got funding from Aragon Nest program, here's our presentation from the A
 
 {% embed url="https://youtu.be/DhMvMTwArXA?t=3945" %}
 
-![](../.gitbook/assets/props-details.jpg)
+Live demo on Rinkeby: [https://tennagraph.com/](https://tennagraph.com/)
 
