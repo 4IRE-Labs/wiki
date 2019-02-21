@@ -2,22 +2,8 @@
 
 * [Navigation](README.md)
 
-## About
-
-* [Strategy](about/strategy/README.md)
-  * [Provide High-End Expertise](about/strategy/expertise.md)
-  * [Growth Opportunities](about/strategy/opportunities.md)
-  * [Effective Operations](about/strategy/effective-operations.md)
-* [Governance](about/governance.md)
-* [Team](about/team/README.md)
-  * [Kirill Kirikov](about/team/kirill-kirikov.md)
-  * [Oleg Bugrovoy](about/team/oleg-bugrovoy.md)
-  * [Bohdan Malkevych](about/team/bohdan-malkevych.md)
-  * [Max Semenchuk](about/team/max-semenchuk.md)
-
 ## Solutions
 
-* [Labs Thesis](solutions/defi-materials.md)
 * [Compliance Automation](solutions/complaince-scoring.md)
 * [Cross-border payments](solutions/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
 * [Crypto Assets Security \(wip\)](solutions/asset-security.md)
@@ -29,6 +15,7 @@
   * [Dev plan](solutions/continuous-token-model/dev-plan.md)
 * [DevXP \(wip\)](solutions/developer-community-devxp.md)
 * [STO Platform \(wip\)](solutions/sto-platform.md)
+* [Labs Thesis](solutions/defi-materials.md)
 
 ## Services
 
@@ -53,6 +40,19 @@
 * [Tennagraph \(wip\)](case-studies/tennagraph-wip.md)
 * [ICONX \(wip\)](case-studies/iconx-wip.md)
 * [Contractland \(wip\)](case-studies/contractland-wip.md)
+
+## About
+
+* [Strategy](about/strategy/README.md)
+  * [Provide High-End Expertise](about/strategy/expertise.md)
+  * [Growth Opportunities](about/strategy/opportunities.md)
+  * [Effective Operations](about/strategy/effective-operations.md)
+* [Governance](about/governance.md)
+* [Team](about/team/README.md)
+  * [Kirill Kirikov](about/team/kirill-kirikov.md)
+  * [Oleg Bugrovoy](about/team/oleg-bugrovoy.md)
+  * [Bohdan Malkevych](about/team/bohdan-malkevych.md)
+  * [Max Semenchuk](about/team/max-semenchuk.md)
 
 ## Archive
 
