@@ -1,4 +1,4 @@
-# DevXP \(wip\)
+# Improving Developer Experience \(wip\)
 
 ![](../.gitbook/assets/image%20%2815%29.png)
 

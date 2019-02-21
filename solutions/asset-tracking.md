@@ -1,11 +1,11 @@
-# Supply Chain Asset Tracking \(wip\)
+# Supply Chain Asset Tracking
 
-For: Logistics, Manufacturers, Transporation, FMCG etc.
+For: Manufacturers, Retail
 
 Problem statement: defining a technical solution for
 
+* Product Quality Tracking – ability to locate the defected goods and process \(e.g. recall\) other defected products
 * Settlement automation
-* Product Quality Tracking 
 
 ## 1.The first option based on Onfleet solution
 

@@ -1,4 +1,4 @@
-# Continuous Token Model
+# Effective resource distribution in commons
 
 ## **Abstract**
 

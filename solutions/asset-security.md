@@ -1,8 +1,12 @@
 # Crypto Assets Security \(wip\)
 
-Написал небольшое ревью по текущим способам. Вкратце seed фраза элегантное решение, но есть человеческий фактор. Есть 2 вещи: 1\) стеганография, есть менее значимые для глаза картинки 2\) хешбейсд механизмы.  
-  
-Макс: Есть gnosis safe  
-  
- След шаг: расписать вариант по стеганографии \(для себя и статьи\)
+### Approaches
+
+* Seed phrase
+* Visual cryptography is a cryptographic technique which allows visual information \(pictures, text, etc.\) to be encrypted in such a way that the decrypted information appears as a visual image.
+* Hard wallets integration
+
+### Projects in the Space
+
+* Gnosis Safe
 
