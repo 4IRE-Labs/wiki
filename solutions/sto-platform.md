@@ -27,7 +27,12 @@ Presentation: [https://docs.google.com/presentation/d/1aomDG1avh0XlVCTqb\_lBXGdf
 
 ERC 1404
 
+## Projects
+
+* [Neufund](https://neufund.org/)
+* [Tokeny](https://tokeny.com/)
+
 ## References
 
-* [https://blog.neufund.org/good-protocols-how-to-properly-standardize-security-tokens-95ff83c81c4a](https://blog.neufund.org/good-protocols-how-to-properly-standardize-security-tokens-95ff83c81c4a)
+* [Good Protocols: How to Properly Standardize Security Tokens](https://blog.neufund.org/good-protocols-how-to-properly-standardize-security-tokens-95ff83c81c4a)
 
