@@ -1,12 +1,12 @@
-# Contractland \(wip\)
-
-**CASE STUDY: CONTRACTLAND**
+# Contractland
 
 Protocol for interchain transfers between Ethereum and Bitcoin
 
 Problem: there were no mechanism for establishing in details the mechanism for permission-less transferring of assets between Ethereum and Bitcoin.
 
-Our role: research & development
+Services: [Architecture / Protocol Design](../services/architecture-design-protocol.md)
+
+Team: [Kirill Kirikov](../about/team/kirill-kirikov.md)
 
 **SOLUTION**
 

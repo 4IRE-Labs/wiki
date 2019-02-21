@@ -1,6 +1,6 @@
 # ORME
 
-Smart blockchain-based crypto exchange platform
+Market maker for the exchange platform
 
 Blockchain backend engineering, concept development and refinement.
 

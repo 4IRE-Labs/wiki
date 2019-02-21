@@ -9,7 +9,7 @@
 * Fintech & DeFi
   * [Cross Border payments with blockchain](solutions/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) \(Kirill, Bohdan, Oleg\)
   * [Crypto Assets Security](solutions/asset-security.md) \(Oleg\)
-  * [Effective resource distribution in commons](solutions/effective-resource-distribution-in-commons.md) \(Max, Bohdan\)
+  * [Effective resource distribution in commons](solutions/effective-resource-distribution-in-commons/) \(Max, Bohdan\)
   * [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/ethereum-bitcoin-bridge-wip.md) \(Kirill\)
   * [Improving Asset Liquidity with tokenization](solutions/sto-platform.md) \(Max\)
   * [Regulatory Compliance Automation](solutions/complaince-scoring.md)
@@ -30,13 +30,13 @@
 * [Kepler Collective](case-studies/kepler-collective.md) – Hub for selecting and investing in ICO pools
 * [Total Security](case-studies/total-security.md) – Smart physical access control system for corporate use
 * [Smart Documents](case-studies/smart-documents.md) – Blockchain-based notarization platform
-* [Maitres](case-studies/maitres.md)
-* [ORME](case-studies/orme.md)
+* [Maitres](case-studies/maitres.md) – Smart restaurant booking platform
+* [ORME](case-studies/orme.md) – Market maker for the exchange platform
 * [Crypto Improvement Fund](case-studies/crypto-improvement-fund.md)
-* [CMI](case-studies/cmi.md)
-* [Tennagraph](case-studies/tennagraph.md)
-* [ICONX](case-studies/iconx-wip.md)
-* [Contractland](case-studies/contractland-wip.md)
+* [CMI](case-studies/cmi.md) – Global Media Ecosystem
+* [Tennagraph](case-studies/tennagraph.md) – Ethereum Signal Aggregator
+* [ICONX](case-studies/iconx-wip.md) – asset tokenization platform
+* [Contractland](case-studies/contractland-wip.md) – DEX
 
 ### About
 

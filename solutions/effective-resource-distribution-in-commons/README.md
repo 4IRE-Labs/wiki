@@ -1,4 +1,4 @@
-# Effective resource distribution in commons
+# Effective Resource Distribution in Commons
 
 ## **Abstract**
 
@@ -72,6 +72,10 @@ Price and Min/Max caps are set in Ethereum. We set no minimum target to avoid th
 If we click on a campaign we can see details of the campaign.
 
 [![Campaign Details](https://github.com/MaxSemenchuk/Apiary/raw/master/.gitbook/assets/webapp-1366px-fundraising-preview-2.jpg)](https://github.com/MaxSemenchuk/Apiary/blob/master/.gitbook/assets/webapp-1366px-fundraising-preview-2.jpg)
+
+
+
+{% embed url="https://www.youtube.com/watch?v=MvS4YjsSTJQ&t=4s" %}
 
 #### Important links:
 
