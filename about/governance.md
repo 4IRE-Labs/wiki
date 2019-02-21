@@ -2,11 +2,11 @@
 
 ## Roles
 
-* Expertise Lead – **Kirill**
-* Growth Lead – **Helen**
-* Operations Lead – **Max**
+* Expertise Lead – [Kirill Kirikov](team/kirill-kirikov.md)
+* Growth Lead – Helen Petrashchuk
+* Operations Lead – [Max Semenchuk](team/max-semenchuk.md)
 
-### Expertise Lead
+## Expertise Lead
 
 Purpose:  Develop [High-end Expertise](strategy/expertise.md)
 
@@ -15,7 +15,7 @@ Purpose:  Develop [High-end Expertise](strategy/expertise.md)
 * [DeFi Labs](https://app.glassfrog.com/roles/10097263)
 * [Consultant](https://app.glassfrog.com/roles/10384074)
 
-### Growth Lead
+## Growth Lead
 
 Purpose: Develop [Growth Opportunities](strategy/opportunities.md) 
 
@@ -24,7 +24,7 @@ Purpose: Develop [Growth Opportunities](strategy/opportunities.md)
 * [Lead Generator](https://app.glassfrog.com/roles/11365547)
 * [Partnership Program Manager](https://app.glassfrog.com/roles/10086348)
 
-### Operations Lead
+## Operations Lead
 
 Purpose: Maintain [Effective Operations](strategy/effective-operations.md)
 
