@@ -21,8 +21,6 @@
 
 * [Architecture Design / Protocol](services/architecture-design-protocol.md)
 * [Dapps Development](services/dapps-wallets-development.md)
-* [Tokenomics Design]()
-* [Training / Workshops]()
 
 ### Case Studies
 
@@ -43,7 +41,9 @@
 ### About
 
 * [Strategy](about/strategy/)
+* [Governance](about/governance.md)
 * [Team](about/team/)
+* [History & Achievements](about/credentials-wip.md)
 
 For inquiries contact:  
 Helen Petrashchuk[  hp@4irelabs.com](mailto:hp@4irelabs.com)
