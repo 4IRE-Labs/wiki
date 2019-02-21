@@ -25,7 +25,7 @@ Metrics:
           <li><a href="https://www.binancefair.com/safu-hackathon/">Binance SAFU</a>
           </li>
           <li>Aracon, Berlin</li>
-          <li><a href="https://ethcc.io/">EthCC</a> France March 5-10, 2019</li>
+          <li><a href="https://ethcc.io/">EthCC</a> France March 5-10, 2019 (Max)</li>
         </ul>
       </td>
     </tr>
@@ -35,9 +35,10 @@ Metrics:
         <p></p>
         <ul>
           <li><a href="https://stockholmblockchainforum.com/">Stockholm Blockchain Forum</a> – Apr
-            11</li>
+            11 (Max)</li>
           <li><a href="http://dappdev.org/conference">DappDev Kyiv</a> – April ?</li>
-          <li><a href="https://www.edcon.io/">EDCON</a> – Apr 8-14, Sydney, Australia</li>
+          <li><a href="https://www.edcon.io/">EDCON</a> – Apr 8-14, Sydney, Australia
+            (Kirill)</li>
         </ul>
       </td>
     </tr>
@@ -46,8 +47,7 @@ Metrics:
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li><a href="https://www.dappcon.io">https://www.dappcon.io</a>
-          </li>
+          <li><a href="https://www.dappcon.io">https://www.dappcon.io</a> Berlin</li>
           <li>...</li>
         </ul>
       </td>
