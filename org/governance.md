@@ -2,9 +2,9 @@
 
 ## Roles
 
-* Expertise Lead – [Kirill Kirikov](team/kirill-kirikov.md)
+* Expertise Lead – [Kirill Kirikov](credentials-wip/kirill-kirikov.md)
 * Growth Lead – Helen Petrashchuk
-* Operations Lead – [Max Semenchuk](team/max-semenchuk.md)
+* Operations Lead – [Max Semenchuk](credentials-wip/max-semenchuk.md)
 
 ## Expertise Lead
 

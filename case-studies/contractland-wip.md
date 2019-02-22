@@ -6,7 +6,7 @@ Problem: there were no mechanism for establishing in details the mechanism for p
 
 Services: [Architecture / Protocol Design](../services/architecture-design-protocol.md)
 
-Team: [Kirill Kirikov](../about/team/kirill-kirikov.md)
+Team: [Kirill Kirikov](../org/credentials-wip/kirill-kirikov.md)
 
 **SOLUTION**
 

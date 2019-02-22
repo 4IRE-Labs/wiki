@@ -13,7 +13,7 @@
 
 Case Studies: [Kidcoin](../case-studies/kidcoin.md), [Kepler Collective](../case-studies/kepler-collective.md), [Social. Media Market](../case-studies/social.-media-market.md), [Smart Documents](../case-studies/smart-documents.md), [ORME](../case-studies/orme.md)
 
-Consultants: [Kirill Kirikov](../about/team/kirill-kirikov.md), [Oleg Bugrovoy](../about/team/oleg-bugrovoy.md), [Bohdan Malkevych](../about/team/bohdan-malkevych.md)
+Consultants: [Kirill Kirikov](../org/credentials-wip/kirill-kirikov.md), [Oleg Bugrovoy](../org/credentials-wip/oleg-bugrovoy.md), [Bohdan Malkevych](../org/credentials-wip/bohdan-malkevych.md)
 
 ### Tech stack
 

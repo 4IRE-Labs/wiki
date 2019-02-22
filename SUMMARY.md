@@ -36,20 +36,19 @@
 * [ICONX](case-studies/iconx-wip.md)
 * [Contractland](case-studies/contractland-wip.md)
 
-## About
+## Organization
 
-* [Strategy](about/strategy/README.md)
-  * [Provide High-End Expertise](about/strategy/expertise.md)
-  * [Growth Opportunities](about/strategy/opportunities.md)
-  * [Effective Operations](about/strategy/effective-operations.md)
-* [Governance](about/governance.md)
-* [Team](about/team/README.md)
-  * [Kirill Kirikov](about/team/kirill-kirikov.md)
-  * [Oleg Bugrovoy](about/team/oleg-bugrovoy.md)
-  * [Bohdan Malkevych](about/team/bohdan-malkevych.md)
-  * [Roman Malkevych \(wip\)](about/team/roman-malkevych-wip.md)
-  * [Max Semenchuk](about/team/max-semenchuk.md)
-* [History & Achievements](about/credentials-wip.md)
+* [Strategy](org/strategy/README.md)
+  * [Provide High-End Expertise](org/strategy/expertise.md)
+  * [Growth Opportunities](org/strategy/opportunities.md)
+  * [Effective Operations](org/strategy/effective-operations.md)
+* [Governance](org/governance.md)
+* [About us](org/credentials-wip/README.md)
+  * [Kirill Kirikov](org/credentials-wip/kirill-kirikov.md)
+  * [Oleg Bugrovoy](org/credentials-wip/oleg-bugrovoy.md)
+  * [Bohdan Malkevych](org/credentials-wip/bohdan-malkevych.md)
+  * [Roman Malkevych \(wip\)](org/credentials-wip/roman-malkevych-wip.md)
+  * [Max Semenchuk](org/credentials-wip/max-semenchuk.md)
 
 ## Archive
 

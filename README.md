@@ -38,12 +38,11 @@
 * [ICONX](case-studies/iconx-wip.md) – asset tokenization platform
 * [Contractland](case-studies/contractland-wip.md) – DEX
 
-### About us
+### Organization
 
-* [Strategy](about/strategy/)
-* [Governance](about/governance.md)
-* [Team](about/team/)
-* [History & Achievements](about/credentials-wip.md)
+* [Strategy](org/strategy/)
+* [Governance](org/governance.md)
+* [About us](org/credentials-wip/)
 
 For inquiries contact:  
 Helen Petrashchuk[  hp@4irelabs.com](mailto:hp@4irelabs.com)
