@@ -42,6 +42,9 @@ ERC 1404
 
 * [Neufund](https://neufund.org/)
 * [Tokeny](https://tokeny.com/)
+* BFT \(Bnktothefuture\)
+* PledgeCamp
+* Kryptofond.cz
 * Commodity specific \(e.g. oil, gold\)
 
 ## References
