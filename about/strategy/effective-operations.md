@@ -4,13 +4,13 @@ Purpose: Minimize waste / costs
 
 Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 
+## Strategy / Transparent Strategy / Info
+
+
+
 ## Processes Audit / Optimization
 
 Easy Docs/Accounting process
-
-
-
-## Strategy / Transparent Strategy / Info
 
 
 
