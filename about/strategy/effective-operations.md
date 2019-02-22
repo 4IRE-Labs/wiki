@@ -12,6 +12,10 @@ Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 
 
 
+## Community / Culture – min transactional / trust costs
+
+
+
 ## Team Education / Onboarding
 
 
