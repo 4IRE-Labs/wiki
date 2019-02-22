@@ -1,6 +1,6 @@
 # Improving Asset Liquidity with tokenization
 
-For bond funds, etc.
+For financial assets companies / platforms \(commodities, bond funds, futures\) etc.
 
 ## Benefits
 
@@ -42,6 +42,7 @@ ERC 1404
 
 * [Neufund](https://neufund.org/)
 * [Tokeny](https://tokeny.com/)
+* Commodity specific \(e.g. oil, gold\)
 
 ## References
 
