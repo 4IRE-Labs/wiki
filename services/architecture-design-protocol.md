@@ -12,7 +12,15 @@ Consultants: [Kirill Kirikov](../about/team/kirill-kirikov.md), [Oleg Bugrovoy](
 
 ## Technologies
 
-![](../.gitbook/assets/image%20%2837%29.png)
+* Ethereum / Solidity
+* Ethermint / Tendermint
+* Stellar
+* Hyperledger Fabric
+* Hyperledger Sawtooth
+* Hyperledger Burrow
+* Raiden
+* Aragon
+* 0x
 
 ## Product: Discovery Phase Process
 
