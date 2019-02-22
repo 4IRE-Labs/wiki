@@ -2,7 +2,7 @@
 
 Purpose: Develop High-end blockchain tech expertise for the ... industry
 
-## Connect with the Community on Conference
+## Connect with the Community on Conferences
 
 <table>
   <thead>
@@ -48,9 +48,9 @@ Purpose: Develop High-end blockchain tech expertise for the ... industry
       </td>
     </tr>
   </tbody>
-</table>trips should be supporting specific research
+</table>Trips should be supporting specific research. Costs can be 50% covered by company.
 
-## Develop Expertise Content
+## Collect Expertise Content
 
 Experts: Webinar, podcast, interviews
 
@@ -65,7 +65,7 @@ Fintech, Regulation etc.
 * Ethereum Enterprise Alliance?
 * Coreteka for Logistics
 
-## Participate in Hackathons
+## Develop POCs on Hackathons
 
 * Feb 15-17 [EthDenver](https://www.ethdenver.com/)
 * Mar 8-10 [EthParis](https://ethparis.com/)
