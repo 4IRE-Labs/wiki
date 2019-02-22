@@ -6,7 +6,7 @@
 
 ### **Solutions**
 
-* Fintech & DeFi
+* Fintech, Decentralize & Open Finance \(\#DeFi\)
   * [Cross Border payments with blockchain](solutions/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) \(Kirill, Bohdan, Oleg\)
   * [Crypto Assets Security](solutions/asset-security.md) \(Oleg\)
   * [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/ethereum-bitcoin-bridge-wip.md) \(Kirill\)
