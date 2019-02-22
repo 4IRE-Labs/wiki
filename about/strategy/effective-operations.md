@@ -1,6 +1,6 @@
 # Effective Operations
 
-Purpose: Minimize administrative costs
+Purpose: Minimize waste / costs
 
 Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 
@@ -8,13 +8,13 @@ Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 
 
 
-## Lower Commission
-
-
-
 ## Transparent Strategy / Info
 
 
 
-## Process education for Team / Onboarding
+## Team Education / Onboarding
+
+
+
+## Processes Audit / optimization
 
