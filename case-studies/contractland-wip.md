@@ -10,7 +10,7 @@ Team: [Kirill Kirikov](../about/team/kirill-kirikov.md)
 
 **SOLUTION**
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
 We’ve design the bridge, that is a two way pegging mechanism that works through a rotating validator set and two bridge contracts \(“contract” here refers to an executable piece of logic in the context of its residing chain\). The bridge contracts resides on the home and foreign chains, hereon referred to as home-bridge and foreign-bridge.
 

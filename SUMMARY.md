@@ -47,8 +47,8 @@
   * [Kirill Kirikov](about/team/kirill-kirikov.md)
   * [Oleg Bugrovoy](about/team/oleg-bugrovoy.md)
   * [Bohdan Malkevych](about/team/bohdan-malkevych.md)
-  * [Max Semenchuk](about/team/max-semenchuk.md)
   * [Roman Malkevych \(wip\)](about/team/roman-malkevych-wip.md)
+  * [Max Semenchuk](about/team/max-semenchuk.md)
 * [History & Achievements](about/credentials-wip.md)
 
 ## Archive
