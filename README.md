@@ -32,7 +32,7 @@
 * [Smart Documents](case-studies/smart-documents.md) – Blockchain-based notarization platform
 * [Maitres](case-studies/maitres.md) – Smart restaurant booking platform
 * [ORME](case-studies/orme.md) – Market maker for the exchange platform
-* [Crypto Improvement Fund](case-studies/crypto-improvement-fund.md)
+* [Crypto Improvement Fund](case-studies/crypto-improvement-fund.md) – educational ecosystem
 * [CMI](case-studies/cmi.md) – Global Media Ecosystem
 * [Tennagraph](case-studies/tennagraph.md) – Ethereum Signal Aggregator
 * [ICONX](case-studies/iconx-wip.md) – asset tokenization platform
