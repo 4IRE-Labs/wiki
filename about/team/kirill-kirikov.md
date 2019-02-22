@@ -1,8 +1,8 @@
 # Kirill Kirikov
 
-{% embed url="https://github.com/KiriKiri" %}
-
 Lead Blockchain Developer: Ethereum/Solidity, Hyperledger, Multichain
+
+{% embed url="https://github.com/KiriKiri" %}
 
 12+ years dev experience, managing team \(up to 30 specialists\), released more than 100 apps. Worked on software for Chrysler & Ferrari. Teaching courses on iOS and Blockchain.
 
