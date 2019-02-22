@@ -8,7 +8,7 @@
 * [Cross-border payments](solutions/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
 * [Crypto Assets Security \(wip\)](solutions/asset-security.md)
 * [Supply Chain Asset Tracking](solutions/asset-tracking.md)
-* [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
+* [How to track document versions and signers on the blockchain \(wip\)](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
 * [Effective Resource Distribution in Commons](solutions/effective-resource-distribution-in-commons/README.md)
   * [Merging.Space – Project Management Tool](solutions/effective-resource-distribution-in-commons/merge-space-overview.md)
 * [Ethereum / Bitcoin bridge](solutions/ethereum-bitcoin-bridge-wip.md)

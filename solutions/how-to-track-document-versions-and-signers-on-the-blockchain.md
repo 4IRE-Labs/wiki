@@ -1,11 +1,9 @@
-# How to track document versions and signers on the blockchain
+# How to track document versions and signers on the blockchain \(wip\)
 
-Problem: how to track document versions and signers on the blockchain
+For products like Zoho sign, Integrators of electronic documents systems, business consultants
 
-TA: products like Zoho sign, компании которые занимаются внедрением электронного документооборота, бизнес-консультанты
+Problem: tracking document versions and signers on the blockchain \(immutable ledger\)
 
-Solution
-
-Алена сделает интервью с Бодей  
+Solution: Helen to interview Bohdan on this  
 
 
