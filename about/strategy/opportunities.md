@@ -5,7 +5,7 @@ Purpose: High earning opportunities for blockchain engineers
 * revenue
 * no. of consultants
 
-## Case Study / Research Exposure
+## Our Case Studies & Research Gain Wide Target Exposure
 
 ### Providing good description
 
@@ -13,24 +13,32 @@ Purpose: High earning opportunities for blockchain engineers
 
 ### Setting local meetings
 
-* Email list
-* With Speakers on conferences 
+* Email list of target companies
+* +Speakers from the conferences 
 
 ### Research Media Support
 
 * Propose for publication in thematic media
 * Propose as speakers
 
-## Extend / Empower Partner Network
+### Leads Nurturing
 
-Types of partners:
+...
+
+### Customers group board
+
+...
+
+## Extensive LG Partner Network is Created
+
+### Types of partners
 
 * Agencies \(e.g. fintech, digitalization etc\)
 * Industrial hubs \(e.g. b hive\)
 * Accelerators
 * Local connectors
 
-Geography:
+### Geography
 
 * Toronto \(Scott\)
 * Stockholm \(Johan\)
@@ -50,19 +58,17 @@ Geography:
 * Send on monthly basis report/ updates \( materials, content, company's updates\)
 * Share costs on attending events?
 
-## Attracting additional blockchain consultants
+## 12 Active Consultants are Available
 
-Desired focus?
+Attract + 5 Desired focus?
 
-## Optimal jurisdiction for managing customers
-
-...
-
-## Attracting Grants & Investments
+## Company Jurisdiction is Optimal & Convenient
 
 ...
 
-## Leads Nurturing
+## $100k in Grants & Investments are raised
 
 ...
+
+### 
 

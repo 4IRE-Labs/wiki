@@ -4,23 +4,19 @@ Purpose: Minimize waste / costs
 
 Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 
-## Strategy / Transparent Strategy / Info
+## Purpose, Strategy, Governance & Goals are Clear to all Partners
 
-Customers group board
+Team Education / Onboarding
 
-## Processes Audit / Optimization
+## Processes are Regularly Audited & Optimized
+
+Quarterly?
 
 Easy Docs/Accounting process
 
+## High Trust Environment in the Community
+
+Culture – min transactional / trust costs
 
 
-## Community / Culture – min transactional / trust costs
-
-
-
-## Team Education / Onboarding
-
-
-
-## 
 
