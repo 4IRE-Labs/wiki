@@ -1,5 +1,7 @@
 # Strategy
 
+**Purpose:** research and develop IT solutions
+
 ## Strategy & Goals
 
 1. [High-end Expertise](expertise.md) – Expertise lead

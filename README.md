@@ -1,10 +1,8 @@
-# Navigation
+# 4IRE labs \| Navigation
 
-## **4IRE labs**
+We research & develop IT solutions, based on blockchain, cloud and mobile tech. Working in financial, e-commerce, logistics and other domains.
 
-**Purpose:** research and develop IT solutions
-
-### **Solutions**
+## **Solutions**
 
 * Fintech, Decentralized & Open Finance \(\#DeFi\)
   * [Cross Border payments with blockchain](solutions/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) \(Kirill, Bohdan, Oleg\)
@@ -17,12 +15,12 @@
 * [Asset tracking for the supply chain](solutions/asset-tracking.md) \(Bohdan\)
 * [Improving Developer Experience](solutions/developer-community-devxp.md) \(Max\)
 
-### **Services**
+## **Services**
 
 * [Architecture Design / Protocol](services/architecture-design-protocol.md)
 * [Dapps Development](services/dapps-wallets-development.md)
 
-### Case Studies
+## Case Studies
 
 * [Hiveonline](case-studies/hiveonline.md) – The financial trust platform for small businesses
 * [Social Media Market](case-studies/social.-media-market.md) – Blockchain-based decentralized advertising marketplace
@@ -38,7 +36,7 @@
 * [ICONX](case-studies/iconx-wip.md) – asset tokenization platform
 * [Contractland](case-studies/contractland-wip.md) – DEX
 
-### Organization
+## Organization
 
 * [Strategy](org/strategy/)
 * [Governance](org/governance.md)

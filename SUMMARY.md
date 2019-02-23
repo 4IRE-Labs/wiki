@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Navigation](README.md)
+* [4IRE labs \| Navigation](README.md)
 
 ## Solutions
 
