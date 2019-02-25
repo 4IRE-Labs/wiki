@@ -44,9 +44,10 @@ ERC 1404
 
 ## Projects
 
-* [Neufund](https://neufund.org/)
+* [Neufund](https://neufund.org/) \(working\)
+* [Polymath](https://polymath.network/)
 * [Tokeny](https://tokeny.com/)
-* BFT \(Bnktothefuture\)
+* [Bnktothefuture](https://bnktothefuture.com/)
 * PledgeCamp
 * Krypto
 * fond.cz
