@@ -8,6 +8,8 @@ Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 
 Teach more facilitators & mediators
 
+partnership with Teal UA
+
 ## Purpose, Strategy, Governance & Goals are Clear to all Partners
 
 Team Education / Onboarding
