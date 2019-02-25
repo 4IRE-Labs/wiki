@@ -69,6 +69,7 @@ Fintech, Regulation etc.
 
 * Ethereum Enterprise Alliance?
 * Coreteka for Logistics
+*  \#dgov foundation
 
 ## Working POCs are developed in key domains 
 
