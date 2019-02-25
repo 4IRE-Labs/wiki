@@ -23,6 +23,7 @@ Purpose: Develop High-end blockchain tech expertise for the ... industry
           </li>
           <li>Aracon, Berlin</li>
           <li><a href="https://ethcc.io/">EthCC</a> France March 5-10, 2019 (Max)</li>
+          <li><a href="https://blockchainua.com/en">Blockchain UA</a>, Kyiv</li>
         </ul>
       </td>
     </tr>
