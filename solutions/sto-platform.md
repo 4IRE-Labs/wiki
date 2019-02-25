@@ -1,6 +1,8 @@
 # Improving Asset Liquidity with tokenization
 
-For financial assets companies / platforms \(commodities, bond funds, futures\) etc.
+For financial assets platforms:
+
+* Commodity specific exchanges \(e.g. bonds, futures\)
 
 ## Benefits
 
@@ -38,14 +40,16 @@ By combining the advantages of blockchain and classical investment instruments, 
 
 ERC 1404
 
+
+
 ## Projects
 
 * [Neufund](https://neufund.org/)
 * [Tokeny](https://tokeny.com/)
 * BFT \(Bnktothefuture\)
 * PledgeCamp
-* Kryptofond.cz
-* Commodity specific \(e.g. oil, gold\)
+* Krypto
+* fond.cz
 
 ## References
 
