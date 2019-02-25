@@ -4,6 +4,10 @@ Purpose: Minimize waste / costs
 
 Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 
+## Participatory & Self-organized Environment
+
+Teach more facilitators & mediators
+
 ## Purpose, Strategy, Governance & Goals are Clear to all Partners
 
 Team Education / Onboarding
