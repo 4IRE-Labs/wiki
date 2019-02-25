@@ -19,7 +19,8 @@ Purpose: High earning opportunities for blockchain engineers
 ### Research Media Support
 
 * Propose for publication in thematic media
-* Propose as speakers
+* Propose as speakers for conferences
+* Organize webinars
 
 ### Leads Nurturing
 
