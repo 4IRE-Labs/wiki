@@ -72,5 +72,5 @@ Attract and sell partners services?
 
 ## Company Jurisdiction is Optimal & Convenient
 
-...
+external services, ease up docs
 
