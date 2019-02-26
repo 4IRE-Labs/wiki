@@ -3,7 +3,8 @@
 Purpose: High earning opportunities for blockchain engineers
 
 * revenue
-* no. of consultants
+  * no. of opportunities
+  * no. of consultants
 
 ## Get \(x\) Good Opportunities
 
