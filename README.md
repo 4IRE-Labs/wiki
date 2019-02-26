@@ -4,7 +4,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ## **Solutions**
 
-* Fintech, Decentralized & Open Finance \(\#DeFi\)
+* [Decentralized & Open Finance](solutions/decentralized-finance-defi.md) \(\#DeFi\)
   * [Cross Border payments with blockchain](solutions/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) \(Kirill, Bohdan, Oleg\)
   * [Crypto Assets Security](solutions/asset-security.md) \(Oleg\)
   * [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/ethereum-bitcoin-bridge-wip.md) \(Kirill\)

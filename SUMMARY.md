@@ -4,6 +4,7 @@
 
 ## Solutions
 
+* [Decentralized Finance \(DeFi\)](solutions/decentralized-finance-defi.md)
 * [Compliance Automation](solutions/complaince-scoring.md)
 * [Cross-border payments](solutions/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
 * [Crypto Assets Security \(wip\)](solutions/asset-security.md)
