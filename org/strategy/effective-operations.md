@@ -24,5 +24,5 @@ Easy Docs/Accounting process
 
 Culture – min transactional / trust costs
 
-
+## Overdue Payments &lt; 50% monthly revenue
 
