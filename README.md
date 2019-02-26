@@ -13,6 +13,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [Effective resource distribution in commons](solutions/effective-resource-distribution-in-commons/) \(Max, Bohdan\)
 * [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md) \(Bohdan, Kirill\)
 * [Asset tracking for the supply chain](solutions/asset-tracking.md) \(Bohdan\)
+* [On-chain Governance](solutions/on-chain-governance.md) \(Max\)
 * [Improving Developer Experience](solutions/developer-community-devxp.md) \(Max\)
 
 ## **Services**

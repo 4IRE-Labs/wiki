@@ -13,8 +13,9 @@
   * [Aragon Apiary](solutions/effective-resource-distribution-in-commons/aragon-apiary.md)
   * [Merging.Space – Project Management Tool](solutions/effective-resource-distribution-in-commons/merge-space-overview.md)
 * [Ethereum / Bitcoin bridge](solutions/ethereum-bitcoin-bridge-wip.md)
-* [Improving Developer Experience](solutions/developer-community-devxp.md)
 * [Improving Asset Liquidity with tokenization](solutions/sto-platform.md)
+* [Improving Developer Experience](solutions/developer-community-devxp.md)
+* [On-chain Governance](solutions/on-chain-governance.md)
 
 ## Services
 
