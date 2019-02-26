@@ -11,7 +11,7 @@ Purpose: High earning opportunities for blockchain engineers
 
 #### Providing good description
 
-...
+incl. in listings like clutch, consultant profiles
 
 #### Setting local meetings
 
@@ -24,11 +24,7 @@ Purpose: High earning opportunities for blockchain engineers
 * Propose as speakers for conferences
 * Organize webinars
 
-#### Leads Nurturing
-
-...
-
-#### Customers group board
+#### Leads Nurturing / Email / Customers group board
 
 ...
 
@@ -68,6 +64,8 @@ Purpose: High earning opportunities for blockchain engineers
 ## $120k/mo. Revenue Capacity
 
 12 Active Consultants are Available + 5 Desired focus?
+
+Partner with CTO
 
 Attract and sell partners services?
 
