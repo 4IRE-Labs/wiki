@@ -2,9 +2,9 @@
 
 ## Purpose
 
-1. effective for consultants \(lower admin fee, convenience\)
-2. effective for customers \(lower price, convenience\)
-3. effective for partners \(max profit, less stress\)
+1. effective for consultants \(lower admin fee\)
+2. effective for customers \(lower price /through admin fee\)
+3. effective for partners \(less stress, max profit\)
 
 Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 
