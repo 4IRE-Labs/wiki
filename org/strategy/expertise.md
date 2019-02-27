@@ -1,6 +1,6 @@
 # Provide High-End Expertise
 
-Purpose: Develop High-end blockchain tech expertise for the ... industry
+Purpose: Develop high-end expertise in blockchain tech
 
 ## Being part of the blockchain community
 
