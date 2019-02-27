@@ -17,6 +17,20 @@ KPI: active partners
 3. Industrial hubs \(e.g. b hive\)
 4. Local connectors
 
+#### Geography
+
+* Toronto \(Scott\)
+* Stockholm \(Johan\)
+* Singapore \(GQ\)
+* Estonia \(Alex?\)
+* Norway \(David\)
+* Berlin ...
+* London ...
+* NY ...
+* SF ...
+* HK ...
+* [http://gx0.agency/](http://gx0.agency/)
+
 #### Types of partners \( Helen\) 
 
 * Agencies \(e.g. fintech, digitalization etc\)
@@ -51,20 +65,6 @@ Take into account Austria
 
 ...
 
-#### Geography
-
-* Toronto \(Scott\)
-* Stockholm \(Johan\)
-* Singapore \(GQ\)
-* Estonia \(Alex?\)
-* Norway \(David\)
-* Berlin ...
-* London ...
-* NY ...
-* SF ...
-* HK ...
-* [http://gx0.agency/](http://gx0.agency/)
-
 #### Send on monthly basis report/ updates
 
 Materials, content, company's updates
@@ -77,13 +77,13 @@ Materials, content, company's updates
 * Campaign on blockchain accelerators \(result: signed partnership memo\)
 * Create 1st project through the accelerator
 
-### Our Case Studies & Research Gain Wide Target Exposure \(Helen\)
-
-KPI: no. of opportunities
-
 #### Providing good description
 
 incl. in listings like clutch, consultant profiles
+
+### Our Case Studies & Research Gain Wide Target Exposure \(Helen\)
+
+KPI: no. of opportunities
 
 #### Setting local meetings \(Nana\)
 
@@ -91,7 +91,7 @@ incl. in listings like clutch, consultant profiles
 
 **EthParis** 
 
-    - DeFi lead list local startups/ attendees\( startups offering smart banking solutions, exchanges, export import settlements, wallets/cashout the wires, dex, protocols development , investor platforms\) 
+    - DeFi lead list local startups/ attendees \(solution: [Cross-border](../../solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)\) 
 
   - Local fintech companies [http://francefintech.org/qui-sommes-nous/\#nosmembres](http://francefintech.org/qui-sommes-nous/#nosmembres) 
 
@@ -99,7 +99,7 @@ incl. in listings like clutch, consultant profiles
 
 #### Research Media Support
 
-* Propose for publication in thematic media
+* Propose for publication in thematic media 
 * Propose as speakers for conferences
 * Organize webinars 
 
