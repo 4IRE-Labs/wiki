@@ -14,10 +14,17 @@ Purpose: High earning opportunities for blockchain engineers
 
 incl. in listings like clutch, consultant profiles
 
-#### Setting local meetings
+#### Setting local meetings \( Nana\)
 
-* Email list of target companies
-* +Speakers from the conferences 
+* Email list of target companies in conferences 
+
+**EthParis** 
+
+    - DeFi lead list local startups/ attendees\( startups offering smart banking solutions, exchanges, export import settlements, wallets/cashout the wires, dex, protocols development , investor platforms\) 
+
+  - Local fintech companies [http://francefintech.org/qui-sommes-nous/\#nosmembres](http://francefintech.org/qui-sommes-nous/#nosmembres) 
+
+* +Speakers from the conferences \( personal messages for discussing the collaboration\) 
 
 #### Research Media Support
 
@@ -44,7 +51,7 @@ incl. in listings like clutch, consultant profiles
 * Stockholm \(Johan\)
 * Singapore \(GQ\)
 * Estonia \(**Alex?**\)
-* Norwegia \(David\)
+* Norway \(David\)
 * Berlin ...
 * London ...
 * NY ...
