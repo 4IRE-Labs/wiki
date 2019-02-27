@@ -10,9 +10,7 @@ KPI: no. of opportunities
 
 ### Extensive LG Partner Network is Created \(Helen\)
 
-KPI: active partners, 
-
-* * 
+KPI: active partners
 
 #### Types of partners
 
