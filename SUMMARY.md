@@ -16,7 +16,7 @@
   * [Aragon Apiary](solutions/effective-resource-distribution-in-commons/aragon-apiary.md)
   * [Merging.Space – Project Management Tool](solutions/effective-resource-distribution-in-commons/merge-space-overview.md)
 * [Improving Developer Experience](solutions/developer-community-devxp.md)
-* [Improving Organizational Experience](solutions/org-xp.md)
+* [Improving Organizational Experience \(OrgX\)](solutions/org-xp.md)
 
 ## Services
 

@@ -1,6 +1,6 @@
-# Improving Organizational Experience
+# Improving Organizational Experience \(OrgX\)
 
-Organization Experience is the usability for work in the organization. It affects easiness:
+Organization Experience is the Usability \(UX\) for work in the organization. It affects the easiness of :
 
 * new members onboarding and repositioning
 * participation in governace / taking responsibility
@@ -10,7 +10,7 @@ It consists of access availability and clarity of organizational
 
 * purpose and strategy
 * performance and planning data \(kpi, budget\) 
-* governance & policies
+* governance process & policies
 * roles and team members
 * communication channels and coordination processes \(e.g. weekly call\)
 * culture & rituals
