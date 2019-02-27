@@ -1,8 +1,13 @@
 # Decentralized Finance \(DeFi\)
 
-## Opps:
+## Solutions
 
-* Credit scoring by 
+* [Cross Border payments with blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) \(Kirill, Bohdan, Oleg\)
+* [Crypto Assets Security](asset-security.md) \(Oleg\)
+* [Protocol for interchain transfers between Ethereum and Bitcoin](ethereum-bitcoin-bridge-wip.md) \(Kirill\)
+* [Improving Asset Liquidity with tokenization](sto-platform.md) \(Max, Stas\)
+* [Regulatory Compliance Automation](complaince-scoring.md) \(Kirill\)
+* Credit scoring by chain history
 
 ## Resources
 

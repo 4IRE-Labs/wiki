@@ -1,4 +1,4 @@
-# Org XP
+# Improving Organizational Experience
 
 Organization Experience is the usability for work in the organization. It consists of access availability and clarity of organizational
 

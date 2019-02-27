@@ -4,17 +4,18 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ## **Solutions**
 
-* [Decentralized & Open Finance](solutions/decentralized-finance-defi.md) \(\#DeFi\)
-  * [Cross Border payments with blockchain](solutions/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) \(Kirill, Bohdan, Oleg\)
-  * [Crypto Assets Security](solutions/asset-security.md) \(Oleg\)
-  * [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/ethereum-bitcoin-bridge-wip.md) \(Kirill\)
-  * [Improving Asset Liquidity with tokenization](solutions/sto-platform.md) \(Max, Stas\)
-  * [Regulatory Compliance Automation](solutions/complaince-scoring.md) \(Kirill\)
-* [Effective resource distribution in commons](solutions/effective-resource-distribution-in-commons/) \(Max, Bohdan\)
-* [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md) \(Bohdan, Kirill\)
-* [Asset tracking for the supply chain](solutions/asset-tracking.md) \(Bohdan\)
-* [On-chain Governance](solutions/on-chain-governance.md) \(Max\)
-* [Improving Developer Experience](solutions/developer-community-devxp.md) \(Max\)
+* [Decentralized & Open Finance](solutions/decentralized-finance-defi/)
+  * [Cross Border payments with blockchain](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
+  * [Crypto Assets Security](solutions/decentralized-finance-defi/asset-security.md)
+  * [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/decentralized-finance-defi/ethereum-bitcoin-bridge-wip.md)
+  * [Improving Asset Liquidity with tokenization](solutions/decentralized-finance-defi/sto-platform.md)
+  * [Regulatory Compliance Automation](solutions/decentralized-finance-defi/complaince-scoring.md)
+* [Effective resource distribution in commons](solutions/effective-resource-distribution-in-commons/)
+* [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
+* [Asset tracking for the supply chain](solutions/asset-tracking.md)
+* [On-chain Governance](solutions/on-chain-governance.md)
+* [Improving Developer Experience](solutions/developer-community-devxp.md)
+* [Improving Organizational Experience](solutions/org-xp.md)
 
 ## **Services**
 

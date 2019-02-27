@@ -4,20 +4,20 @@
 
 ## Solutions
 
-* [Decentralized Finance \(DeFi\)](solutions/decentralized-finance-defi.md)
-* [Compliance Automation](solutions/complaince-scoring.md)
-* [Cross-border payments](solutions/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
-* [Crypto Assets Security \(wip\)](solutions/asset-security.md)
+* [Decentralized Finance \(DeFi\)](solutions/decentralized-finance-defi/README.md)
+  * [Cross-border payments](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
+  * [Crypto Assets Security \(wip\)](solutions/decentralized-finance-defi/asset-security.md)
+  * [Ethereum / Bitcoin bridge](solutions/decentralized-finance-defi/ethereum-bitcoin-bridge-wip.md)
+  * [Improving Asset Liquidity with tokenization](solutions/decentralized-finance-defi/sto-platform.md)
+  * [Compliance Automation](solutions/decentralized-finance-defi/complaince-scoring.md)
 * [Supply Chain Asset Tracking](solutions/asset-tracking.md)
 * [How to track document versions and signers on the blockchain \(wip\)](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
 * [Effective Resource Distribution in Commons](solutions/effective-resource-distribution-in-commons/README.md)
   * [Aragon Apiary](solutions/effective-resource-distribution-in-commons/aragon-apiary.md)
   * [Merging.Space – Project Management Tool](solutions/effective-resource-distribution-in-commons/merge-space-overview.md)
-* [Ethereum / Bitcoin bridge](solutions/ethereum-bitcoin-bridge-wip.md)
-* [Improving Asset Liquidity with tokenization](solutions/sto-platform.md)
-* [Improving Developer Experience](solutions/developer-community-devxp.md)
 * [On-chain Governance](solutions/on-chain-governance.md)
-* [Org XP](solutions/org-xp.md)
+* [Improving Developer Experience](solutions/developer-community-devxp.md)
+* [Improving Organizational Experience](solutions/org-xp.md)
 
 ## Services
 
