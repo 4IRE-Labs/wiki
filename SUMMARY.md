@@ -17,6 +17,7 @@
 * [Improving Asset Liquidity with tokenization](solutions/sto-platform.md)
 * [Improving Developer Experience](solutions/developer-community-devxp.md)
 * [On-chain Governance](solutions/on-chain-governance.md)
+* [Org XP](solutions/org-xp.md)
 
 ## Services
 
