@@ -1,14 +1,16 @@
 # Effective Operations
 
-Purpose:
+## Purpose
 
-1. effective for consultants \(lower admin fee\)
-2. effective for customers \(lower price\)
-3. effective for partners \(max profit\)
+1. effective for consultants \(lower admin fee, convenience\)
+2. effective for customers \(lower price, convenience\)
+3. effective for partners \(max profit, less stress\)
 
 Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 
-## OrgXP, Participatory & Self-organized Environment
+## Lower admin fee \(Max\)
+
+### Self organization \(Max\)
 
 * Teach more facilitators & mediators
 * partnership with Teal UA
@@ -18,13 +20,13 @@ Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 * Processes are Regularly Audited & Optimized \(Quarterly?\)
 * High Trust Environment in the Community. Culture – min transactional / trust costs
 
-## Decrease Waste \(decrease overhead, improve profits\)
+### Lower financial fees
 
-* отладить оплату сервисом с карточкой
 * найти удобный способ менять крипту \(Ethereum, DAI\)
-* упростить документооборот, уменьшить количество документов. Easy Docs/Accounting process
 
-## Pending Receivables &lt; 50% monthly revenue
+## Partner Less Stress
+
+### Pending Receivables &lt; 50% monthly revenue \(Helen\)
 
 * Discounts for paying in time
 * автоматизировать выставление счетов и напоминалки
@@ -34,7 +36,15 @@ Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 * отправлять аутоуведомления
 * отладить отношения с ютимом
 
-## Align with EU standards
+### Отладить оплату сервисом с карточкой \(Sveta?\)
+
+...
+
+### Easy Docs/Accounting process \(Max\)
+
+Уменьшить количество документов
+
+### Align with EU standards \(?\)
 
 * закрытие Смарта / долги по докам
 * быть ок с европейскими законами \(gdpr, страховка\)
