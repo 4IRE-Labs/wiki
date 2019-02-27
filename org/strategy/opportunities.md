@@ -2,15 +2,17 @@
 
 Purpose: High earning opportunities for blockchain engineers
 
-* revenue
-  * no. of opportunities
-  * no. of consultants
+KPI: revenue
 
 ## Get 40 Good Opportunities / mo. \(Helen\)
 
+KPI: no. of opportunities
+
 ### Extensive LG Partner Network is Created \(Helen\)
 
-KPI: active partners
+KPI: active partners, 
+
+* * 
 
 #### Types of partners
 
@@ -80,6 +82,8 @@ incl. in listings like clutch, consultant profiles
 ...
 
 ## $120k/mo. Revenue Capacity \(Max\)
+
+KPI: no. of consultants
 
 12 Active Consultants are Available + 5 Desired focus?
 
