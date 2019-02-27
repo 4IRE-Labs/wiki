@@ -1,6 +1,13 @@
 # Cross-border payments
 
-For: Remittance services \(SWIFT, Western Union, Transferwise, UAE Exchange [long list](https://www.remitrate.com/money-transfer-companies)\)
+For:
+
+* Remittance services \(SWIFT, Western Union, Transferwise, UAE Exchange [long list](https://www.remitrate.com/money-transfer-companies)\)
+* Export/Import settlements
+* Smart banking solutions / financial groups \(eg. rubixfinancila\)
+* Crypto wallets \(for cashing out in the local currency\)
+* Foreign Exchange Platforms
+* Brokers
 
 Enabling fast, transparent and compliant cross-border payments with the blockchain
 
