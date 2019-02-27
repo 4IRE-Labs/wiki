@@ -7,7 +7,12 @@ Organization Experience is the usability for work in the organization. It consis
 * governance & policies
 * roles and team members
 * communication channels and coordination processes \(e.g. weekly call\)
+* culture & rituals
 * knowledge base and meeting minutes
 
+Practices:
 
+* dynamic governance
+* transparency
+* evaluation
 
