@@ -14,7 +14,6 @@ Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 
 * Teach more facilitators & mediators
 * partnership with Teal UA
-* понятная, удобная и четсная система отпусков
 * Purpose, Strategy, Governance & Goals are Clear to all Partners
 * Team Education / Onboarding
 * Processes are Regularly Audited & Optimized \(Quarterly?\)
@@ -48,4 +47,6 @@ Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 
 * закрытие Смарта / долги по докам
 * быть ок с европейскими законами \(gdpr, страховка\)
+
+### Понятная, удобная и четсная система отпусков \(Max\)
 
