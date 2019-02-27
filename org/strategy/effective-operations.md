@@ -20,11 +20,11 @@ Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 * Processes are Regularly Audited & Optimized \(Quarterly?\)
 * High Trust Environment in the Community. Culture – min transactional / trust costs
 
-### Lower financial fees
+### Lower financial fees \(Sveta?\)
 
 * найти удобный способ менять крипту \(Ethereum, DAI\)
 
-## Partner Less Stress
+## Partner Less Stress \(Max\)
 
 ### Pending Receivables &lt; 50% monthly revenue \(Helen\)
 
@@ -44,7 +44,7 @@ Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 
 Уменьшить количество документов
 
-### Align with EU standards \(?\)
+### Align with EU standards \(Max?\)
 
 * закрытие Смарта / долги по докам
 * быть ок с европейскими законами \(gdpr, страховка\)
