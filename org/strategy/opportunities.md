@@ -6,15 +6,52 @@ Purpose: High earning opportunities for blockchain engineers
   * no. of opportunities
   * no. of consultants
 
-## Get \(x\) Good Opportunities
+## Get 40 Good Opportunities / mo. \(Helen\)
 
-### Our Case Studies & Research Gain Wide Target Exposure
+### Extensive LG Partner Network is Created \(Helen\)
+
+KPI: active partners
+
+#### Types of partners
+
+1. Accelerators
+2. Agencies \(e.g. fintech, digitalization etc\)
+3. Industrial hubs \(e.g. b hive\)
+4. Local connectors
+
+#### Geography
+
+* Toronto \(Scott\)
+* Stockholm \(Johan\)
+* Singapore \(GQ\)
+* Estonia \(Alex?\)
+* Norway \(David\)
+* Berlin ...
+* London ...
+* NY ...
+* SF ...
+* HK ...
+* [http://gx0.agency/](http://gx0.agency/)
+
+#### Send on monthly basis report/ updates
+
+Materials, content, company's updates
+
+#### Next steps
+
+* Understand the accelerators needs / on a call
+* Offer for accelerators
+* Create list of blockchain accelerators
+* Campaign on blockchain accelerators \(result: signed partnership memo\)
+* Create 1st project through the accelerator
+
+### Our Case Studies & Research Gain Wide Target Exposure \(Helen\)
 
 #### Providing good description
 
 incl. in listings like clutch, consultant profiles
 
-#### Setting local meetings \( Nana\)
+#### Setting local meetings \(Nana\)
 
 * Email list of target companies in conferences 
 
@@ -36,40 +73,13 @@ incl. in listings like clutch, consultant profiles
 
 ...
 
-### Extensive LG Partner Network is Created
 
-#### Types of partners
 
-* Agencies \(e.g. fintech, digitalization etc\)
-* Industrial hubs \(e.g. b hive\)
-* Accelerators
-* Local connectors
-
-#### Geography
-
-* Toronto \(Scott\)
-* Stockholm \(Johan\)
-* Singapore \(GQ\)
-* Estonia \(**Alex?**\)
-* Norway \(David\)
-* Berlin ...
-* London ...
-* NY ...
-* SF ...
-* HK ...
-* [http://gx0.agency/](http://gx0.agency/)
-
-#### Action points
-
-* Signup agreements
-* Send on monthly basis report/ updates \( materials, content, company's updates\)
-* Share costs on attending events?
-
-### $100k in Grants & Investments are raised
+### $100k in Grants & Investments are raised \(Max\)
 
 ...
 
-## $120k/mo. Revenue Capacity
+## $120k/mo. Revenue Capacity \(Max\)
 
 12 Active Consultants are Available + 5 Desired focus?
 
@@ -77,7 +87,7 @@ Partner with CTO
 
 Attract and sell partners services?
 
-## Company Jurisdiction is Optimal & Convenient
+## Company Jurisdiction is Optimal & Convenient \(Helen\)
 
 external services, ease up docs
 
