@@ -131,5 +131,6 @@ Flexible rate matrix
 
 ## Company Jurisdiction is Optimal & Convenient \(Helen\)
 
-external services, ease up docs
+* external services, ease up docs
+* увеличить количество способов принятия платежей \(например крипта, оплата карточкой\)
 
