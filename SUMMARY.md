@@ -15,7 +15,6 @@
 * [Effective Resource Distribution in Commons](solutions/effective-resource-distribution-in-commons/README.md)
   * [Aragon Apiary](solutions/effective-resource-distribution-in-commons/aragon-apiary.md)
   * [Merging.Space – Project Management Tool](solutions/effective-resource-distribution-in-commons/merge-space-overview.md)
-* [On-chain Governance](solutions/on-chain-governance.md)
 * [Improving Developer Experience](solutions/developer-community-devxp.md)
 * [Improving Organizational Experience](solutions/org-xp.md)
 

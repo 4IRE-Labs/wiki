@@ -13,7 +13,6 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [Effective resource distribution in commons](solutions/effective-resource-distribution-in-commons/)
 * [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
 * [Asset tracking for the supply chain](solutions/asset-tracking.md)
-* [On-chain Governance](solutions/on-chain-governance.md)
 * [Improving Developer Experience](solutions/developer-community-devxp.md)
 * [Improving Organizational Experience](solutions/org-xp.md)
 
