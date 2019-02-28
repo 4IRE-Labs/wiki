@@ -2,11 +2,11 @@
 
 Purpose: High earning opportunities for blockchain engineers
 
-## Get 40 Good Opportunities / mo. \(Helen\)
-
 KPI: revenue
 
-### Extensive LG Partner Network is Created \(Helen\)
+## Get 40 Good Opportunities / mo. \(Helen\)
+
+### Extensive LG [Partner Network](https://docs.google.com/spreadsheets/d/1S9YYeutXMe3fQE3cFdlJk77ZvmvSMI6vv4N4mo8CiIU/edit#gid=0) is Created \(Helen\)
 
 KPI: active partners
 
@@ -17,39 +17,18 @@ KPI: active partners
 3. Industrial hubs \(e.g. b hive\)
 4. Local connectors
 
-#### Geography
+Find more in Berlin, London, NY, SF, HK \(also Sweden, Austria?\)
 
-* Toronto \(Scott\)
-* Stockholm \(Johan\)
-* Singapore \(GQ\)
-* Estonia \(Alex?\)
-* Norway \(David\)
-* Berlin ...
-* London ...
-* NY ...
-* SF ...
-* HK ...
-* [http://gx0.agency/](http://gx0.agency/)
+ 
 
-#### Types of partners \( Helen\) 
+#### Action points:
 
-* Agencies \(e.g. fintech, digitalization etc\)
-
-UK \( 2\),  Canada \( 1\) , USA \( 2\), Sweden \(1\), Singapore \(1\), Norway \( 1\) 
-
-* Industrial hubs \(e.g. b hive\)
-* Accelerators
-* Local connectors
-* Signup agreements
-* Sign agreements with new partners in Berlin, London, NY, HK, SF.
-* Send on monthly basis report/ updates \( materials, content, company's updates\)
-* Share costs on attending events  \(List of conferences [https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRHc66fi8-Edcmg\_gJWLIDujKFzxHynk6Wp4eW4-g\_t6uFJc8GvqwKc2NY6Amkg\_NvyigOsUpcd9KHa/pubhtml](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRHc66fi8-Edcmg_gJWLIDujKFzxHynk6Wp4eW4-g_t6uFJc8GvqwKc2NY6Amkg_NvyigOsUpcd9KHa/pubhtml)\)
-
+* 
 **Singapore upcoming conferences** 
 
 cost 150 usd 
 
-KPI: no. of consultants
+
 
 {% embed url="https://blockchain-life.com/asia/en/" %}
 
@@ -76,26 +55,25 @@ Materials, content, company's updates
 * Create list of blockchain accelerators
 * Campaign on blockchain accelerators \(result: signed partnership memo\)
 * Create 1st project through the accelerator
-
-#### Providing good description
-
-incl. in listings like clutch, consultant profiles
+* Sign agreements with new partners in Berlin, London, NY, HK, SF.
+* Share costs on attending events  \([List of conferences](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRHc66fi8-Edcmg_gJWLIDujKFzxHynk6Wp4eW4-g_t6uFJc8GvqwKc2NY6Amkg_NvyigOsUpcd9KHa/pubhtml)\)
 
 ### Our Case Studies & Research Gain Wide Target Exposure \(Helen\)
 
 KPI: no. of opportunities
 
+#### Providing good description
+
+incl. in listings like clutch, consultant profiles
+
 #### Setting local meetings \(Nana\)
 
-* Email list of target companies in conferences 
-
-**EthParis** 
-
-    - DeFi lead list local startups/ attendees \(solution: [Cross-border](../../solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)\) 
-
-  - Local fintech companies [http://francefintech.org/qui-sommes-nous/\#nosmembres](http://francefintech.org/qui-sommes-nous/#nosmembres) 
-
+* Email list of target companies in conferences
 * +Speakers from the conferences \( personal messages for discussing the collaboration\) 
+
+Campaigns
+
+* [Cross-border](../../solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) for EthParis \(DeFi [lead list local startups/ attendees](http://francefintech.org/qui-sommes-nous/#nosmembres%20)\)
 
 #### Research Media Support
 
@@ -118,6 +96,8 @@ KPI: no. of opportunities
 ...
 
 ## $120k/mo. Revenue Capacity \(Max\)
+
+KPI: no. of consultants
 
 12 Active Consultants are Available + 5 Desired focus?
 

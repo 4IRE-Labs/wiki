@@ -32,11 +32,12 @@ Purpose: Develop high-end expertise in blockchain tech
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li><a href="https://stockholmblockchainforum.com/">Stockholm Blockchain Forum</a> – Apr
+          <li><a href="https://stockholmblockchainforum.com/">Stockholm Blockchain Forum</a> &#x2013;&#xA0;Apr
             11 (Max)</li>
-          <li><a href="http://dappdev.org/conference">DappDev Kyiv</a> – April ?</li>
-          <li><a href="https://www.edcon.io/">EDCON</a> – Apr 8-14, Sydney, Australia
-            (Kirill)</li>
+          <li><a href="http://dappdev.org/conference">DappDev Kyiv</a> &#x2013;&#xA0;April
+            ?</li>
+          <li><a href="https://www.edcon.io/">EDCON</a> &#x2013;&#xA0;Apr 8-14, Sydney,
+            Australia (Kirill)</li>
         </ul>
       </td>
     </tr>
