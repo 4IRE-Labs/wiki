@@ -6,6 +6,8 @@ Focus on product solutions \(as industry invests in it a lot\).
 
 ## 1. Develop Research Strategy \(Kirill\)
 
+Define priorities in researches, approaches and practices
+
 ### Advisory Board is created
 
 Fintech, Regulation, Logistics BA etc.
