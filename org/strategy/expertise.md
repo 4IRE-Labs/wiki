@@ -2,9 +2,55 @@
 
 Purpose: Develop high-end expertise in blockchain tech
 
-## Being part of the blockchain community
+## 1. Develop POC in key researches 
 
-### Attend conferences
+### Hackathons
+
+* Feb 15-17 [EthDenver](https://www.ethdenver.com/)
+* Mar 8-10 [EthParis](https://ethparis.com/)
+* Apr 8-14 [EDCON](https://www.edcon.io/) \(Sydney\) – Kirill
+* Apr 12-14 [Odyssey](https://www.odyssey.org/odyssey-hackathon/) - Biggest Blockchain & AI hackathon \(Groningen, Netherlands\) – Max
+* Apr 19-21 [EthCapetown](https://ethcapetown.com/)
+* May 13-15 [Consesus](https://www.coindesk.com/events/consensus-2019) \(NYC\)
+* May 17-19 [EthNYC](https://twitter.com/ethnewyork)
+* Aug 10-12 [EthIndia](https://ethindia.co/) \(Bangalore\)
+* Sep 6-8 [EthBoston](https://twitter.com/ethboston)
+* Oct 11-13 [EthWaterloo](https://ethwaterloo.com/)
+
+Trips should be supporting specific research. Costs can be 50% covered by company.
+
+### Participate in blockchain incubators
+
+* [https://www.boost.vc/apply](https://www.boost.vc/apply)
+* Y Combinator [https://www.startupschool.org/](https://www.startupschool.org/)
+* [http://bluehill.net/](http://bluehill.net/)
+* [https://www.f6s.com/programs](https://www.f6s.com/programs) + [apply](https://www.f6s.com/cvincubation/apply)
+* [https://ventures.coinbase.com/](https://ventures.coinbase.com/)
+* [https://labs.binance.com/](https://labs.binance.com/)
+* [https://www.huobi.com/ru-ru/labs/](https://www.huobi.com/ru-ru/labs/)
+* [https://www.catena-capital.com/](https://www.catena-capital.com/)
+* [https://blockchaincentre.com.au/incubator/](https://blockchaincentre.com.au/incubator/)
+* [https://www.adelphoi.io/](https://www.adelphoi.io/)
+
+### Provide pro bono or discounted services for NGOs in prio domains
+
+...
+
+## 2. Advisory Board is created
+
+Fintech, Regulation, Logistics BA etc.
+
+Shares?
+
+### 
+
+## 3. Expertise Content Collection is created
+
+Experts: Webinar, podcast, interviews
+
+Knowledge base, wikis...
+
+### Being part of the blockchain community
 
 <table>
   <thead>
@@ -52,55 +98,13 @@ Purpose: Develop high-end expertise in blockchain tech
       </td>
     </tr>
   </tbody>
-</table>Trips should be supporting specific research. Costs can be 50% covered by company.
-
-## Expertise Content Collection is created
-
-Experts: Webinar, podcast, interviews
-
-Knowledge base, wikis...
-
-## Advisory Board is created
-
-Fintech, Regulation etc.
-
-5 people? Shares?
-
-## Partnership with Domain Orgs are established
+</table>### Partnership with Domain Orgs are established
 
 * Ethereum Enterprise Alliance?
 * Coreteka for Logistics
 *  \#dgov foundation
 
-## Participate in blockchain incubators
+### 
 
-* [https://www.boost.vc/apply](https://www.boost.vc/apply)
-* Y Combinator [https://www.startupschool.org/](https://www.startupschool.org/)
-* [http://bluehill.net/](http://bluehill.net/)
-* [https://www.f6s.com/programs](https://www.f6s.com/programs) + [apply](https://www.f6s.com/cvincubation/apply)
-* [https://ventures.coinbase.com/](https://ventures.coinbase.com/)
-* [https://labs.binance.com/](https://labs.binance.com/)
-* [https://www.huobi.com/ru-ru/labs/](https://www.huobi.com/ru-ru/labs/)
-* [https://www.catena-capital.com/](https://www.catena-capital.com/)
-* [https://blockchaincentre.com.au/incubator/](https://blockchaincentre.com.au/incubator/)
-* [https://www.adelphoi.io/](https://www.adelphoi.io/)
-
-## Working POCs are developed in key domains 
-
-### Hackathons
-
-* Feb 15-17 [EthDenver](https://www.ethdenver.com/)
-* Mar 8-10 [EthParis](https://ethparis.com/)
-* Apr 8-14 [EDCON](https://www.edcon.io/) \(Sydney\) – Kirill
-* Apr 12-14 [Odyssey](https://www.odyssey.org/odyssey-hackathon/) - Biggest Blockchain & AI hackathon \(Groningen, Netherlands\) – Max
-* Apr 19-21 [EthCapetown](https://ethcapetown.com/)
-* May 13-15 [Consesus](https://www.coindesk.com/events/consensus-2019) \(NYC\)
-* May 17-19 [EthNYC](https://twitter.com/ethnewyork)
-* Aug 10-12 [EthIndia](https://ethindia.co/) \(Bangalore\)
-* Sep 6-8 [EthBoston](https://twitter.com/ethboston)
-* Oct 11-13 [EthWaterloo](https://ethwaterloo.com/)
-
-### Provide pro bono or discounted services for NGOs in prio domains
-
-...
+## 
 
