@@ -15,6 +15,7 @@ It consists of access availability and clarity of organizational
 * communication channels and coordination processes \(e.g. weekly call\)
 * culture & rituals
 * knowledge base and meeting minutes
+* ability to change
 
 Practices:
 
