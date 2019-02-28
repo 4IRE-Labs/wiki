@@ -21,4 +21,5 @@ Practices:
 * dynamic governance
 * transparency
 * evaluation
+* training
 
