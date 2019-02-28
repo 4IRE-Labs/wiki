@@ -14,6 +14,12 @@ Fintech, Regulation, Logistics BA etc.
 
 Shares?
 
+### Partnership with Domain Orgs are established
+
+* Ethereum Enterprise Alliance?
+* Coreteka for Logistics
+*  \#dgov foundation
+
 ### Main industry conferences are attended
 
 <table>
@@ -100,17 +106,7 @@ Trips should be supporting specific research. Costs can be 50% covered by compan
 
 ...
 
-## 3. Expertise Content Collection is created \(Max\)
-
-Experts: Webinar, podcast, interviews
-
-Knowledge base, wikis...
-
-### Partnership with Domain Orgs are established
-
-* Ethereum Enterprise Alliance?
-* Coreteka for Logistics
-*  \#dgov foundation
+### 
 
 ## 
 
