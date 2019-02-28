@@ -4,6 +4,8 @@
 
 **Need:** Define the components of the system and how they operate on the paper to avoid costly changes in future. 
 
+We investigate your niche to find out whether you need blockchain or not. Analysis, a deep examination of the industry and a sober assessment of the goals and available resources is the way to mitigate most of the risks. It is the way we get things done.
+
 We're convinced that canonical approaches of software architecture in agile is a huge work upfront. That's why we think that the solution architecture and development only the high-level diagrams is enough to start the development in our very fast changing world. 
 
 Case Studies: [Kidcoin](../case-studies/kidcoin.md), [Kepler Collective](../case-studies/kepler-collective.md), [Social. Media Market](../case-studies/social.-media-market.md), [Smart Documents](../case-studies/smart-documents.md), [ORME](../case-studies/orme.md)
@@ -38,7 +40,7 @@ Keywords: blockchchain, architecture solutions, solution architecture, blockchai
 
 ![](../.gitbook/assets/image%20%2822%29.png)
 
-## **Additional Resources:**
+## Publications
 
 * [Blockchain Cards for selecting the blockchain technology](https://4irelabs.com/blockchain_cards)
 * [Compatible Blockchains for the Fintech Projects. Is Stellar one of them?](https://4irelabs.com/blockchain-fintech-stellar)
