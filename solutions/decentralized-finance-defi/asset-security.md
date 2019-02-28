@@ -6,7 +6,7 @@
 * Visual cryptography is a cryptographic technique which allows visual information \(pictures, text, etc.\) to be encrypted in such a way that the decrypted information appears as a visual image.
 * Hard wallets integration
 
-## The name: PhotoPass
+## POC: PhotoPass
 
 The idea: Use image-based steganography and optional password to backup your seed phrase The rationale: The offline backup is proven to be fragile to a human factor errors. The hardware may crash. The ideal backup:
 
