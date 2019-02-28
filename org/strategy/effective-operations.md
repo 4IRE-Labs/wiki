@@ -8,7 +8,7 @@
 
 Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 
-## Lower admin fee \(Max\)
+## 1. Lower admin fee \(Max\)
 
 ### Self organization \(Max\)
 
@@ -23,7 +23,7 @@ Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 
 * найти удобный способ менять крипту \(Ethereum, DAI\)
 
-## Partner Less Stress \(Max\)
+## 2. Partner Less Stress \(Max\)
 
 ### Pending Receivables &lt; 50% monthly revenue \(Helen\)
 

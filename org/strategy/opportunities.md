@@ -4,7 +4,9 @@ Purpose: High earning opportunities for blockchain engineers
 
 KPI: revenue
 
-## Get 40 Good Opportunities / mo. \(Helen\)
+## 1. Grow Channels for Attracting Good Opportunities \(Helen\)
+
+KPI: Opportunities \(40/mo.?\)
 
 ### Extensive LG [Partner Network](https://docs.google.com/spreadsheets/d/1S9YYeutXMe3fQE3cFdlJk77ZvmvSMI6vv4N4mo8CiIU/edit#gid=0) is Created \(Helen\)
 
@@ -95,9 +97,9 @@ Campaigns
 
 ...
 
-## $120k/mo. Revenue Capacity \(Max\)
+## 2. Extend Revenue Capacity \(Max\)
 
-KPI: no. of consultants
+KPI: no. of consultants / $120k/mo.
 
 12 Active Consultants are Available + 5 Desired focus?
 
@@ -109,7 +111,7 @@ Flexible rate matrix
 
 
 
-## Company Jurisdiction is Optimal & Convenient \(Helen\)
+## 3. Company Jurisdiction is Optimal & Convenient \(Helen\)
 
 * external services, ease up docs
 * увеличить количество способов принятия платежей \(например крипта, оплата карточкой\)
