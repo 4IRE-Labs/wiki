@@ -20,6 +20,12 @@ Shares?
 * Coreteka for Logistics
 *  \#dgov foundation
 
+### Feedback on Solutions is collected
+
+good description + customer interviews / demos
+
+## 2. Collect technical problems/needs
+
 ### Main industry conferences are attended
 
 <table>
@@ -68,11 +74,7 @@ Shares?
       </td>
     </tr>
   </tbody>
-</table>### Feedback on Solutions is collected
-
-good description + customer interviews / demos
-
-## 2. Develop POC in key researches \(Kirill\)
+</table>## 3. Develop POC in key researches \(Kirill\)
 
 ### Hackathons
 
