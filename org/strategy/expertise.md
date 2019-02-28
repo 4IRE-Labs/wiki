@@ -2,7 +2,7 @@
 
 Purpose: Develop high-end expertise in blockchain tech
 
-## 1. Develop POC in key researches 
+## 1. Develop POC in key researches \(Kirill\)
 
 ### Hackathons
 
@@ -36,15 +36,13 @@ Trips should be supporting specific research. Costs can be 50% covered by compan
 
 ...
 
-## 2. Advisory Board is created
+## 2. Advisory Board is created \(Helen\)
 
 Fintech, Regulation, Logistics BA etc.
 
 Shares?
 
-### 
-
-## 3. Expertise Content Collection is created
+## 3. Expertise Content Collection is created \(Max\)
 
 Experts: Webinar, podcast, interviews
 
@@ -103,8 +101,6 @@ Knowledge base, wikis...
 * Ethereum Enterprise Alliance?
 * Coreteka for Logistics
 *  \#dgov foundation
-
-### 
 
 ## 
 
