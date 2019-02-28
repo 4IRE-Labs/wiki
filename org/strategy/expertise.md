@@ -1,6 +1,8 @@
 # Provide High-End Expertise
 
-Purpose: Develop high-end expertise in blockchain tech
+Purpose: Develop high-end expertise in blockchain tech.
+
+Focus on product solutions \(as industry invests in it a lot\).
 
 ## 1. Develop Research Strategy \(Kirill\)
 
