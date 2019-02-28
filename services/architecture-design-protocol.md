@@ -43,5 +43,8 @@ Keywords: blockchchain, architecture solutions, solution architecture, blockchai
 * [Blockchain Cards for selecting the blockchain technology](https://4irelabs.com/blockchain_cards)
 * [Compatible Blockchains for the Fintech Projects. Is Stellar one of them?](https://4irelabs.com/blockchain-fintech-stellar)
 * [Fintech report 2019: Market Reports \| Trends, Statistics‎ & Predictions](https://4irelabs.com/fintech-report)
-* [NEO Blockchain: What it Hides from Businesses?](https://4irelabs.com/neo-blockchain-pros-and-cons)
+* [5 Hyperledger Projects In Depth](https://medium.com/practical-blockchain/5-hyperledger-projects-in-depth-3d14c41f902b)
+* [How To Raise A Permissioned Blockchain The Bright Way](https://medium.com/practical-blockchain/how-to-raise-a-permissioned-blockchain-the-bright-way-fb90230538ba)
+* [NEO Blockchain: What it Hides from Businesses?](https://medium.com/practical-blockchain/neo-blockchain-what-it-hides-from-businesses-13853f169e9b)
+* [BitRent Smart Contracts Audit Case Study](https://medium.com/practical-blockchain/bitrent-smart-contracts-audit-case-study-d7d61a34e9f7)
 
