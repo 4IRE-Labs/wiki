@@ -8,7 +8,23 @@
 
 Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 
-## 1. Lower admin fee \(Max\)
+## 1. Pending Receivables &lt; 50% monthly revenue
+
+**Action points:**
+
+1.  Control / Regulate current accounts
+   1. YT/KC \(21\)
+   2. HO \(10\)
+   3. Mtrs \(9\)
+   4. Rwl \(5\)
+2. Improve new contracts
+   1. Discounts for paying in time
+   2. Automate invoice generation and reminders
+   3. Fines / higher rates for violators
+   4. Don't start without the payment
+   5. Prepare docs/invoices preliminary
+
+## 2. Lower admin fee \(Max\)
 
 ### Self organization \(Max\)
 
@@ -23,17 +39,7 @@ Team: Max, Helen P, Nina, Kirill, Olha, Helen L
 
 * найти удобный способ менять крипту \(Ethereum, DAI\)
 
-## 2. Partner Less Stress \(Max\)
-
-### Pending Receivables &lt; 50% monthly revenue \(Helen\)
-
-* Discounts for paying in time
-* автоматизировать выставление счетов и напоминалки
-* штрафы / повышение рейта
-* не начинать без оплаты
-* делать документы заранее \(в тч автоматизировано\)
-* отправлять аутоуведомления
-* отладить отношения с ютимом
+## 3. Partner Less Stress \(Max\)
 
 ### Отладить оплату сервисом с карточкой \(Sveta?\)
 
