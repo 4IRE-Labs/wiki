@@ -1,5 +1,7 @@
 # Decentralized Finance \(DeFi\)
 
+Decentralized finance \(\#defi\) is the movement that leverages open source software and decentralized networks to transform traditional financial products into trustless and transparent protocols that operate without unnecessary intermediaries. One could envision decentralized finance impacting the financial world the same way that open source software has changed software products.
+
 ## Solutions and Consultants
 
 * [Cross Border payments with blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) \(Kirill, Bohdan, Oleg\)
