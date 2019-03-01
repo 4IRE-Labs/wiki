@@ -1,6 +1,6 @@
 # Decentralized Finance \(DeFi\)
 
-## Solutions
+## Solutions and Consultants
 
 * [Cross Border payments with blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) \(Kirill, Bohdan, Oleg\)
 * [Crypto Assets Security](asset-security.md) \(Oleg\)
@@ -11,9 +11,8 @@
 
 ## Resources
 
-* [https://tokeneconomy.co/mapping-the-decentralized-financial-system-7c5af65e0335](https://tokeneconomy.co/mapping-the-decentralized-financial-system-7c5af65e0335)
-* [https://www.stateofthedapps.com/dapps?tags=defi](https://www.stateofthedapps.com/dapps?tags=defi)
-* [https://medium.com/@jjmstark/the-year-in-ethereum-87a17d6f8276](https://medium.com/@jjmstark/the-year-in-ethereum-87a17d6f8276)
-* [https://github.com/ong/awesome-decentralized-finance](https://github.com/ong/awesome-decentralized-finance)
-* [https://www.reddit.com/r/defi/](https://www.reddit.com/r/defi/)
+* [4IRE labs Fintech Report: Results & Trends](https://4irelabs.com/fintech-report?utm_source=fb&utm_medium=groups&utm_campaign=fintech-report)
+* [Mapping the Decentralized Financial System](https://tokeneconomy.co/mapping-the-decentralized-financial-system-7c5af65e0335)
+* [State of Dapps: DeFi](https://www.stateofthedapps.com/dapps?tags=defi)
+* [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance)
 
