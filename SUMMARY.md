@@ -44,7 +44,6 @@
 * [Strategy](org/strategy/README.md)
   * [Provide High-End Expertise](org/strategy/expertise.md)
   * [Growth Opportunities](org/strategy/opportunities.md)
-  * [Effective Operations](org/strategy/effective-operations.md)
 * [Governance](org/governance.md)
 * [About us](org/credentials-wip/README.md)
   * [Kirill Kirikov](org/credentials-wip/kirill-kirikov.md)

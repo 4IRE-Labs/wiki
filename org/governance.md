@@ -26,7 +26,7 @@ Purpose: Develop [Growth Opportunities](strategy/opportunities.md)
 
 ## Operations Lead
 
-Purpose: Maintain [Effective Operations](strategy/effective-operations.md)
+Purpose: Maintain [Effective Operations]()
 
 **Subroles:**
 
