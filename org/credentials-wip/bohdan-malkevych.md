@@ -7,7 +7,7 @@ Blockchain Engineer
 * Backend: Python \(Django\), NodeJS
 * Frontend: VUE.js, Javascript, HTML, CSS
 
-Projects: [CMI](../../case-studies/cmi.md), [Tennagraph](../../case-studies/tennagraph.md)
+Projects: [CMI](../../case-studies/cmi.md), [Tennagraph](../../case-studies/tennagraph.md), [ICONX](../../case-studies/iconx-wip.md)
 
 ### INDUSTRY EXPERIENCE
 
