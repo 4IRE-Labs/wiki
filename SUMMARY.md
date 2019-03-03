@@ -41,10 +41,9 @@
 
 ## Organization
 
-* [Strategy](org/strategy/README.md)
+* [Strategy & Governance](org/strategy/README.md)
   * [Provide High-End Expertise](org/strategy/expertise.md)
   * [Growth Opportunities](org/strategy/opportunities.md)
-* [Governance](org/governance.md)
 * [About us](org/credentials-wip/README.md)
   * [Kirill Kirikov](org/credentials-wip/kirill-kirikov.md)
   * [Oleg Bugrovoy](org/credentials-wip/oleg-bugrovoy.md)

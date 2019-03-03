@@ -39,8 +39,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ## Organization
 
-* [Strategy](org/strategy/)
-* [Governance](org/governance.md)
+* [Strategy & Governance](org/strategy/) 
 * [About us](org/credentials-wip/)
 * [Blog](https://medium.com/practical-blockchain)
 * [Twitter](https://twitter.com/4irelabs)
