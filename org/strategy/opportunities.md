@@ -64,9 +64,7 @@ Materials, content, company's updates
 
 KPI: no. of opportunities
 
-#### Providing good description
-
-incl. in listings like clutch, consultant profiles
+#### Updated description in listings like clutch, consultant profiles
 
 #### Setting local meetings \(Nana\)
 

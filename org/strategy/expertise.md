@@ -22,6 +22,7 @@ Shares?
 * Ethereum Enterprise Alliance?
 * Coreteka for Logistics
 *  \#dgov foundation
+* Which good experts we already are partners with? \(Axon/legaltech?..\)
 
 ### Feedback on Solutions is collected
 
@@ -77,7 +78,12 @@ good description + customer interviews / demos
       </td>
     </tr>
   </tbody>
-</table>## 3. Develop POC in key researches \(Kirill\)
+</table>## 3. Provide good descriptions
+
+1. DeFi
+2. Crossborder
+
+## 4. Develop POC in key researches \(Kirill\)
 
 ### Hackathons
 
