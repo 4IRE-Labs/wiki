@@ -13,7 +13,7 @@ Check out [KPIs and Reports](https://docs.google.com/spreadsheets/d/1epM2aFnLFn3
 ## Roles
 
 * Expertise Lead – [Kirill Kirikov](../credentials-wip/kirill-kirikov.md)
-* Growth Lead – Helen Petrashchuk
+* Growth Lead – [Helen Petrashchuk](../credentials-wip/helen-petrashchuk.md)
 * Operations Lead – [Max Semenchuk](../credentials-wip/max-semenchuk.md)
 
 ## Expertise Lead
