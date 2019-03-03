@@ -49,6 +49,7 @@
   * [Oleg Bugrovoy](org/credentials-wip/oleg-bugrovoy.md)
   * [Bohdan Malkevych](org/credentials-wip/bohdan-malkevych.md)
   * [Roman Malkevych \(wip\)](org/credentials-wip/roman-malkevych-wip.md)
+  * [Helen Petrashchuk](org/credentials-wip/helen-petrashchuk.md)
   * [Max Semenchuk](org/credentials-wip/max-semenchuk.md)
 
 ## Archive

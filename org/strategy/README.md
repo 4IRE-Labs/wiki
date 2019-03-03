@@ -4,9 +4,9 @@
 
 ## Strategy & Goals
 
-1. [High-end Expertise](expertise.md) for Customers by Expertise lead
-2. [Growth Opportunities](opportunities.md) for Consultants by Growth lead
-3. [Effective Operations](http://docs.seductive-cloud.com/display/SP/Effective+Operations) for the Team by Operations lead
+1. [High-end Expertise](expertise.md) for Customers by [Expertise lead](./#expertise-lead)
+2. [Growth Opportunities](opportunities.md) for Consultants by [Growth lead](./#growth-lead)
+3. [Effective Operations](http://docs.seductive-cloud.com/display/SP/Effective+Operations) for the Team by [Operations lead](./#operations-lead)
 
 Check out [KPIs and Reports](https://docs.google.com/spreadsheets/d/1epM2aFnLFn3F1SnzkvQrVUzJeFgByMQJ7bi5uj2TBbE/edit#gid=274159345)
 
