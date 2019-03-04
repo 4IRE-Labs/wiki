@@ -1,13 +1,28 @@
 # Cross-border payments
 
-For:
+**Cross-border solution**  
 
-* Remittance services \(SWIFT, Western Union, Transferwise, UAE Exchange [long list](https://www.remitrate.com/money-transfer-companies)\)
-* Export/Import settlements
-* Smart banking solutions / financial groups \(eg. rubixfinancila\)
-* Crypto wallets \(for cashing out in the local currency\)
-* Foreign Exchange Platforms
-* Brokers
+
+**For Whom:**
+
+ **Companies related to:**
+
+1. Remittance services \(SWIFT, Western Union, Transferwise, UAE Exchange[ long list](https://www.remitrate.com/money-transfer-companies)\)
+2. Export/Import settlements
+3. Smart banking solutions / financial groups \(eg. rubixfinancila\) They consult the companies and look for the experts with the relevant expertise
+4. Crypto wallets \(for cashing out in the local currency\)
+5. Foreign Exchange Platforms
+6. Brokers
+7. Companies related to hawala [https://en.wikipedia.org/wiki/Hawala](https://en.wikipedia.org/wiki/Hawala)
+
+
+
+No of Employees:7-30
+
+Business Model: B2B2C
+
+Funding Status: Seed  
+
 
 Enabling fast, transparent and compliant cross-border payments with the blockchain
 

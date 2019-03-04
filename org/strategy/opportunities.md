@@ -73,7 +73,12 @@ KPI: no. of opportunities
 
 Campaigns
 
-* [Cross-border](../../solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) for EthParis \(DeFi [lead list local startups/ attendees](http://francefintech.org/qui-sommes-nous/#nosmembres%20)\)
+* [Cross-border](../../solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) for EthParis \(DeFi [lead list local startups/ attendees](http://francefintech.org/qui-sommes-nous/#nosmembres%20)\) + fintech with blockchain
+* Singapore meetings with the representative on 13-15 th Mar GQ
+* Australia campaign April 8-14  th [https://www.edcon.io/](https://www.edcon.io/)
+* Speaker Max at [https://stockholmblockchainforum.com/](https://stockholmblockchainforum.com/) Apr 11 
+
+
 
 #### Research Media Support
 
