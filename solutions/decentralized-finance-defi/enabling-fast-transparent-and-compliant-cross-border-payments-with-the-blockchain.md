@@ -1,11 +1,6 @@
 # Cross-border payments
 
-**Cross-border solution**  
-
-
-**For Whom:**
-
- **Companies related to:**
+**For Companies related to:**
 
 1. Remittance services \(SWIFT, Western Union, Transferwise, UAE Exchange[ long list](https://www.remitrate.com/money-transfer-companies)\)
 2. Export/Import settlements
@@ -15,16 +10,7 @@
 6. Brokers
 7. Companies related to hawala [https://en.wikipedia.org/wiki/Hawala](https://en.wikipedia.org/wiki/Hawala)
 
-
-
-No of Employees:7-30
-
-Business Model: B2B2C
-
-Funding Status: Seed  
-
-
-Enabling fast, transparent and compliant cross-border payments with the blockchain
+**Benefit:** Enabling fast, transparent and compliant cross-border payments with the blockchain
 
 ## Business Context
 
