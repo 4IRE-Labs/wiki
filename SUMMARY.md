@@ -11,7 +11,7 @@
   * [Improving Asset Liquidity with tokenization](solutions/decentralized-finance-defi/sto-platform.md)
   * [Compliance Automation](solutions/decentralized-finance-defi/complaince-scoring.md)
 * [Supply Chain Asset Tracking](solutions/asset-tracking.md)
-* [How to track document versions and signers on the blockchain \(wip\)](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
+* [Tracking document versions and signers on the blockchain \(wip\)](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
 * [Effective Resource Distribution in Commons](solutions/effective-resource-distribution-in-commons/README.md)
   * [Aragon Apiary](solutions/effective-resource-distribution-in-commons/aragon-apiary.md)
   * [Merging.Space – Project Management Tool](solutions/effective-resource-distribution-in-commons/merge-space-overview.md)

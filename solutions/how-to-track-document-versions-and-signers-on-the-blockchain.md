@@ -1,4 +1,4 @@
-# How to track document versions and signers on the blockchain \(wip\)
+# Tracking document versions and signers on the blockchain \(wip\)
 
 In b2b: for products like Zoho sign, Integrators of electronic documents systems, business consultants In b2c: for married couples, business partners, every group of people who need to have a contract between multiple parties.
 

@@ -2,10 +2,7 @@
 
 For: Manufacturers, Retail
 
-Problem statement: defining a technical solution for
-
-* Product Quality Tracking – ability to locate the defected goods and process \(e.g. recall\) other defected products
-* Settlement automation
+Benefit: Product Quality Tracking & Settlement automation to locate the defected goods and process \(e.g. recall\) other defected products.
 
 ## 1.The first option based on Onfleet solution
 
