@@ -1,4 +1,4 @@
-# Merging.Space – Project Management Tool
+# Merging.Space – Project Management Tool
 
 ## Problems <a id="MergeSpaceOverview-Problems"></a>
 

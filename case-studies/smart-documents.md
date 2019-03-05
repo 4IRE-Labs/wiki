@@ -6,7 +6,7 @@ The development of backend and frontend, development and audit of Ethereum smart
 
 Services: [Architecture / Protocol Design](../services/architecture-design-protocol.md), [Dapps / Wallets Development](../services/dapps-wallets-development.md)
 
-Team: [Kirill Kirikov](../org/credentials-wip/kirill-kirikov.md), [Roman Malkevych](../org/credentials-wip/roman-malkevych-wip.md)
+Team: [Kirill Kirikov](../organization/credentials-wip/kirill-kirikov.md), [Roman Malkevych](../organization/credentials-wip/roman-malkevych-wip.md)
 
 ![](../.gitbook/assets/image%20%2852%29.png)
 

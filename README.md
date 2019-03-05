@@ -14,7 +14,6 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
 * [Asset tracking for the supply chain](solutions/asset-tracking.md)
 * [Improving Developer Experience](solutions/developer-community-devxp.md)
-* [Improving Organizational Experience](solutions/org-xp.md)
 
 ## **Services**
 
@@ -39,8 +38,8 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ## Organization
 
-* [Strategy & Governance](org/strategy/) 
-* [About us](org/credentials-wip/)
+* [Strategy & Governance](organization/strategy/) 
+* [About us](organization/credentials-wip/)
 * [Blog](https://medium.com/practical-blockchain)
 * [Twitter](https://twitter.com/4irelabs)
 

@@ -14,9 +14,8 @@
 * [How to track document versions and signers on the blockchain \(wip\)](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
 * [Effective Resource Distribution in Commons](solutions/effective-resource-distribution-in-commons/README.md)
   * [Aragon Apiary](solutions/effective-resource-distribution-in-commons/aragon-apiary.md)
-  * [Merging.Space – Project Management Tool](solutions/effective-resource-distribution-in-commons/merge-space-overview.md)
+  * [Merging.Space – Project Management Tool](solutions/effective-resource-distribution-in-commons/merge-space-overview.md)
 * [Improving Developer Experience \(DevX\)](solutions/developer-community-devxp.md)
-* [Improving Organizational Experience \(OrgX\)](solutions/org-xp.md)
 
 ## Services
 
@@ -41,16 +40,14 @@
 
 ## Organization
 
-* [Strategy & Governance](org/strategy/README.md)
-  * [Provide High-End Expertise](org/strategy/expertise.md)
-  * [Growth Opportunities](org/strategy/opportunities.md)
-* [About us](org/credentials-wip/README.md)
-  * [Kirill Kirikov](org/credentials-wip/kirill-kirikov.md)
-  * [Oleg Bugrovoy](org/credentials-wip/oleg-bugrovoy.md)
-  * [Bohdan Malkevych](org/credentials-wip/bohdan-malkevych.md)
-  * [Roman Malkevych \(wip\)](org/credentials-wip/roman-malkevych-wip.md)
-  * [Helen Petrashchuk](org/credentials-wip/helen-petrashchuk.md)
-  * [Max Semenchuk](org/credentials-wip/max-semenchuk.md)
-
-## Archive
+* [Strategy & Governance](organization/strategy/README.md)
+  * [Provide High-End Expertise](organization/strategy/expertise.md)
+  * [Growth Opportunities](organization/strategy/opportunities.md)
+* [About us](organization/credentials-wip/README.md)
+  * [Kirill Kirikov](organization/credentials-wip/kirill-kirikov.md)
+  * [Oleg Bugrovoy](organization/credentials-wip/oleg-bugrovoy.md)
+  * [Bohdan Malkevych](organization/credentials-wip/bohdan-malkevych.md)
+  * [Roman Malkevych \(wip\)](organization/credentials-wip/roman-malkevych-wip.md)
+  * [Helen Petrashchuk](organization/credentials-wip/helen-petrashchuk.md)
+  * [Max Semenchuk](organization/credentials-wip/max-semenchuk.md)
 
