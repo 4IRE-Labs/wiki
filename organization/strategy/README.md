@@ -25,14 +25,17 @@ Purpose:  Develop [High-end Expertise](expertise.md)
 * [DeFi Labs](https://app.glassfrog.com/roles/10097263)
 * [Consultant](https://app.glassfrog.com/roles/10384074)
 
-## Growth Lead
+## Growth Lead \(Алена\)
 
 Purpose: Develop [Growth Opportunities](opportunities.md) 
 
-**Subroles:**
+### Lead generator \(Нана\)
 
-* [Lead Generator](https://app.glassfrog.com/roles/11365547)
-* [Partnership Program Manager](https://app.glassfrog.com/roles/10086348)
+* Шерить в соц сетях то что мы добавляем \(в твиттере. линкедине и реддите\).
+
+### Partnership Program Manager \(Алена\)
+
+...
 
 ## Operations Lead
 
