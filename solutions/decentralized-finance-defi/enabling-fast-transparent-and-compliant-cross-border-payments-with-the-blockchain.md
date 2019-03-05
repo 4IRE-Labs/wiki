@@ -1,4 +1,4 @@
-# Cross-border payments
+# Cross-border payments with blockchain
 
 **For Companies related to:**
 

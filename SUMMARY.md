@@ -5,7 +5,7 @@
 ## Solutions
 
 * [Decentralized Finance \(DeFi\)](solutions/decentralized-finance-defi/README.md)
-  * [Cross-border payments](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
+  * [Cross-border payments with blockchain](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
   * [Crypto Assets Security \(wip\)](solutions/decentralized-finance-defi/asset-security.md)
   * [Ethereum / Bitcoin bridge](solutions/decentralized-finance-defi/ethereum-bitcoin-bridge-wip.md)
   * [Improving Asset Liquidity with tokenization](solutions/decentralized-finance-defi/sto-platform.md)
