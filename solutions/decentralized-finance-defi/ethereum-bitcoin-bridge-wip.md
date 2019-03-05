@@ -1,10 +1,6 @@
-# Ethereum / Bitcoin bridge
+# Interchain transfers between Ethereum and Bitcoin
 
-Protocol for interchain transfers between Ethereum and Bitcoin
-
-#### Purpose
-
-The purpose of this proposal is to establish in details the mechanism for permission-less transferring of assets between Ethereum and Bitcoin.
+**Benefit:** establishing the mechanism for permission-less transferring of assets between Ethereum and Bitcoin.
 
 #### Usecases
 

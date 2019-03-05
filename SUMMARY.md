@@ -7,7 +7,7 @@
 * [Decentralized Finance \(DeFi\)](solutions/decentralized-finance-defi/README.md)
   * [Cross-border payments with blockchain](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
   * [Crypto Assets Security](solutions/decentralized-finance-defi/asset-security.md)
-  * [Ethereum / Bitcoin bridge](solutions/decentralized-finance-defi/ethereum-bitcoin-bridge-wip.md)
+  * [Interchain transfers between Ethereum and Bitcoin](solutions/decentralized-finance-defi/ethereum-bitcoin-bridge-wip.md)
   * [Improving Asset Liquidity with tokenization](solutions/decentralized-finance-defi/sto-platform.md)
   * [Compliance Automation](solutions/decentralized-finance-defi/complaince-scoring.md)
 * [Supply Chain Asset Tracking](solutions/asset-tracking.md)
