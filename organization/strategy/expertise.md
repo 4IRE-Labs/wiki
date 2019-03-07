@@ -75,9 +75,5 @@ Accountabilities:
 * [https://blockchaincentre.com.au/incubator/](https://blockchaincentre.com.au/incubator/)
 * [https://www.adelphoi.io/](https://www.adelphoi.io/)
 
-### 
-
-### 
-
 ## 
 
