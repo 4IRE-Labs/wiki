@@ -13,7 +13,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
   * [Continuous Token Model](solutions/decentralized-finance-defi/continuous-token-model-apiary.md)
 * [Effective resource distribution in commons](solutions/effective-resource-distribution-in-commons/)
 * [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
-* [Asset tracking for the supply chain](solutions/asset-tracking.md)
+* [Asset tracking for the supply chain](solutions/asset-tracking/)
 * [Improving Developer Experience](solutions/developer-community-devxp.md)
 
 ## **Services**

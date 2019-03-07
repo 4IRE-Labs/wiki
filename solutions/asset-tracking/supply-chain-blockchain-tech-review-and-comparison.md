@@ -1,8 +1,4 @@
-# Supply Chain Asset Tracking
-
-For: Manufacturers, Retail
-
-Benefit: Product Quality Tracking & Settlement automation to locate the defected goods and process \(e.g. recall\) other defected products.
+# Supply Chain Blockchain Tech Review & Comparison
 
 ## 1.The first option based on Onfleet solution
 
@@ -111,5 +107,5 @@ It can be done using Hyperledger Sawtooth or IOTA protocol \(Tange\). Both platf
 * exist public/test networks                                                        
 * permissionless
 
-As it was mentioned above Hyperledger Sawtooth  has the case for the supply chain. It already provides the infrastructure for tracking physical objects in a real-world supply chain on the Sawtooth Ledger. Track and Trade - Provides a methodology for users to track goods as they move through a supply chain. This includes the history of ownership and custodianship, as well as histories for a variety of properties such as temperature and location, weight etc.                                                                                 
+As it was mentioned above Hyperledger Sawtooth  has the case for the supply chain. It already provides the infrastructure for tracking physical objects in a real-world supply chain on the Sawtooth Ledger. Track and Trade - Provides a methodology for users to track goods as they move through a supply chain. This includes the history of ownership and custodianship, as well as histories for a variety of properties such as temperature and location, weight etc.  
 
