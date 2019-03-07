@@ -4,7 +4,7 @@ For platform coops \([list](https://platform.coop/directory)\)
 
 ## **Products**
 
-* [Aragon Apiary](aragon-apiary.md)
+* [Aragon Apiary]()
 * [Merge Space](merge-space-overview.md)
 * [Pando](https://medium.com/pando-network)
 

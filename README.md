@@ -10,6 +10,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
   * [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/decentralized-finance-defi/ethereum-bitcoin-bridge-wip.md)
   * [Improving Asset Liquidity with tokenization](solutions/decentralized-finance-defi/sto-platform.md)
   * [Regulatory Compliance Automation](solutions/decentralized-finance-defi/complaince-scoring.md)
+  * [Continuous Token Model](solutions/decentralized-finance-defi/continuous-token-model-apiary.md)
 * [Effective resource distribution in commons](solutions/effective-resource-distribution-in-commons/)
 * [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
 * [Asset tracking for the supply chain](solutions/asset-tracking.md)

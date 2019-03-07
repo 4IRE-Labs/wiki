@@ -10,10 +10,10 @@
   * [Interchain transfers between Ethereum and Bitcoin](solutions/decentralized-finance-defi/ethereum-bitcoin-bridge-wip.md)
   * [Improving Asset Liquidity with tokenization](solutions/decentralized-finance-defi/sto-platform.md)
   * [Compliance Automation](solutions/decentralized-finance-defi/complaince-scoring.md)
+  * [Continuous Token Model \(Apiary\)](solutions/decentralized-finance-defi/continuous-token-model-apiary.md)
 * [Supply Chain Asset Tracking](solutions/asset-tracking.md)
 * [Tracking document versions and signers on the blockchain \(wip\)](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
 * [Effective Resource Distribution in Commons](solutions/effective-resource-distribution-in-commons/README.md)
-  * [Aragon Apiary](solutions/effective-resource-distribution-in-commons/aragon-apiary.md)
   * [Merging.Space – Project Management Tool](solutions/effective-resource-distribution-in-commons/merge-space-overview.md)
 * [Improving Developer Experience \(DevX\)](solutions/developer-community-devxp.md)
 

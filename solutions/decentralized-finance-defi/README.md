@@ -9,6 +9,7 @@ Decentralized finance \(\#defi\) is the movement that leverages open source soft
 * [Protocol for interchain transfers between Ethereum and Bitcoin](ethereum-bitcoin-bridge-wip.md) \(Kirill\)
 * [Improving Asset Liquidity with tokenization](sto-platform.md) \(Max, Stas\)
 * [Regulatory Compliance Automation](complaince-scoring.md) \(Kirill\)
+* [Continuous Token Model](continuous-token-model-apiary.md)
 * Credit scoring by chain history
 
 ## Resources
