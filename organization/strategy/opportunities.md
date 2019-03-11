@@ -8,9 +8,9 @@ KPI: revenue
 
 KPI: Opportunities \(40/mo.?\)
 
-### Extensive LG [Partner Network](https://docs.google.com/spreadsheets/d/1S9YYeutXMe3fQE3cFdlJk77ZvmvSMI6vv4N4mo8CiIU/edit#gid=0) is Created \(Helen\)
+### Extensive LG [Partner Network](https://docs.google.com/spreadsheets/d/1S9YYeutXMe3fQE3cFdlJk77ZvmvSMI6vv4N4mo8CiIU/edit#gid=0) is Created \(Max\)
 
-KPI: active partners
+KPI: [active partners](https://docs.google.com/spreadsheets/d/1S9YYeutXMe3fQE3cFdlJk77ZvmvSMI6vv4N4mo8CiIU/edit#gid=0)
 
 #### Types of partners
 
@@ -19,46 +19,15 @@ KPI: active partners
 3. Industrial hubs \(e.g. b hive\)
 4. Local connectors
 
-Find more in Berlin, London, NY, SF, HK \(also Sweden, Austria?\)
+Find more in Berlin, London, NY, SF, HK, Sweden, Austria
 
- 
+**Action points:**
 
-#### Action points:
-
-* 
-**Singapore upcoming conferences** 
-
-cost 150 usd 
-
-
-
-{% embed url="https://blockchain-life.com/asia/en/" %}
-
-cost 300 usd 
-
-{% embed url="http://chainplus-finance.com/" %}
-
-**Sweden** 
-
-Take into account Austria 
-
-\*\*\*\*[**https://www.blockchainsummitaustria.com/**](https://www.blockchainsummitaustria.com/)\*\*\*\*
-
-...
-
-#### Send on monthly basis report/ updates
-
-Materials, content, company's updates
-
-#### Next steps
-
-* Understand the accelerators needs / on a call
-* Offer for accelerators
-* Create list of blockchain accelerators
-* Campaign on blockchain accelerators \(result: signed partnership memo\)
-* Create 1st project through the accelerator
-* Sign agreements with new partners in Berlin, London, NY, HK, SF.
-* Share costs on attending events  \([List of conferences](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRHc66fi8-Edcmg_gJWLIDujKFzxHynk6Wp4eW4-g_t6uFJc8GvqwKc2NY6Amkg_NvyigOsUpcd9KHa/pubhtml)\)
+* Develop and offer / Understand the accelerators needs / on a call
+* Build a list of potential partners
+* Prepare a partners contract / memo
+* Sign agreements with new partners in Berlin, London, NY, HK, SF
+* Send on monthly basis report/ updates \(Materials, content, company's updates\)
 
 ### Our Case Studies & Research Gain Wide Target Exposure \(Helen\)
 
