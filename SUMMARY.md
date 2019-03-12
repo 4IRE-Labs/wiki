@@ -43,7 +43,6 @@
 
 * [Strategy & Governance](organization/strategy/README.md)
   * [Provide High-End Expertise](organization/strategy/expertise.md)
-  * [Growth Opportunities](organization/strategy/opportunities.md)
   * [Holacracy onboarding](organization/strategy/holacracy-onboarding.md)
 * [About us](organization/credentials-wip/README.md)
   * [Kirill Kirikov](organization/credentials-wip/kirill-kirikov.md)

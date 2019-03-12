@@ -5,7 +5,7 @@
 **Purpose:** research and develop IT solutions \(Max\)
 
 1. Develop [High-end Expertise](expertise.md) for the Customers by [Expertise lead](./#expertise-lead)
-2. Provide [Growth Opportunities](opportunities.md) for the Consultants by [Growth lead](./#growth-lead)
+2. Provide [Growth Opportunities](http://docs.seductive-cloud.com/display/SP/Growth) for the Consultants by [Growth lead](./#growth-lead)
 3. Maintain [Effective Operations](http://docs.seductive-cloud.com/display/SP/Effective+Operations) for the Team by [Operations lead](./#operations-lead)
 
 Check out [KPIs and Reports](https://docs.google.com/spreadsheets/d/1epM2aFnLFn3F1SnzkvQrVUzJeFgByMQJ7bi5uj2TBbE/edit#gid=274159345)
@@ -16,7 +16,7 @@ Purpose:  Develop [High-end Expertise](expertise.md)
 
 ## Growth Lead \(Helen\)
 
-Purpose: Develop [Growth Opportunities](opportunities.md) 
+Purpose: Develop [Growth Opportunities]() 
 
 ### Lead generator \(Nana\)
 
