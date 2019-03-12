@@ -19,6 +19,8 @@ By combining the advantages of blockchain and classical investment instruments, 
 
 ## Features
 
+* Token
+  * ERC 1404
 * Storage management
   * Sign in with email, password reset, auto-logout
   * 2FA
@@ -37,10 +39,6 @@ By combining the advantages of blockchain and classical investment instruments, 
 * Dividend distribution
 * Voting
 * Staking
-
-ERC 1404
-
-
 
 ## Projects
 
