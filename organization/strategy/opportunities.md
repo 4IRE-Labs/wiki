@@ -18,6 +18,12 @@ KPI: [active partners](https://docs.google.com/spreadsheets/d/1S9YYeutXMe3fQE3cF
 2. Agencies \(e.g. fintech, digitalization etc\)
 3. Industrial hubs \(e.g. b hive\)
 4. Local connectors
+5. leads with previous experience in banks \( Stephanie, Sofie..\) 
+6. consulting agencies in fintech  \( [derivasia.com.sg](http://derivasia.com.sg/) / rubixfintechgroup ..\) 
+7. blockchain accelerators \( Singapore blockchain accelerator, UK blockchain accelerators supported by Nwes / We In Social Tech\) 
+8. fintech incubators / hubs 
+9. business consultants \( Avi from Israel ...\) 
+10. fintech startups with whom our partners work with 
 
 Find more in Berlin, London, NY, SF, HK, Sweden, Austria
 
