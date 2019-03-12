@@ -24,23 +24,27 @@ Consultants: [Kirill Kirikov](../organization/credentials-wip/kirill-kirikov.md)
 * Aragon
 * 0x
 
-## Product: Discovery Phase Process
-
-1. Architectural Analysis \(AA\) defines the problems an architecture must solve. The outcome of this activity is a set of architecturally significant requirements \(ASRs\).
-2. Architectural Synthesis \(AS\) proposes candidate architecture solutions to address the ASRs collected in AA, thus this activity moves from the problem to the solution space.
-3. Architectural Evaluation \(AE\) ensures that the architectural design decisions made are the right ones, and the candidate architectural solutions proposed in AS are measured against the ASRs collected in AA.
-4. Architectural Implementation \(AI\) realizes the architecture by creating a detailed design.
-5. Architectural Maintenance and Evolution \(AME\) is to change an architecture for the purpose of fixing faults and architectural evolution is to respond to new requirements at the architectural level
-
-![](../.gitbook/assets/image%20%2834%29.png)
-
-Keywords: blockchchain, architecture solutions, solution architecture, blockchain integration consulting, specifications, tech stack, public blockchain, private blockchain, permissioned blockchain, ethereum, ethereum core, custom blockchain, cloud architecture, protocol development, scaling solutions
-
 ## Formats
 
-![](../.gitbook/assets/image%20%2822%29.png)
+### Training 
 
-## Publications
+**Scope:** team's comprehensive understanding of the blockchain and related topics. The all-encompassing introduction to the blockchain by the professional delivering fresh, relevant and consistent information
+
+**Duration:** Several hours - several days, Remote or In person
+
+### Consulting
+
+**Scope:** UML diagrams, preliminary solution architecture and suggestions, whitepaper and tech documentation. Informational support - analysis and suggestions - for the rational decisions on the operational level.
+
+**Duration:** On-demand, Remote
+
+### Workshops
+
+**Scope:** Detailed project plan, prioritized scope of work, UX/UI mockups, your most optimal business decisions.
+
+**Duration:** 1–3 days, In person
+
+## Our Publications
 
 * [Blockchain Cards for selecting the blockchain technology](https://4irelabs.com/blockchain_cards)
 * [Compatible Blockchains for the Fintech Projects. Is Stellar one of them?](https://4irelabs.com/blockchain-fintech-stellar)
@@ -49,4 +53,8 @@ Keywords: blockchchain, architecture solutions, solution architecture, blockchai
 * [How To Raise A Permissioned Blockchain The Bright Way](https://medium.com/practical-blockchain/how-to-raise-a-permissioned-blockchain-the-bright-way-fb90230538ba)
 * [NEO Blockchain: What it Hides from Businesses?](https://medium.com/practical-blockchain/neo-blockchain-what-it-hides-from-businesses-13853f169e9b)
 * [BitRent Smart Contracts Audit Case Study](https://medium.com/practical-blockchain/bitrent-smart-contracts-audit-case-study-d7d61a34e9f7)
+
+
+
+Keywords: blockchchain, architecture solutions, solution architecture, blockchain integration consulting, specifications, tech stack, public blockchain, private blockchain, permissioned blockchain, ethereum, ethereum core, custom blockchain, cloud architecture, protocol development, scaling solutions
 

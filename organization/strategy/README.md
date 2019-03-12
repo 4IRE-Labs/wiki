@@ -16,7 +16,7 @@ Purpose:  Develop [High-end Expertise](expertise.md)
 
 ## Growth Lead \(Helen\)
 
-Purpose: Develop [Growth Opportunities]() 
+Purpose: Develop Growth Opportunities 
 
 ### Lead generator \(Nana\)
 

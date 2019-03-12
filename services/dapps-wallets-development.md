@@ -2,118 +2,61 @@
 
 ## Services
 
-* Full-cicle development
-* Dapps Development
-* Testing of smart contracts
-* Solidity
-* DevOps
-* Dapps usability
-* UX designing for fintech products
-* POC development and idea validation
+We offer full-cycle development \(BA, UX, PM, Development, QA, DevOps\) for fintech, e-commerce and other Apps and Dapps.
 
-Case Studies: [Kidcoin](../case-studies/kidcoin.md), [Kepler Collective](../case-studies/kepler-collective.md), [Social. Media Market](../case-studies/social.-media-market.md), [Smart Documents](../case-studies/smart-documents.md), [ORME](../case-studies/orme.md)
+**Case Studies:** [Kidcoin](../case-studies/kidcoin.md), [Kepler Collective](../case-studies/kepler-collective.md), [Social. Media Market](../case-studies/social.-media-market.md), [Smart Documents](../case-studies/smart-documents.md), [ORME](../case-studies/orme.md)
 
-Consultants: [Kirill Kirikov](../organization/credentials-wip/kirill-kirikov.md), [Oleg Bugrovoy](../organization/credentials-wip/oleg-bugrovoy.md), [Bohdan Malkevych](../organization/credentials-wip/bohdan-malkevych.md)
+**Consultants:** [Kirill Kirikov](../organization/credentials-wip/kirill-kirikov.md), [Oleg Bugrovoy](../organization/credentials-wip/oleg-bugrovoy.md), [Bohdan Malkevych](../organization/credentials-wip/bohdan-malkevych.md)
 
-### Tech stack
+## Tech Stack
 
+**Blockchain:** web3 js / py, ethereum, ethermint, tendermint, bitcoin, dash, shapeshift, truffle, testrpc, zeppelin-solidity, solidity, mocha, go, quorum, hyperedger burrow, hyperledger sawtooth lake, hyperledger fabric, NEO, infura
 
+**Backend:** python 3, pipenv, django, celery, jwt, django rest framework, postgres, redis, boto3
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Group</th>
-      <th style="text-align:left">Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Blochchain</td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>web3 js / py</li>
-          <li>ethereum</li>
-          <li>ethermint</li>
-          <li>tendermint</li>
-          <li>bitcoin</li>
-          <li>dash</li>
-          <li>shapeshift</li>
-          <li>truffle</li>
-          <li>testrpc</li>
-          <li>zeppelin-solidity</li>
-          <li>solidity</li>
-          <li>mocha</li>
-          <li>go</li>
-          <li>quorum</li>
-          <li>hyperedger burrow</li>
-          <li>hyperledger sawtooth lake</li>
-          <li>hyperledger fabric</li>
-          <li>NEO</li>
-          <li>infura</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Front-end</td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>Vue.js</li>
-          <li>SASS / CSS</li>
-          <li>Webpack</li>
-          <li>eslint</li>
-          <li>ES 6</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Back-end</td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>python 3</li>
-          <li>pipenv</li>
-          <li>django</li>
-          <li>celery</li>
-          <li>jwt</li>
-          <li>django rest framework</li>
-          <li>postgres</li>
-          <li>redis</li>
-          <li>boto3</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Infrastructure</td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>prometheus</li>
-          <li>logstash</li>
-          <li>kibana</li>
-          <li>elasticsearch</li>
-          <li>grafana</li>
-          <li>docker</li>
-          <li>kubernetes</li>
-          <li>helm</li>
-          <li>teamcity</li>
-          <li>nginx</li>
-          <li>aws</li>
-          <li>linux</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Mobile</td>
-      <td style="text-align:left">
-        <ul>
-          <li>iOS</li>
-          <li>PWA
-            <br />
-          </li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+**Front-end:** Vue.js, SASS / CSS, Webpack, eslint, ES 6
+
+**Mobile:** iOS \(Swift, Objective C\), Android \(Java, Kotlin\), PWA
+
+**Infrastructure:** prometheus, logstash, kibana, elastic search, grafana, docker, kubernetes, helm, teamcity, nginx, aws, linux
+
+## Process
+
+### 1. Preliminary Analysis
+
+2-5 presale calls with tech leads, superficial examination of the project.
+
+Deliverables: Suggestions on the overall expediency of the project, price and timeframe assessment
+
+Duration: ~1 week
+
+### 2. Discovery Phase
+
+Deep dive into the project, industry analysis, specifications development.
+
+1. Architectural Analysis \(AA\) defines the problems an architecture must solve. The outcome of this activity is a set of architecturally significant requirements \(ASRs\).
+2. Architectural Synthesis \(AS\) proposes candidate architecture solutions to address the ASRs collected in AA, thus this activity moves from the problem to the solution space.
+3. Architectural Evaluation \(AE\) ensures that the architectural design decisions made are the right ones, and the candidate architectural solutions proposed in AS are measured against the ASRs collected in AA.
+4. Architectural Implementation \(AI\) realizes the architecture by creating a detailed design.
+5. Architectural Maintenance and Evolution \(AME\) is to change an architecture for the purpose of fixing faults and architectural evolution is to respond to new requirements at the architectural level
+
+Deliverables: Roadmap, user stories, UML diagrams, solution architecture documentation, project plan, detailed price assessment
+
+Duration: 2-3 weeks
+
+### 3. MVP Development
+
+Team forming, engineering
+
+Deliverables: Source code, API documentation, software betа
+
+Duration: 3-4 months
+
+### 4. Refinement & Support
+
+Testing, debugging, optimization, problem solving
+
+Deliverables: Fully operational software, 24/7 support
+
+Duration: continuous
+
