@@ -2,7 +2,7 @@
 
 **Benefit:** establishing the mechanism for permission-less transferring of assets between Ethereum and Bitcoin.
 
-#### Usecases
+## Usecases
 
 Cross-chain transfer between Ethereum and Bitcoin is useful in fields such as:
 
