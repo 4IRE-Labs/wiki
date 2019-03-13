@@ -28,7 +28,7 @@ Shares?
 
 good description + customer interviews / demos
 
-## 2. Create internal domain Experts to Collect technical problems/needs
+## 2. Create internal domain Experts to Collect technical problems/needs \(Max\)
 
 * DeFi
 * Supply Chain
