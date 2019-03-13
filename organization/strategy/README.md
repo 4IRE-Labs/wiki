@@ -37,19 +37,3 @@ Accountabilities:
 
 ...
 
-## Operations Lead \(Max\)
-
-Purpose: Maintain Effective Operations
-
-### Contract Managers \(Max\)
-
-### Account Manager \(Helen\)
-
-### CFO \(Sveta\)
-
-### Accountant \(Sveta, Helen L\)
-
-### Office Manager \(Olya\)
-
-### Culture Champion \(Kirill\)
-
