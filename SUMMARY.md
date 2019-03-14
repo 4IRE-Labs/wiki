@@ -1,6 +1,7 @@
 # Table of contents
 
 * [4IRE labs \| Navigation](README.md)
+* [Back to website](https://4irelabs.com)
 
 ## Solutions
 
