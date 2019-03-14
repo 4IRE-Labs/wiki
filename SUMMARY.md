@@ -5,7 +5,7 @@
 
 ## Solutions
 
-* [Decentralized Finance \(DeFi\)](solutions/decentralized-finance-defi/README.md)
+* [Fintech & Decentralized Finance \(\#DeFi\)](solutions/decentralized-finance-defi/README.md)
   * [Cross-border payments with blockchain](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
   * [Crypto Assets Security](solutions/decentralized-finance-defi/asset-security.md)
   * [Interchain transfers between Ethereum and Bitcoin](solutions/decentralized-finance-defi/ethereum-bitcoin-bridge-wip.md)
