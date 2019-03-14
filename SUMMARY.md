@@ -41,9 +41,6 @@
 
 ## Organization
 
-* [Strategy & Governance](organization/strategy/README.md)
-  * [Provide High-End Expertise](organization/strategy/expertise.md)
-  * [Holacracy onboarding](organization/strategy/holacracy-onboarding.md)
 * [About us](organization/credentials-wip/README.md)
   * [Kirill Kirikov](organization/credentials-wip/kirill-kirikov.md)
   * [Oleg Bugrovoy](organization/credentials-wip/oleg-bugrovoy.md)
@@ -51,4 +48,5 @@
   * [Roman Malkevych \(wip\)](organization/credentials-wip/roman-malkevych-wip.md)
   * [Helen Petrashchuk](organization/credentials-wip/helen-petrashchuk.md)
   * [Max Semenchuk](organization/credentials-wip/max-semenchuk.md)
+* [Holacracy onboarding](organization/holacracy-onboarding.md)
 
