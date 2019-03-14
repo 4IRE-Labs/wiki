@@ -2,9 +2,9 @@
 
 We research & develop IT solutions, based on blockchain, cloud and mobile tech. Working in financial, e-commerce, logistics and other domains.
 
-## **Solutions**
+## **Business Solutions**
 
-* [Decentralized & Open Finance](solutions/decentralized-finance-defi/)
+* Blockchain for Finance / [Decentralized & Open Finance](solutions/decentralized-finance-defi/)
   * [Cross Border payments with blockchain](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
   * [Crypto Assets Security](solutions/decentralized-finance-defi/asset-security.md)
   * [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/decentralized-finance-defi/ethereum-bitcoin-bridge-wip.md)
@@ -12,13 +12,22 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
   * [Regulatory Compliance Automation](solutions/decentralized-finance-defi/complaince-scoring.md)
   * [Continuous Token Model](solutions/decentralized-finance-defi/continuous-token-model-apiary.md)
 * [Effective resource distribution in commons](solutions/effective-resource-distribution-in-commons/)
-* [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
 * [Asset tracking for the supply chain](solutions/asset-tracking/)
+
+## Technical Solutions
+
+* Security
+* Connecting identity with doc on blockchain / [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
+* How to share private data on public distributed ledger
+* Integrate IoT with blockchain
+* Traceability / Data collection
+* Usability
+* Scalability
+* Interchain transfers \(between Ethereum and Bitcoin\)
+* Token standart for STO
+* Interoperability
 * [Improving Developer Experience](solutions/developer-community-devxp.md)
-
-## **Services**
-
-* [Architecture Design / Protocol](services/architecture-design-protocol.md)
+* [Architecture Design of Blockchain Protocol](services/architecture-design-protocol.md)
 * [Dapps Development](services/dapps-wallets-development.md)
 
 ## Case Studies
@@ -39,7 +48,6 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ## Organization
 
-* [Strategy & Governance]() 
 * [About us](organization/credentials-wip/)
 * [Blog](https://medium.com/practical-blockchain)
 * [Twitter](https://twitter.com/4irelabs)
