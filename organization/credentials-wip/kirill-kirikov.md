@@ -20,47 +20,50 @@ Mobile financial management tool, Environment monitoring system/ enterprise app 
 
 #### Programming Languages:
 
-* [DJANGO](https://cryptohire.io/results/django)
-* [FLASK](https://cryptohire.io/results/flask)
-* [JAVASCRIPT](https://cryptohire.io/results/javascript)
-* [KUBERNETES](https://cryptohire.io/results/kubernetes-experts)
-* [MONGODB](https://cryptohire.io/results/mongodb)
-* [NODE.JS](https://cryptohire.io/results/nodejs)
-* [OBJECTIVE-C](https://cryptohire.io/results/objective-c)
-* [PHP](https://cryptohire.io/results/php)
-* [POSTGRESQL](https://cryptohire.io/results/postgresql)
-* [PYTHON](https://cryptohire.io/results/python)
-* [RUBY ON RAILS](https://cryptohire.io/results/ruby-on-rails)
-* [ACTIONSCRIPT 3](https://cryptohire.io/results/actionscript-3)
-* [AMAZON WEB SERVICES](https://cryptohire.io/results/amazon-web-services)
-* [HAXE](https://cryptohire.io/results/haxe)
-* [PARSE MOBILE APP PLATFORM](https://cryptohire.io/results/parse-mobile-app-platform)
-* [SWIFT](https://cryptohire.io/results/swift)
-* [DOCKER](https://cryptohire.io/results/docker)
-* [ETHEREUM](https://cryptohire.io/results/ethereum)
-* [HYPERLEDGER](https://cryptohire.io/results/hyperledger) [SOLIDITY](https://cryptohire.io/results/solidity)
+* DJANGO
+* FLASK
+* JAVASCRIPT
+* KUBERNETES
+* MONGODB
+* NODE.JS
+* OBJECTIVE-C
+* PHP
+* POSTGRESQL
+* PYTHON
+* RUBY ON RAILS
+* ACTIONSCRIPT 3
+* AMAZON WEB SERVICES
+* HAXE
+* PARSE MOBILE APP PLATFORM
+* SWIFT
+* DOCKER
+* ETHEREUM
+* TENDERMINT
+* HYPERLEDGER SOLIDITY
 
 #### RDBMS:
 
 * AWS,
 * MONGODB
 * MYSQL
-* [POSTGRESQL](https://cryptohire.io/results/postgresql) 
-* [MSSQL](https://cryptohire.io/results/mssql)
-* [AWS](https://cryptohire.io/results/aws-sdk)
-* [SDK](https://cryptohire.io/results/aws-sdk)
+* POSTGRESQL 
+* MSSQL
+* AWS
+* SDK
 
 #### Operating Systems:
 
-* [LINUX](https://cryptohire.io/results/linux)
-* [WINDOWS](https://cryptohire.io/results/windows)
-* [MACOS](https://cryptohire.io/results/macos)
+* LINUX
+* WINDOWS
+* MACOS
 
 Development Tools: [JIRA](https://cryptohire.io/results/jira), [CONFLUENCE](https://cryptohire.io/results/confluence)
 
 Other skills: [SOLIDITY](https://cryptohire.io/results/solidity), [CRYPTOCURRENCY](https://cryptohire.io/results/cryptocurrency), [SMART CONTRACTS](https://cryptohire.io/results/smart-contracts)
 
 Libraries/Frameworks/Tools: [CSS](https://cryptohire.io/results/css) [XML](https://cryptohire.io/results/xml) [HTML](https://cryptohire.io/results/html) [JSON](https://cryptohire.io/results/json) [ODBC](https://cryptohire.io/results/odbc) [REST](https://cryptohire.io/results/rest) [FIREBASE DATABASE](https://cryptohire.io/results/firebase-database) [STL](https://cryptohire.io/results/stl)
+
+Profile on Cryptohire: [https://cryptohire.io/talent/1115?keywords%5B0%5D=14409](https://cryptohire.io/talent/1115?keywords%5B0%5D=14409) 
 
 ### PUBLICATIONS
 
