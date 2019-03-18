@@ -1,7 +1,6 @@
 # Table of contents
 
 * [4IRE labs \| Navigation](README.md)
-* [Back to website](https://4irelabs.com)
 
 ## Solutions
 
@@ -18,6 +17,7 @@
   * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
 * [Tracking document versions and signers on the blockchain \(wip\)](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
 * [Improving Developer Experience \(DevX\)](solutions/developer-community-devxp.md)
+* [Back to website](https://4irelabs.com)
 
 ## Services
 
