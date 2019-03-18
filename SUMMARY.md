@@ -31,7 +31,7 @@
 * [Kidcoin](case-studies/kidcoin.md)
 * [Kepler Collective](case-studies/kepler-collective.md)
 * [Total Security](case-studies/total-security.md)
-* [Smart Documents](case-studies/smart-documents.md)
+* [Blockchain-based notarization platform](case-studies/smart-documents.md)
 * [Maitres](case-studies/maitres.md)
 * [ORME](case-studies/orme.md)
 * [Crypto Improvement Fund](case-studies/crypto-improvement-fund.md)
