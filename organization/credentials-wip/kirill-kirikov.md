@@ -65,6 +65,58 @@ Libraries/Frameworks/Tools: [CSS](https://cryptohire.io/results/css) [XML](https
 
 Profile on Cryptohire: [https://cryptohire.io/talent/1115?keywords%5B0%5D=14409](https://cryptohire.io/talent/1115?keywords%5B0%5D=14409) 
 
+### **Recent Projects:**
+
+●  HiveOnline – blockchain trust record platform for SME \(wip\)
+
+●  Bokoredo – accounting automation tool with access to online banks \(wip\)
+
+●  ORME Smart Contract – tokens are minted, whenever a bitcoin is mined
+
+●  BitRent Smart Contract Audit - provided the security audit for 10 smart contracts before
+
+launching the ICO
+
+●  СIF coin - we created a CIF coin \(dash fork\) for a client, the CIF coin is a custom
+
+blockchain that will be responsible for a variety of core business functions.
+
+●  Pura – completed dash fork and wrote the whole functionality for the gateway \( creating
+
+the master nodes for the clients directly from the wallets\)
+
+●  Apiary - curation market for DAOs based on Aragon platform. Responsible Crowdfunding
+
+through the Curation Market.
+
+●  Crowdfunding3 - investor panel for ICO.
+
+●  Kepler Collective - the full-stack development of the Ethereum-based application of the
+
+Blockchain platform for crowdfunding
+
+●  Winstars - Blockchain-based gaming platform.
+
+●  Contractland - public chain built for the decentralized exchanges.
+
+### **Work history:**
+
+●  4ire Labs - Lead Blockchain Engineer/ Solution Arhitect
+
+●  CTO, Lead iOS Developer @Seductive Mobile, 2012 - 2017
+
+●  Senior AS3 Developer, 2010-2011
+
+●  AS3 Developer, 2009-2010
+
+Kirill was born in IT family, son of web-designer and system admin. Being close and curious about the tech stuff from the early childhood. It looks like he never had the second idea about what to do in life. He was doing free-lance contracting in school years, getting Computer Science Degree and getting lead tech positions in several companies then. He had worked on the social game with over 1 million active users daily, then developed the board computer for Ferrari and Chrysler in Luxsoft.
+
+After being more than 12 years in the industry and knowing wide stack of technologies and languages, Kirill decided to contribute and started teaching software development courses. Best students now got the internship in the company and stayed to work further.
+
+“Basically I want to create great apps, ones I would use mine. Now I also got a lot of young engineers who I am responsible for and I would like them to become really successful.”
+
+Kirill likes traveling, cooking, hosting friend parties and is a big fan of owls \(even got one for himself\).
+
 ### PUBLICATIONS
 
 * [https://ethresear.ch/t/terra-bridge-protocol-for-interchain-token-transfers-between-ethereum-and-bitcoin/4522](https://ethresear.ch/t/terra-bridge-protocol-for-interchain-token-transfers-between-ethereum-and-bitcoin/4522)
