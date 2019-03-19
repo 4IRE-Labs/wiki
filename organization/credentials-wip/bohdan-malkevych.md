@@ -1,3 +1,7 @@
+---
+description: Lead Blockchain Engineer/ Solution Architect
+---
+
 # Bohdan Malkevych
 
 Blockchain Engineer
@@ -7,6 +11,8 @@ Blockchain Engineer
 * Backend: Python \(Django\), NodeJS
 * Frontend: VUE.js, Javascript, HTML, CSS
 
+Github profile [https://github.com/malkevych](https://github.com/malkevych)
+
 Projects: [CMI](../../case-studies/cmi.md), [Tennagraph](../../case-studies/tennagraph.md), [ICONX](../../case-studies/iconx-wip.md)
 
 ### INDUSTRY EXPERIENCE
@@ -15,23 +21,73 @@ Education & Science, Blockchain & Cryptocurrency, Entertainment & Games
 
 ### PRODUCT EXPERIENCE
 
-News portals, Blockchain-based platform, Deals & Rewards, ICO, Cryptocurrency, e-learning gamification solution
+News portals, Blockchain-based platform, Deals & Rewards, ICO, Cryptocurrency, e-learning gamification solution, Notarization on blockchain 
 
 ### TECH STACK <a id="prof-tech-stack"></a>
 
-[FULL STACK DEVELOPMENT](https://cryptohire.io/results/full-stack-development) [FRONT END](https://cryptohire.io/results/frontend-development) [BACK END](https://cryptohire.io/results/back-end-development) [DLT](https://cryptohire.io/results/dlt)
+### FULL STACK DEVELOPMENT FRONT END BACK END DLT <a id="prof-tech-stack"></a>
 
-Programming Languages:[C](https://cryptohire.io/results/c) [C++](https://cryptohire.io/results/c-plus-plus) [JAVA](https://cryptohire.io/results/java) [NODE.JS](https://cryptohire.io/results/nodejs) [OBJECTIVE-C](https://cryptohire.io/results/objective-c) [PYTHON](https://cryptohire.io/results/python) [SWIFT](https://cryptohire.io/results/swift) [SOLIDITY](https://cryptohire.io/results/solidity)
+Other languages: JAVA, C, C++
 
-RDBMS:[MONGODB](https://cryptohire.io/results/mongodb) [POSTGRESQL](https://cryptohire.io/results/postgresql) [SQL](https://cryptohire.io/results/sql) [REALM](https://cryptohire.io/results/realm)
+Additional Skills
 
-Operating Systems:[LINUX](https://cryptohire.io/results/linux) [UBUNTU](https://cryptohire.io/results/ubuntu) [MACOS](https://cryptohire.io/results/macos)
+Strong knowledge in OOP  
+Strong knowledge in architecture patterns: MVC, MVP, VIPER
 
-Development Tools:[VISUAL STUDIO](https://cryptohire.io/results/visual-studio) [XCODE](https://cryptohire.io/results/xcode) [SUBLIME TEXT 3](https://cryptohire.io/results/sublime-text-3) [DOCKER](https://cryptohire.io/results/docker) [PYCHARM](https://cryptohire.io/results/pycharm)
+Experience with RESTful / Sockets API access
 
-Other skills:[AWS](https://cryptohire.io/results/aws) [GOOGLE ANALYTICS](https://cryptohire.io/results/google-analytics) [HEROKU](https://cryptohire.io/results/heroku) [GIT](https://cryptohire.io/results/git) [GIT FLOW](https://cryptohire.io/results/git-flow) [NPM](https://cryptohire.io/results/npm) [FLURRY](https://cryptohire.io/results/flurry) [ETHEREUM](https://cryptohire.io/results/ethereum) [HYPERLEDGER](https://cryptohire.io/results/hyperledger) [MIXPANEL](https://cryptohire.io/results/mixpanel) [BLOCKCHAIN](https://cryptohire.io/results/blockchain) [QUORUM](https://cryptohire.io/results/quorum) [HYPERLEDGER FABRIC](https://cryptohire.io/results/hyperledger-fabric) [OPENZEPPELIN](https://cryptohire.io/results/openzeppelin) [YARN](https://cryptohire.io/results/yarn)
+Cocoapods, Core-Data, Realm Database, SQL, Parse Server, GCD, NSOperation, AFNetworking, Alomofire, ObjectMapper, AutoLayout, SizeClasses, Interface builder, GIT/SVN, Social SDKs, Xamarin IOS, Google Analytics, Flurry, Mixpanel, AdMob, HTML, CSS
 
-Libraries/Frameworks/Tools:[DJANGO](https://cryptohire.io/results/django) [MOCHA](https://cryptohire.io/results/mocha) [VUE.JS](https://cryptohire.io/results/vue-js) [WEB3.JS](https://cryptohire.io/results/web3-js) [TRUFFLE](https://cryptohire.io/results/truffle) [AXIOS](https://cryptohire.io/results/axios)
+Programming Languages: C C++ JAVA NODE.JS OBJECTIVE-C PYTHON SWIFT SOLIDITY
+
+RDBMS: MONGODB POSTGRESQL SQL REALM
+
+Operating Systems:LINUX UBUNTU MACOS
+
+Development Tools:VISUAL STUDIO XCODE SUBLIME TEXT 3 DOCKER PYCHARM
+
+Other skills:AWS GOOGLE ANALYTICS HEROKU GIT GIT FLOW NPM FLURRY ETHEREUM HYPERLEDGER MIXPANEL BLOCKCHAIN QUORUM HYPERLEDGER FABRIC OPENZEPPELIN YARN
+
+Libraries/Frameworks/Tools: DJANGO MOCHA VUE.JS WEB3.JS TRUFFLE AXIOS
+
+Samples on GitHub
+
+GeoTargeting \( Swift, VIPER\) - This app demonstrate how you can monitor for infinitive regions \(«monitor» means that system knows when you come in and go out from specific region and send local push notification to user\). In addition full app implemented with VIPER.
+
+[https://github.com/webslesar/GeoTargeting/tree/master/LocationTargeting](https://github.com/webslesar/GeoTargeting/tree/master/LocationTargeting)
+
+RoutableIOS \( Swift, Cocoapod\) - If you use UITabBarController, some menu, etc, this is an cocoapod solution that helps you manage routing in your app in an efficient way.
+
+[https://github.com/SeductiveMobile/RoutableIOS](https://github.com/SeductiveMobile/RoutableIOS)
+
+MBFileAttachLib \( Objective-c\) - This library gives you an ability browse through cloud stores like DropBox, Google Drive, OneDrive , etc. \(DropBox, Google Drive already implemented\)
+
+[https://github.com/webslesar/MBFileAttachLib](https://github.com/webslesar/MBFileAttachLib)
+
+Blockchain project:
+
+Motive 8 https://github.com/SeductiveMobile/motive8. - the traditional gamification space – as motivatona tool for good moves and work
+
+[https://github.com/SeductiveMobile/M8BadgeToken](https://github.com/SeductiveMobile/M8BadgeToken).  
+
+
+Icon X - Blockchain Engineer on this project.. ICON X is a marketing focused ICO platform.
+
+Recycle Chain - is an open market for recyclables. Core of the system is the blockchain database, that's stored and synced between all users.
+
+Winstars.io – providing the tech support for whole ICO and integration the ICONX cabinet for launching the ICO
+
+Tennagraph - a website in the community that we can trust - a fairly high source of truth in terms of recognized people and their skill sets. More info about the project here https://ethsignals.gitbook.io/wiki/
+
+Languages
+
+English - advanced
+
+Ukrainian- native 
+
+Russian - native
+
+
 
 {% embed url="https://www.youtube.com/watch?v=I4qJ2fNQNTg" %}
 
