@@ -2,6 +2,10 @@
 
 The main challenges we’ve faced with: The Parties could verify the  signature  authenticity  and assure the Parties of the immutability of the latest version of the signed document. 
 
+**Ways of implementation:**
+
+* Putting a hash on a public blockchain can be done in many ways but the most common one is including it as info in the transaction block.
+
 **Goal**: 
 
 Develop a solution that will allow owners of documents confirm, transfer and share their ownership and have information of the latest signed document on the blockchain.The development of backend and frontend, development and audit of Ethereum smart contracts, blockchain consulting and business analysis.

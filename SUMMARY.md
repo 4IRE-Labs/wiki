@@ -22,7 +22,6 @@
 
 * [Architecture / Protocol Design](services/architecture-design-protocol.md)
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
-* [Back to website](https://4irelabs.com)
 
 ## Case Studies
 
@@ -39,6 +38,7 @@
 * [Tennagraph](case-studies/tennagraph.md)
 * [ICONX](case-studies/iconx-wip.md)
 * [Contractland](case-studies/contractland-wip.md)
+* [Back to website](https://4irelabs.com)
 
 ## Organization
 
