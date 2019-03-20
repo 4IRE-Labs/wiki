@@ -1,6 +1,6 @@
 # Supply Chain Asset Tracking on Blockchain
 
-### For
+## For
 
 * logistics
 * manufacturing
@@ -9,13 +9,13 @@
 ### Need / Benefit
 
 * Product Quality Tracking & Settlement automation to locate the defected goods and process \(e.g. recall\) other defected products
-
-  * Immutability of the records for the multi-actors supply chain system  \(immutable history of the modifications\)
-  * The ledger’s consistency is enforced based on the selected consensus implementation
-  * The private  network is scalable solution and could  to include as many participants as needed when the supply chain network grows
-  * Permission to join the distributed ledger as a peer organization
-  * Avoiding the possibility to attach the fake history for the supply history
-
+  * Automate fraud-detection cases
+  * Transparent composition of ingredients and  follow of the entire chain
+  * Representing the immutable information about raw material / product and conditions in which this stuff must be storing / transporting
+  * Increase customer confidence \(better detecting the defects and faults\)
+  * Traceability and easy detection of the current assets location and replacement  
+  * Ensuring the parameters compliance & standards
+  * Achieve traceability information about the full supply chain conditions / raw materials the product made of each ERC721 token
 * Restricted access to the data  that should be shown to members  based on the specific types of users
 * Cost effective solution per transaction
 * Storage solution for photo and documents
@@ -42,30 +42,23 @@ System for the tracking  traceability of the producing and distribution outputs:
 * Automatization the process due to tokenizing the assets;
 * Tamper-proof data to build trust among parties;
 
-### Ensuring the transparent traceability
+### Blockchain & Data Sharing
 
-1. Automate fraud-detection cases
-2. Transparent composition of ingredients and  follow of the entire chain
-3. Representing the immutable information about raw material / product and conditions in which this stuff must be storing / transporting
-4. Increase customer confidence \(better detecting the defects and faults\)
-5. Traceability and easy detection of the current assets location and replacement  
-6. Ensuring the parameters compliance & standards
-7. Achieve traceability information about the full supply chain conditions / raw materials the product made of each ERC721 token
+#### Immutability
 
-The components of the system for traceability  he system for improving the traceability for specific use case in the supply chain of the manufacturing and trading processes
+* Immutability of the records for the multi-actors supply chain system  \(immutable history of the modifications\)
+* The ledger’s consistency is enforced based on the selected consensus implementation
+* The private  network is scalable solution and could  to include as many participants as needed when the supply chain network grows
+* Permission to join the distributed ledger as a peer organization
+* Avoiding the possibility to attach the fake history for the supply history
 
-1. Storage
-2. Sharing private information
-3. Traceability of goods
-4. Managing organizations
-5. Managing employees in organizations
-6. Assets
-
-### Permissioned Blockchain & Private Data
+#### Data Sharing
 
 * Have the ability to partially share private information like addresses to another participant in the system and guarantee the identity on the platform.
 * Don’t share all information about owning goods and volumes publicly.
 * Don’t share private information about deals publicly
+
+#### Hyperledger Fabric for blockchain layer
 
 We consider the Hyperledger Fabric as compatible blockchain solution that allows an organization to participate in multiple, separate blockchain networks via channels and privacy is guaranteed by channels, so each user role may have own access data rules.
 
@@ -75,14 +68,13 @@ We consider the Hyperledger Fabric as compatible blockchain solution that allows
 
 ![Hyperledger Fabric / private data management](https://lh6.googleusercontent.com/8avIMb6G2sr6wYYZENaDSeTqUWSLyU-U1MQf_WG7fdSYzk9QzW1wzq5J3XDmn4hd9Z_mjZtrRUEY7S0K5ZVSfMU0qhWwmSgwZafwchdCr4FUK73Wl3soodFRluHzv86apIglO2nI)
 
-How could you ensure the traceability for the participants of the network?  
-****
+How could you ensure the traceability for the participants of the network?
 
 ![](https://lh4.googleusercontent.com/kbuF4iQIRkHOV_Vgy2c2j_cdgpUVbzeGwDbevlJY-pMryrswudalbwENFd_qW1RvCTWBH3NRDBQP8jgPn7z_apKAJASPbZGwcPl3mrpqSt-0p4oR_yKX6-ibrklWqYV7lfDrGszn)
 
 The diagram displays workflow for producing new assets, split, transfer and merge several assets into a new asset, also shows how traceability achieves.
 
-### Other compatible blockchain solutions for supply chain
+#### Other compatible blockchain solutions for supply chain
 
 After reviewing the specs, we were considering the Hyperledger Sawtooth and Fabric as  compatible blockchain solution
 
@@ -103,6 +95,8 @@ Competitors samples
 
 ### Components
 
+The components of the system for traceability  he system for improving the traceability for specific use case in the supply chain of the manufacturing and trading processes
+
 * Storage
 * Sharing private information
 * Traceability of goods
@@ -110,7 +104,7 @@ Competitors samples
 * Managing employees in organizations
 * Assets
 
-Constraints
+#### Constraints
 
 * Integration with existing system via API
 * Hyperledger Fabric for the blockchain part
