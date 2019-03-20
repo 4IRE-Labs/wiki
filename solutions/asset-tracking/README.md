@@ -60,7 +60,7 @@ System for the tracking  traceability of the producing and distribution outputs:
 
 #### Hyperledger Fabric for blockchain layer
 
-We consider the Hyperledger Fabric as compatible blockchain solution that allows an organization to participate in multiple, separate blockchain networks via channels and privacy is guaranteed by channels, so each user role may have own access data rules.
+In most cases Hyperledger Fabric as compatible blockchain solution allows an organization to participate in multiple, separate blockchain networks via channels and privacy is guaranteed by channels, so each user role may have own access data rules.
 
 1. It has ability to define ‘channels' for complete data isolation between a set of participants \(organizations\), where each channel is essentially its own private blockchain.
 2. It has ability to use 'private data collections’ when participants need to transact on the same blockchain, but keep data private to a subset of transactors \(and potentially regulators/auditors\).
@@ -69,8 +69,6 @@ We consider the Hyperledger Fabric as compatible blockchain solution that allows
 ![Hyperledger Fabric / private data management](https://lh6.googleusercontent.com/8avIMb6G2sr6wYYZENaDSeTqUWSLyU-U1MQf_WG7fdSYzk9QzW1wzq5J3XDmn4hd9Z_mjZtrRUEY7S0K5ZVSfMU0qhWwmSgwZafwchdCr4FUK73Wl3soodFRluHzv86apIglO2nI)
 
 How could you ensure the traceability for the participants of the network?
-
-![](https://lh4.googleusercontent.com/kbuF4iQIRkHOV_Vgy2c2j_cdgpUVbzeGwDbevlJY-pMryrswudalbwENFd_qW1RvCTWBH3NRDBQP8jgPn7z_apKAJASPbZGwcPl3mrpqSt-0p4oR_yKX6-ibrklWqYV7lfDrGszn)
 
 The diagram displays workflow for producing new assets, split, transfer and merge several assets into a new asset, also shows how traceability achieves.
 
@@ -110,8 +108,6 @@ The components of the system for traceability  he system for improving the trace
 * Hyperledger Fabric for the blockchain part
 * Cloud infrastructure  as a cloud service for Fabric and backend storage
 
-![The detailed architecture](../../.gitbook/assets/detailed_diagram.jpg)
-
 ### MVP Scope
 
 #### Roles
@@ -129,8 +125,6 @@ The components of the system for traceability  he system for improving the trace
 * Create/Transfer 
 * Time Stamp and Geo location
 * History 
-
-![](../../.gitbook/assets/image%20%2834%29.png)
 
 ## Publications
 
