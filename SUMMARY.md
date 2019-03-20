@@ -13,7 +13,7 @@
   * [Continuous Token Model \(Apiary\)](solutions/decentralized-finance-defi/continuous-token-model-apiary.md)
 * [Effective Resource Distribution in Commons](solutions/effective-resource-distribution-in-commons/README.md)
   * [Merging.Space – Project Management Tool](solutions/effective-resource-distribution-in-commons/merge-space-overview.md)
-* [Supply Chain Asset Tracking](solutions/asset-tracking/README.md)
+* [Supply Chain Asset Tracking on Blockchain](solutions/asset-tracking/README.md)
   * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
 * [Tracking document versions and signers on the blockchain \(wip\)](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
 * [Improving Developer Experience \(DevX\)](solutions/developer-community-devxp.md)

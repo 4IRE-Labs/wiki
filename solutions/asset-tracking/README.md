@@ -1,4 +1,4 @@
-# Supply Chain Asset Tracking
+# Supply Chain Asset Tracking on Blockchain
 
 ### For
 
@@ -9,11 +9,19 @@
 ### Need / Benefit
 
 * Product Quality Tracking & Settlement automation to locate the defected goods and process \(e.g. recall\) other defected products
+
   * Immutability of the records for the multi-actors supply chain system  \(immutable history of the modifications\)
   * The ledger’s consistency is enforced based on the selected consensus implementation
   * The private  network is scalable solution and could  to include as many participants as needed when the supply chain network grows
   * Permission to join the distributed ledger as a peer organization
-  * Avoiding the possibility to attach the fake history for the supply history  
+  * Avoiding the possibility to attach the fake history for the supply history
+
+* Restricted access to the data  that should be shown to members  based on the specific types of users
+* Cost effective solution per transaction
+* Storage solution for photo and documents
+* Oracle
+* Scalability with the high-load performance
+* IoT integration
 
 An estimated, 75% of available supply chain data originates from outside the ERP system. Complexity opens risks of miscommunication and disruptions, often from incorrect or incomplete data.
 
@@ -61,6 +69,10 @@ The components of the system for traceability  he system for improving the trace
 
 We consider the Hyperledger Fabric as compatible blockchain solution that allows an organization to participate in multiple, separate blockchain networks via channels and privacy is guaranteed by channels, so each user role may have own access data rules.
 
+1. It has ability to define ‘channels' for complete data isolation between a set of participants \(organizations\), where each channel is essentially its own private blockchain.
+2. It has ability to use 'private data collections’ when participants need to transact on the same blockchain, but keep data private to a subset of transactors \(and potentially regulators/auditors\).
+3. It has the ability to utilize Identity Mixer to preserve the anonymity of transaction submitters.
+
 ![Hyperledger Fabric / private data management](https://lh6.googleusercontent.com/8avIMb6G2sr6wYYZENaDSeTqUWSLyU-U1MQf_WG7fdSYzk9QzW1wzq5J3XDmn4hd9Z_mjZtrRUEY7S0K5ZVSfMU0qhWwmSgwZafwchdCr4FUK73Wl3soodFRluHzv86apIglO2nI)
 
 How could you ensure the traceability for the participants of the network?  
@@ -88,6 +100,43 @@ Competitors samples
 * [Sigma Ledger](https://www.sigmaledger.com/)
 * [ScanTrust](https://www.scantrust.com/)
 * [OnFleet](https://onfleet.com/)
+
+### Components
+
+* Storage
+* Sharing private information
+* Traceability of goods
+* Managing organizations
+* Managing employees in organizations
+* Assets
+
+Constraints
+
+* Integration with existing system via API
+* Hyperledger Fabric for the blockchain part
+* Cloud infrastructure  as a cloud service for Fabric and backend storage
+
+![The detailed architecture](../../.gitbook/assets/detailed_diagram.jpg)
+
+### MVP Scope
+
+#### Roles
+
+* Producer
+* Manufacturer
+* Trader/Retailer
+* End Customer
+* Certifier
+
+#### Features
+
+* Create Account 
+* Identity
+* Create/Transfer 
+* Time Stamp and Geo location
+* History 
+
+![](../../.gitbook/assets/image%20%2834%29.png)
 
 ## Publications
 
