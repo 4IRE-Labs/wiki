@@ -54,7 +54,5 @@ Consultants: [Kirill Kirikov](../organization/credentials-wip/kirill-kirikov.md)
 * [NEO Blockchain: What it Hides from Businesses?](https://medium.com/practical-blockchain/neo-blockchain-what-it-hides-from-businesses-13853f169e9b)
 * [BitRent Smart Contracts Audit Case Study](https://medium.com/practical-blockchain/bitrent-smart-contracts-audit-case-study-d7d61a34e9f7)
 
-
-
 Keywords: blockchchain, architecture solutions, solution architecture, blockchain integration consulting, specifications, tech stack, public blockchain, private blockchain, permissioned blockchain, ethereum, ethereum core, custom blockchain, cloud architecture, protocol development, scaling solutions
 

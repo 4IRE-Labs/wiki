@@ -15,6 +15,7 @@ Decentralized finance \(\#defi\) is the movement that leverages open source soft
 ## Resources
 
 * [4IRE labs Fintech Report: Results & Trends](https://4irelabs.com/fintech-report?utm_source=fb&utm_medium=groups&utm_campaign=fintech-report)
+* [Compatible Blockchains for the Fintech Projects. Is Stellar one of them?](https://4irelabs.com/blockchain-fintech-stellar)
 * [Mapping the Decentralized Financial System](https://tokeneconomy.co/mapping-the-decentralized-financial-system-7c5af65e0335)
 * [List of DeFi Products](https://github.com/ong/awesome-decentralized-finance#decentralized-exchange-protocols)
 * [State of Dapps: DeFi](https://www.stateofthedapps.com/dapps?tags=defi)
