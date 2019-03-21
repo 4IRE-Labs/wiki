@@ -35,5 +35,3 @@ Services: [Architecture / Protocol Design](../services/architecture-design-proto
 
 Team: [Kirill Kirikov](../organization/credentials-wip/kirill-kirikov.md), [Roman Malkevych](../organization/credentials-wip/roman-malkevych-wip.md)
 
-![](../.gitbook/assets/image%20%2853%29.png)
-

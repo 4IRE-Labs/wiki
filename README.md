@@ -37,7 +37,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [Kidcoin](case-studies/kidcoin.md) – Blockchain-based family finances and digital wallets for kids
 * [Kepler Collective](case-studies/kepler-collective.md) – Hub for selecting and investing in ICO pools
 * [Total Security](case-studies/total-security.md) – Smart physical access control system for corporate use
-* [Smart Documents](case-studies/smart-documents.md) – Blockchain-based notarization platform
+* [Notary on blockchain](case-studies/smart-documents.md) – Blockchain-based notarization platform
 * [Maitres](case-studies/maitres.md) – Smart restaurant booking platform
 * [ORME](case-studies/orme.md) – Market maker for the exchange platform
 * [Crypto Improvement Fund](case-studies/crypto-improvement-fund.md) – educational ecosystem
