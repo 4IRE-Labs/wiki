@@ -1,4 +1,4 @@
-# Fintech & Decentralized Finance \(\#DeFi\)
+# Financial Services
 
 Decentralized finance \(\#defi\) is the movement that leverages open source software and decentralized networks to transform traditional financial products into trustless and transparent protocols that operate without unnecessary intermediaries. One could envision decentralized finance impacting the financial world the same way that open source software has changed software products.
 

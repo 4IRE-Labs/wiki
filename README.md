@@ -4,7 +4,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ## **Business Solutions**
 
-* Blockchain for Finance / [Decentralized & Open Finance](solutions/decentralized-finance-defi/)
+* [Financial Services](solutions/decentralized-finance-defi/)
   * [Cross Border payments with blockchain](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
   * [Crypto Assets Security](solutions/decentralized-finance-defi/asset-security.md)
   * [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/decentralized-finance-defi/ethereum-bitcoin-bridge-wip.md)
