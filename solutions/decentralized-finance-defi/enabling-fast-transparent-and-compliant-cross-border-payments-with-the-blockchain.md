@@ -183,6 +183,15 @@ The most recent [announcement](https://newsroom.mastercard.com/eu/press-releases
 
 Additionally, consortiums such as Ripple offer its customers the use of digital asset XRP to process payments anywhere in the world instantly, reliably and at lower costs. [RippleNet](https://ripple.com/files/ripplenet_brochure.pdf), its decentralized global network of banks and payment, boasts of more than 100 financial institution partners.
 
+## Why us
+
+1. the ability to allocate the dedicated team after consulting \( responsible for POC implementation not only consulting\)
+2. provide the high level tech experts who understand the business domain
+3. customizable ready POC
+4. already worked with KYC/ PSD2 service providers like [https://op-developer.fi/](https://op-developer.fi/)
+5. local representative who build the trust
+6. proven blockchain background / qoute competetive compared with the local companies
+
 ## Summary
 
 The blockchain naturally fits business case for cross-border remittances to:
