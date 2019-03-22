@@ -1,6 +1,8 @@
 # Cross-border payments with blockchain
 
-**For Companies related to:**
+Financial services for B2C, trading , Foreign Exchange Platforms Brokers, Export/Import settlements, personal banking platforms.
+
+### **For Companies**
 
 1. Remittance services \(SWIFT, Western Union, Transferwise, UAE Exchange[ long list](https://www.remitrate.com/money-transfer-companies)\)
 2. Export/Import settlements
@@ -10,7 +12,25 @@
 6. Brokers
 7. Companies related to hawala [https://en.wikipedia.org/wiki/Hawala](https://en.wikipedia.org/wiki/Hawala)
 
-**Benefit:** Enabling fast, transparent and compliant cross-border payments with the blockchain
+**Benefit:** Enabling fast, transparent and compliant cross-border payments with the blockchain.
+
+### Frustrations/Challenges
+
+* Complexity in communication with banks for getting the bank wire \(lots of docs, sometimes non understandable reasons for geeting a wire transfer.\)
+* Transparency and immutability of ledger – key attribute of the system that creates trust between service, investors and regulators.
+
+### Benefits
+
+1. innovative approach
+2. the right time to launch the POC \( business with blockchain integration\)
+3. Growth opportunities
+4. decrease the fees for cross-wires payments
+5. become global \( work with customers in Asia, Indian and orher countries\)
+6. fecilite the process. improve the liquidity of the companies
+7.  Enabling fast, transparent and compliant cross-border payments with the blockchain
+8. Investors can provide liquidity in domestic banks
+9. PSD2 for cheap remittance
+10. SImple dashboards for accountants and regulators
 
 ## Business Context
 
