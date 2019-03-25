@@ -16,12 +16,12 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ## Technical Solutions
 
+* CryptoGraphica – Solution for wallet \#Usability \#Security
 * Security
 * Connecting identity with doc on blockchain / [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
 * How to share private data on public distributed ledger
 * Integrate IoT with blockchain
 * Traceability / Data collection
-* Usability
 * Scalability
 * Interchain transfers \(between Ethereum and Bitcoin\)
 * Token standart for STO
