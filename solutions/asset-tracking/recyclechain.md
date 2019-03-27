@@ -18,6 +18,8 @@ RecycleChain is a concept of a blockchain platform for open market in the waste 
 
 ## Solution & Product
 
+{% embed url="https://docs.google.com/presentation/d/1Rzz8O8cVy2HlAJ2fCL\_glmxxp3WSbvXHowq3uKwaSlk/edit?usp=sharing" %}
+
 ### **Abstract**
 
 RecycleChain is an open market for recyclables. Core of the system is the blockchain database, that’s stored and synced between all users. It will hold next data:
