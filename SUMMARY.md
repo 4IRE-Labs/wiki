@@ -17,8 +17,8 @@
   * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
   * [RecycleChain for Smart City Waste Management](solutions/asset-tracking/recyclechain.md)
 * [Tracking document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
-* [Improving Developer Experience \(DevX\)](solutions/developer-community-devxp.md)
 * [CryptoGraphica – Solution for wallet \#Usability \#Security](solutions/cryptographica-solution-for-wallet-usability-security.md)
+* [Improving Developer Experience \(DevX\)](solutions/developer-community-devxp.md)
 
 ## Services
 

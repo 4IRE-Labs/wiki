@@ -10,15 +10,23 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
   * [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/decentralized-finance-defi/ethereum-bitcoin-bridge-wip.md)
   * [Improving Asset Liquidity with tokenization](solutions/decentralized-finance-defi/sto-platform.md)
   * [Regulatory Compliance Automation](solutions/decentralized-finance-defi/complaince-scoring.md)
-  * [Continuous Token Model](solutions/decentralized-finance-defi/continuous-token-model-apiary.md)
-* [Effective resource distribution in commons](solutions/effective-resource-distribution-in-commons/)
+  * [Continuous Token Model](solutions/decentralized-finance-defi/continuous-token-model-apiary.md) 
 * [Asset tracking for the supply chain](solutions/asset-tracking/)
+  * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
+  * [RecycleChain for Smart City Waste Management](solutions/asset-tracking/recyclechain.md) 
+* [Effective resource distribution in commons](solutions/effective-resource-distribution-in-commons/)
 
 ## Technical Solutions
 
-* CryptoGraphica – Solution for wallet \#Usability \#Security
-* Security
+* [CryptoGraphica – Solution for wallet \#Usability \#Security](solutions/cryptographica-solution-for-wallet-usability-security.md)
 * Connecting identity with doc on blockchain / [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
+* [Improving Developer Experience](solutions/developer-community-devxp.md)
+* [Architecture Design of Blockchain Protocol](services/architecture-design-protocol.md)
+* [Dapps Development](services/dapps-wallets-development.md)
+
+### Research Directions
+
+* Security
 * How to share private data on public distributed ledger
 * Integrate IoT with blockchain
 * Traceability / Data collection
@@ -26,9 +34,6 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * Interchain transfers \(between Ethereum and Bitcoin\)
 * Token standart for STO
 * Interoperability
-* [Improving Developer Experience](solutions/developer-community-devxp.md)
-* [Architecture Design of Blockchain Protocol](services/architecture-design-protocol.md)
-* [Dapps Development](services/dapps-wallets-development.md)
 
 ## Case Studies
 
