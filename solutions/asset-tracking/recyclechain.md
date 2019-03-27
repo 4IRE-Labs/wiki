@@ -1,4 +1,4 @@
-# RecycleChain
+# RecycleChain for Smart City Waste Management
 
 RecycleChain is a concept of a blockchain platform for open market in the waste management space.
 

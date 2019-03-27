@@ -15,6 +15,7 @@
   * [Merging.Space – Project Management Tool](solutions/effective-resource-distribution-in-commons/merge-space-overview.md)
 * [Supply Chain Asset Tracking on Blockchain](solutions/asset-tracking/README.md)
   * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
+  * [RecycleChain for Smart City Waste Management](solutions/asset-tracking/recyclechain.md)
 * [Tracking document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
 * [Improving Developer Experience \(DevX\)](solutions/developer-community-devxp.md)
 * [CryptoGraphica – Solution for wallet \#Usability \#Security](solutions/cryptographica-solution-for-wallet-usability-security.md)
@@ -39,7 +40,6 @@
 * [Tennagraph](case-studies/tennagraph.md)
 * [ICONX](case-studies/iconx-wip.md)
 * [Contractland](case-studies/contractland-wip.md)
-* [RecycleChain](case-studies/recyclechain.md)
 * [Back to website](https://4irelabs.com)
 
 ## Organization
