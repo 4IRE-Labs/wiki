@@ -4,7 +4,7 @@ Developer Experience \(DX\) is the equivalent to User Experience \(UX\) when the
 
 Example of the Developer Experience plan for Aragon:
 
-![https://realtimeboard.com/app/board/o9J\_ky86lkg=/](../.gitbook/assets/image%20%2815%29.png)
+![https://realtimeboard.com/app/board/o9J\_ky86lkg=/](../../.gitbook/assets/image%20%2815%29.png)
 
 
 

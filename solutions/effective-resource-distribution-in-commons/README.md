@@ -1,14 +1,20 @@
 # Effective Resource Distribution in Commons
 
-For platform coops \([list](https://platform.coop/directory)\)
+For platform cooperatives, collective funds
 
-## **Products**
+## Challenge
 
-* Commons Stack
+* Acquiring funding
+* Effective fund distribution
+
+## **Solutions**
+
+* [Apiary](../decentralized-finance-defi/continuous-token-model-apiary.md)
+* [Commons Stack](https://commons-stack.gitbook.io/wiki/)
 * [Merge Space](merge-space-overview.md)
 * [Pando](https://medium.com/pando-network)
 
 ## Publications
 
-* [Use cases for the Aragon crowdfunding app \(Apiary\)](../how-to-track-document-versions-and-signers-on-the-blockchain.md)
+* [Use cases for the Aragon crowdfunding app \(Apiary\)](../technical-research/how-to-track-document-versions-and-signers-on-the-blockchain.md)
 

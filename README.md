@@ -2,7 +2,7 @@
 
 We research & develop IT solutions, based on blockchain, cloud and mobile tech. Working in financial, e-commerce, logistics and other domains.
 
-## **Business Solutions**
+## **Solutions**
 
 * [Financial Services](solutions/decentralized-finance-defi/)
   * [Cross Border payments with blockchain](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
@@ -14,26 +14,16 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [Asset tracking for the supply chain](solutions/asset-tracking/)
   * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
   * [RecycleChain for Smart City Waste Management](solutions/asset-tracking/recyclechain.md) 
-* [Effective resource distribution in commons](solutions/effective-resource-distribution-in-commons/)
+* [Effective resource distribution in commons](solutions/effective-resource-distribution-in-commons/) 
+* [Technical Research](solutions/technical-research/)
+  * [CryptoGraphica – Solution for wallet \#Usability \#Security](solutions/technical-research/cryptographica-solution-for-wallet-usability-security.md)
+  * Connecting identity with doc on blockchain / [How to track document versions and signers on the blockchain](solutions/technical-research/how-to-track-document-versions-and-signers-on-the-blockchain.md)
+  * [Improving Developer Experience](solutions/technical-research/developer-community-devxp.md)
 
-## Technical Solutions
+## Services
 
-* [CryptoGraphica – Solution for wallet \#Usability \#Security](solutions/cryptographica-solution-for-wallet-usability-security.md)
-* Connecting identity with doc on blockchain / [How to track document versions and signers on the blockchain](solutions/how-to-track-document-versions-and-signers-on-the-blockchain.md)
-* [Improving Developer Experience](solutions/developer-community-devxp.md)
 * [Architecture Design of Blockchain Protocol](services/architecture-design-protocol.md)
 * [Dapps Development](services/dapps-wallets-development.md)
-
-### Research Directions
-
-* Security
-* How to share private data on public distributed ledger
-* Integrate IoT with blockchain
-* Traceability / Data collection
-* Scalability
-* Interchain transfers \(between Ethereum and Bitcoin\)
-* Token standart for STO
-* Interoperability
 
 ## Case Studies
 

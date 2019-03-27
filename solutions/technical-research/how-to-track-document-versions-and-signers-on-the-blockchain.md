@@ -20,5 +20,5 @@ Electronic signatures and immutable legal documents on the blockchain
 
 ### Case Studies
 
-* [Blockchain-based notarization platform](../case-studies/smart-documents.md)
+* [Blockchain-based notarization platform](../../case-studies/smart-documents.md)
 
