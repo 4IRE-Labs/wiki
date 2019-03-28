@@ -1,6 +1,7 @@
 # Table of contents
 
 * [4IRE labs \| Navigation](README.md)
+* [Back to homescreen](https://4irelabs.com)
 
 ## Solutions
 
@@ -41,7 +42,6 @@
 * [Tennagraph](case-studies/tennagraph.md)
 * [ICONX](case-studies/iconx-wip.md)
 * [Contractland](case-studies/contractland-wip.md)
-* [Back to website](https://4irelabs.com)
 
 ## Organization
 
@@ -52,5 +52,4 @@
   * [Roman Malkevych \(wip\)](organization/credentials-wip/roman-malkevych-wip.md)
   * [Helen Petrashchuk](organization/credentials-wip/helen-petrashchuk.md)
   * [Max Semenchuk](organization/credentials-wip/max-semenchuk.md)
-* [Holacracy onboarding](organization/holacracy-onboarding.md)
 
