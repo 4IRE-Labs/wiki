@@ -7,4 +7,5 @@
 * Join our team – contact Max
 * Get us to speak at your event – contact Helen
 * Get our comments or interview on our profile topics – contact Helen
+* Present us products and frameworks that we can provide for our customers – contact Helen
 
