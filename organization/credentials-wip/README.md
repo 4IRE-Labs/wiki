@@ -4,14 +4,25 @@
 
 ## Core Team
 
+### Consultants
+
 * [​Kirill Kirikov​](kirill-kirikov.md) – Lead Blockchain Developer: Ethereum/Solidity, Hyperledger, Multichain
 * ​[Oleg​ Bugrovoy](oleg-bugrovoy.md) – Lead Blockchain & Backend EngineerA skilled backend/blockchain engineer with management skills.
 * ​[Bohdan​ Malkevych](bohdan-malkevych.md) – Blockchain Engineer
-* [Max Semenchuk](max-semenchuk.md) – Entrepreneur, Product Manager, UX Designer
-* Roman Malkevych
+* [Roman Malkevych](roman-malkevych-wip.md)
 * Yura Riznyk
-* Helen Petrashchuk
-* Stas Varetsky
+* Stas Varetsky \(+hiveonline team\)
+* Andrey Krit
+
+### Admin team
+
+* [Max Semenchuk](max-semenchuk.md)
+* [Helen Petrashchuk](helen-petrashchuk.md)
+* Nana
+* Johan
+* Svetlana
+* Helen L
+* Olya
 
 ​Mere on [https://4irelabs.com/team](https://4irelabs.com/team)
 
