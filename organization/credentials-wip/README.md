@@ -9,10 +9,11 @@
 * [​Kirill Kirikov​](kirill-kirikov.md) – Lead Blockchain Developer: Ethereum/Solidity, Hyperledger, Multichain
 * ​[Oleg​ Bugrovoy](oleg-bugrovoy.md) – Lead Blockchain & Backend EngineerA skilled backend/blockchain engineer with management skills.
 * ​[Bohdan​ Malkevych](bohdan-malkevych.md) – Blockchain Engineer
-* [Roman Malkevych](roman-malkevych-wip.md)
+* [Roman Malkevych](roman-malkevych-wip.md) – Blockchain Engineer
 * Yura Riznyk
-* Stas Varetsky \(+hiveonline team\)
+* Stas Varetsky
 * Andrey Krit
+* Yaroslav Morgunov
 
 ### Admin team
 
