@@ -7,10 +7,9 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [Financial Services](solutions/decentralized-finance-defi/)
   * [Cross Border payments with blockchain](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
   * [Crypto Assets Security](solutions/decentralized-finance-defi/asset-security.md)
-  * [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/technical-research/ethereum-bitcoin-bridge-wip.md)
-  * [Improving Asset Liquidity with tokenization](solutions/decentralized-finance-defi/sto-platform.md)
+  * [Asset Tokenization](solutions/decentralized-finance-defi/sto-platform.md)
   * [Regulatory Compliance Automation](solutions/decentralized-finance-defi/complaince-scoring.md)
-  * [Continuous Token Model](solutions/decentralized-finance-defi/continuous-token-model-apiary.md) 
+  * [Continuous Liquidity](solutions/decentralized-finance-defi/continuous-token-model-apiary.md) 
 * [Asset tracking for the supply chain](solutions/asset-tracking/)
 
   * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
@@ -22,12 +21,9 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [Platform Cooperatives](solutions/platform-cooperatives/)
   * [Merging.Space – Project Management Tool](solutions/platform-cooperatives/merge-space-overview.md) 
 * [Technical Research](solutions/technical-research/)
-  * Interoperability
-    * [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/technical-research/ethereum-bitcoin-bridge-wip.md) \(Kirill\)
-  * Identity
-    * [Tracking document versions and signers on the blockchain](solutions/technical-research/how-to-track-document-versions-and-signers-on-the-blockchain.md) \(Bohdan\)
-  * Usability
-    * [CryptoGraphica – Solution for wallet \#Usability \#Security](solutions/technical-research/cryptographica-solution-for-wallet-usability-security.md) \(Oleg\)
+  * Interoperability: [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/technical-research/ethereum-bitcoin-bridge-wip.md) 
+  * Identity: [Tracking document versions and signers on the blockchain](solutions/technical-research/how-to-track-document-versions-and-signers-on-the-blockchain.md) \(Bohdan\)
+  * Usability: [CryptoGraphica – Solution for wallet \#Usability \#Security](solutions/technical-research/cryptographica-solution-for-wallet-usability-security.md) \(Oleg\)
   * [Improving Developer Experience](solutions/technical-research/developer-community-devxp.md)
   * Security
   * Scalability

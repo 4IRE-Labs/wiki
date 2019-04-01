@@ -6,9 +6,9 @@ Open Finance Decentralized finance \(\#defi\) is the movement that leverages ope
 
 * [Cross Border payments with blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md) \(Kirill, Bohdan, Oleg\)
 * [Crypto Assets Security](asset-security.md) \(Oleg\)
-* [Improving Asset Liquidity with tokenization](sto-platform.md) \(Max, Stas\)
+* [Asset Tokenization](sto-platform.md) \(Max, Stas\)
 * [Regulatory Compliance Automation](complaince-scoring.md) \(Kirill\)
-* [Continuous Token Model](continuous-token-model-apiary.md) \(Max\)
+* [Continuous Liquidity](continuous-token-model-apiary.md) \(Max\)
 
 ## Resources
 

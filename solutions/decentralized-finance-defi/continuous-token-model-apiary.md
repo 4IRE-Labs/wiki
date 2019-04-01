@@ -1,24 +1,4 @@
-# Continuous Token Model \(Apiary\)
-
-
-
-1Hive's Apiary is a platform for emergent organization built on Aragon. Contributors stake tokens into organizations on the Apiary platform using a bonding curve. Funds held in the bonding curve's reserve pool are released over time into a discretionary pool that the Aragon DAO can use to reward contributors. Splitting funds into reserve and discretionary pools provides smart-contract enforced accountability between project contributors and patrons throughout the lifecycle of a project while simultaneously ensuring sufficient liquidity to support the emergence of a long-tail of micro-organizations.
-
-## Possible Attacks
-
-[https://blog.relevant.community/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17?gi=f275a521fc3b](https://blog.relevant.community/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17?gi=f275a521fc3b)
-
-### Extraction of funds via bribing
-
-Possible solution: priority in liquidation to voters who haven't supported extraction?
-
-small continuous selling, buying only against the curve [https://medium.com/@mrdavey/dynamic-token-bonding-curves-41d36e43befa](https://medium.com/@mrdavey/dynamic-token-bonding-curves-41d36e43befa)
-
-### Bonding curve exploit / race conditions
-
-Solutions:
-
-* Static bonding curve
+# Continuous Token Model / Liquidity
 
 ## Use Cases
 
@@ -89,4 +69,24 @@ If we click on a campaign we can see details of the campaign.
 
 * [Aragon Research forum thread](https://research.aragon.org/t/request-for-comment-aragon-crowdfunding-app-to-enable-more-responsible-crowdfunding-with-daos/144)
 * [Telegram chat](https://t.me/joinchat/E9cyAxB_6FdwNvJ7Mh7wDQ)
+
+
+
+1Hive's Apiary is a platform for emergent organization built on Aragon. Contributors stake tokens into organizations on the Apiary platform using a bonding curve. Funds held in the bonding curve's reserve pool are released over time into a discretionary pool that the Aragon DAO can use to reward contributors. Splitting funds into reserve and discretionary pools provides smart-contract enforced accountability between project contributors and patrons throughout the lifecycle of a project while simultaneously ensuring sufficient liquidity to support the emergence of a long-tail of micro-organizations.
+
+## Possible Attacks
+
+[https://blog.relevant.community/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17?gi=f275a521fc3b](https://blog.relevant.community/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17?gi=f275a521fc3b)
+
+### Extraction of funds via bribing
+
+Possible solution: priority in liquidation to voters who haven't supported extraction?
+
+small continuous selling, buying only against the curve [https://medium.com/@mrdavey/dynamic-token-bonding-curves-41d36e43befa](https://medium.com/@mrdavey/dynamic-token-bonding-curves-41d36e43befa)
+
+### Bonding curve exploit / race conditions
+
+Solutions:
+
+* Static bonding curve
 
