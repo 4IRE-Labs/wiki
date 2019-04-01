@@ -5,18 +5,18 @@
 
 ## Solutions
 
-* [Blockchain for Financial Services](solutions/decentralized-finance-defi/README.md)
+* [Financial Services](solutions/decentralized-finance-defi/README.md)
   * [Cross-border payments with blockchain](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
   * [Crypto Assets Security](solutions/decentralized-finance-defi/asset-security.md)
   * [Interchain transfers between Ethereum and Bitcoin](solutions/decentralized-finance-defi/ethereum-bitcoin-bridge-wip.md)
   * [Improving Asset Liquidity with tokenization](solutions/decentralized-finance-defi/sto-platform.md)
   * [Compliance Automation](solutions/decentralized-finance-defi/complaince-scoring.md)
   * [Continuous Token Model \(Apiary\)](solutions/decentralized-finance-defi/continuous-token-model-apiary.md)
-* [Supply Chain Asset Tracking on Blockchain](solutions/asset-tracking/README.md)
+* [Supply Chain](solutions/asset-tracking/README.md)
   * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
-  * [RecycleChain for Smart City Waste Management](solutions/asset-tracking/recyclechain.md)
-* [Effective Resource Distribution in Commons](solutions/effective-resource-distribution-in-commons/README.md)
-  * [Merging.Space – Project Management Tool](solutions/effective-resource-distribution-in-commons/merge-space-overview.md)
+* [Smart Cities](solutions/smart-cities/README.md)
+  * [RecycleChain for Smart City Waste Management](solutions/smart-cities/recyclechain.md)
+  * [Merging.Space – Project Management Tool](solutions/smart-cities/merge-space-overview.md)
 * [Technical Research](solutions/technical-research/README.md)
   * [Tracking document versions and signers on the blockchain](solutions/technical-research/how-to-track-document-versions-and-signers-on-the-blockchain.md)
   * [CryptoGraphica – Solution for wallet \#Usability \#Security](solutions/technical-research/cryptographica-solution-for-wallet-usability-security.md)

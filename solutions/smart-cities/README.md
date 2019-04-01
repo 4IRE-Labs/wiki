@@ -1,4 +1,4 @@
-# Effective Resource Distribution in Commons
+# Smart Cities
 
 For platform cooperatives, collective funds
 
