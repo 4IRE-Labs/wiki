@@ -16,7 +16,11 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
   * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
 
 * [Smart Cities](solutions/smart-cities/)
-  * [RecycleChain for Smart City Waste Management](solutions/smart-cities/recyclechain.md) 
+
+  * [RecycleChain for Smart City Waste Management](solutions/smart-cities/recyclechain.md)
+
+* [Platform Cooperatives](solutions/platform-cooperatives/)
+  * [Merging.Space – Project Management Tool](solutions/platform-cooperatives/merge-space-overview.md) 
 * [Technical Research](solutions/technical-research/)
   * Interoperability
     * [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/technical-research/ethereum-bitcoin-bridge-wip.md) \(Kirill\)

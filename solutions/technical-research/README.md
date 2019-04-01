@@ -1,7 +1,5 @@
 # Technical Research
 
-### Research Directions
-
 * Interoperability
   * [Protocol for interchain transfers between Ethereum and Bitcoin](ethereum-bitcoin-bridge-wip.md) \(Kirill\)
 * Identity

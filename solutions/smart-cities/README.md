@@ -11,7 +11,7 @@ For platform cooperatives, collective funds
 
 * [Apiary](../decentralized-finance-defi/continuous-token-model-apiary.md)
 * [Commons Stack](https://commons-stack.gitbook.io/wiki/)
-* [Merge Space](merge-space-overview.md)
+* [Merge Space](../platform-cooperatives/merge-space-overview.md)
 * [Pando](https://medium.com/pando-network)
 
 ## Publications
