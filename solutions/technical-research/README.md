@@ -8,10 +8,10 @@
   * [Tracking document versions and signers on the blockchain](how-to-track-document-versions-and-signers-on-the-blockchain.md) \(Bohdan\)
 * Usability
   * [CryptoGraphica – Solution for wallet \#Usability \#Security](cryptographica-solution-for-wallet-usability-security.md) \(Oleg\)
+* [Improving Developer Experience](developer-community-devxp.md)
 * Security
-* How to share private data on public distributed ledger
-* Integrate IoT with blockchain
+* Privacy on blockchain / Sharing private data on public distributed ledger
+* Integrating IoT with blockchain
 * Traceability / Data collection
 * Scalability
-* Token standart for STO
 

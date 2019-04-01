@@ -1,4 +1,4 @@
-# Crypto Assets Security
+# Improving Crypto Assets Usability / Security
 
 **Benefit:** Improving the usability while maintaining the security of crypto assets
 

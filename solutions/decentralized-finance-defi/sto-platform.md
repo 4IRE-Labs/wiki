@@ -53,4 +53,5 @@ By combining the advantages of blockchain and classical investment instruments, 
 ## References
 
 * [Good Protocols: How to Properly Standardize Security Tokens](https://blog.neufund.org/good-protocols-how-to-properly-standardize-security-tokens-95ff83c81c4a)
+* Token standards for STO
 

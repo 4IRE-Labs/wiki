@@ -16,15 +16,17 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
   * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
 
 * [Smart Cities](solutions/smart-cities/)
-  * [RecycleChain for Smart City Waste Management](solutions/smart-cities/recyclechain.md)
-  * 
-
-
-  
+  * [RecycleChain for Smart City Waste Management](solutions/smart-cities/recyclechain.md) 
 * [Technical Research](solutions/technical-research/)
-  * [CryptoGraphica – Solution for wallet \#Usability \#Security](solutions/technical-research/cryptographica-solution-for-wallet-usability-security.md)
-  * Connecting identity with doc on blockchain / [How to track document versions and signers on the blockchain](solutions/technical-research/how-to-track-document-versions-and-signers-on-the-blockchain.md)
+  * Interoperability
+    * [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/technical-research/ethereum-bitcoin-bridge-wip.md) \(Kirill\)
+  * Identity
+    * [Tracking document versions and signers on the blockchain](solutions/technical-research/how-to-track-document-versions-and-signers-on-the-blockchain.md) \(Bohdan\)
+  * Usability
+    * [CryptoGraphica – Solution for wallet \#Usability \#Security](solutions/technical-research/cryptographica-solution-for-wallet-usability-security.md) \(Oleg\)
   * [Improving Developer Experience](solutions/technical-research/developer-community-devxp.md)
+  * Security
+  * Scalability
 
 ## Services
 
@@ -52,6 +54,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [About us](organization/credentials-wip/)
 * [Blog](https://medium.com/practical-blockchain)
 * [Twitter](https://twitter.com/4irelabs)
+* [Opportunities to work with 4irelabs](organization/opportunities-to-work-with-4irelabs.md)
 
 For inquiries contact:  
 Helen Petrashchuk[  hp@4irelabs.com](mailto:hp@4irelabs.com)

@@ -7,7 +7,7 @@
 
 * [Financial Services](solutions/decentralized-finance-defi/README.md)
   * [Cross-border payments with blockchain](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
-  * [Crypto Assets Security](solutions/decentralized-finance-defi/asset-security.md)
+  * [Improving Crypto Assets Usability / Security](solutions/decentralized-finance-defi/asset-security.md)
   * [Improving Asset Liquidity with tokenization](solutions/decentralized-finance-defi/sto-platform.md)
   * [Compliance Automation](solutions/decentralized-finance-defi/complaince-scoring.md)
   * [Continuous Token Model \(Apiary\)](solutions/decentralized-finance-defi/continuous-token-model-apiary.md)
