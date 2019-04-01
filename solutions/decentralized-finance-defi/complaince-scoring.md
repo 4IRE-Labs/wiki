@@ -14,6 +14,7 @@ For services working with crypto payments
 * [Chainalysis](https://www.chainalysis.com/)
 * [Wyre](http://sendwyre.com/) \(has compliance module\)
 * [heycoral](https://heycoral.com/)
+* Credit scoring by chain history
 
 ### Potential Solution
 

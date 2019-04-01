@@ -7,7 +7,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [Financial Services](solutions/decentralized-finance-defi/)
   * [Cross Border payments with blockchain](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
   * [Crypto Assets Security](solutions/decentralized-finance-defi/asset-security.md)
-  * [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/decentralized-finance-defi/ethereum-bitcoin-bridge-wip.md)
+  * [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/technical-research/ethereum-bitcoin-bridge-wip.md)
   * [Improving Asset Liquidity with tokenization](solutions/decentralized-finance-defi/sto-platform.md)
   * [Regulatory Compliance Automation](solutions/decentralized-finance-defi/complaince-scoring.md)
   * [Continuous Token Model](solutions/decentralized-finance-defi/continuous-token-model-apiary.md) 
@@ -52,6 +52,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [About us](organization/credentials-wip/)
 * [Blog](https://medium.com/practical-blockchain)
 * [Twitter](https://twitter.com/4irelabs)
+* [Opportunities to work with 4irelabs](organization/opportunities-to-work-with-4irelabs.md)
 
 For inquiries contact:  
 Helen Petrashchuk[  hp@4irelabs.com](mailto:hp@4irelabs.com)
