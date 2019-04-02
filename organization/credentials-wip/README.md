@@ -34,3 +34,8 @@
 * [14 reviews on clutch](https://clutch.co/profile/4ire-labs) \(4.6/5\)
 * Trusted partner of YouTeam & Digitalogy
 
+## Misc
+
+* [Typical Contract / SLA](https://docs.google.com/document/d/1M8x0KbDXAgxnHYF6xKkRFF4SwDP28rrRdzV6mdImxrM/edit?usp=drive_web&ouid=106088990650229192528)
+* [Typical Annex / SOW](https://docs.google.com/document/d/1bJ9zJi8Gs01I7KGkZtWReZllalLEMnwZwD6OUW4jpo4/edit)
+
