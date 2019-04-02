@@ -10,13 +10,12 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
   * [Asset Tokenization](solutions/decentralized-finance-defi/sto-platform.md)
   * [Regulatory Compliance Automation](solutions/decentralized-finance-defi/complaince-scoring.md)
   * [Continuous Liquidity](solutions/decentralized-finance-defi/continuous-token-model-apiary.md) 
-* [Asset tracking for the supply chain](solutions/asset-tracking/)
+* [Supply chain](solutions/asset-tracking/)
 
   * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
+  * [RecycleChain for Smart City Waste Management](solutions/asset-tracking/recyclechain.md)
 
-* [Smart Cities](solutions/smart-cities/)
-
-  * [RecycleChain for Smart City Waste Management](solutions/smart-cities/recyclechain.md)
+* [Smart Cities](solutions/smart-cities.md)
 
 * [Platform Cooperatives](solutions/platform-cooperatives/)
   * [Merging.Space – Project Management Tool](solutions/platform-cooperatives/merge-space-overview.md) 

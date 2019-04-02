@@ -20,5 +20,5 @@
 ## Publications
 
 * [Supply Chain Blockchain Tech Review & Comparison](supply-chain-blockchain-tech-review-and-comparison.md)
-* [RecycleChain – a concept of a blockchain platform for open market in the waste management space for Smart Cities](../smart-cities/recyclechain.md) 
+* [RecycleChain – a concept of a blockchain platform for open market in the waste management space for Smart Cities](recyclechain.md) 
 
