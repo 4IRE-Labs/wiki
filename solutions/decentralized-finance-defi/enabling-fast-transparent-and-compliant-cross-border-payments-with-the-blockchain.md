@@ -12,12 +12,14 @@ Financial services for B2C, trading , Foreign Exchange Platforms Brokers, Export
 6. Brokers
 7. Companies related to hawala [https://en.wikipedia.org/wiki/Hawala](https://en.wikipedia.org/wiki/Hawala)
 
-**Benefit:** Enabling fast, transparent and compliant cross-border payments with the blockchain.
-
 ### Frustrations/Challenges
 
 * Complexity in communication with banks for getting the bank wire \(lots of docs, sometimes non understandable reasons for geeting a wire transfer.\)
 * Transparency and immutability of ledger – key attribute of the system that creates trust between service, investors and regulators.
+
+### **Solution**
+
+Enabling fast, transparent and compliant cross-border payments with the blockchain.
 
 ### Benefits
 
