@@ -2,6 +2,12 @@
 
 4irelabs works since on 2011, with HQ in Kyiv, Ukraine and representation in Singapore & Stockholm. We work under the holacracy self-organization framework, use lean and agile approaches for our work.
 
+### Our Values
+
+* Freedom
+* Team care / close relations
+* Self-development & growth
+
 ## Core Team
 
 ### Consultants
@@ -38,4 +44,5 @@
 
 * [Typical Contract / SLA](https://docs.google.com/document/d/1M8x0KbDXAgxnHYF6xKkRFF4SwDP28rrRdzV6mdImxrM/edit?usp=drive_web&ouid=106088990650229192528)
 * [Typical Annex / SOW](https://docs.google.com/document/d/1bJ9zJi8Gs01I7KGkZtWReZllalLEMnwZwD6OUW4jpo4/edit)
+* [Logo & Identity](https://www.figma.com/file/TBaNlFwSZ3i9mB7UdN1wCD44/4IRE-Style-Guide?node-id=315%3A2)
 
