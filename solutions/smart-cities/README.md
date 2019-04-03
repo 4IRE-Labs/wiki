@@ -4,20 +4,12 @@ In smart city, urban areas use different types of electronic data collection sen
 
 ## Use Cases
 
-* Universal ID Cards \( Latest Decentralised Identity Management systems use blockchain to provide a secure mechanism for storing and validating user identities, thereby reducing identity thefts and related frauds\)
-* Prioritizing Local Commerce
+* Identity & Decision making
 * Land, Property and Housing Management
 * Energy / Water / Pollution Management
-* [Waste Management](asset-tracking/recyclechain.md)  \(improve efficiencies surrounded the entire waste management process by using IoT sensors and AI prediction modeling\)
-* Improving Public Transit \(use of blockchain to remove the rent-seekers in the ridesharing economy Uber, etc.\). 
-* Interoperability for Smart Devices
-* Security for IoT Devices
-* Rewarding Citizenship
-* Urban Planning 
+* [Waste Management](../asset-tracking/recyclechain.md)
+* Public Transit
 * Departamental Transparency
-* Universal Data Storage Platforms
-* Keyless Signature Interface \(KSI\) for Hosting Government Services and Records
-* Government Services  \(smart contracts can be used for digitising citizen rights and identification, transparent voting, tax, track ownership of assets, remove paper, and automate bureaucratic processes\)
 * Smart Energy  \(create a more resilient power grid by using a blockchain powered p2p energy market. This removes sent seeking middle men and allows individuals to create, buy, sell, and trade energy while retaining value\)
 * Smart Payments \(facilitate all municipal payments on a blockchain based solution, including: city programs, assistance, welfare, payroll, etc\).
 

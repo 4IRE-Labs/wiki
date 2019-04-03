@@ -15,7 +15,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
   * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
   * [RecycleChain for Smart City Waste Management](solutions/asset-tracking/recyclechain.md)
 
-* [Smart Cities](solutions/smart-cities.md)
+* [Smart Cities](solutions/smart-cities/)
 
 * [Platform Cooperatives](solutions/platform-cooperatives/)
   * [Merging.Space – Project Management Tool](solutions/platform-cooperatives/merge-space-overview.md) 
