@@ -6,7 +6,6 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 * [Financial Services](solutions/decentralized-finance-defi/)
   * [Cross Border payments with blockchain](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
-  * [Crypto Assets Security](solutions/decentralized-finance-defi/asset-security.md)
   * [Asset Tokenization](solutions/decentralized-finance-defi/sto-platform.md)
   * [Continuous Liquidity](solutions/decentralized-finance-defi/continuous-token-model-apiary.md) 
 * [Supply chain](solutions/asset-tracking/)
@@ -21,7 +20,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [Technical Research](solutions/technical-research/)
   * Interoperability: [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/technical-research/ethereum-bitcoin-bridge-wip.md) 
   * Identity: [Tracking document versions and signers on the blockchain](solutions/technical-research/how-to-track-document-versions-and-signers-on-the-blockchain.md) \(Bohdan\)
-  * Usability: [CryptoGraphica – Solution for wallet \#Usability \#Security](solutions/technical-research/cryptographica-solution-for-wallet-usability-security.md) \(Oleg\), [Improving Developer Experience](solutions/technical-research/developer-community-devxp.md)
+  * Usability: [CryptoGraphica – Solution for wallet \#Usability \#Security](case-studies/cryptographica.md) \(Oleg\), [Improving Developer Experience](solutions/technical-research/developer-community-devxp.md)
   * Regulation Compliance: [Tech GDPR Compliance](solutions/technical-research/tech-gdpr-copmpliance.md), [Crypto Address Reputation for Antifraud](solutions/technical-research/complaince-scoring.md)
   * Scalability: L2 integrations
 
@@ -32,6 +31,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ## Case Studies
 
+* [CryptoGraphica](case-studies/cryptographica.md) – Solution for wallet \#Usability \#Security
 * [Hiveonline](case-studies/hiveonline.md) – The financial trust platform for small businesses
 * [Social Media Market](case-studies/social.-media-market.md) – Blockchain-based decentralized advertising marketplace
 * [Kidcoin](case-studies/kidcoin.md) – Blockchain-based family finances and digital wallets for kids

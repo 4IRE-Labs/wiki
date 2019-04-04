@@ -7,7 +7,6 @@
 
 * [Financial Services](solutions/decentralized-finance-defi/README.md)
   * [Cross-border payments with blockchain](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
-  * [Improving Crypto Assets Usability / Security](solutions/decentralized-finance-defi/asset-security.md)
   * [Asset Tokenization](solutions/decentralized-finance-defi/sto-platform.md)
   * [Continuous Token Model / Liquidity](solutions/decentralized-finance-defi/continuous-token-model-apiary.md)
 * [Supply Chain](solutions/asset-tracking/README.md)
@@ -19,10 +18,10 @@
   * [Merging.Space – Project Management Tool](solutions/platform-cooperatives/merge-space-overview.md)
 * [Technical Research](solutions/technical-research/README.md)
   * [Tech GDPR Coppliance](solutions/technical-research/tech-gdpr-copmpliance.md)
+  * [Improving Crypto Assets Usability / Security](solutions/technical-research/asset-security.md)
   * [Crypto Address Reputation for Antifraud](solutions/technical-research/complaince-scoring.md)
   * [Interchain transfers between Ethereum and Bitcoin](solutions/technical-research/ethereum-bitcoin-bridge-wip.md)
   * [Tracking document versions and signers on the blockchain](solutions/technical-research/how-to-track-document-versions-and-signers-on-the-blockchain.md)
-  * [CryptoGraphica – Solution for wallet \#Usability \#Security](solutions/technical-research/cryptographica-solution-for-wallet-usability-security.md)
   * [Improving Developer Experience \(DevX\)](solutions/technical-research/developer-community-devxp.md)
 
 ## Services
@@ -32,6 +31,7 @@
 
 ## Case Studies
 
+* [CryptoGraphica](case-studies/cryptographica.md)
 * [Hiveonline](case-studies/hiveonline.md)
 * [Social Media Market](case-studies/social.-media-market.md)
 * [Kidcoin](case-studies/kidcoin.md)
