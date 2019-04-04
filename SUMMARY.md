@@ -25,6 +25,13 @@
 * [Architecture / Protocol Design](services/architecture-design-protocol.md)
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
 
+## Research
+
+* [Smart Cities](research/smart-cities/README.md)
+  * [Waste Management Tech](research/smart-cities/waste-management.md)
+* [Platform Cooperatives](research/platform-cooperatives/README.md)
+  * [Merging.Space – Project Management Tool](research/platform-cooperatives/merge-space-overview.md)
+
 ## Case Studies
 
 * [CryptoGraphica](case-studies/cryptographica.md)
@@ -41,13 +48,6 @@
 * [Tennagraph](case-studies/tennagraph.md)
 * [ICONX](case-studies/iconx-wip.md)
 * [Contractland](case-studies/contractland-wip.md)
-
-## Research
-
-* [Smart Cities](research/smart-cities/README.md)
-  * [Waste Management Tech](research/smart-cities/waste-management.md)
-* [Platform Cooperatives](research/platform-cooperatives/README.md)
-  * [Merging.Space – Project Management Tool](research/platform-cooperatives/merge-space-overview.md)
 
 ## Organization
 
