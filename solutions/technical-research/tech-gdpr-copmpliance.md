@@ -1,4 +1,4 @@
-# Tech GDPR Copmpliance
+# Tech GDPR Coppliance
 
 For all IT services working with personal data of EU citizens.
 
