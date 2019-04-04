@@ -19,6 +19,7 @@
 * [Platform Cooperatives](solutions/platform-cooperatives/README.md)
   * [Merging.Space – Project Management Tool](solutions/platform-cooperatives/merge-space-overview.md)
 * [Technical Research](solutions/technical-research/README.md)
+  * [Tech GDPR Copmpliance](solutions/technical-research/tech-gdpr-copmpliance.md)
   * [Interchain transfers between Ethereum and Bitcoin](solutions/technical-research/ethereum-bitcoin-bridge-wip.md)
   * [Tracking document versions and signers on the blockchain](solutions/technical-research/how-to-track-document-versions-and-signers-on-the-blockchain.md)
   * [CryptoGraphica – Solution for wallet \#Usability \#Security](solutions/technical-research/cryptographica-solution-for-wallet-usability-security.md)
