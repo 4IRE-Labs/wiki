@@ -20,7 +20,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [Technical Research](solutions/technical-research/)
   * Interoperability: [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/technical-research/ethereum-bitcoin-bridge-wip.md) 
   * Identity: [Tracking document versions and signers on the blockchain](solutions/technical-research/how-to-track-document-versions-and-signers-on-the-blockchain.md) \(Bohdan\)
-  * Usability: [CryptoGraphica – Solution for wallet \#Usability \#Security](case-studies/cryptographica.md) \(Oleg\), [Improving Developer Experience](solutions/technical-research/developer-community-devxp.md)
+  * Usability: [Improving Crypto Wallets Usability](solutions/technical-research/asset-security.md), [Improving Developer Experience](solutions/technical-research/developer-community-devxp.md)
   * Regulation Compliance: [Tech GDPR Compliance](solutions/technical-research/tech-gdpr-copmpliance.md), [Crypto Address Reputation for Antifraud](solutions/technical-research/complaince-scoring.md)
   * Scalability: L2 integrations
 
