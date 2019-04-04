@@ -13,12 +13,12 @@
   * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
   * [RecycleChain for Smart City Waste Management](solutions/asset-tracking/recyclechain.md)
 * [Technical Research](solutions/technical-research/README.md)
-  * [Tech GDPR Coppliance](solutions/technical-research/tech-gdpr-copmpliance.md)
-  * [Improving Crypto Assets Usability / Security](solutions/technical-research/asset-security.md)
-  * [Crypto Address Reputation for Antifraud](solutions/technical-research/complaince-scoring.md)
   * [Interchain transfers between Ethereum and Bitcoin](solutions/technical-research/ethereum-bitcoin-bridge-wip.md)
   * [Tracking document versions and signers on the blockchain](solutions/technical-research/how-to-track-document-versions-and-signers-on-the-blockchain.md)
+  * [Improving Crypto Assets Usability / Security](solutions/technical-research/asset-security.md)
   * [Improving Developer Experience \(DevX\)](solutions/technical-research/developer-community-devxp.md)
+  * [Tech GDPR Coppliance](solutions/technical-research/tech-gdpr-copmpliance.md)
+  * [Crypto Address Reputation for Antifraud](solutions/technical-research/complaince-scoring.md)
 
 ## Services
 
