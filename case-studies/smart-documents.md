@@ -6,18 +6,17 @@ The main challenges we’ve faced with: The Parties could verify the  signature 
 
 * Putting a hash on a public blockchain can be done in many ways but the most common one is including it as info in the transaction block.
 
-**Goal**: 
+## **Goal**
 
 Develop a solution that will allow owners of documents confirm, transfer and share their ownership and have information of the latest signed document on the blockchain.The development of backend and frontend, development and audit of Ethereum smart contracts, blockchain consulting and business analysis.
 
-**Problem:** 
+## **Problem**
 
 The Parties could verify the signature authenticity  and assure the Parties of the signed documents immutability .  It allows eliminate the intermediaries and allows the users using  the affordable legal services.
 
 **Users of the platform:**  B2C users who want to create the agreements and sign digitally via the trustworthy system on behalf of the verified user \( using blockchain for data immutability\)
 
-**Solution:** Ethereum based DApp.  
-****
+**Solution:** Ethereum based DApp.
 
 **Technologies:** RoR, Web3, VueJS, Solidity.
 
@@ -25,7 +24,7 @@ Does notarization on blockchain bring value for the end users and the business o
 
 **The main challenges we’ve faced with**: The Parties could verify the signature authenticity and assure the Parties of the immutability of the latest version of signed document.The main challenges:  confirm the personal identity and the business entity identity for connecting the specific ETH address with the ID service providers. 
 
-Competitors
+## Competitors
 
 1\) Stampery - stamp.io seems abandoned, the proof isn't coming through and competing services seem to have disappeared off the internet. Stampery gained notoriety because they partnered with microsoft to provide free notarization of documents on the blockchain.
 

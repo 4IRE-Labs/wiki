@@ -34,17 +34,17 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 Open Source
 
 * [Tennagraph](case-studies/tennagraph.md) – Ethereum Signal Aggregator
-* [Contractland](case-studies/contractland-wip.md) – DEX
+* [Terra bridge](case-studies/contractland-wip.md) – Connecting EVM based blockchain
 
 Commercial
 
+* [Notary on blockchain](case-studies/smart-documents.md) – Blockchain-based notarization platform
 * [CryptoGraphica](case-studies/cryptographica.md) – Solution for wallet \#Usability \#Security
 * [Hiveonline](case-studies/hiveonline.md) – The financial trust platform for small businesses
 * [Social Media Market](case-studies/social.-media-market.md) – Blockchain-based decentralized advertising marketplace
 * [Kidcoin](case-studies/kidcoin.md) – Blockchain-based family finances and digital wallets for kids
 * [Kepler Collective](case-studies/kepler-collective.md) – Hub for selecting and investing in ICO pools
 * [Total Security](case-studies/total-security.md) – Smart physical access control system for corporate use
-* [Notary on blockchain](case-studies/smart-documents.md) – Blockchain-based notarization platform
 * [Maitres](case-studies/maitres.md) – Smart restaurant booking platform
 * [ORME](case-studies/orme.md) – Market maker for the exchange platform
 * [Crypto Improvement Fund](case-studies/crypto-improvement-fund.md) – educational ecosystem
