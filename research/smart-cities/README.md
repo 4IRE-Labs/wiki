@@ -7,7 +7,7 @@ In smart city, urban areas use different types of electronic data collection sen
 * Identity & Decision making
 * Land, Property and Housing Management
 * Energy / Water / Pollution Management
-* [Waste Management](../asset-tracking/recyclechain.md)
+* [Waste Management](../../solutions/asset-tracking/recyclechain.md)
 * Public Transit
 * Departamental Transparency
 * Smart Energy  \(create a more resilient power grid by using a blockchain powered p2p energy market. This removes sent seeking middle men and allows individuals to create, buy, sell, and trade energy while retaining value\)

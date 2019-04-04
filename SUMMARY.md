@@ -12,10 +12,6 @@
 * [Supply Chain](solutions/asset-tracking/README.md)
   * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
   * [RecycleChain for Smart City Waste Management](solutions/asset-tracking/recyclechain.md)
-* [Smart Cities](solutions/smart-cities/README.md)
-  * [Waste Management Tech](solutions/smart-cities/waste-management.md)
-* [Platform Cooperatives](solutions/platform-cooperatives/README.md)
-  * [Merging.Space – Project Management Tool](solutions/platform-cooperatives/merge-space-overview.md)
 * [Technical Research](solutions/technical-research/README.md)
   * [Tech GDPR Coppliance](solutions/technical-research/tech-gdpr-copmpliance.md)
   * [Improving Crypto Assets Usability / Security](solutions/technical-research/asset-security.md)
@@ -45,6 +41,13 @@
 * [Tennagraph](case-studies/tennagraph.md)
 * [ICONX](case-studies/iconx-wip.md)
 * [Contractland](case-studies/contractland-wip.md)
+
+## Research
+
+* [Smart Cities](research/smart-cities/README.md)
+  * [Waste Management Tech](research/smart-cities/waste-management.md)
+* [Platform Cooperatives](research/platform-cooperatives/README.md)
+  * [Merging.Space – Project Management Tool](research/platform-cooperatives/merge-space-overview.md)
 
 ## Organization
 

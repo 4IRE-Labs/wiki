@@ -4,7 +4,7 @@ Improve efficiencies surrounded the entire waste management process by using IoT
 
 ## Solutions
 
-* [RecycleChain](../asset-tracking/recyclechain.md) – open market for recyclables on blockchain
+* [RecycleChain](../../solutions/asset-tracking/recyclechain.md) – open market for recyclables on blockchain
 * [Swach](https://swachhcoin.com/) – aims to develop diverse and customizable waste management ecosystem to transform waste into valuable products of high economic value while monetarily incentivizing people for responsible waste disposal by leveraging AI, Big Data, IoT integrated with Blockchain technology
 * [Loriot](https://www.beesmart.city/solutions/loriot-lorawan-network-server) – provides a secure, reliable and scalable solution to operate long range IoT networks through a global infrastructure.
 * [Inclusive Waste Management in Peru: Enabling the Business of Recycling](https://www.mastercardcenter.org/insights/inclusive-waste-management-in-peru)
