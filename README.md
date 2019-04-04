@@ -29,7 +29,14 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [Architecture Design of Blockchain Protocol](services/architecture-design-protocol.md)
 * [Dapps Development](services/dapps-wallets-development.md)
 
-## Case Studies
+## Projects
+
+Open Source
+
+* [Tennagraph](case-studies/tennagraph.md) – Ethereum Signal Aggregator
+* [Contractland](case-studies/contractland-wip.md) – DEX
+
+Commercial
 
 * [CryptoGraphica](case-studies/cryptographica.md) – Solution for wallet \#Usability \#Security
 * [Hiveonline](case-studies/hiveonline.md) – The financial trust platform for small businesses
@@ -42,9 +49,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [ORME](case-studies/orme.md) – Market maker for the exchange platform
 * [Crypto Improvement Fund](case-studies/crypto-improvement-fund.md) – educational ecosystem
 * [CMI](case-studies/cmi.md) – Global Media Ecosystem
-* [Tennagraph](case-studies/tennagraph.md) – Ethereum Signal Aggregator
 * [ICONX](case-studies/iconx-wip.md) – asset tokenization platform
-* [Contractland](case-studies/contractland-wip.md) – DEX
 
 ## Organization
 
