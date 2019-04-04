@@ -31,12 +31,12 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ## Projects
 
-Open Source
+### Open Source
 
 * [Tennagraph](case-studies/tennagraph.md) – Ethereum Signal Aggregator
 * [Terra bridge](case-studies/contractland-wip.md) – Connecting EVM based blockchain
 
-Commercial
+### Commercial
 
 * [Notary on blockchain](case-studies/smart-documents.md) – Blockchain-based notarization platform
 * [CryptoGraphica](case-studies/cryptographica.md) – Solution for wallet \#Usability \#Security
