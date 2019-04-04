@@ -24,6 +24,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
   * Identity: [Tracking document versions and signers on the blockchain](solutions/technical-research/how-to-track-document-versions-and-signers-on-the-blockchain.md) \(Bohdan\)
   * Usability: [CryptoGraphica – Solution for wallet \#Usability \#Security](solutions/technical-research/cryptographica-solution-for-wallet-usability-security.md) \(Oleg\)
   * [Improving Developer Experience](solutions/technical-research/developer-community-devxp.md)
+  * Regulation Compliance: [Tech GDPR Compliance](solutions/technical-research/tech-gdpr-copmpliance.md)
   * Security
   * Scalability
 
