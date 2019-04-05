@@ -9,14 +9,8 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
   * Transparency: [Cross Border payments with blockchain](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
   * [Blockchain for Insurance](solutions/decentralized-finance-defi/blockchain-for-insurance.md) 
 * [Supply chain](solutions/asset-tracking/)
-
   * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
-  * [RecycleChain for Smart City Waste Management](solutions/asset-tracking/recyclechain.md)
-
-* [Smart Cities](research/smart-cities/)
-
-* [Platform Cooperatives](research/platform-cooperatives/)
-  * [Merging.Space – Project Management Tool](research/platform-cooperatives/merge-space-overview.md) 
+  * [RecycleChain for Smart City Waste Management](solutions/asset-tracking/recyclechain.md) 
 * [Technical Research](solutions/technical-research/)
   * Interoperability: [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/technical-research/ethereum-bitcoin-bridge-wip.md) 
   * Identity: [Tracking document versions and signers on the blockchain](solutions/technical-research/how-to-track-document-versions-and-signers-on-the-blockchain.md) \(Bohdan\)
@@ -28,6 +22,13 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 * [Architecture Design of Blockchain Protocol](services/architecture-design-protocol.md)
 * [Dapps Development](services/dapps-wallets-development.md)
+
+## Research
+
+* [Smart Cities](research/smart-cities/)
+
+* [Platform Cooperatives](research/platform-cooperatives/)
+  * [Merging.Space – Project Management Tool](research/platform-cooperatives/merge-space-overview.md)
 
 ## Projects
 
