@@ -49,6 +49,7 @@
 * [Tennagraph](case-studies/tennagraph.md)
 * [ICONX](case-studies/iconx-wip.md)
 * [Contractland](case-studies/contractland-wip.md)
+* [Hybrid wallet \(Fiat and crypto Assets\)](case-studies/hybrid-wallet-fiat-and-crypto-assets.md)
 
 ## Organization
 

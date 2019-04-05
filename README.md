@@ -50,6 +50,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [Crypto Improvement Fund](case-studies/crypto-improvement-fund.md) – educational ecosystem
 * [CMI](case-studies/cmi.md) – Global Media Ecosystem
 * [ICONX](case-studies/iconx-wip.md) – asset tokenization platform
+* [Hybrid wallet](case-studies/hybrid-wallet-fiat-and-crypto-assets.md) for Fiat and crypto Assets
 
 ## Organization
 
