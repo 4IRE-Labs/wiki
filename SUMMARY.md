@@ -9,6 +9,7 @@
   * [Cross-border payments with blockchain](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
   * [Asset Tokenization](solutions/decentralized-finance-defi/sto-platform.md)
   * [Continuous Token Model / Liquidity](solutions/decentralized-finance-defi/continuous-token-model-apiary.md)
+  * [Blockchain for Insurance](solutions/decentralized-finance-defi/blockchain-for-insurance.md)
 * [Supply Chain](solutions/asset-tracking/README.md)
   * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
   * [RecycleChain for Smart City Waste Management](solutions/asset-tracking/recyclechain.md)

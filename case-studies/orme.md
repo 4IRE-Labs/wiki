@@ -6,5 +6,5 @@ Blockchain backend engineering, concept development and refinement.
 
 Team: [Kirill Kirikov](../organization/credentials-wip/kirill-kirikov.md)
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 

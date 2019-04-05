@@ -2,13 +2,13 @@
 
 Financial services for B2C, trading , Foreign Exchange Platforms Brokers, Export/Import settlements, personal banking platforms. The GCC \(Gulf Cooperation Council\) countries reached $26.9 billion in remittances to the Philippines alone. Despite this high number, transaction rates that migrant workers have to pay in order to send money back home can range from 15 to 20 percent in transaction fee. 
 
-Samples of the remittance solutions 
+### Samples of the remittance solutions 
 
 [Abra](https://www.goabra.com/), a digital wallet that lets you transfer money anywhere in the world can eliminate this problem by lowering transaction costs and provide seamless money transfer. You can simply fill up an Abra digital wallet and withdraw the money in any nearby Abra Teller. A blue collar worker living in Dubai can now send money to his family in Nepal at a much lower cost. This could then double the percentage of remittances in the GCC. ****
 
 [Bitwage](https://www.bitwage.com/) is a blockchain-based payment startup that provides employers with a platform to pay their international employees in almost any currency including digital currency such as bitcoin. For example, a freelancer in India who typically receives his payment through international wire transfer would usually take three to five days to process with no payment tracking. With Bitwage using blockchain, the freelancer can now receive his money in less than 48 hours and track his payment throughout the entire process. Implementing Bitwage can encourage an increase in international collaboration between small businesses and employers.
 
-**From whom:** 
+### **From whom**
 
 1. Remittance services \(SWIFT, Western Union, Transferwise, UAE Exchange[ long list](https://www.remitrate.com/money-transfer-companies)\)
 2. Export/Import settlements

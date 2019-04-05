@@ -6,5 +6,5 @@ iOS and backend development, tech support.
 
 Team: [Oleg Bugrovoy](../organization/credentials-wip/oleg-bugrovoy.md)
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 

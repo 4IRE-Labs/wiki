@@ -5,9 +5,9 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 ## **Solutions**
 
 * [Financial Services](solutions/decentralized-finance-defi/)
-  * [Cross Border payments with blockchain](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
-  * [Asset Tokenization](solutions/decentralized-finance-defi/sto-platform.md)
-  * [Continuous Liquidity](solutions/decentralized-finance-defi/continuous-token-model-apiary.md) 
+  * Liquidity: [Asset Tokenization](solutions/decentralized-finance-defi/sto-platform.md), [Continuous Liquidity](solutions/decentralized-finance-defi/continuous-token-model-apiary.md)
+  * Transparency: [Cross Border payments with blockchain](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
+  * [Blockchain for Insurance](solutions/decentralized-finance-defi/blockchain-for-insurance.md) 
 * [Supply chain](solutions/asset-tracking/)
 
   * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)

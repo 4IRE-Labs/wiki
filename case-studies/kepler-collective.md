@@ -8,7 +8,7 @@ Work: Integration of KYC capabilities, the deployment of smart contracts and add
 
 Team: [Kirill Kirikov](../organization/credentials-wip/kirill-kirikov.md), [Oleg Burgovoy](../organization/credentials-wip/oleg-bugrovoy.md)
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 ### Customer review
 

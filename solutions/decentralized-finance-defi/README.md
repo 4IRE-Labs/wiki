@@ -6,6 +6,7 @@ Open Finance Decentralized finance \(\#defi\) is the movement that leverages ope
 
 * Liquidity: [Asset Tokenization](sto-platform.md), [Continuous Liquidity](continuous-token-model-apiary.md)
 * Transparency: [Cross Border payments with blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
+* [Blockchain for Insurance](blockchain-for-insurance.md)
 
 ## Resources
 
