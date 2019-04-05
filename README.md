@@ -60,5 +60,5 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [Opportunities to work with 4irelabs](organization/opportunities-to-work-with-4irelabs.md)
 
 For inquiries contact:  
-Helen Petrashchuk[  hp@4irelabs.com](mailto:hp@4irelabs.com)
+Helen Petrashchuk [hp@4irelabs.com](mailto:hp@4irelabs.com)
 
