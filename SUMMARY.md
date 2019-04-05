@@ -32,6 +32,7 @@
   * [Waste Management Tech](research/smart-cities/waste-management.md)
 * [Platform Cooperatives](research/platform-cooperatives/README.md)
   * [Merging.Space – Project Management Tool](research/platform-cooperatives/merge-space-overview.md)
+* [Blockchain Accelerators & Incubators](research/blockchain-accelerators-and-incubators.md)
 
 ## Case Studies
 
