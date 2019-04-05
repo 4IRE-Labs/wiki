@@ -12,11 +12,12 @@ Financial services for B2C, trading , Foreign Exchange Platforms Brokers, Export
 
 1. Remittance services \(SWIFT, Western Union, Transferwise, UAE Exchange[ long list](https://www.remitrate.com/money-transfer-companies)\)
 2. Export/Import settlements
-3. Smart banking solutions / financial groups \(eg. rubixfinancila\) They consult the companies and look for the experts with the relevant expertise
-4. Crypto wallets \(for cashing out in the local currency\)
-5. Foreign Exchange Platforms
-6. Brokers
-7. Companies related to hawala [https://en.wikipedia.org/wiki/Hawala](https://en.wikipedia.org/wiki/Hawala)
+3. International Payouts / Salaries 
+4. Smart banking solutions / financial groups \(eg. rubixfinancila\) They consult the companies and look for the experts with the relevant expertise
+5. Crypto wallets \(for cashing out in the local currency\)
+6. Foreign Exchange Platforms
+7. Brokers
+8. Companies related to hawala [https://en.wikipedia.org/wiki/Hawala](https://en.wikipedia.org/wiki/Hawala)
 
 ### Frustrations/Challenges
 
