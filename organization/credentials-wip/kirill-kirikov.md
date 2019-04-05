@@ -6,19 +6,17 @@ Lead Blockchain Developer: Ethereum/Solidity, Hyperledger, Multichain
 
 12+ years dev experience, managing team \(up to 30 specialists\), released more than 100 apps. Worked on software for Chrysler & Ferrari. Teaching courses on iOS and Blockchain.
 
-Projects: [Contractland](../../case-studies/contractland-wip.md), [CMI](../../case-studies/cmi.md), [Kidcoin](../../case-studies/kidcoin.md), [Smart Documents](../../case-studies/smart-documents.md), [Crypto Improvement Fund](../../case-studies/crypto-improvement-fund.md), [ICONX](../../case-studies/iconx-wip.md)
-
-### INDUSTRY EXPERIENCE
+### Industry Experience
 
 Banking & Finance, Environmental Activism & Social Organisations, Entertainment & Games, Construction & Real estate
 
-### PRODUCT EXPERIENCE
+### Product Experience
 
 Mobile financial management tool, Environment monitoring system/ enterprise app and server/ cameras streaming and recording, Middleware for integration of wallet services and consumers, e-learning gamification solution, ICO
 
-### TECH
+## TECH
 
-#### Programming Languages:
+### Programming Languages
 
 * DJANGO
 * FLASK
@@ -41,7 +39,7 @@ Mobile financial management tool, Environment monitoring system/ enterprise app 
 * TENDERMINT
 * HYPERLEDGER SOLIDITY
 
-#### RDBMS:
+### RDBMS
 
 * AWS,
 * MONGODB
@@ -51,7 +49,7 @@ Mobile financial management tool, Environment monitoring system/ enterprise app 
 * AWS
 * SDK
 
-#### Operating Systems:
+### Operating Systems
 
 * LINUX
 * WINDOWS
@@ -65,39 +63,22 @@ Libraries/Frameworks/Tools: [CSS](https://cryptohire.io/results/css) [XML](https
 
 Profile on Cryptohire: [https://cryptohire.io/talent/1115?keywords%5B0%5D=14409](https://cryptohire.io/talent/1115?keywords%5B0%5D=14409) 
 
-### **Recent Projects:**
+## **Recent Projects**
 
-●  HiveOnline – blockchain trust record platform for SME \(wip\)
-
-●  Bokoredo – accounting automation tool with access to online banks \(wip\)
-
-●  ORME Smart Contract – tokens are minted, whenever a bitcoin is mined
-
-●  BitRent Smart Contract Audit - provided the security audit for 10 smart contracts before
-
-launching the ICO
-
-●  СIF coin - we created a CIF coin \(dash fork\) for a client, the CIF coin is a custom
-
-blockchain that will be responsible for a variety of core business functions.
-
-●  Pura – completed dash fork and wrote the whole functionality for the gateway \( creating
-
-the master nodes for the clients directly from the wallets\)
-
-●  Apiary - curation market for DAOs based on Aragon platform. Responsible Crowdfunding
-
-through the Curation Market.
-
-●  Crowdfunding3 - investor panel for ICO.
-
-●  Kepler Collective - the full-stack development of the Ethereum-based application of the
-
-Blockchain platform for crowdfunding
-
-●  Winstars - Blockchain-based gaming platform.
-
-●  Contractland - public chain built for the decentralized exchanges.
+* [Contractland](../../case-studies/contractland-wip.md) - public chain built for the decentralized exchanges
+* [Smart Documents](../../case-studies/smart-documents.md)
+* [Kidcoin](../../case-studies/kidcoin.md)
+* Bokoredo – accounting automation tool with access to online banks \(wip\)
+* [ORME Smart Contract](../../case-studies/orme.md) – tokens are minted, whenever a bitcoin is mined
+* BitRent Smart Contract Audit - provided the security audit for 10 smart contracts before launching the ICO
+* [Crypto Improvement Fund](../../case-studies/crypto-improvement-fund.md) - we created a CIF coin \(dash fork\) for a client, the CIF coin is a custom blockchain that will be responsible for a variety of core business functions.
+* Pura – completed dash fork and wrote the whole functionality for the gateway \( creating the master nodes for the clients directly from the wallets\)
+* Apiary - curation market for DAOs based on Aragon platform. Responsible Crowdfunding through the Curation Market.
+* [ICONX](../../case-studies/iconx-wip.md) - investor panel for ICO.
+* Kepler Collective - the full-stack development of the Ethereum-based application of the Blockchain platform for crowdfunding
+* Winstars - Blockchain-based gaming platform.
+* [CMI](../../case-studies/cmi.md) – a global media ecosystem integrating blockchain into news, social media, trade, finance, education and technology innovation.
+* [HiveOnline](../../case-studies/hiveonline.md) – blockchain trust record platform for SME \(wip\)
 
 ### **Work history:**
 
@@ -117,13 +98,11 @@ After being more than 12 years in the industry and knowing wide stack of technol
 
 Kirill likes traveling, cooking, hosting friend parties and is a big fan of owls \(even got one for himself\).
 
-### PUBLICATIONS
+## Publications
 
 * [https://ethresear.ch/t/terra-bridge-protocol-for-interchain-token-transfers-between-ethereum-and-bitcoin/4522](https://ethresear.ch/t/terra-bridge-protocol-for-interchain-token-transfers-between-ethereum-and-bitcoin/4522)
 * [https://4irelabs.com/blockchain\_cards](https://4irelabs.com/blockchain_cards)
 * [https://github.com/ContractLand/terra-bridge-btc](https://github.com/ContractLand/terra-bridge-btc)
-
-\*\*\*\*
 
 {% embed url="https://www.youtube.com/watch?v=UQKm10JVj-s" %}
 
