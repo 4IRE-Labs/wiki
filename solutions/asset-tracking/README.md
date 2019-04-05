@@ -4,7 +4,8 @@
 
 * logistics
 * manufacturing
-* e-commerce \(companies with solid logistics departments\)  
+* e-commerce \(companies with solid logistics departments\) 
+* Smart Cities
 
 ### Need / Benefit
 
