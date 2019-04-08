@@ -13,7 +13,7 @@ Blockchain Engineer
 
 Github profile [https://github.com/malkevych](https://github.com/malkevych)
 
-Projects: [CMI](../../case-studies/cmi.md), [Tennagraph](../../case-studies/tennagraph.md), [ICONX](../../case-studies/iconx-wip.md)
+Projects: [CMI](../../case-studies/cmi.md), [Tennagraph](../../case-studies/tennagraph.md), [ICONX](../../case-studies/iconx-wip.md), [Blockchain-based notarization platform](../../case-studies/smart-documents.md)
 
 ### INDUSTRY EXPERIENCE
 
