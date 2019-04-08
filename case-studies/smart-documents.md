@@ -2,7 +2,7 @@
 
 ## **Goal**
 
-Develop a solution that will allow owners of documents to confirm their ownership, proof of existence, protect rights create contracts between unlimited parties and have information of the latest signed document on the blockchain. The development of backend and frontend, development and audit of Ethereum smart contracts, blockchain consulting and business analysis. 
+Develop a solution that will allow owners of documents to confirm their ownership, proof of existence, protect rights, create contracts between unlimited amount of parties and have information of the latest signed document on the blockchain. The development of backend and frontend, development and audit of Ethereum smart contracts, blockchain consulting and business analysis. 
 
 ## **Problems**
 
