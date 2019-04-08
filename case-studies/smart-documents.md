@@ -32,5 +32,5 @@ Does notarization on blockchain bring value for the end users and the business o
 
 Services: [Architecture / Protocol Design](../services/architecture-design-protocol.md), [Dapps / Wallets Development](../services/dapps-wallets-development.md)
 
-Team: [Kirill Kirikov](../organization/credentials-wip/kirill-kirikov.md), [Roman Malkevych](../organization/credentials-wip/roman-malkevych-wip.md)
+Team: [Kirill Kirikov](../organization/credentials-wip/kirill-kirikov.md), [Malkevych Bohdan](https://wiki.4irelabs.com/docs/organization/credentials-wip/bohdan-malkevych), [Roman Malkevych](../organization/credentials-wip/roman-malkevych-wip.md)
 
