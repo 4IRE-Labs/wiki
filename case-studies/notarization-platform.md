@@ -193,25 +193,15 @@ After compiling the contracts, our demonstration takes the following steps.
 
 2\) Silent Notary - Silent Notary - is a multiplatform decentralized service for confirmation of event existence. SilentNotary converts an event into legally significant evidence, excluding the possibility of falsification.
 
-Services: [Architecture / Protocol Design](../services/architecture-design-protocol.md), [Dapps / Wallets Development](../services/dapps-wallets-development.md)
-
 Team: [Kirill Kirikov](../organization/credentials-wip/kirill-kirikov.md), [Malkevych Bohdan](https://wiki.4irelabs.com/docs/organization/credentials-wip/bohdan-malkevych), [Roman Malkevych](../organization/credentials-wip/roman-malkevych-wip.md)
 
 ## Links
 
-[**https://en.wikipedia.org/wiki/EIDAS**](https://en.wikipedia.org/wiki/EIDAS)
-
-[**https://en.wikipedia.org/wiki/Public\_key\_certificate**](https://en.wikipedia.org/wiki/Public_key_certificate)
-
-[**https://bitsonblocks.net/2017/05/17/gentle-introduction-self-sovereign-identity/**](https://bitsonblocks.net/2017/05/17/gentle-introduction-self-sovereign-identity/)
-
-[**http://docs.proofofexistence.com/\#/?id=document-timestamping**](http://docs.proofofexistence.com/#/?id=document-timestamping)
-
-[**https://github.com/ethereum/EIPs/blob/master/EIPS/eip-725.md**](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-725.md)
-
-[**https://developer.signicat.com/documentation/digital-onboarding/get-started-with-identity-verification/**](https://developer.signicat.com/documentation/digital-onboarding/get-started-with-identity-verification/)
-
-[**https://hackernoon.com/first-impressions-with-erc-725-and-erc-735-identity-and-claims-4a87ff2509c9**](https://hackernoon.com/first-impressions-with-erc-725-and-erc-735-identity-and-claims-4a87ff2509c9)  
-  
-
+* [https://en.wikipedia.org/wiki/EIDAS](https://en.wikipedia.org/wiki/EIDAS)
+* [https://en.wikipedia.org/wiki/Public\_key\_certificate](https://en.wikipedia.org/wiki/Public_key_certificate)
+* [https://bitsonblocks.net/2017/05/17/gentle-introduction-self-sovereign-identity/](https://bitsonblocks.net/2017/05/17/gentle-introduction-self-sovereign-identity/)
+* [http://docs.proofofexistence.com/\#/?id=document-timestamping](http://docs.proofofexistence.com/#/?id=document-timestamping)
+* [https://github.com/ethereum/EIPs/blob/master/EIPS/eip-725.md](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-725.md)
+* [https://developer.signicat.com/documentation/digital-onboarding/get-started-with-identity-verification/](https://developer.signicat.com/documentation/digital-onboarding/get-started-with-identity-verification/)
+* [https://hackernoon.com/first-impressions-with-erc-725-and-erc-735-identity-and-claims-4a87ff2509c9](https://hackernoon.com/first-impressions-with-erc-725-and-erc-735-identity-and-claims-4a87ff2509c9)
 
