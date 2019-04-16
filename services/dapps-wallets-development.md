@@ -42,7 +42,7 @@ Deep dive into the project, industry analysis, specifications development.
 
 Deliverables: Roadmap, user stories, UML diagrams, solution architecture documentation, project plan, detailed price assessment
 
-Duration: 2-3 weeks
+Duration: 1-3 weeks
 
 ### 3. MVP Development
 
@@ -50,7 +50,7 @@ Team forming, engineering
 
 Deliverables: Source code, API documentation, software betа
 
-Duration: 3-4 months
+Duration: 1-4 months
 
 ### 4. Refinement & Support
 
