@@ -20,6 +20,7 @@
   * [Improving Developer Experience \(DevX\)](solutions/technical-research/developer-community-devxp.md)
   * [Tech GDPR Coppliance](solutions/technical-research/tech-gdpr-copmpliance.md)
   * [Crypto Address Reputation for Antifraud](solutions/technical-research/complaince-scoring.md)
+  * [Signaling](solutions/technical-research/signaling.md)
 
 ## Services
 
