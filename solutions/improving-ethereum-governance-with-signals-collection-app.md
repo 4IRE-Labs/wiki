@@ -9,14 +9,14 @@
 5. Users
 6. Researchers
 
-## Need Hypothesis
+## Need Hypotheses
 
 * Better signal collection can help improving ambiguous proposals \(EIPs\)
 * EF / Ethereum Dev Call Faci / Coordinator \(Hudson Jameson\) needs a tool for easier community stances collection
-* Major DApp devs want to have a say in the Ethereum roadmap development
+* Major DApp devs want to have a say in the Ethereum roadmap development \(1 confirm\)
 * Miners want to participate in the governance
 
-## Solutions Hypothesis
+## Solutions Hypotheses
 
 * [https://github.com/ethereum/EIPs](https://github.com/ethereum/EIPs)
 * Twitter polls and discussions
