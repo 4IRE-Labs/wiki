@@ -23,4 +23,5 @@
 * [https://www.reddit.com/r/ethereum/](https://www.reddit.com/r/ethereum/)
 * Magicians community \(forum + meetings\)
 * [Tennagraph](../case-studies/tennagraph.md)
+* [Ethereum Governance Survey](https://ethereum-magicians.org/t/ethereum-governance-survey-call-to-action/3137)
 

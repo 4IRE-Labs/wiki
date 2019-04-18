@@ -16,7 +16,7 @@
 * [Improving Ethereum Governance with Signals Collection App](solutions/improving-ethereum-governance-with-signals-collection-app.md)
 * [Increasing the amount and quality of interactions in the community](solutions/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
 * [Technical Research](solutions/technical-research/README.md)
-  * [Interchain transfers between Ethereum and Bitcoin](solutions/technical-research/ethereum-bitcoin-bridge-wip.md)
+  * [Interchain transfers between Ethereum and Bitcoin for DEX and more](solutions/technical-research/ethereum-bitcoin-bridge-wip.md)
   * [Tracking document versions and signers on the blockchain](solutions/technical-research/how-to-track-document-versions-and-signers-on-the-blockchain.md)
   * [Improving Crypto Assets Usability / Security](solutions/technical-research/asset-security.md)
   * [Improving Developer Experience \(DevX\)](solutions/technical-research/developer-community-devxp.md)

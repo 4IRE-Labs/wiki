@@ -1,4 +1,4 @@
-# Interchain transfers between Ethereum and Bitcoin
+# Interchain transfers between Ethereum and Bitcoin for DEX and more
 
 Protocol for interchain transfers between Ethereum and Bitcoin
 
