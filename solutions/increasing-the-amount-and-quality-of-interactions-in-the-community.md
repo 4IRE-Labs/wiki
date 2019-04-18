@@ -13,7 +13,7 @@
 
 ## Solutions
 
-* [Vork](../../case-studies/vork.md)
+* [Vork](../case-studies/vork.md)
 
 ## ToDos
 
