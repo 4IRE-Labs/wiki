@@ -39,7 +39,11 @@
 * Secure, Reliable & Easy to scale infrastructure
 * Auditable for government
 
-## Solution & Product
+## Solutions
+
+### Hypotheses
+
+* Players want to collaborate...
 
 ### RecycleChain
 
@@ -53,13 +57,13 @@ RecycleChain is a concept of a blockchain platform for open market in the waste 
 
 ### **Plastic Bank**
 
-[**Plastic Bank**](https://www.plasticbank.org/) is a platform for the world to Gather Together to alleviate global poverty and Ocean Plastic. It is a convenience store for the worlds poor that accepts plastic waste as a currency, and is sustained through the use of Social Plastic.
+[Plastic Bank](https://www.plasticbank.org/) is a platform for the world to Gather Together to alleviate global poverty and Ocean Plastic. It is a convenience store for the worlds poor that accepts plastic waste as a currency, and is sustained through the use of Social Plastic.
 
 Working with Cognition Foundry, the Plastic Bank leverages the best technology, allowing them to grow exponentially while maintaining security of transactions. Blockchain provides trust in an industry that has been fraught with corruption and danger; it provides trust to “recyclers” that their data is safe, they are safe, and their finances are safe. [More](https://www.ibm.com/blogs/systems/plastic-bank-deploys-blockchain-to-reduce-ocean-plastic/)
 
 ### The Dnepr Regional Council
 
-**The Dnepr Regional Council** approved a new strategy for handling solid domestic waste. It allows to pay for the removal and disposal of waste by the waste itself. Citizens will take the waste for recycling at special centers and receive a cashback on a special card which you can use to pay for the utility bills. [More \(in russian\)](https://uteka.ua/publication/Za-kommunalnye-platezhi-mozhno-budet-rasschitatsya-musorom)
+The Dnepr Regional Council approved a new strategy for handling solid domestic waste. It allows to pay for the removal and disposal of waste by the waste itself. Citizens will take the waste for recycling at special centers and receive a cashback on a special card which you can use to pay for the utility bills. [More \(in russian\)](https://uteka.ua/publication/Za-kommunalnye-platezhi-mozhno-budet-rasschitatsya-musorom)
 
 ## To Do's
 
