@@ -36,11 +36,11 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 * [Tennagraph](case-studies/tennagraph.md) – Ethereum Signal Aggregator
 * [Terra bridge](case-studies/contractland-wip.md) – Connecting EVM based blockchain
+* [CryptoGraphica](case-studies/cryptographica.md) – Solution for wallet \#Usability \#Security
 
 ### Commercial
 
 * [Notary on blockchain](case-studies/notarization-platform.md) – Blockchain-based notarization platform
-* [CryptoGraphica](case-studies/cryptographica.md) – Solution for wallet \#Usability \#Security
 * [Hiveonline](case-studies/hiveonline.md) – The financial trust platform for small businesses
 * [Social Media Market](case-studies/social.-media-market.md) – Blockchain-based decentralized advertising marketplace
 * [Kidcoin](case-studies/kidcoin.md) – Blockchain-based family finances and digital wallets for kids
