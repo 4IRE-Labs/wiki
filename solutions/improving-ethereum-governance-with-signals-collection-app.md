@@ -13,7 +13,7 @@
 
 * Better signal collection can help improving ambiguous proposals \(EIPs\)
 * EF / Ethereum Dev Call Faci / Coordinator \(Hudson Jameson\) needs a tool for easier community stances collection
-* Major DApp devs want to have a say in the Ethereum roadmap
+* Major DApp devs want to have a say in the Ethereum roadmap development
 * Miners want to participate in the governance
 
 ## Solutions Hypothesis
