@@ -1,8 +1,12 @@
-# RecycleChain for Smart City Waste Management
+# Improving the recycling rates with recyclables open market on blockchain
 
-RecycleChain is a concept of a blockchain platform for open market in the waste management space.
+## Stakeholders
 
-### Problem
+* City
+* Recyclers
+* Citizens
+
+## Problem Hypotheses
 
 * Low Waste sorting rate between people in developing countries
 * No incentives \(positive or negative\)
@@ -15,22 +19,6 @@ RecycleChain is a concept of a blockchain platform for open market in the waste 
 * Good recyclables are stolen in the chain
 * Low municipal tariff
 * Corruption on the high level
-
-## Solution & Product
-
-{% embed url="https://docs.google.com/presentation/d/1Rzz8O8cVy2HlAJ2fCL\_glmxxp3WSbvXHowq3uKwaSlk/edit?usp=sharing" %}
-
-### **Abstract**
-
-RecycleChain is an open market for recyclables. Core of the system is the blockchain database, that’s stored and synced between all users. It will hold next data:
-
-* Amount, type and price of waste in possession of each player
-* Ownership transactions in a form of smart contracts \[1\]
-* Trading balance in the internal blockchain currency \(cryptocurrency\)
-
-![](https://cdn-images-1.medium.com/max/1600/0*W4ybBPAk6svy5Zhx.)
-
-It brings next benefits.
 
 ### **For Households**
 
@@ -50,6 +38,24 @@ It brings next benefits.
 * Allows efficient side funding
 * Secure, Reliable & Easy to scale infrastructure
 * Auditable for government
+
+## Solution & Product
+
+RecycleChain is a concept of a blockchain platform for open market in the waste management space.
+
+{% embed url="https://docs.google.com/presentation/d/1Rzz8O8cVy2HlAJ2fCL\_glmxxp3WSbvXHowq3uKwaSlk/edit?usp=sharing" %}
+
+### **Abstract**
+
+RecycleChain is an open market for recyclables. Core of the system is the blockchain database, that’s stored and synced between all users. It will hold next data:
+
+* Amount, type and price of waste in possession of each player
+* Ownership transactions in a form of smart contracts \[1\]
+* Trading balance in the internal blockchain currency \(cryptocurrency\)
+
+![](https://cdn-images-1.medium.com/max/1600/0*W4ybBPAk6svy5Zhx.)
+
+It brings next benefits.
 
 ## **Case studies**
 
