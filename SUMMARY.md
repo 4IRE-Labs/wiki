@@ -13,6 +13,7 @@
 * [Supply Chain](solutions/asset-tracking/README.md)
   * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
   * [RecycleChain for Smart City Waste Management](solutions/asset-tracking/recyclechain.md)
+* [Improving Ethereum Governance with Signals Collection App](solutions/improving-ethereum-governance-with-signals-collection-app.md)
 * [Increasing the amount and quality of interactions in the community](solutions/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
 * [Technical Research](solutions/technical-research/README.md)
   * [Interchain transfers between Ethereum and Bitcoin](solutions/technical-research/ethereum-bitcoin-bridge-wip.md)
