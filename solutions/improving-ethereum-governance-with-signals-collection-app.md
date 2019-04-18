@@ -16,3 +16,7 @@
 * Major DApp devs want to have a say in the Ethereum roadmap
 * Miners want to participate in the governance
 
+## Solutions
+
+* [Tennagraph](../case-studies/tennagraph.md)
+
