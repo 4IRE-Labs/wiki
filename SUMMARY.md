@@ -29,7 +29,7 @@
 
 * [Architecture / Protocol Design](services/architecture-design-protocol.md)
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
-* [Design](services/design.md)
+* [UXUI Design](services/uxui-design.md)
 
 ## Research
 

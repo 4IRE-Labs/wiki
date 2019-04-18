@@ -22,6 +22,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 * [Architecture Design of Blockchain Protocol](services/architecture-design-protocol.md)
 * [Dapps Development](services/dapps-wallets-development.md)
+* [UXUI Design](services/uxui-design.md)
 
 ## Research
 
