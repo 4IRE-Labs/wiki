@@ -45,7 +45,7 @@
 
 ### **Private / Permissioned**
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 For Consortia / Government Uses
 
@@ -67,15 +67,15 @@ For Consortia / Government Uses
 
 ### Case Management \(now\)
 
-![](../../.gitbook/assets/image%20%2862%29.png)
+![](../../.gitbook/assets/image%20%2863%29.png)
 
 ### Case Management \(with blockchain\)
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 ### Comparison
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](../../.gitbook/assets/image%20%2872%29.png)
 
 ### Benefits
 
@@ -96,11 +96,11 @@ For Consortia / Government Uses
 
 ### Case: Catastrophe Swaps and Bonds
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 ### Cross-insurance interaction
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
 A blockchain ledger could provide insight and notification if one of those reinsurers then tried to offload some of its portion to a subsidiary of the other reinsurer. It also would help insurers gain confidence that, as they pay out claims, they are appropriately rebalancing their capital exposures against specific risks.
 
@@ -110,7 +110,7 @@ At minimum, global insurers can use blockchain to cut asset management costs by 
 
 ### **Case: Asset Registries and Data Provenance**
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
 Global, digital ledger that provides audit trail for valuable assets throughout their lifetime journey. This digital incarnation, or thumbprint, is used by various stakeholders across a supply chain pipeline to form provenance and verify authenticity.
 
@@ -122,7 +122,7 @@ Use blockchain for onboarding of new customers or verification of policy holders
 
 ### **Case: Flight Delay Insurance**
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
 Automatic compensation for flight delays
 
@@ -137,13 +137,13 @@ Smart contracts can automate certain aspects of insurance contracts, driven by c
 
 ### **Case: real-time insurance for the sharing economy**
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 The emergence of the sharing economy, exemplified by companies such as Uber and Airbnb, has created the opportunity for new, dynamic insurance products that address the challenges inherent in leveraging personal assets for commercial purposes.
 
 ### **Case: Underwriting**
 
-![](../../.gitbook/assets/image%20%2856%29.png)
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 Non-underwritten products—tightly integrated with the blockchain for policy administration, claim handling, and ultimately payment—reduce overheads at nearly every point in an insurance company’s operations, resulting in the potential for significant margin growth in even the most mature markets.  
   

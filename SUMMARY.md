@@ -20,6 +20,7 @@
   * [Improving Developer Experience \(DevX\)](solutions/technical-research/developer-community-devxp.md)
   * [Tech GDPR Coppliance](solutions/technical-research/tech-gdpr-copmpliance.md)
   * [Crypto Address Reputation for Antifraud](solutions/technical-research/complaince-scoring.md)
+  * [Increasing the amount and quality of interactions in the community](solutions/technical-research/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
   * [Signaling](solutions/technical-research/signaling.md)
 
 ## Services
@@ -54,6 +55,7 @@
 * [ICONX](case-studies/iconx-wip.md)
 * [Contractland](case-studies/contractland-wip.md)
 * [Hybrid wallet](case-studies/hybrid-wallet-fiat-and-crypto-assets.md)
+* [Vork](case-studies/vork.md)
 
 ## Organization
 
