@@ -4,7 +4,7 @@
 
 We offer full-cycle development \(BA, UX, PM, Development, QA, DevOps\) for fintech, e-commerce and other Apps and Dapps.
 
-**Case Studies:** [Kidcoin](../case-studies/kidcoin.md), [Kepler Collective](../case-studies/kepler-collective.md), [Social. Media Market](../case-studies/social.-media-market.md), [Smart Documents](../case-studies/notarization-platform.md), [ORME](../case-studies/orme.md)
+**Case Studies:** [Kidcoin](../case-studies/kidcoin.md), [Kepler Collective](../case-studies/kepler-collective.md), [Social. Media Market](../case-studies/social.-media-market.md), [Smart Documents](../solutions/technical-research/notarization-platform.md), [ORME](../case-studies/orme.md)
 
 **Consultants:** [Kirill Kirikov](../organization/credentials-wip/kirill-kirikov.md), [Oleg Bugrovoy](../organization/credentials-wip/oleg-bugrovoy.md), [Bohdan Malkevych](../organization/credentials-wip/bohdan-malkevych.md)
 

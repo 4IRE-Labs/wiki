@@ -65,8 +65,8 @@ Profile on Cryptohire: [https://cryptohire.io/talent/1115?keywords%5B0%5D=14409]
 
 ## **Recent Projects**
 
-* [Contractland](../../case-studies/contractland-wip.md) - public chain built for the decentralized exchanges
-* [Smart Documents](../../case-studies/notarization-platform.md)
+* [Contractland]() - public chain built for the decentralized exchanges
+* [Smart Documents](../../solutions/technical-research/notarization-platform.md)
 * [Kidcoin](../../case-studies/kidcoin.md)
 * Bokoredo – accounting automation tool with access to online banks \(wip\)
 * [ORME Smart Contract](../../case-studies/orme.md) – tokens are minted, whenever a bitcoin is mined

@@ -8,7 +8,7 @@ We investigate your niche to find out whether you need blockchain or not. Analys
 
 We're convinced that canonical approaches of software architecture in agile is a huge work upfront. That's why we think that the solution architecture and development only the high-level diagrams is enough to start the development in our very fast changing world. 
 
-Case Studies: [Kidcoin](../case-studies/kidcoin.md), [Kepler Collective](../case-studies/kepler-collective.md), [Social. Media Market](../case-studies/social.-media-market.md), [Smart Documents](../case-studies/notarization-platform.md), [ORME](../case-studies/orme.md)
+Case Studies: [Kidcoin](../case-studies/kidcoin.md), [Kepler Collective](../case-studies/kepler-collective.md), [Social. Media Market](../case-studies/social.-media-market.md), [Smart Documents](../solutions/technical-research/notarization-platform.md), [ORME](../case-studies/orme.md)
 
 Consultants: [Kirill Kirikov](../organization/credentials-wip/kirill-kirikov.md), [Oleg Bugrovoy](../organization/credentials-wip/oleg-bugrovoy.md), [Bohdan Malkevych](../organization/credentials-wip/bohdan-malkevych.md)
 

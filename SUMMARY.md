@@ -22,6 +22,7 @@
   * [Tech GDPR Coppliance](solutions/technical-research/tech-gdpr-copmpliance.md)
   * [Crypto Address Reputation for Antifraud](solutions/technical-research/complaince-scoring.md)
   * [Signaling](solutions/technical-research/signaling.md)
+  * [Blockchain-based notarization platform](solutions/technical-research/notarization-platform.md)
 
 ## Services
 
@@ -46,14 +47,12 @@
 * [Kidcoin](case-studies/kidcoin.md)
 * [Kepler Collective](case-studies/kepler-collective.md)
 * [Total Security](case-studies/total-security.md)
-* [Blockchain-based notarization platform](case-studies/notarization-platform.md)
 * [Maitres](case-studies/maitres.md)
 * [ORME](case-studies/orme.md)
 * [Crypto Improvement Fund](case-studies/crypto-improvement-fund.md)
 * [CMI](case-studies/cmi.md)
 * [Tennagraph](case-studies/tennagraph.md)
 * [ICONX](case-studies/iconx-wip.md)
-* [Contractland](case-studies/contractland-wip.md)
 * [Hybrid wallet](case-studies/hybrid-wallet-fiat-and-crypto-assets.md)
 * [Vork](case-studies/vork.md)
 

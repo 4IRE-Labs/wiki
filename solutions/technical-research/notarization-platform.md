@@ -193,7 +193,7 @@ After compiling the contracts, our demonstration takes the following steps.
 
 2\) Silent Notary - Silent Notary - is a multiplatform decentralized service for confirmation of event existence. SilentNotary converts an event into legally significant evidence, excluding the possibility of falsification.
 
-Team: [Kirill Kirikov](../organization/credentials-wip/kirill-kirikov.md), [Malkevych Bohdan](https://wiki.4irelabs.com/docs/organization/credentials-wip/bohdan-malkevych), [Roman Malkevych](../organization/credentials-wip/roman-malkevych-wip.md)
+Team: [Kirill Kirikov](../../organization/credentials-wip/kirill-kirikov.md), [Malkevych Bohdan](https://wiki.4irelabs.com/docs/organization/credentials-wip/bohdan-malkevych), [Roman Malkevych](../../organization/credentials-wip/roman-malkevych-wip.md)
 
 ## Links
 
