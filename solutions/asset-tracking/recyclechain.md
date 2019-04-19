@@ -2,48 +2,33 @@
 
 ## Stakeholders
 
-* City
-* Recyclers
+* City / Government
+* Recycling facilities
+* Activists
 * Citizens
 
 ## Problem Hypotheses
 
-* Low Waste sorting rate between people in developing countries
-* No incentives \(positive or negative\)
-* Doesn’t connect further \(houses, districts, cities\)
-* Lack of culture, knowledge
-* Distribution centers are unattractive: unkown, unstable, have lots of bums
-* Underload of the recycling factories
-* Low Margins = Intermediary & supply chain efficiency
-* Low capacity storages
-* Good recyclables are stolen in the chain
-* Low municipal tariff
-* Corruption on the high level
-
-### **For Households**
-
-* Incentive to separate recyclables
-* Transparency around the process
-
-### **For distribution centers / businesses**
-
-* Buy/Sell recyclables for better price
-* Identify opportunities \(new collection spots\)
-
-### **For Governments**
-
-* Is autonomous \(independent\) and brings the trust layer
-* Incentivizes players to track and sell their recyclables
-* Allows new players to connect to the economy \(distributions centers, deliveries, small recycling facilities\)
-* Allows efficient side funding
-* Secure, Reliable & Easy to scale infrastructure
-* Auditable for government
+* **PRIO** Cities need to decrease the waste rates causing dump overload 
+* Citizens lack incentives to recycle more \(positive or negative\)
+* Citizens need to see the effect / stats on the recycle chain
+* Citizens want better distribution centers. Can be unattractive, unknown location, unstable, have lots of bums \(UA\) 
+* Activists have hard time to share the culture & knowledge
+* Activists want to invest in the ecology, help recycling 
+* Recycling facilities have lack of raw materials \(recyclables\)
+* Recycling facilities need to improve supply chain efficiency for better price/margin \(avoid low or negative margins\)
+  * Costly transportation
+  * Lack of storage capacity
+  * Good recyclables can be stolen in the chain
+  * Low municipal tariff / dotations
 
 ## Solutions
 
 ### Hypotheses
 
-* Players want to collaborate...
+* Incentive can help decrease the waste rates
+* There're stakeholders that are  ready to provide those incentives
+* Recycling chain can be efficiently tracked with IT systems \(blockchain?\)
 
 ### RecycleChain
 
@@ -67,11 +52,18 @@ The Dnepr Regional Council approved a new strategy for handling solid domestic w
 
 ## To Do's
 
-* Amster [https://amsterdamsmartcity.com](https://amsterdamsmartcity.com/)
+* Validate the problem/solution fit for cities
+  * Amster [https://amsterdamsmartcity.com](https://amsterdamsmartcity.com/)
+  * Research hackathons/incubators
+    * 1991 Hub
+  * [https://www.smartcitygovt.com/](https://www.smartcitygovt.com/)
+
+Else:
+
 * [https://www.plasticbank.com/](https://www.plasticbank.com/)
 * WEF [https://www.weforum.org/communities/the-future-of-cities-and-urbanization](https://www.weforum.org/communities/the-future-of-cities-and-urbanization) + more
-* [https://www.plasticbank.com/](https://www.plasticbank.com/)
-* 1991
+
+
 
 ## **Notes**
 
