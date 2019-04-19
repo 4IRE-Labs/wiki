@@ -64,8 +64,8 @@
   * [Kirill Kirikov](organization/credentials-wip/kirill-kirikov.md)
   * [Oleg Bugrovoy](organization/credentials-wip/oleg-bugrovoy.md)
   * [Bohdan Malkevych](organization/credentials-wip/bohdan-malkevych.md)
-  * [Roman Malkevych \(wip\)](organization/credentials-wip/roman-malkevych-wip.md)
   * [Helen Petrashchuk](organization/credentials-wip/helen-petrashchuk.md)
   * [Max Semenchuk](organization/credentials-wip/max-semenchuk.md)
+  * [Roman Malkevych \(wip\)](organization/credentials-wip/roman-malkevych-wip.md)
 * [Opportunities to work with 4irelabs](organization/opportunities-to-work-with-4irelabs.md)
 
