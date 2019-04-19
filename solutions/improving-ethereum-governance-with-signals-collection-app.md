@@ -19,7 +19,7 @@
 ## Solutions Hypotheses
 
 * [https://github.com/ethereum/EIPs](https://github.com/ethereum/EIPs)
-* Twitter polls and discussions
+* Twitter polls and discussions \(Ask fro twitter API for governance?\)
 * [https://www.reddit.com/r/ethereum/](https://www.reddit.com/r/ethereum/)
 * Magicians community \(forum + meetings\)
 * [Tennagraph](../case-studies/tennagraph.md)
