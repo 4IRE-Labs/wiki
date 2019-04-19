@@ -29,6 +29,8 @@
 * Incentive can help decrease the waste rates
 * There're stakeholders that are  ready to provide those incentives
 * Recycling chain can be efficiently tracked with IT systems \(blockchain?\)
+* single market for recyclables is possible
+* Chain can benefit from allowing permissionless / 3rd party participation in the supply chain \(e.g. collectors\)
 
 ### RecycleChain
 
