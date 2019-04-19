@@ -13,10 +13,7 @@ Entrepreneur, Product Manager, UX Designer
 **I Speak, Write, Consult on \#Topics**  
 Decentralization, Holacracy, Coaching, DAO, Design Thinking, Lean Startup, Product Management, UXUI. Used to work in several tech incubators, practice pro bono consulting.  
   
-**Read my blog on** [**Medium**](https://medium.com/@maxsemenchuk)  
-  
-**Follow Me**  
-[Facebook](https://www.facebook.com/max.semenchuk), [Linkedin](http://linkedin.com/in/maxsemenchuk/), [Twitter](https://twitter.com/maxsemenchuk), [Quora](https://www.quora.com/profile/Max-Semenchuk), [Angel List](https://angel.co/max-semenchuk), [Bibla Books](http://bibla.ru/maxsemenchuk/), [SlideShare](https://www.slideshare.net/maxsemenchuk)
+**Read my blog on** [**Medium**](https://medium.com/@maxsemenchuk)
 
 ### Publications
 
