@@ -18,7 +18,7 @@
 * [Technical Research](solutions/technical-research/README.md)
   * [Interchain transfers between Ethereum and Bitcoin for DEX and more](solutions/technical-research/ethereum-bitcoin-bridge-wip.md)
   * [Tracking document versions and signers on the blockchain](solutions/technical-research/how-to-track-document-versions-and-signers-on-the-blockchain.md)
-  * [Improving Crypto Assets Usability / Security](solutions/technical-research/asset-security.md)
+  * [Improving Seed Phrase Storage Usability with Steganography](solutions/technical-research/asset-security.md)
   * [Improving Developer Experience \(DevX\)](solutions/technical-research/developer-community-devxp.md)
   * [Tech GDPR Coppliance](solutions/technical-research/tech-gdpr-copmpliance.md)
   * [Crypto Address Reputation for Antifraud](solutions/technical-research/complaince-scoring.md)
