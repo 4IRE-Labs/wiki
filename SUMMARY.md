@@ -66,6 +66,5 @@
   * [Bohdan Malkevych](organization/credentials-wip/bohdan-malkevych.md)
   * [Helen Petrashchuk](organization/credentials-wip/helen-petrashchuk.md)
   * [Max Semenchuk](organization/credentials-wip/max-semenchuk.md)
-  * [Roman Malkevych \(wip\)](organization/credentials-wip/roman-malkevych-wip.md)
 * [Opportunities to work with 4irelabs](organization/opportunities-to-work-with-4irelabs.md)
 

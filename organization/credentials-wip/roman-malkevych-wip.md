@@ -1,2 +1,0 @@
-# Roman Malkevych \(wip\)
-

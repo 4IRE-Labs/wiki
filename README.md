@@ -60,7 +60,6 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
   * [Kirill Kirikov](organization/credentials-wip/kirill-kirikov.md)
   * [Oleg Bugrovoy](organization/credentials-wip/oleg-bugrovoy.md)
   * [Bohdan Malkevych](organization/credentials-wip/bohdan-malkevych.md)
-  * [Roman Malkevych](organization/credentials-wip/roman-malkevych-wip.md)
   * [Helen Petrashchuk](organization/credentials-wip/helen-petrashchuk.md)
   * [Max Semenchuk](organization/credentials-wip/max-semenchuk.md)
 * [Blog](https://medium.com/practical-blockchain)
