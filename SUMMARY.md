@@ -39,6 +39,7 @@
   * [Merging.Space – Project Management Tool](research/platform-cooperatives/merge-space-overview.md)
 * [Blockchain Accelerators & Incubators](research/blockchain-accelerators-and-incubators.md)
 * [Blockchain Hackathons](research/blockchain-hackathons.md)
+* [Customer Development & Formal Validation](research/customer-development-and-formal-validation.md)
 
 ## Case Studies
 
