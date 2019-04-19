@@ -33,13 +33,13 @@
 
 ## Research
 
+* [Customer Development & Formal Validation](research/customer-development-and-formal-validation/README.md)
+  * [Blockchain Hackathons](research/customer-development-and-formal-validation/blockchain-hackathons.md)
+  * [Blockchain Accelerators & Incubators](research/customer-development-and-formal-validation/blockchain-accelerators-and-incubators.md)
 * [Smart Cities](research/smart-cities/README.md)
   * [Waste Management Tech](research/smart-cities/waste-management.md)
 * [Platform Cooperatives](research/platform-cooperatives/README.md)
   * [Merging.Space – Project Management Tool](research/platform-cooperatives/merge-space-overview.md)
-* [Blockchain Accelerators & Incubators](research/blockchain-accelerators-and-incubators.md)
-* [Blockchain Hackathons](research/blockchain-hackathons.md)
-* [Customer Development & Formal Validation](research/customer-development-and-formal-validation.md)
 
 ## Case Studies
 

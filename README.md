@@ -4,32 +4,34 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ## **Solutions**
 
-* [Financial Services](solutions/decentralized-finance-defi/)
-  * Liquidity: [Asset Tokenization](solutions/decentralized-finance-defi/sto-platform.md), [Continuous Liquidity](solutions/decentralized-finance-defi/continuous-token-model-apiary.md)
-  * Transparency: [Cross Border payments with blockchain](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
-  * [Blockchain for Insurance](solutions/decentralized-finance-defi/blockchain-for-insurance.md) 
-* [Supply chain](solutions/asset-tracking/)
-  * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
-  * [RecycleChain for Smart City Waste Management](solutions/asset-tracking/recyclechain.md) 
-* [Technical Research](solutions/technical-research/)
-  * Interoperability: [Protocol for interchain transfers between Ethereum and Bitcoin](solutions/technical-research/ethereum-bitcoin-bridge-wip.md) 
-  * Identity: [Tracking document versions and signers on the blockchain](solutions/technical-research/how-to-track-document-versions-and-signers-on-the-blockchain.md)
-  * Usability: [Improving Crypto Wallets Usability](solutions/technical-research/asset-security.md), [Improving Developer Experience](solutions/technical-research/developer-community-devxp.md)
-  * Regulation Compliance: [Tech GDPR Compliance](solutions/technical-research/tech-gdpr-copmpliance.md), [Crypto Address Reputation for Antifraud](solutions/technical-research/complaince-scoring.md)
-  * Governance: Signaling
+### Crypto Projects \(Dapps & Protocols\)
 
-## Services
-
+* [Continuous Liquidity](solutions/decentralized-finance-defi/continuous-token-model-apiary.md)
 * [Architecture Design of Blockchain Protocol](services/architecture-design-protocol.md)
 * [Dapps Development](services/dapps-wallets-development.md)
 * [UXUI Design](services/uxui-design.md)
+* [Tech GDPR Compliance](solutions/technical-research/tech-gdpr-copmpliance.md)
+* [Improving Crypto Wallets Usability](solutions/technical-research/asset-security.md)
+* [Improving Developer Experience](solutions/technical-research/developer-community-devxp.md)
+* Market Makers \([ORME](case-studies/orme.md)\)
+* [Interchain transfers between Ethereum and Bitcoin for DEX and more](solutions/technical-research/ethereum-bitcoin-bridge-wip.md)
+* [Crypto Address Reputation for Antifraud](solutions/technical-research/complaince-scoring.md)
+* [Cross-border payments with blockchain](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
 
-## Research
+### **Insurance**
 
-* [Smart Cities](research/smart-cities/)
+* [Blockchain for Insurance case studies](solutions/decentralized-finance-defi/blockchain-for-insurance.md)
 
-* [Platform Cooperatives](research/platform-cooperatives/)
-  * [Merging.Space – Project Management Tool](research/platform-cooperatives/merge-space-overview.md)
+### **Logistics**
+
+* [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
+* [RecycleChain for Smart City Waste Management](solutions/asset-tracking/recyclechain.md)
+* [Tracking document versions and signers on the blockchain](solutions/technical-research/how-to-track-document-versions-and-signers-on-the-blockchain.md)
+
+### Communities & Networks
+
+* [Improving Ethereum Governance with Signals Collection App](solutions/improving-ethereum-governance-with-signals-collection-app.md)
+* [Increasing the amount and quality of interactions in the community](solutions/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
 
 ## Projects
 
