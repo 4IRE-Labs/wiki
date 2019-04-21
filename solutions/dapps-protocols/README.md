@@ -5,9 +5,8 @@ Open Finance or Decentralized Finance \(\#defi\) is the movement that leverages 
 ## Solutions
 
 * [Calculating the Crypto Address Reputation for Antifraud](complaince-scoring.md)
-* [Improving Crypto Wallets Usability](asset-security.md)
+* [Improving Seed Phrase Storage Usability with Steganography](asset-security.md)
 * [Interchain transfers between Ethereum and Bitcoin for DEX and more](ethereum-bitcoin-bridge-wip.md)
-* [Benefits of Cross-border payments with the use of Blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)\*
 * [Ensuring Tech GDPR Compliance](tech-gdpr-compliance.md)
 * [Improving Developer Experience \(DevX\)](developer-community-devxp.md)
 * Market Makers\*
@@ -25,6 +24,7 @@ Open Finance or Decentralized Finance \(\#defi\) is the movement that leverages 
 ## Publications
 
 * [Asset Tokenization Platforms Overview](sto-platform.md)
+* [Benefits of Cross-border payments with the use of Blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
 * [Blockchain for Insurance case studies](blockchain-for-insurance.md)
 * [Compatible Blockchains for the Fintech Projects. Is Stellar one of them?](https://4irelabs.com/blockchain-fintech-stellar)
 * [4IRE labs Fintech Report: Results & Trends](https://4irelabs.com/fintech-report?utm_source=fb&utm_medium=groups&utm_campaign=fintech-report)
