@@ -3,9 +3,9 @@
 * [4IRE labs \| Navigation](README.md)
 * [Back to the homescreen](https://4irelabs.com)
 
-## Solutions
+## Solutions for
 
-* [For Dapps & Crypto Protocols](solutions/dapps-protocols/README.md)
+* [Dapps & Crypto Protocols](solutions/dapps-protocols/README.md)
   * [Improving Developer Experience \(DevX\)](solutions/dapps-protocols/developer-community-devxp.md)
   * [Calculating the Crypto Address Reputation for Antifraud](solutions/dapps-protocols/complaince-scoring.md)
   * [Improving Seed Phrase Storage Usability with Steganography](solutions/dapps-protocols/asset-security.md)
@@ -14,16 +14,16 @@
   * [Asset Tokenization Platforms Overview](solutions/dapps-protocols/sto-platform.md)
   * [Blockchain for Insurance Case Studies](solutions/dapps-protocols/blockchain-for-insurance.md)
   * [Ensuring Tech GDPR Compliance](solutions/dapps-protocols/tech-gdpr-compliance.md)
-* [For Logistics](solutions/asset-tracking/README.md)
+* [Logistics](solutions/asset-tracking/README.md)
   * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
   * [Blockchain-based notarization platform](solutions/asset-tracking/notarization-platform.md)
   * [Tracking document versions and signers on the blockchain](solutions/asset-tracking/how-to-track-document-versions-and-signers-on-the-blockchain.md)
   * [Improving the recycling rates with recyclables open market on blockchain](solutions/asset-tracking/recyclechain.md)
-* [For Communities, Networks & Platform Cooperatives](solutions/community-network-coop/README.md)
+* [Communities, Networks & Platform Cooperatives](solutions/community-network-coop/README.md)
   * [Funding Public Goods with Continuous Token Model](solutions/community-network-coop/continuous-token-model-apiary.md)
   * [Improving Ethereum Governance with Signals Collection App](solutions/community-network-coop/improving-ethereum-governance-with-signals-collection-app.md)
   * [Increasing the amount and quality of interactions in the community](solutions/community-network-coop/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
-* [For Smart Cities](solutions/for-smart-cities.md)
+* [Smart Cities](solutions/for-smart-cities.md)
 
 ## Services
 

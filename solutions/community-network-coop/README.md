@@ -1,4 +1,4 @@
-# For Communities, Networks & Platform Cooperatives
+# Communities, Networks & Platform Cooperatives
 
 ## Challenge
 

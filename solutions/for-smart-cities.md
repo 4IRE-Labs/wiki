@@ -1,4 +1,4 @@
-# For Smart Cities
+# Smart Cities
 
 In smart city, urban areas use different types of electronic data collection sensors to supply information which is used to manage assets and resources efficiently.
 

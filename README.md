@@ -2,35 +2,12 @@
 
 We research & develop IT solutions, based on blockchain, cloud and mobile tech. Working in financial, e-commerce, logistics and other domains.
 
-## **Solutions**
+## **Solutions for**
 
-### [For Dapps & Crypto Protocols](solutions/dapps-protocols/)
-
-* [Continuous Liquidity](solutions/community-network-coop/continuous-token-model-apiary.md)
-* [Architecture Design of Blockchain Protocol](services/architecture-design-protocol.md)
-* [Dapps Development](services/dapps-wallets-development.md)
-* [UXUI Design](services/uxui-design.md)
-* [Tech GDPR Compliance](solutions/dapps-protocols/tech-gdpr-compliance.md)
-* [Improving Crypto Wallets Usability](solutions/dapps-protocols/asset-security.md)
-* [Improving Developer Experience](solutions/dapps-protocols/developer-community-devxp.md)
-* Market Makers \([ORME](case-studies/orme.md)\)
-* [Interchain transfers between Ethereum and Bitcoin for DEX and more](solutions/dapps-protocols/ethereum-bitcoin-bridge-wip.md)
-* [Crypto Address Reputation for Antifraud](solutions/dapps-protocols/complaince-scoring.md)
-* [Cross-border payments with blockchain](solutions/dapps-protocols/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
-* [Blockchain for Insurance case studies](solutions/dapps-protocols/blockchain-for-insurance.md)
-
-### \*\*\*\*[**For Logistics**](solutions/asset-tracking/)\*\*\*\*
-
-* [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
-* [RecycleChain for Smart City Waste Management](solutions/asset-tracking/recyclechain.md)
-* [Tracking document versions and signers on the blockchain](solutions/asset-tracking/how-to-track-document-versions-and-signers-on-the-blockchain.md)
-
-### [For Communities, Networks & Cooperatives](solutions/community-network-coop/)
-
-* [Improving Ethereum Governance with Signals Collection App](solutions/community-network-coop/improving-ethereum-governance-with-signals-collection-app.md)
-* [Increasing the amount and quality of interactions in the community](solutions/community-network-coop/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
-
-### [For Smart Cities](solutions/for-smart-cities.md)
+* [Dapps & Crypto Protocols](solutions/dapps-protocols/)
+* [Logistics](solutions/asset-tracking/)
+* [Communities, Networks & Cooperatives](solutions/community-network-coop/)
+* [For Smart Cities](solutions/for-smart-cities.md)
 
 ## Projects
 

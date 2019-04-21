@@ -1,4 +1,4 @@
-# For Dapps & Crypto Protocols
+# Dapps & Crypto Protocols
 
 Open Finance Decentralized finance \(\#defi\) is the movement that leverages open source software and decentralized networks to transform traditional financial products into trustless and transparent protocols that operate without unnecessary intermediaries. One could envision decentralized finance impacting the financial world the same way that open source software has changed software products.
 
@@ -10,6 +10,7 @@ Open Finance Decentralized finance \(\#defi\) is the movement that leverages ope
 * Market Makers \([ORME](../../case-studies/orme.md)\)
 * [Interchain transfers between Ethereum and Bitcoin for DEX and more](ethereum-bitcoin-bridge-wip.md)
 * [Benefits of Cross-border payments with the use of Blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
+* [Asset Tokenization Platforms Overview](sto-platform.md)
 * [Blockchain for Insurance case studies](blockchain-for-insurance.md)
 * [Ensuring Tech GDPR Compliance](tech-gdpr-compliance.md)
 
