@@ -1,10 +1,10 @@
 # Kirill Kirikov
 
-Lead Blockchain Developer: Ethereum/Solidity, Hyperledger, Multichain
+![](../../.gitbook/assets/frame-10.jpg)
 
-{% embed url="https://github.com/KiriKiri" %}
+Lead Blockchain Developer: Ethereum/Solidity, Hyperledger, Multichain. 12+ years dev experience, managing team \(up to 30 specialists\), released more than 100 apps. Worked on software for Chrysler & Ferrari. Teaching courses on iOS and Blockchain.
 
-12+ years dev experience, managing team \(up to 30 specialists\), released more than 100 apps. Worked on software for Chrysler & Ferrari. Teaching courses on iOS and Blockchain.
+[Github](https://github.com/KiriKiri), [Linkedin](https://www.linkedin.com/in/kirill-kirikov-96507425/)
 
 ### Industry Experience
 
@@ -14,58 +14,35 @@ Banking & Finance, Environmental Activism & Social Organisations, Entertainment 
 
 Mobile financial management tool, Environment monitoring system/ enterprise app and server/ cameras streaming and recording, Middleware for integration of wallet services and consumers, e-learning gamification solution, ICO
 
-## TECH
+## Tech Stack
 
-### Programming Languages
-
-* DJANGO
-* FLASK
-* JAVASCRIPT
-* KUBERNETES
-* MONGODB
-* NODE.JS
-* OBJECTIVE-C
+* Django
+* Flask
+* JavaScript
+* Kubernetes
+* Mongo DB
+* Node.JS
+* Objective-C
 * PHP
-* POSTGRESQL
-* PYTHON
-* RUBY ON RAILS
-* ACTIONSCRIPT 3
-* AMAZON WEB SERVICES
-* HAXE
-* PARSE MOBILE APP PLATFORM
-* SWIFT
-* DOCKER
-* ETHEREUM
-* TENDERMINT
-* HYPERLEDGER SOLIDITY
-
-### RDBMS
-
-* AWS,
-* MONGODB
-* MYSQL
-* POSTGRESQL 
-* MSSQL
+* PostgreSQL
+* Python
+* Ruby on Rails
+* Actionscript 3
+* Haxe
+* Swift
+* Docker
+* Ethereum / Solidity
+* Tendermint
+* Hyperledger / Solidity
 * AWS
-* SDK
 
-### Operating Systems
+Development Tools: JIRA, Confluence
 
-* LINUX
-* WINDOWS
-* MACOS
-
-Development Tools: [JIRA](https://cryptohire.io/results/jira), [CONFLUENCE](https://cryptohire.io/results/confluence)
-
-Other skills: [SOLIDITY](https://cryptohire.io/results/solidity), [CRYPTOCURRENCY](https://cryptohire.io/results/cryptocurrency), [SMART CONTRACTS](https://cryptohire.io/results/smart-contracts)
-
-Libraries/Frameworks/Tools: [CSS](https://cryptohire.io/results/css) [XML](https://cryptohire.io/results/xml) [HTML](https://cryptohire.io/results/html) [JSON](https://cryptohire.io/results/json) [ODBC](https://cryptohire.io/results/odbc) [REST](https://cryptohire.io/results/rest) [FIREBASE DATABASE](https://cryptohire.io/results/firebase-database) [STL](https://cryptohire.io/results/stl)
-
-Profile on Cryptohire: [https://cryptohire.io/talent/1115?keywords%5B0%5D=14409](https://cryptohire.io/talent/1115?keywords%5B0%5D=14409) 
+Libraries/Frameworks/Tools: CSS, XML, HTML, JSON, ODBC, REST, FIREBASE, STL
 
 ## **Recent Projects**
 
-* [Contractland]() - public chain built for the decentralized exchanges
+* Contractland - public chain built for the decentralized exchanges
 * [Smart Documents](../../solutions/asset-tracking/notarization-platform.md)
 * [Kidcoin](../../case-studies/kidcoin.md)
 * Bokoredo – accounting automation tool with access to online banks \(wip\)
@@ -80,15 +57,12 @@ Profile on Cryptohire: [https://cryptohire.io/talent/1115?keywords%5B0%5D=14409]
 * [CMI](../../case-studies/cmi.md) – a global media ecosystem integrating blockchain into news, social media, trade, finance, education and technology innovation.
 * [HiveOnline](../../case-studies/hiveonline.md) – blockchain trust record platform for SME \(wip\)
 
-### **Work history:**
+## **Work history**
 
-●  4ire Labs - Lead Blockchain Engineer/ Solution Arhitect
-
-●  CTO, Lead iOS Developer @Seductive Mobile, 2012 - 2017
-
-●  Senior AS3 Developer, 2010-2011
-
-●  AS3 Developer, 2009-2010
+* 4ire Labs - Lead Blockchain Engineer/ Solution Arhitect
+* CTO, Lead iOS Developer @Seductive Mobile, 2012 - 2017
+* Senior AS3 Developer, 2010-2011
+* AS3 Developer, 2009-2010
 
 Kirill was born in IT family, son of web-designer and system admin. Being close and curious about the tech stuff from the early childhood. It looks like he never had the second idea about what to do in life. He was doing free-lance contracting in school years, getting Computer Science Degree and getting lead tech positions in several companies then. He had worked on the social game with over 1 million active users daily, then developed the board computer for Ferrari and Chrysler in Luxsoft.
 

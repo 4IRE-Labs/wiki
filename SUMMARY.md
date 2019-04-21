@@ -6,7 +6,6 @@
 ## Solutions for
 
 * [Dapps & Crypto Protocols](solutions/dapps-protocols/README.md)
-  * [Improving Developer Experience \(DevX\)](solutions/dapps-protocols/developer-community-devxp.md)
   * [Calculating the Crypto Address Reputation for Antifraud](solutions/dapps-protocols/complaince-scoring.md)
   * [Improving Seed Phrase Storage Usability with Steganography](solutions/dapps-protocols/asset-security.md)
   * [Interchain transfers between Ethereum and Bitcoin for DEX and more](solutions/dapps-protocols/ethereum-bitcoin-bridge-wip.md)
@@ -14,6 +13,7 @@
   * [Asset Tokenization Platforms Overview](solutions/dapps-protocols/sto-platform.md)
   * [Blockchain for Insurance Case Studies](solutions/dapps-protocols/blockchain-for-insurance.md)
   * [Ensuring Tech GDPR Compliance](solutions/dapps-protocols/tech-gdpr-compliance.md)
+  * [Improving Developer Experience \(DevX\)](solutions/dapps-protocols/developer-community-devxp.md)
 * [Logistics](solutions/asset-tracking/README.md)
   * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
   * [Blockchain-based notarization platform](solutions/asset-tracking/notarization-platform.md)
@@ -30,7 +30,7 @@
 * [Architecture / Protocol Design](services/architecture-design-protocol.md)
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
 * [UXUI Design](services/uxui-design.md)
-* [Customer Development & Formal Validation](services/customer-development-and-formal-validation/README.md)
+* [Customer Development & Validation](services/customer-development-and-formal-validation/README.md)
   * [Blockchain Hackathons](services/customer-development-and-formal-validation/blockchain-hackathons.md)
   * [Blockchain Accelerators & Incubators](services/customer-development-and-formal-validation/blockchain-accelerators-and-incubators.md)
 
