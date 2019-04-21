@@ -22,8 +22,9 @@
 * Twitter polls and discussions
 * [https://www.reddit.com/r/ethereum/](https://www.reddit.com/r/ethereum/)
 * Magicians community \(forum + meetings\)
-* [Tennagraph](../case-studies/tennagraph.md)
+* [Tennagraph](../../case-studies/tennagraph.md)
   * Ask fro twitter API 
   * Introduce identity tenna
 * [Ethereum Governance Survey](https://ethereum-magicians.org/t/ethereum-governance-survey-call-to-action/3137)
+* Futarchy / Prediction markets
 

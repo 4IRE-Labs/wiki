@@ -1,6 +1,4 @@
-# Platform Cooperatives
-
-For platform cooperatives, collective funds
+# For Communities, Networks & Platform Cooperatives
 
 ## Challenge
 
@@ -11,12 +9,15 @@ A platform cooperative, or platform co-op, is a cooperatively owned, democratica
 
 ## **Solutions**
 
-* [Apiary](../../solutions/decentralized-finance-defi/continuous-token-model-apiary.md)
-* [Commons Stack](https://commons-stack.gitbook.io/wiki/)
-* [Merge Space](merge-space-overview.md)
-* [Pando](https://medium.com/pando-network)
+* [Funding Public Goods with Continuous Token Model](continuous-token-model-apiary.md)
+* [Improving Ethereum Governance with Signals Collection App](improving-ethereum-governance-with-signals-collection-app.md)
+* [Increasing the amount and quality of interactions in the community](increasing-the-amount-and-quality-of-interactions-in-the-community.md)
 
 ## Resources
 
 * [Worker-owned co-ops are coming for the digital gig economy](https://www.fastcompany.com/40575728/worker-owned-co-ops-are-coming-for-the-digital-gig-economy)
+* [Apiary](continuous-token-model-apiary.md)
+* [Commons Stack](https://commons-stack.gitbook.io/wiki/)
+* [Merge Space](../../organization/archive/merge-space-overview.md)
+* [Pando](https://medium.com/pando-network)
 

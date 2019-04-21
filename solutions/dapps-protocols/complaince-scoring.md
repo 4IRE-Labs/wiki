@@ -1,4 +1,4 @@
-# Crypto Address Reputation for Antifraud
+# Calculating the Crypto Address Reputation for Antifraud
 
 For services working with crypto payments
 

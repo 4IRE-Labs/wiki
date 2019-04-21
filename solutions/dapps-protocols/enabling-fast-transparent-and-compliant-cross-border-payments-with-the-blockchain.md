@@ -1,4 +1,4 @@
-# Cross-border payments with blockchain
+# Benefits of Cross-border payments with the use of Blockchain
 
 Financial services for B2C, trading , Foreign Exchange Platforms Brokers, Export/Import settlements, personal banking platforms. The GCC \(Gulf Cooperation Council\) countries reached $26.9 billion in remittances to the Philippines alone. Despite this high number, transaction rates that migrant workers have to pay in order to send money back home can range from 15 to 20 percent in transaction fee. 
 

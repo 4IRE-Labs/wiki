@@ -1,4 +1,4 @@
-# Supply Chain
+# For Logistics
 
 ## For
 
@@ -18,8 +18,10 @@
 * Integrating IoT with blockchain
 * Traceability / Data collection
 
-## Publications
+## Solutions
 
 * [Supply Chain Blockchain Tech Review & Comparison](supply-chain-blockchain-tech-review-and-comparison.md)
-* [RecycleChain – a concept of a blockchain platform for open market in the waste management space for Smart Cities](recyclechain.md) 
+* [Blockchain-based notarization platform](notarization-platform.md)
+* [Tracking document versions and signers on the blockchain](how-to-track-document-versions-and-signers-on-the-blockchain.md)
+* [Improving the recycling rates with recyclables open market on blockchain](recyclechain.md)
 

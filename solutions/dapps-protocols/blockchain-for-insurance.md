@@ -1,4 +1,4 @@
-# Blockchain for Insurance
+# Blockchain for Insurance Case Studies
 
 ## Blockchain overview
 

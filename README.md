@@ -4,34 +4,31 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ## **Solutions**
 
-### Crypto Projects \(Dapps & Protocols\)
+### For Dapps & Crypto Protocols
 
-* [Continuous Liquidity](solutions/decentralized-finance-defi/continuous-token-model-apiary.md)
+* [Continuous Liquidity](solutions/for-communities-and-networks/continuous-token-model-apiary.md)
 * [Architecture Design of Blockchain Protocol](services/architecture-design-protocol.md)
 * [Dapps Development](services/dapps-wallets-development.md)
 * [UXUI Design](services/uxui-design.md)
-* [Tech GDPR Compliance](solutions/technical-research/tech-gdpr-copmpliance.md)
-* [Improving Crypto Wallets Usability](solutions/technical-research/asset-security.md)
-* [Improving Developer Experience](solutions/technical-research/developer-community-devxp.md)
+* [Tech GDPR Compliance](solutions/dapps-protocols/tech-gdpr-compliance.md)
+* [Improving Crypto Wallets Usability](solutions/dapps-protocols/asset-security.md)
+* [Improving Developer Experience](solutions/dapps-protocols/developer-community-devxp.md)
 * Market Makers \([ORME](case-studies/orme.md)\)
-* [Interchain transfers between Ethereum and Bitcoin for DEX and more](solutions/technical-research/ethereum-bitcoin-bridge-wip.md)
-* [Crypto Address Reputation for Antifraud](solutions/technical-research/complaince-scoring.md)
-* [Cross-border payments with blockchain](solutions/decentralized-finance-defi/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
-
-### **Insurance**
-
-* [Blockchain for Insurance case studies](solutions/decentralized-finance-defi/blockchain-for-insurance.md)
+* [Interchain transfers between Ethereum and Bitcoin for DEX and more](solutions/dapps-protocols/ethereum-bitcoin-bridge-wip.md)
+* [Crypto Address Reputation for Antifraud](solutions/dapps-protocols/complaince-scoring.md)
+* [Cross-border payments with blockchain](solutions/dapps-protocols/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
+* [Blockchain for Insurance case studies](solutions/dapps-protocols/blockchain-for-insurance.md)
 
 ### **Logistics**
 
 * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
 * [RecycleChain for Smart City Waste Management](solutions/asset-tracking/recyclechain.md)
-* [Tracking document versions and signers on the blockchain](solutions/technical-research/how-to-track-document-versions-and-signers-on-the-blockchain.md)
+* [Tracking document versions and signers on the blockchain](solutions/asset-tracking/how-to-track-document-versions-and-signers-on-the-blockchain.md)
 
-### Communities & Networks
+### Communities, Networks & Cooperatives
 
-* [Improving Ethereum Governance with Signals Collection App](solutions/improving-ethereum-governance-with-signals-collection-app.md)
-* [Increasing the amount and quality of interactions in the community](solutions/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
+* [Improving Ethereum Governance with Signals Collection App](solutions/for-communities-and-networks/improving-ethereum-governance-with-signals-collection-app.md)
+* [Increasing the amount and quality of interactions in the community](solutions/for-communities-and-networks/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
 
 ## Projects
 
@@ -43,7 +40,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ### Commercial
 
-* [Notary on blockchain](solutions/technical-research/notarization-platform.md) – Blockchain-based notarization platform
+* [Notary on blockchain](solutions/asset-tracking/notarization-platform.md) – Blockchain-based notarization platform
 * [Hiveonline](case-studies/hiveonline.md) – The financial trust platform for small businesses
 * [Social Media Market](case-studies/social.-media-market.md) – Blockchain-based decentralized advertising marketplace
 * [Kidcoin](case-studies/kidcoin.md) – Blockchain-based family finances and digital wallets for kids

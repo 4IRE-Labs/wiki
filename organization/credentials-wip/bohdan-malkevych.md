@@ -12,7 +12,7 @@ Blockchain Engineer
 
 [Github profile](https://github.com/malkevych), [Twiter profile](https://twitter.com/bomalkevych), [Peepeth](https://peepeth.com/malkevych)
 
-Projects: [CMI](../../case-studies/cmi.md), [Tennagraph](../../case-studies/tennagraph.md), [ICONX](../../case-studies/iconx-wip.md), [Blockchain-based notarization platform](../../solutions/technical-research/notarization-platform.md)
+Projects: [CMI](../../case-studies/cmi.md), [Tennagraph](../../case-studies/tennagraph.md), [ICONX](../../case-studies/iconx-wip.md), [Blockchain-based notarization platform](../../solutions/asset-tracking/notarization-platform.md)
 
 ### INDUSTRY EXPERIENCE
 

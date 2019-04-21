@@ -1,4 +1,4 @@
-# Continuous Token Model / Liquidity
+# Funding Public Goods with Continuous Token Model
 
 ## Use Cases
 
