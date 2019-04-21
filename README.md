@@ -4,7 +4,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ## **Solutions**
 
-### For Dapps & Crypto Protocols
+### [For Dapps & Crypto Protocols](solutions/dapps-protocols/)
 
 * [Continuous Liquidity](solutions/community-network-coop/continuous-token-model-apiary.md)
 * [Architecture Design of Blockchain Protocol](services/architecture-design-protocol.md)
@@ -19,16 +19,18 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [Cross-border payments with blockchain](solutions/dapps-protocols/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
 * [Blockchain for Insurance case studies](solutions/dapps-protocols/blockchain-for-insurance.md)
 
-### **Logistics**
+### \*\*\*\*[**For Logistics**](solutions/asset-tracking/)\*\*\*\*
 
 * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
 * [RecycleChain for Smart City Waste Management](solutions/asset-tracking/recyclechain.md)
 * [Tracking document versions and signers on the blockchain](solutions/asset-tracking/how-to-track-document-versions-and-signers-on-the-blockchain.md)
 
-### Communities, Networks & Cooperatives
+### [For Communities, Networks & Cooperatives](solutions/community-network-coop/)
 
 * [Improving Ethereum Governance with Signals Collection App](solutions/community-network-coop/improving-ethereum-governance-with-signals-collection-app.md)
 * [Increasing the amount and quality of interactions in the community](solutions/community-network-coop/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
+
+### [For Smart Cities](solutions/for-smart-cities.md)
 
 ## Projects
 
