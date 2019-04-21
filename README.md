@@ -6,7 +6,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ### For Dapps & Crypto Protocols
 
-* [Continuous Liquidity](solutions/for-communities-and-networks/continuous-token-model-apiary.md)
+* [Continuous Liquidity](solutions/community-network-coop/continuous-token-model-apiary.md)
 * [Architecture Design of Blockchain Protocol](services/architecture-design-protocol.md)
 * [Dapps Development](services/dapps-wallets-development.md)
 * [UXUI Design](services/uxui-design.md)
@@ -27,8 +27,8 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ### Communities, Networks & Cooperatives
 
-* [Improving Ethereum Governance with Signals Collection App](solutions/for-communities-and-networks/improving-ethereum-governance-with-signals-collection-app.md)
-* [Increasing the amount and quality of interactions in the community](solutions/for-communities-and-networks/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
+* [Improving Ethereum Governance with Signals Collection App](solutions/community-network-coop/improving-ethereum-governance-with-signals-collection-app.md)
+* [Increasing the amount and quality of interactions in the community](solutions/community-network-coop/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
 
 ## Projects
 

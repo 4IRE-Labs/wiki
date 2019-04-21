@@ -19,10 +19,10 @@
   * [Blockchain-based notarization platform](solutions/asset-tracking/notarization-platform.md)
   * [Tracking document versions and signers on the blockchain](solutions/asset-tracking/how-to-track-document-versions-and-signers-on-the-blockchain.md)
   * [Improving the recycling rates with recyclables open market on blockchain](solutions/asset-tracking/recyclechain.md)
-* [For Communities, Networks & Platform Cooperatives](solutions/for-communities-and-networks/README.md)
-  * [Funding Public Goods with Continuous Token Model](solutions/for-communities-and-networks/continuous-token-model-apiary.md)
-  * [Improving Ethereum Governance with Signals Collection App](solutions/for-communities-and-networks/improving-ethereum-governance-with-signals-collection-app.md)
-  * [Increasing the amount and quality of interactions in the community](solutions/for-communities-and-networks/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
+* [For Communities, Networks & Platform Cooperatives](solutions/community-network-coop/README.md)
+  * [Funding Public Goods with Continuous Token Model](solutions/community-network-coop/continuous-token-model-apiary.md)
+  * [Improving Ethereum Governance with Signals Collection App](solutions/community-network-coop/improving-ethereum-governance-with-signals-collection-app.md)
+  * [Increasing the amount and quality of interactions in the community](solutions/community-network-coop/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
 * [For Smart Cities](solutions/for-smart-cities.md)
 
 ## Services
