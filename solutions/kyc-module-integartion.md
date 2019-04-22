@@ -16,7 +16,7 @@ Using 725/730  ERC token standards with the further KYC provider integration \(u
 
 **Cons:**
 
-* complexity for the users while onboarding process
+* complexity for the users while on-boarding process
 * compatible only for Ethereum based Dapps
 * 725 / 730 ERC token is under development and discussion by the community
 
@@ -74,17 +74,17 @@ For each KYC verification is paid commission. The main challenge was related to 
 
 **For both options, we can use the KYC module of our crowdfunding platform:**
 
-* **UI customer and admin**
-* **backend logic for data encryption and uploading to the KYC providers**
+* UI customer and admin
+* backend logic for data encryption and uploading to the KYC providers
 
 ![](https://lh3.googleusercontent.com/UHgxNKaVqor_M1kefbMwrM0HmAjGIOnkx_zL_WYZ6AKqOpe9y70q9OFgeUzR1FBm7ynLL4MpcUABjZYzyg8JAdfawSWePDtV-gp1O-aqjLHyE31bXmnEZD2XwKf0C4iWjNaTV_Ui)
 
-**We also worked with APIs of well-know KYC providers while we were integrating them to our product.**
+We also worked with APIs of well-know KYC providers while we were integrating them to our product.
 
-* [**https://sumsub.com/**](https://sumsub.com/)
-* [**https://onfido.com/**](https://onfido.com/)
-* [**https://www.cynopsis-solutions.com/artemis**](https://www.cynopsis-solutions.com/artemis)
-* [**https://www.thomsonreuters.com**](https://www.thomsonreuters.com/en.html)
+* [https://sumsub.com/](https://sumsub.com/)
+* [https://onfido.com/](https://onfido.com/)
+* [https://www.cynopsis-solutions.com/artemis](https://www.cynopsis-solutions.com/artemis)
+* [https://www.thomsonreuters.com](https://www.thomsonreuters.com/en.html)
 
 Useful info on:
 
