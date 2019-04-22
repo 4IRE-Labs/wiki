@@ -14,6 +14,7 @@
   * [Blockchain for Insurance Case Studies](solutions/dapps-protocols/blockchain-for-insurance.md)
   * [Ensuring Tech GDPR Compliance](solutions/dapps-protocols/tech-gdpr-compliance.md)
   * [Improving Developer Experience \(DevX\)](solutions/dapps-protocols/developer-community-devxp.md)
+* [KYC module integartion](solutions/kyc-module-integartion.md)
 * [Logistics](solutions/asset-tracking/README.md)
   * [Supply Chain Blockchain Tech Review & Comparison](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
   * [Blockchain-based notarization platform](solutions/asset-tracking/notarization-platform.md)
