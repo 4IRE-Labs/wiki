@@ -5,10 +5,12 @@
 For whom:
 
 * hybrid digital wallets 
-* fintech service provider needed the automatic Online & Biometric Identity Verification \(KYC\) 
+* fintech service provider needed the automatic Online & Biometric Identity Verification \(KYC\)  for b2b and b2c users 
 * fintech startups that should meet the banks' KYC requirements
 * crypto exchanges
-* 
+
+
+
 ### **1st option**
 
 Using 725/730  ERC token standards with the further KYC provider integration \(using the smart contracts\) based on our [case study for notary on blockchain](https://wiki.4irelabs.com/docs/solutions/asset-tracking/notarization-platform).   
