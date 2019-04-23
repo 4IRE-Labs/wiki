@@ -20,17 +20,20 @@ mobile financial management tool, Blockchain-based platform, Environment monitor
 
 [EMBEDDED SOFTWARE](https://cryptohire.io/results/embedded-software) [FULL STACK DEVELOPMENT](https://cryptohire.io/results/full-stack-development) [SOFTWARE DEVELOPMENT](https://cryptohire.io/results/software-development) [WEB DEVELOPMENT](https://cryptohire.io/results/web-development) [IOS](https://cryptohire.io/results/ios) [MOBILE](https://cryptohire.io/results/mobile) [BACK END](https://cryptohire.io/results/back-end-development)
 
-Programming Languages:[JAVA](https://cryptohire.io/results/java) [PYTHON](https://cryptohire.io/results/python) [GOLANG](https://cryptohire.io/results/golang) [SWIFT](https://cryptohire.io/results/swift) [BASH](https://cryptohire.io/results/bash) [SOLIDITY](https://cryptohire.io/results/solidity)
+  
+Programming Languages:[JAVA](https://youteam.co.uk/results/java) [PYTHON](https://youteam.co.uk/results/python) [GOLANG](https://youteam.co.uk/results/golang) [SWIFT](https://youteam.co.uk/results/swift) [BASH](https://youteam.co.uk/results/bash) [SOLIDITY](https://youteam.co.uk/results/solidity)
 
-RDBMS:[MONGODB](https://cryptohire.io/results/mongodb) [MYSQL](https://cryptohire.io/results/mysql) [POSTGRESQL](https://cryptohire.io/results/postgresql) [REDIS](https://cryptohire.io/results/redis) [COUCHDB](https://cryptohire.io/results/couchdb)
+RDBMS:[MONGODB](https://youteam.co.uk/results/mongodb) [MYSQL](https://youteam.co.uk/results/mysql) [POSTGRESQL](https://youteam.co.uk/results/postgresql) [REDIS](https://youteam.co.uk/results/redis) [COUCHDB](https://youteam.co.uk/results/couchdb)
 
-Operating Systems:[DEBIAN](https://cryptohire.io/results/debian) [FREEBSD](https://cryptohire.io/results/freebsd) [UBUNTU](https://cryptohire.io/results/ubuntu) [MACOS](https://cryptohire.io/results/macos)
+Operating Systems:[DEBIAN](https://youteam.co.uk/results/debian) [FREEBSD](https://youteam.co.uk/results/freebsd) [UBUNTU](https://youteam.co.uk/results/ubuntu) [MACOS](https://youteam.co.uk/results/macos)
 
-Development Tools:[JIRA](https://cryptohire.io/results/jira) [CONFLUENCE](https://cryptohire.io/results/confluence) [TRELLO](https://cryptohire.io/results/trello)
+Development Tools:[JIRA](https://youteam.co.uk/results/jira) [CONFLUENCE](https://youteam.co.uk/results/confluence) [TRELLO](https://youteam.co.uk/results/trello)
 
-Other skills:[AGILE](https://cryptohire.io/results/agile) [CVS](https://cryptohire.io/results/cvs) [GIT](https://cryptohire.io/results/git) [MERCURIAL](https://cryptohire.io/results/mercurial) [SUBVERSION](https://cryptohire.io/results/subversion)
+Other skills:[AGILE](https://youteam.co.uk/results/agile) [CVS](https://youteam.co.uk/results/cvs) [GIT](https://youteam.co.uk/results/git) [MERCURIAL](https://youteam.co.uk/results/mercurial) [SUBVERSION](https://youteam.co.uk/results/subversion)
 
-Libraries/Frameworks/Tools:[DJANGO](https://cryptohire.io/results/django) [GOOGLE WEB TOOLKIT](https://cryptohire.io/results/google-web-toolkit) [HIBERNATE](https://cryptohire.io/results/hibernate) [ANSIBLE](https://cryptohire.io/results/ansible) [WEB3.JS](https://cryptohire.io/results/web3-js) [TRUFFLE](https://cryptohire.io/results/truffle) [OPENZEPPELIN](https://cryptohire.io/results/openzeppelin)  
+Libraries/Frameworks/Tools:[DJANGO](https://youteam.co.uk/results/django) [GOOGLE WEB TOOLKIT](https://youteam.co.uk/results/google-web-toolkit) [HIBERNATE](https://youteam.co.uk/results/hibernate) [ANSIBLE](https://youteam.co.uk/results/ansible) [WEB3.JS](https://youteam.co.uk/results/web3-js) [TRUFFLE](https://youteam.co.uk/results/truffle) [OPENZEPPELIN](https://youteam.co.uk/results/openzeppelin)
+
+  
 
 
 {% embed url="https://www.youtube.com/watch?v=tTQYHkIIRa0" %}
