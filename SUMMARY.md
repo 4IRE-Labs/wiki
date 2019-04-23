@@ -5,6 +5,7 @@
 
 ## Solutions for
 
+* [Fintech](solutions/fintech.md)
 * [Dapps & Crypto Protocols](solutions/dapps-protocols/README.md)
   * [Calculating the Crypto Address Reputation for Antifraud](solutions/dapps-protocols/complaince-scoring.md)
   * [Improving Seed Phrase Storage Usability with Steganography](solutions/dapps-protocols/asset-security.md)

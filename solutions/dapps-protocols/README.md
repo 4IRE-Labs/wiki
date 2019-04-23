@@ -17,7 +17,6 @@ Open Finance or Decentralized Finance \(\#defi\) is the movement that leverages 
 * Terra Bridge
 * [Tennagraph](../../case-studies/tennagraph.md)
 * [Kepler Collective](../../case-studies/kepler-collective.md)
-* [Hiveonline](../../case-studies/hiveonline.md)
 * [Kidcoin](../../case-studies/kidcoin.md)
 * [Hybrid wallet](../../case-studies/hybrid-wallet-fiat-and-crypto-assets.md)
 
