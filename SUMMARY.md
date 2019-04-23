@@ -15,6 +15,7 @@
   * [Blockchain for Insurance Case Studies](solutions/fintech/blockchain-for-insurance.md)
   * [Ensuring Tech GDPR Compliance](solutions/fintech/tech-gdpr-compliance.md)
   * [Improving Developer Experience \(DevX\)](solutions/fintech/developer-community-devxp.md)
+  * [Market Makers](solutions/fintech/market-makers.md)
 * [Smart City](solutions/smart-city/README.md)
   * [Waste Management Tech for Smart City](solutions/smart-city/waste-management-tech-for-smart-city.md)
 * [Logistics](solutions/asset-tracking/README.md)

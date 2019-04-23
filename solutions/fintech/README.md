@@ -15,7 +15,7 @@
   * [Calculating the Crypto Address Reputation for Antifraud](complaince-scoring.md)
   * [Improving Seed Phrase Storage Usability with Steganography](asset-security.md)
   * [Interchain transfers between Ethereum and Bitcoin for DEX and more](ethereum-bitcoin-bridge-wip.md)
-  * Market Makers\*
+  * [Market Makers](market-makers.md)
 * [Ensuring Tech GDPR Compliance](tech-gdpr-compliance.md)
 * PSD2 integration
 * Payment Gateways Development & Integration
