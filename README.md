@@ -8,7 +8,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [Dapps & Crypto Protocols](solutions/dapps-protocols/)
 * [Logistics](solutions/asset-tracking/)
 * [Communities, Networks & Cooperatives](solutions/community-network-coop/)
-* [Smart Cities](solutions/for-smart-cities.md)
+* [Smart Cities](solutions/smart-city.md)
 
 ## Services
 
