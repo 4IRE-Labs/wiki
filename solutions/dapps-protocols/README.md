@@ -7,7 +7,6 @@ Open Finance or Decentralized Finance \(\#defi\) is the movement that leverages 
 * [Calculating the Crypto Address Reputation for Antifraud](complaince-scoring.md)
 * [Improving Seed Phrase Storage Usability with Steganography](asset-security.md)
 * [Interchain transfers between Ethereum and Bitcoin for DEX and more](ethereum-bitcoin-bridge-wip.md)
-* [Ensuring Tech GDPR Compliance](tech-gdpr-compliance.md)
 * [Improving Developer Experience \(DevX\)](developer-community-devxp.md)
 * Market Makers\*
 * Compliance

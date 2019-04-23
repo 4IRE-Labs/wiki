@@ -1,4 +1,4 @@
-# KYC module integartion
+# KYC Compliance
 
 **KYC module integration**
 

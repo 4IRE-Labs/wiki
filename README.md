@@ -4,7 +4,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ## **Solutions for**
 
-* [Fintech](solutions/fintech.md)
+* [Fintech](solutions/fintech/)
 * [Dapps & Crypto Protocols](solutions/dapps-protocols/)
 * [Logistics](solutions/asset-tracking/)
 * [Communities, Networks & Cooperatives](solutions/community-network-coop/)

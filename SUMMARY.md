@@ -5,7 +5,8 @@
 
 ## Solutions for
 
-* [Fintech](solutions/fintech.md)
+* [Fintech](solutions/fintech/README.md)
+  * [KYC Compliance](solutions/fintech/kyc-module-integartion.md)
 * [Dapps & Crypto Protocols](solutions/dapps-protocols/README.md)
   * [Calculating the Crypto Address Reputation for Antifraud](solutions/dapps-protocols/complaince-scoring.md)
   * [Improving Seed Phrase Storage Usability with Steganography](solutions/dapps-protocols/asset-security.md)
@@ -15,7 +16,6 @@
   * [Blockchain for Insurance Case Studies](solutions/dapps-protocols/blockchain-for-insurance.md)
   * [Ensuring Tech GDPR Compliance](solutions/dapps-protocols/tech-gdpr-compliance.md)
   * [Improving Developer Experience \(DevX\)](solutions/dapps-protocols/developer-community-devxp.md)
-* [KYC module integartion](solutions/kyc-module-integartion.md)
 * [Smart City](solutions/smart-city/README.md)
   * [Waste Management Tech for Smart City](solutions/smart-city/waste-management-tech-for-smart-city.md)
 * [Logistics](solutions/asset-tracking/README.md)
