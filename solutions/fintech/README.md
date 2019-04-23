@@ -12,19 +12,18 @@
 ## Solutions
 
 * [Blockchain Architecture / Protocol Design](../../services/architecture-design-protocol.md)
-  * [Calculating the Crypto Address Reputation for Antifraud](complaince-scoring.md)
   * [Improving Seed Phrase Storage Usability with Steganography](asset-security.md)
-  * [Interchain transfers between Ethereum and Bitcoin for DEX and more](ethereum-bitcoin-bridge-wip.md)
+  * Exchange / DEX Development \([Interchain transfers between Ethereum and Bitcoin for DEX and more](ethereum-bitcoin-bridge-wip.md)\)
   * [Market Makers](market-makers.md)
 * [Ensuring Tech GDPR Compliance](tech-gdpr-compliance.md)
 * PSD2 integration
 * Payment Gateways Development & Integration
 * [Cost reduction in backend, web, mobile development](../../services/dapps-wallets-development.md)
 * [Improving DevXP](developer-community-devxp.md)
-* Security Audit
+* Security Audit \([BitRent](https://medium.com/practical-blockchain/bitrent-smart-contracts-audit-case-study-d7d61a34e9f7)\)
 * [KYC Compliance](kyc-module-integartion.md)
-* Effective Scaling \(DevOps / Infrastructure\)
-* Data Scoring
+* Effective Scaling, DevOps & Infrastructure
+* Data Scoring \([Calculating the Crypto Address Reputation for Antifraud](complaince-scoring.md)\)
 
 ## Case Studies
 
