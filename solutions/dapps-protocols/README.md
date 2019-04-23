@@ -10,6 +10,7 @@ Open Finance or Decentralized Finance \(\#defi\) is the movement that leverages 
 * [Ensuring Tech GDPR Compliance](tech-gdpr-compliance.md)
 * [Improving Developer Experience \(DevX\)](developer-community-devxp.md)
 * Market Makers\*
+* Compliance
 
 ## Case Studies
 
