@@ -5,7 +5,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 ## **Solutions for**
 
 * [Fintech](solutions/fintech/)
-* [Dapps & Crypto Protocols](solutions/dapps-protocols/)
+* [Dapps & Crypto Protocols]()
 * [Logistics](solutions/asset-tracking/)
 * [Communities, Networks & Cooperatives](solutions/community-network-coop/)
 * [Smart Cities](solutions/smart-city/)
@@ -13,7 +13,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 ## Services
 
 * [Architecture / Protocol Design](services/architecture-design-protocol.md)
-* [Dapps / Wallets Development](solutions/dapps-protocols/)
+* [Dapps / Wallets Development]()
 * [UXUI Design](services/uxui-design.md)
 * [Customer Development and Validation](services/customer-development-and-formal-validation/)
 
