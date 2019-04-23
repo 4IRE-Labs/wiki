@@ -27,6 +27,15 @@
   * [Increasing the amount and quality of interactions in the community](solutions/community-network-coop/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
 * [Smart Cities](solutions/for-smart-cities.md)
 
+## About
+
+* [Organization](about/credentials-wip.md)
+* [Kirill Kirikov](about/kirill-kirikov.md)
+* [Oleg Bugrovoy](about/oleg-bugrovoy.md)
+* [Bohdan Malkevych](about/bohdan-malkevych.md)
+* [Helen Petrashchuk](about/helen-petrashchuk.md)
+* [Max Semenchuk](about/max-semenchuk.md)
+
 ## Services
 
 * [Architecture / Protocol Design](services/architecture-design-protocol.md)
@@ -52,16 +61,6 @@
 * [ICONX](case-studies/iconx-wip.md)
 * [Hybrid wallet](case-studies/hybrid-wallet-fiat-and-crypto-assets.md)
 * [Vork](case-studies/vork.md)
-
-## Organization
-
-* [About us](organization/credentials-wip/README.md)
-  * [Kirill Kirikov](organization/credentials-wip/kirill-kirikov.md)
-  * [Oleg Bugrovoy](organization/credentials-wip/oleg-bugrovoy.md)
-  * [Bohdan Malkevych](organization/credentials-wip/bohdan-malkevych.md)
-  * [Helen Petrashchuk](organization/credentials-wip/helen-petrashchuk.md)
-  * [Max Semenchuk](organization/credentials-wip/max-semenchuk.md)
-* [Opportunities to work with 4irelabs](organization/opportunities-to-work-with-4irelabs.md)
-* [Archive](organization/archive/README.md)
-  * [Merging.Space – Project Management Tool](organization/archive/merge-space-overview.md)
+* [Archive](case-studies/archive/README.md)
+  * [Merging.Space – Project Management Tool](case-studies/archive/merge-space-overview.md)
 

@@ -6,7 +6,7 @@ I've designed architecture for high load projects. Brought to life several block
 10 years of engineering and 6 years of management experience.   
 Led distributed teams up to 30 members.
 
-Projects: [Kidcoin](../../case-studies/kidcoin.md), [Kepler Collective](../../case-studies/kepler-collective.md), [Maitres](../../case-studies/maitres.md)
+Projects: [Kidcoin](../case-studies/kidcoin.md), [Kepler Collective](../case-studies/kepler-collective.md), [Maitres](../case-studies/maitres.md)
 
 ### INDUSTRY EXPERIENCE
 

@@ -1,6 +1,6 @@
 # Kirill Kirikov
 
-![](../../.gitbook/assets/frame-10.jpg)
+![](../.gitbook/assets/frame-10.jpg)
 
 Lead Blockchain Developer: Ethereum/Solidity, Hyperledger, Multichain. 12+ years dev experience, managing team \(up to 30 specialists\), released more than 100 apps. Worked on software for Chrysler & Ferrari. Teaching courses on iOS and Blockchain.
 
@@ -43,19 +43,19 @@ Libraries/Frameworks/Tools: CSS, XML, HTML, JSON, ODBC, REST, FIREBASE, STL
 ## **Recent Projects**
 
 * Contractland - public chain built for the decentralized exchanges
-* [Smart Documents](../../solutions/asset-tracking/notarization-platform.md)
-* [Kidcoin](../../case-studies/kidcoin.md)
+* [Smart Documents](../solutions/asset-tracking/notarization-platform.md)
+* [Kidcoin](../case-studies/kidcoin.md)
 * Bokoredo – accounting automation tool with access to online banks \(wip\)
-* [ORME Smart Contract](../../case-studies/orme.md) – tokens are minted, whenever a bitcoin is mined
+* [ORME Smart Contract](../case-studies/orme.md) – tokens are minted, whenever a bitcoin is mined
 * BitRent Smart Contract Audit - provided the security audit for 10 smart contracts before launching the ICO
-* [Crypto Improvement Fund](../../case-studies/crypto-improvement-fund.md) - we created a CIF coin \(dash fork\) for a client, the CIF coin is a custom blockchain that will be responsible for a variety of core business functions.
+* [Crypto Improvement Fund](../case-studies/crypto-improvement-fund.md) - we created a CIF coin \(dash fork\) for a client, the CIF coin is a custom blockchain that will be responsible for a variety of core business functions.
 * Pura – completed dash fork and wrote the whole functionality for the gateway \( creating the master nodes for the clients directly from the wallets\)
 * Apiary - curation market for DAOs based on Aragon platform. Responsible Crowdfunding through the Curation Market.
-* [ICONX](../../case-studies/iconx-wip.md) - investor panel for ICO.
+* [ICONX](../case-studies/iconx-wip.md) - investor panel for ICO.
 * Kepler Collective - the full-stack development of the Ethereum-based application of the Blockchain platform for crowdfunding
 * Winstars - Blockchain-based gaming platform.
-* [CMI](../../case-studies/cmi.md) – a global media ecosystem integrating blockchain into news, social media, trade, finance, education and technology innovation.
-* [HiveOnline](../../case-studies/hiveonline.md) – blockchain trust record platform for SME \(wip\)
+* [CMI](../case-studies/cmi.md) – a global media ecosystem integrating blockchain into news, social media, trade, finance, education and technology innovation.
+* [HiveOnline](../case-studies/hiveonline.md) – blockchain trust record platform for SME \(wip\)
 
 ## **Work history**
 

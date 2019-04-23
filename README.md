@@ -42,15 +42,15 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ## Organization
 
-* [About us](organization/credentials-wip/)
-  * [Kirill Kirikov](organization/credentials-wip/kirill-kirikov.md)
-  * [Oleg Bugrovoy](organization/credentials-wip/oleg-bugrovoy.md)
-  * [Bohdan Malkevych](organization/credentials-wip/bohdan-malkevych.md)
-  * [Helen Petrashchuk](organization/credentials-wip/helen-petrashchuk.md)
-  * [Max Semenchuk](organization/credentials-wip/max-semenchuk.md)
+* [About us](about/credentials-wip.md)
+  * [Kirill Kirikov](about/kirill-kirikov.md)
+  * [Oleg Bugrovoy](about/oleg-bugrovoy.md)
+  * [Bohdan Malkevych](about/bohdan-malkevych.md)
+  * [Helen Petrashchuk](about/helen-petrashchuk.md)
+  * [Max Semenchuk](about/max-semenchuk.md)
 * [Blog](https://medium.com/practical-blockchain)
 * [Twitter](https://twitter.com/4irelabs)
-* [Opportunities to work with 4irelabs](organization/opportunities-to-work-with-4irelabs.md)
+* [Opportunities to work with 4irelabs]()
 
 For inquiries contact:  
 Helen Petrashchuk [hp@4irelabs.com](mailto:hp@4irelabs.com)

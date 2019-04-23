@@ -8,7 +8,7 @@ The end goal is a community-curated hub that clears out some of the noise around
 
 Services: [Architecture / Protocol Design](../services/architecture-design-protocol.md), [Dapps / Wallets Development](../services/dapps-wallets-development.md)
 
-Team: [Bohdan Malkevych](../organization/credentials-wip/bohdan-malkevych.md), James Hancock, [Max Semenchuk](../organization/credentials-wip/max-semenchuk.md), Griff Green, Deam, Anna Rose
+Team: [Bohdan Malkevych](../about/bohdan-malkevych.md), James Hancock, [Max Semenchuk](../about/max-semenchuk.md), Griff Green, Deam, Anna Rose
 
 Project got funding from Aragon Nest program, here's our presentation from the Aracon conference:
 
