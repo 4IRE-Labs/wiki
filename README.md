@@ -42,7 +42,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ## Organization
 
-* [About us](about/credentials-wip.md)
+* [About us](about/organization.md)
   * [Kirill Kirikov](about/kirill-kirikov.md)
   * [Oleg Bugrovoy](about/oleg-bugrovoy.md)
   * [Bohdan Malkevych](about/bohdan-malkevych.md)

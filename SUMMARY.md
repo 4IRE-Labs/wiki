@@ -29,7 +29,7 @@
 
 ## About
 
-* [Organization](about/credentials-wip.md)
+* [Organization](about/organization.md)
 * [Kirill Kirikov](about/kirill-kirikov.md)
 * [Oleg Bugrovoy](about/oleg-bugrovoy.md)
 * [Bohdan Malkevych](about/bohdan-malkevych.md)
