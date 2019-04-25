@@ -6,6 +6,7 @@
 * Recycling facilities
 * Activists
 * Citizens
+* Waste Management software vendors
 
 ## Problem Hypotheses
 
