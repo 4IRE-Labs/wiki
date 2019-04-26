@@ -15,7 +15,8 @@
 * Citizens need to see the effect / stats on the recycle chain
 * Citizens want better distribution centers. Can be unattractive, unknown location, unstable, have lots of bums \(UA\) 
 * Activists have hard time to share the culture & knowledge
-* Activists want to invest in the ecology, help recycling 
+* Activists want to invest in the ecology, help recycling
+  * Use crypto for most efficient subsidizing 
 * Recycling facilities have lack of raw materials \(recyclables\)
 * Recycling facilities need to improve supply chain efficiency for better price/margin \(avoid low or negative margins\)
   * Costly transportation

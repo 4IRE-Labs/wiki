@@ -1,3 +1,7 @@
+---
+description: Senior Solution Architect
+---
+
 # Oleg Bugrovoy
 
 Lead Blockchain & Backend EngineerA skilled backend/blockchain engineer with management skills.
@@ -6,7 +10,7 @@ I've designed architecture for high load projects. Brought to life several block
 10 years of engineering and 6 years of management experience.   
 Led distributed teams up to 30 members.
 
-Projects: [Kidcoin](../case-studies/kidcoin.md), [Kepler Collective](../case-studies/kepler-collective.md), [Maitres](../case-studies/maitres.md)
+Projects: [Kidcoin](../case-studies/kidcoin.md), [Kepler Collective](../case-studies/kepler-collective.md), [Maitres](../case-studies/maitres.md), [Cross-border system ](https://wiki.4irelabs.com/docs/solutions/fintech/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain)
 
 ### INDUSTRY EXPERIENCE
 
@@ -16,22 +20,33 @@ Blockchain & Cryptocurrency, Banking & Finance, Law & Government, Environmental 
 
 mobile financial management tool, Blockchain-based platform, Environment monitoring system/ enterprise app and server/ cameras streaming and recording
 
-### TECH STACK <a id="prof-tech-stack"></a>
+Blockchain solution architecture on Ethereum and HyperLedger including integrating with web and mobile applications;
 
-[EMBEDDED SOFTWARE](https://cryptohire.io/results/embedded-software) [FULL STACK DEVELOPMENT](https://cryptohire.io/results/full-stack-development) [SOFTWARE DEVELOPMENT](https://cryptohire.io/results/software-development) [WEB DEVELOPMENT](https://cryptohire.io/results/web-development) [IOS](https://cryptohire.io/results/ios) [MOBILE](https://cryptohire.io/results/mobile) [BACK END](https://cryptohire.io/results/back-end-development)
+* Solidity Dapp development;
+* Deployment and testing of smart contracts;
+* Private Ethereum blockchain deployment including customization of the geth client;
+* Extensive experience with Bitcoin, HyperLedger, NEO and other major blockchains.
+* DevOps process
+* Native mobile app development
+
+## TECH STACK
+
+EMBEDDED SOFTWARE FULL STACK DEVELOPMENT SOFTWARE 
 
   
-Programming Languages:[JAVA](https://youteam.co.uk/results/java) [PYTHON](https://youteam.co.uk/results/python) [GOLANG](https://youteam.co.uk/results/golang) [SWIFT](https://youteam.co.uk/results/swift) [BASH](https://youteam.co.uk/results/bash) [SOLIDITY](https://youteam.co.uk/results/solidity)
+Programming Languages:
 
-RDBMS:[MONGODB](https://youteam.co.uk/results/mongodb) [MYSQL](https://youteam.co.uk/results/mysql) [POSTGRESQL](https://youteam.co.uk/results/postgresql) [REDIS](https://youteam.co.uk/results/redis) [COUCHDB](https://youteam.co.uk/results/couchdb)
+Backend JAVA PYTHON GOLANG SWIFT BASH SOLIDITY
 
-Operating Systems:[DEBIAN](https://youteam.co.uk/results/debian) [FREEBSD](https://youteam.co.uk/results/freebsd) [UBUNTU](https://youteam.co.uk/results/ubuntu) [MACOS](https://youteam.co.uk/results/macos)
+RDBMS: MONGODB MYSQL POSTGRESQL REDIS COUCHDB
 
-Development Tools:[JIRA](https://youteam.co.uk/results/jira) [CONFLUENCE](https://youteam.co.uk/results/confluence) [TRELLO](https://youteam.co.uk/results/trello)
+Operating Systems:DEBIAN FREEBSD UBUNTU MACOS
 
-Other skills:[AGILE](https://youteam.co.uk/results/agile) [CVS](https://youteam.co.uk/results/cvs) [GIT](https://youteam.co.uk/results/git) [MERCURIAL](https://youteam.co.uk/results/mercurial) [SUBVERSION](https://youteam.co.uk/results/subversion)
+Development Tools:  
 
-Libraries/Frameworks/Tools:[DJANGO](https://youteam.co.uk/results/django) [GOOGLE WEB TOOLKIT](https://youteam.co.uk/results/google-web-toolkit) [HIBERNATE](https://youteam.co.uk/results/hibernate) [ANSIBLE](https://youteam.co.uk/results/ansible) [WEB3.JS](https://youteam.co.uk/results/web3-js) [TRUFFLE](https://youteam.co.uk/results/truffle) [OPENZEPPELIN](https://youteam.co.uk/results/openzeppelin)
+Other skills: AGILE CVS GIT MERCURIAL SUBVERSION
+
+Libraries/Frameworks/Tools: DJANGO GOOGLE WEB TOOLKIT HIBERNATE ANSIBLE WEB3.JS TRUFFLE OPENZEPPELIN
 
   
 
