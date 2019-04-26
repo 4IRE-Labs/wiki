@@ -12,7 +12,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 ## Services
 
 * [Architecture / Protocol Design](services/architecture-design-protocol.md)
-* [Dapps / Wallets Development]()
+* [Dapps / Wallets Development](services/dapps-wallets-development.md)
 * [UXUI Design](services/uxui-design.md)
 * [Customer Development and Validation](services/customer-development-and-formal-validation/)
 
