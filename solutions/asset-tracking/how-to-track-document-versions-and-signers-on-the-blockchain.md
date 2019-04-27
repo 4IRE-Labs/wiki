@@ -1,4 +1,4 @@
-# Tracking document versions and signers on the blockchain
+# Secure Audit Trail for eDocuments with Blockchain
 
 For B2B products like Zoho sign, Integrators of electronic documents systems, business consultants.
 
@@ -20,5 +20,5 @@ Electronic signatures and immutable legal documents on the blockchain
 
 ### Case Studies
 
-* [Blockchain-based notarization platform](notarization-platform.md)
+* [Blockchain-based notarization platform](../../case-studies/notarization-platform.md)
 

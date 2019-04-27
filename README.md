@@ -7,7 +7,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [Fintech](solutions/fintech/)
 * [Logistics](solutions/asset-tracking/)
 * [Communities, Networks & Cooperatives](solutions/community-network-coop/)
-* [Smart Cities](solutions/smart-city/)
+* [Smart Cities](solutions/smart-city.md)
 
 ## Services
 
@@ -21,12 +21,12 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 ### Open Source
 
 * [Tennagraph](case-studies/tennagraph.md) – Ethereum Signal Aggregator
-* [Terra bridge](https://github.com/ContractLand/terra-bridge-btc) – Connecting EVM based blockchain
+* [Terra bridge](https://github.com/ContractLand/terra-bridge-btc) – Connecting EVM based blockchain for Interchain DEX
 * [CryptoGraphica](case-studies/cryptographica.md) – Solution for wallet \#Usability \#Security
 
 ### Commercial
 
-* [Notary on blockchain](solutions/asset-tracking/notarization-platform.md) – Blockchain-based notarization platform
+* [Notary on blockchain](case-studies/notarization-platform.md) – Blockchain-based notarization platform
 * [Hiveonline](case-studies/hiveonline.md) – The financial trust platform for small businesses
 * [Social Media Market](case-studies/social.-media-market.md) – Blockchain-based decentralized advertising marketplace
 * [Kidcoin](case-studies/kidcoin.md) – Blockchain-based family finances and digital wallets for kids
@@ -36,7 +36,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [ORME](case-studies/orme.md) – Market maker for the exchange platform
 * [Crypto Improvement Fund](case-studies/crypto-improvement-fund.md) – educational ecosystem
 * [CMI](case-studies/cmi.md) – Global Media Ecosystem
-* [ICONX](case-studies/iconx-wip.md) – asset tokenization platform
+* [ICONX](case-studies/iconx-wip.md) – Asset tokenization platform
 * [Hybrid wallet](case-studies/hybrid-wallet-fiat-and-crypto-assets.md) for Fiat and crypto Assets
 
 ## Organization

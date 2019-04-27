@@ -43,7 +43,7 @@ Libraries/Frameworks/Tools: CSS, XML, HTML, JSON, ODBC, REST, FIREBASE, STL
 ## **Recent Projects**
 
 * Contractland - public chain built for the decentralized exchanges
-* [Smart Documents](../solutions/asset-tracking/notarization-platform.md)
+* [Smart Documents](../case-studies/notarization-platform.md)
 * [Kidcoin](../case-studies/kidcoin.md)
 * Bokoredo – accounting automation tool with access to online banks \(wip\)
 * [ORME Smart Contract](../case-studies/orme.md) – tokens are minted, whenever a bitcoin is mined

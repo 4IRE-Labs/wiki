@@ -1,4 +1,4 @@
-# Interchain transfers between Ethereum and Bitcoin for DEX and more
+# Enabling Decentralized Interchain Transactions between ETH and BTC with Parachains
 
 Protocol for interchain transfers between Ethereum and Bitcoin
 

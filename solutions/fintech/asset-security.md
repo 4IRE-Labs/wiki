@@ -1,4 +1,4 @@
-# Improving Seed Phrase Storage Usability with Steganography
+# Improving Crypto Wallet Usability with Steganography
 
 ## Stakeholders
 
