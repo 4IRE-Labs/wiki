@@ -20,7 +20,7 @@
   * [Expanding Supply Chaing Traceability with Blockchain](solutions/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
   * [Secure Audit Trail for eDocuments with Blockchain](solutions/asset-tracking/how-to-track-document-versions-and-signers-on-the-blockchain.md)
   * [Improving the recycling rates with recyclables open market on blockchain](solutions/asset-tracking/recyclechain.md)
-* [Communities, Networks & Platform Cooperatives](solutions/community-network-coop/README.md)
+* [Government, Communities, Networks & Platform Cooperatives](solutions/community-network-coop/README.md)
   * [Funding Public Goods with Continuous Token Model](solutions/community-network-coop/continuous-token-model-apiary.md)
   * [Improving Ethereum Governance with Signals Collection App](solutions/community-network-coop/improving-ethereum-governance-with-signals-collection-app.md)
   * [Increasing the amount and quality of interactions in the community](solutions/community-network-coop/increasing-the-amount-and-quality-of-interactions-in-the-community.md)

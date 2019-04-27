@@ -1,4 +1,4 @@
-# Communities, Networks & Platform Cooperatives
+# Government, Communities, Networks & Platform Cooperatives
 
 ## Challenge
 
@@ -12,6 +12,7 @@ A platform cooperative, or platform co-op, is a cooperatively owned, democratica
 * [Funding Public Goods with Continuous Token Model](continuous-token-model-apiary.md)
 * [Improving Ethereum Governance with Signals Collection App](improving-ethereum-governance-with-signals-collection-app.md)
 * [Increasing the amount and quality of interactions in the community](increasing-the-amount-and-quality-of-interactions-in-the-community.md)
+* Improving eVoting Security with Blockchain
 
 ## Publications
 
