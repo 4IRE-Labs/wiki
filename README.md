@@ -9,6 +9,17 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [Communities, Networks & Cooperatives](solutions/community-network-coop/)
 * [Smart Cities](solutions/smart-city.md)
 
+## About
+
+* [Organization](about/organization.md)
+* [Kirill Kirikov](about/kirill-kirikov.md)
+* [Oleg Bugrovoy](about/oleg-bugrovoy.md)
+* [Bohdan Malkevych](about/bohdan-malkevych.md)
+* [Helen Petrashchuk](about/helen-petrashchuk.md)
+* [Max Semenchuk](about/max-semenchuk.md)
+
+Check out our [Blog](https://medium.com/practical-blockchain) & [Twitter](https://twitter.com/4irelabs)
+
 ## Services
 
 * [Architecture / Protocol Design](services/architecture-design-protocol.md)
@@ -38,17 +49,6 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [CMI](case-studies/cmi.md) – Global Media Ecosystem
 * [ICONX](case-studies/iconx-wip.md) – Asset tokenization platform
 * [Hybrid wallet](case-studies/hybrid-wallet-fiat-and-crypto-assets.md) for Fiat and crypto Assets
-
-## Organization
-
-* [About us](about/organization.md)
-  * [Kirill Kirikov](about/kirill-kirikov.md)
-  * [Oleg Bugrovoy](about/oleg-bugrovoy.md)
-  * [Bohdan Malkevych](about/bohdan-malkevych.md)
-  * [Helen Petrashchuk](about/helen-petrashchuk.md)
-  * [Max Semenchuk](about/max-semenchuk.md)
-* [Blog](https://medium.com/practical-blockchain)
-* [Twitter](https://twitter.com/4irelabs)
 
 For inquiries contact:  
 Helen Petrashchuk [hp@4irelabs.com](mailto:hp@4irelabs.com)
