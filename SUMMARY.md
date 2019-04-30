@@ -10,7 +10,7 @@
   * [Improving Crypto Wallet Usability with Steganography](solutions/fintech/asset-security.md)
   * [Enabling Decentralized Interchain Transactions between ETH and BTC with Parachains](solutions/fintech/ethereum-bitcoin-bridge-wip.md)
   * [Transparent Cross Border Payments with Blockchain](solutions/fintech/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
-  * [Asset Tokenization Platforms Overview](solutions/fintech/sto-platform.md)
+  * [Increasing Liquidity with Asset Tokenization](solutions/fintech/asset-tokenization.md)
   * [Blockchain for Insurance Case Studies](solutions/fintech/blockchain-for-insurance.md)
   * [Calculating the Crypto Address Reputation for Antifraud](solutions/fintech/complaince-scoring.md)
   * [Ensuring GDPR Compliance with Tech Audit](solutions/fintech/tech-gdpr-compliance.md)

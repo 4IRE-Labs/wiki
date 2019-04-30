@@ -16,6 +16,7 @@
 * [Ensuring GDPR Compliance with Tech Audit](tech-gdpr-compliance.md)
 * [Transparent Cross Border Payments with Blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
 * [Improving Developer Experience \(devX\)](developer-community-devxp.md)
+* [Increasing Liquidity with Asset Tokenization](asset-tokenization.md)
 * [KYC Compliance](kyc-module-integartion.md)
 * Effective Scaling, DevOps & Infrastructure
 * Data Scoring \([Calculating the Crypto Address Reputation for Antifraud](complaince-scoring.md)\)
@@ -47,7 +48,6 @@
 
 ## Publications
 
-* [Asset Tokenization Platforms Overview](sto-platform.md)
 * [Benefits of Cross-border payments with the use of Blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
 * [Blockchain for Insurance case studies](blockchain-for-insurance.md)
 * [Compatible Blockchains for the Fintech Projects. Is Stellar one of them?](https://4irelabs.com/blockchain-fintech-stellar)
