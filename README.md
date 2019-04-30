@@ -49,7 +49,6 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
   * [Max Semenchuk](about/max-semenchuk.md)
 * [Blog](https://medium.com/practical-blockchain)
 * [Twitter](https://twitter.com/4irelabs)
-* [Opportunities to work with 4irelabs]()
 
 For inquiries contact:  
 Helen Petrashchuk [hp@4irelabs.com](mailto:hp@4irelabs.com)
