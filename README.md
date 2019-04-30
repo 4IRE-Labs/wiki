@@ -1,4 +1,4 @@
-# 4IRE labs \| Navigation
+# 4IRE Labs \| Navigation
 
 We research & develop IT solutions, based on blockchain, cloud and mobile tech. Working in financial, e-commerce, logistics and other domains.
 
