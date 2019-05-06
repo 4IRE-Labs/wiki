@@ -33,13 +33,11 @@
 2. Customer-facing processes
 3. IoT enablement
 
-## Blockchain Insurance Case Studies
-
-### Case: Catastrophe Swaps and Bonds
+## Catastrophe Swaps and Bonds
 
 ![](../../.gitbook/assets/image%20%2819%29.png)
 
-### Cross-insurance interaction
+## Cross-insurance interaction
 
 ![](../../.gitbook/assets/image%20%2831%29.png)
 
@@ -49,7 +47,7 @@ At minimum, global insurers can use blockchain to cut asset management costs by 
 
 > B3i Services AG’s purpose is to provide insurance solutions on a blockchain platform that substantially improves efficiency across the value chain of the re/insurance industry — in some cases up to 30 percent, said B3i Services in a statement.
 
-### **Case: Asset Registries and Data Provenance**
+## **Asset Registries and Data Provenance**
 
 ![](../../.gitbook/assets/image%20%2828%29.png)
 
@@ -57,17 +55,17 @@ Global, digital ledger that provides audit trail for valuable assets throughout 
 
 Started with diamonds. Can be used for tokenized assets \(like real estate\).
 
-### **Case: Onboarding / KYC**
+## **Onboarding / KYC**
 
 Use blockchain for onboarding of new customers or verification of policy holders identity. ****Brings reduced admin cost and speed-up process for onboarding.
 
-### **Case: Flight Delay Insurance**
+## **Flight Delay Insurance**
 
 ![](../../.gitbook/assets/image%20%2864%29.png)
 
 Automatic compensation for flight delays
 
-### **Case: Insurance with IOT / sensors**
+## **Insurance with IOT / sensors**
 
 * Medical sensors data \(ambiotex\)
 * Agriculture
@@ -76,19 +74,15 @@ Can be used for:
 
 Smart contracts can automate certain aspects of insurance contracts, driven by cognitive services and trusted Internet of Things \(IoT\) data feeds. E.g. Vehicle insurance costs can differ on the performance of the driver.
 
-### **Case: real-time insurance for the sharing economy**
+## **Real-time insurance for the sharing economy**
 
 ![](../../.gitbook/assets/image%20%2821%29.png)
 
 The emergence of the sharing economy, exemplified by companies such as Uber and Airbnb, has created the opportunity for new, dynamic insurance products that address the challenges inherent in leveraging personal assets for commercial purposes.
 
-### **Case: Underwriting**
+## **Underwriting**
 
 ![](../../.gitbook/assets/image%20%2857%29.png)
 
-Non-underwritten products—tightly integrated with the blockchain for policy administration, claim handling, and ultimately payment—reduce overheads at nearly every point in an insurance company’s operations, resulting in the potential for significant margin growth in even the most mature markets.  
-  
-
-
-###  
+Non-underwritten products—tightly integrated with the blockchain for policy administration, claim handling, and ultimately payment—reduce overheads at nearly every point in an insurance company’s operations, resulting in the potential for significant margin growth in even the most mature markets.
 
