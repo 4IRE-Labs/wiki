@@ -23,7 +23,7 @@
 
 ## Services
 
-* [Architecture / Protocol Design](../../services/architecture-design-protocol.md)
+* [Architecture / Protocol Design](../../services/architecture-design-protocol/)
 * [Dapps / Wallets Development](../../services/dapps-wallets-development.md) – cost reduction in backend, web, mobile development
 * [UXUI Design](../../services/uxui-design.md)
 * [Customer Development and Validation](../../services/customer-development-and-formal-validation/)

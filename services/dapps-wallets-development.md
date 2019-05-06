@@ -61,6 +61,6 @@ Deliverables: Fully operational software, 24/7 support
 Duration: continuous
 
 {% hint style="info" %}
-See also [Architecture](architecture-design-protocol.md) and [Design](uxui-design.md)
+See also [Architecture](architecture-design-protocol/) and [Design](uxui-design.md)
 {% endhint %}
 
