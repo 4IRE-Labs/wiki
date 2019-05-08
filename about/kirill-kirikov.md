@@ -79,5 +79,6 @@ Kirill likes traveling, cooking, hosting friend parties and is a big fan of owls
 * [https://github.com/ContractLand/terra-bridge-btc](https://github.com/ContractLand/terra-bridge-btc)
 
 {% embed url="https://www.loom.com/embed/78cce37eecbe4cf7911580dbf322e3dc" %}
+
 {% embed url="https://www.youtube.com/watch?v=u\_xioPOoSuE&feature=youtu.be" %}
 
