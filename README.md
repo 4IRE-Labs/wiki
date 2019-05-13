@@ -4,10 +4,10 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ## **Solutions for**
 
-* [Fintech](solutions/fintech/)
-* [Logistics](solutions/asset-tracking/)
-* [Communities, Networks & Cooperatives](solutions/community-network-coop/)
-* [Smart Cities](solutions/smart-city.md)
+* [Fintech]()
+* [Logistics](solutions-for/asset-tracking/)
+* [Communities, Networks & Cooperatives](solutions-for/community-network-coop/)
+* [Smart Cities](solutions-for/smart-city.md)
 
 ## About
 

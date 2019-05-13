@@ -12,6 +12,7 @@ For logistics, manufacturing, e-commerce \(companies with solid logistics depart
 ## Case Studies
 
 * [Blockchain-based notarization platform](../../case-studies/notarization-platform.md)
+* [https://news.microsoft.com/transform/starbucks-turns-to-technology-to-brew-up-a-more-personal-connection-with-its-customers/](https://news.microsoft.com/transform/starbucks-turns-to-technology-to-brew-up-a-more-personal-connection-with-its-customers/)
 
 ## Publications
 

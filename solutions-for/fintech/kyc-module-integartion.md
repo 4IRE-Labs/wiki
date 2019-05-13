@@ -9,12 +9,9 @@ For whom:
 * fintech startups that should meet the banks' KYC requirements
 * crypto exchanges
 
+## **1st option**
 
-
-### **1st option**
-
-Using 725/730  ERC token standards with the further KYC provider integration \(using the smart contracts\) based on our [case study for notary on blockchain](https://wiki.4irelabs.com/docs/solutions/asset-tracking/notarization-platform).   
-****
+Using 725/730 ERC token standards with the further KYC provider integration \(using the smart contracts\) based on our [case study for notary on blockchain](https://wiki.4irelabs.com/docs/solutions/asset-tracking/notarization-platform).
 
 **Cons:**
 
@@ -44,35 +41,32 @@ Using 725/730  ERC token standards with the further KYC provider integration \(u
 7. The consumer uses the services provided by the platform \( Provider\) through their identity contract to Service Provider’s contracts.
 8. Service Provider’s contract confirms that the Consumer’s identity contract contains a claim by a Certificate authority before doing any changes.
 
-### **2nd option**
+## **2nd option**
 
-**integration with the several local and global KYC providers**  
-
+**integration with the several local and global KYC providers**
 
 The more complex verification process
 
-We could recommend several local KYC local providers and also add the global KYC provider with a good worldwide reputation \( like [thomsonreuters.com](https://www.thomsonreuters.com/en.html)  for verifying the blacklist countries, terrorists, etc\)  
-
+We could recommend several local KYC local providers and also add the global KYC provider with a good worldwide reputation \( like [thomsonreuters.com](https://www.thomsonreuters.com/en.html) for verifying the blacklist countries, terrorists, etc\)
 
 Benefits:
 
 * adding new KYC providers in the future
 * more complex verification process
 
-The verification process also differs in Asia as the local ID providers claim 
+The verification process also differs in Asia as the local ID providers claim
 
-* **Streaming:** __Voice and face identification via video chat 
+* **Streaming:** \_\_Voice and face identification via video chat 
 
 We also assisted the fintech startup with the KYC process and it was implemented under 3 steps \( for EU based customers\) :
 
-- verify the identity via ****[**https://www.passfort.com**](https://www.passfort.com)
+* verify the identity via **\*\*\[**[https://www.passfort.com\*\*\]\(https://www.passfort.com](https://www.passfort.com**]%28https://www.passfort.com)\)
 
 **-** verify the address via 3rd party service integration
 
-- for transactions up to 50 K the user should provide the source of the funds, conduct the passport verification and manually change the status via the admin panel\)
+* for transactions up to 50 K the user should provide the source of the funds, conduct the passport verification and manually change the status via the admin panel\)
 
-For each KYC verification is paid commission. The main challenge was related to non-relevant passport photos or selfies, thus it was decided to integrate AI based solution for filtering the photos instead of paying commission for non-relevant verifications to KYC providers. Artificial intelligence was used for approvement of documents via self-learning algorithms.  
-****
+For each KYC verification is paid commission. The main challenge was related to non-relevant passport photos or selfies, thus it was decided to integrate AI based solution for filtering the photos instead of paying commission for non-relevant verifications to KYC providers. Artificial intelligence was used for approvement of documents via self-learning algorithms.
 
 **For both options, we can use the KYC module of our crowdfunding platform:**
 
@@ -90,11 +84,9 @@ We also worked with APIs of well-know KYC providers while we were integrating th
 
 Useful info on:
 
-{% embed url="https://medium.com/trimplement/the-fintech-kyc-compliance-guide-48ccaed984c0" %}
+{% embed url="https://medium.com/trimplement/the-fintech-kyc-compliance-guide-48ccaed984c0" caption="" %}
 
 \
 
-{% embed url="https://www.slimpay.com/blog/what-is-kyc/" %}
-
-
+{% embed url="https://www.slimpay.com/blog/what-is-kyc/" caption="" %}
 

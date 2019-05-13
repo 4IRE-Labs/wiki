@@ -24,21 +24,21 @@
 ## Services
 
 * [Architecture / Protocol Design](../../services/architecture-design-protocol/)
-* [Dapps / Wallets Development](../../services/dapps-wallets-development.md) – cost reduction in backend, web, mobile development
+* [Dapps / Wallets Development](../../services/dapps-wallets-development.md) – cost reduction in backend, web, mobile development
 * [UXUI Design](../../services/uxui-design.md)
 * [Customer Development and Validation](../../services/customer-development-and-formal-validation/)
 * Security Audit \([BitRent](https://medium.com/practical-blockchain/bitrent-smart-contracts-audit-case-study-d7d61a34e9f7)\)
 
 ## Case Studies
 
-* [Notary on blockchain](../../case-studies/notarization-platform.md) – Blockchain-based notarization platform
-* [Hiveonline](../../case-studies/hiveonline.md) – The financial trust platform for small businesses
-* [Kidcoin](../../case-studies/kidcoin.md) – Blockchain-based family finances and digital wallets for kids
-* [Kepler Collective](../../case-studies/kepler-collective.md) – Hub for selecting and investing in ICO pools
+* [Notary on blockchain](../../case-studies/notarization-platform.md) – Blockchain-based notarization platform
+* [Hiveonline](../../case-studies/hiveonline.md) – The financial trust platform for small businesses
+* [Kidcoin](../../case-studies/kidcoin.md) – Blockchain-based family finances and digital wallets for kids
+* [Kepler Collective](../../case-studies/kepler-collective.md) – Hub for selecting and investing in ICO pools
 * [ORME](../../case-studies/orme.md) – Market maker for the exchange platform
-* [ICONX](../../case-studies/iconx-wip.md) – Asset tokenization platform
+* [ICONX](../../case-studies/iconx-wip.md) – Asset tokenization platform
 * [Hybrid wallet](../../case-studies/hybrid-wallet-fiat-and-crypto-assets.md) for Fiat and crypto Assets
-* [Terra bridge](https://github.com/ContractLand/terra-bridge-btc) – Connecting EVM based blockchain for Interchain DEX
+* [Terra bridge](https://github.com/ContractLand/terra-bridge-btc) – Connecting EVM based blockchain for Interchain DEX
 
 ## Our Benefits
 
