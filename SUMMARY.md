@@ -64,3 +64,7 @@
 * [Archive](case-studies/archive/README.md)
   * [Merging.Space – Project Management Tool](case-studies/archive/merge-space-overview.md)
 
+## Extra
+
+* [Open Grant Programs](extra/open-grant-programs.md)
+
