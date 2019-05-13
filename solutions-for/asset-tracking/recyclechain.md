@@ -56,6 +56,7 @@ The Dnepr Regional Council approved a new strategy for handling solid domestic w
 
 ## To Do's
 
+* Market Overview – Max
 * Describe the Use Case – Stas, Max review
 * Find hackathons/incubators – Stas
 * Validate the problem/solution fit for cities
