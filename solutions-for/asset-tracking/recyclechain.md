@@ -56,18 +56,14 @@ The Dnepr Regional Council approved a new strategy for handling solid domestic w
 
 ## To Do's
 
+* Describe the Use Case – Stas, Max review
+* Find hackathons/incubators – Stas
 * Validate the problem/solution fit for cities
-  * Amster [https://amsterdamsmartcity.com](https://amsterdamsmartcity.com/)
-  * Research hackathons/incubators
-    * 1991 Hub
-  * [https://www.smartcitygovt.com/](https://www.smartcitygovt.com/)
-
-Else:
-
-* [https://www.plasticbank.com/](https://www.plasticbank.com/)
-* WEF [https://www.weforum.org/communities/the-future-of-cities-and-urbanization](https://www.weforum.org/communities/the-future-of-cities-and-urbanization) + more
-
-
+  * Expert Amster [https://amsterdamsmartcity.com](https://amsterdamsmartcity.com/) – Stas
+  * Expert 1991 Hub – Max
+  * Estonian Experts \(ask PM for recommendations\) – Max
+  * Tom Szaky [https://www.terracycle.com/](https://www.terracycle.com/) – Max
+  * [plasticbank.com](https://www.plasticbank.com/) – Stas
 
 ## **Notes**
 
