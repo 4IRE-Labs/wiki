@@ -4,7 +4,7 @@
 
 * [**Aragon Nest & Flock**](https://github.com/aragon/nest) ****– Aragon Nest was launched to support projects building fundamental tools and infrastructure, largely around Aragon and Ethereum
 * [**0x Ecosystem Acceleration Program**](https://0x.smapply.io/) – funding startups building in a variety of 0x relayer verticals.
-* [**The Stable Fund**](https://stable.fund/) ****– aim to support startups using using Dai or Maker infrastructure as a core component. The Stable Fund offers no-strings attached \(equity-free\) grants of up to $25k and equity funding of up to $200k.
+* **The Stable Fund** – aim to support startups using using Dai or Maker infrastructure as a core component. The Stable Fund offers no-strings attached \(equity-free\) grants of up to $25k and equity funding of up to $200k.
 * [**Polkadot Grants**](https://github.com/w3f/Web3-collaboration/blob/master/development.md) –These are more informal grants published on the Web 3 Foundation's github. Funding can be applied for by those building around the Polkadot ecosystem and working to make the Web 3 vision a reality.
 
 [**Ethereum Community Fund**](https://ecf.network/) – The Ethereum Community Fund is similar to the EF in that it wishes to advance the Ethereum ecosystem, however is backed by several founding members including Cosmos, OmiseGo, Maker, Golem, Web3 and Status. Typical grant amounts range from $10,000 to $100,000; in general, ECF will provide funding that will initially cover 6 months of runway. See previously funded ECF alumni [here](https://medium.com/ecf-review/meet-the-grantees-ecf-class-of-2018-part-ii-ff46a284a0b1). Interested parties can submit an application [here](https://docs.google.com/forms/d/e/1FAIpQLScJoqPd1VeBLtmjUm4Cde_H12uFjS_a1HkSd8czRhDFCQJCPQ/viewform).
