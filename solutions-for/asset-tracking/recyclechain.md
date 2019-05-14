@@ -60,14 +60,16 @@ The Dnepr Regional Council approved a new strategy for handling solid domestic w
 * Annual growth rate is 6%
 * Asia-Pacific region would exhibit the highest growth
 * Key Players: Advanced Disposal Services Biffa Group Clean Harbors, Inc. Covanta Holding Corporation Daiseki Co. Ltd. Hitachi Zosen Corporation Remondis AG & Co. Kg Suez Environment S.A. Veolia Environment S.A. Waste Management Inc.
+* 438 startups, 571 investor on angel list
 
 Sources:
 
 * [https://www.alliedmarketresearch.com/waste-management-market](https://www.alliedmarketresearch.com/waste-management-market)
+* [https://angel.co/waste-management-1](https://angel.co/waste-management-1)
 
 ## To Do's
 
-* Market Overview – Max
+* ~~Market Overview – Max~~
 * Describe the Use Case – Stas, Max review
 * Find hackathons/incubators – Stas
 * Validate the problem/solution fit for cities
@@ -76,9 +78,4 @@ Sources:
   * Estonian Experts \(ask PM for recommendations\) – Max
   * Tom Szaky [https://www.terracycle.com/](https://www.terracycle.com/) – Max
   * [plasticbank.com](https://www.plasticbank.com/) – Stas
-
-## **Notes**
-
-1. Smart contract is an agreement performed in the code, specific example — automatically transfers owners rights to some object to the user who sends funds
-2. [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vTs1ZB5aK4sA5FMqRZodEnXeyGo9NcwA_NCdvwPs6czJkGueaXk2-NxP4iluFXaEbUkCeSYDWsYJo0D/pub?start=false&loop=false&delayms=3000) from the Blockchain Hackathon
 
