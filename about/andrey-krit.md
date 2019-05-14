@@ -6,7 +6,7 @@ description: Lead iOS Engineer
 
 ![Andrey Krit ](../.gitbook/assets/andrei-krit.jpg)
 
-Oper for all new, like creative things, responsible.
+Open for all new, like creative things, responsible.
 
 Technologies:
 
