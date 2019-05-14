@@ -12,11 +12,14 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 ## About
 
 * [Organization](about/organization.md)
-* [Kirill Kirikov](about/kirill-kirikov.md)
+* [Kirill Kirikov](about/kirill-kirikov.md) 
 * [Oleg Bugrovoy](about/oleg-bugrovoy.md)
 * [Bohdan Malkevych](about/bohdan-malkevych.md)
 * [Helen Petrashchuk](about/helen-petrashchuk.md)
 * [Max Semenchuk](about/max-semenchuk.md)
+* Yura Riznyk 
+* Andrey Krit 
+* Roman Malkevych
 
 Check out our [Blog](https://medium.com/practical-blockchain) & [Twitter](https://twitter.com/4irelabs)
 
