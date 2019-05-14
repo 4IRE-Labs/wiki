@@ -32,6 +32,8 @@
 * [Oleg Bugrovoy](about/oleg-bugrovoy.md)
 * [Bohdan Malkevych](about/bohdan-malkevych.md)
 * [Helen Petrashchuk](about/helen-petrashchuk.md)
+* [Yura Riznyk](about/yura-riznyk.md)
+* [Andrey Krit](about/andrey-krit.md)
 * [Max Semenchuk](about/max-semenchuk.md)
 
 ## Services
