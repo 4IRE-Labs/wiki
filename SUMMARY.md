@@ -69,5 +69,5 @@
 
 ## Extra
 
-* [Open Grant Programs](extra/open-grant-programs.md)
+* [Open Funding Opportunities](extra/open-funding-opportunities.md)
 

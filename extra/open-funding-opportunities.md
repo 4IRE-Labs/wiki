@@ -1,4 +1,4 @@
-# Open Grant Programs
+# Open Funding Opportunities
 
 ## Grants
 
