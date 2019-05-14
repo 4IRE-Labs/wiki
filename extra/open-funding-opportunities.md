@@ -56,6 +56,12 @@
 
 \*\*\*\*[**WeTrust**](https://cryptounlocked.wetrust.io/)\*\*\*\*
 
+[Giveth](https://beta.giveth.io/campaigns/5b51bdbdf8ba4732631989f5)
+
+[GitCoin](https://gitcoin.co/grants/85/tennagraph-minimum-bias-ethereum-signal-aggregat-2)
+
+[WeTrust](https://cryptounlocked.wetrust.io/tennagraph)
+
 [**The Bounties Network**](https://explorer.bounties.network/explorer) –An open-source, generalized platform for bounties across Ethereum
 
 [**Status Open Bounty**](https://openbounty.status.im/) – Status has an [active bounties platform](https://openbounty.status.im/app#/) that is supported by a $1m pledge in Nov 2017 to support projects and developers in the space.
