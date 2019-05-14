@@ -26,7 +26,7 @@
 * [Architecture / Protocol Design](../../services/architecture-design-protocol/)
 * [Dapps / Wallets Development](../../services/dapps-wallets-development.md) – cost reduction in backend, web, mobile development
 * [UXUI Design](../../services/uxui-design.md)
-* [Customer Development and Validation](../../services/customer-development-and-formal-validation/)
+* [Customer Development and Validation](../../services/customer-development-and-formal-validation.md)
 * Security Audit \([BitRent](https://medium.com/practical-blockchain/bitrent-smart-contracts-audit-case-study-d7d61a34e9f7)\)
 
 ## Case Studies
