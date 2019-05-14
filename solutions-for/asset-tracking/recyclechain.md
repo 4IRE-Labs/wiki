@@ -54,6 +54,17 @@ Working with Cognition Foundry, the Plastic Bank leverages the best technology, 
 
 The Dnepr Regional Council approved a new strategy for handling solid domestic waste. It allows to pay for the removal and disposal of waste by the waste itself. Citizens will take the waste for recycling at special centers and receive a cashback on a special card which you can use to pay for the utility bills. [More \(in russian\)](https://uteka.ua/publication/Za-kommunalnye-platezhi-mozhno-budet-rasschitatsya-musorom)
 
+## Market Overview
+
+* Global Waste Management Market is expected to reach $530B by 2025
+* Annual growth rate is 6%
+* Asia-Pacific region would exhibit the highest growth
+* Key Players: Advanced Disposal Services Biffa Group Clean Harbors, Inc. Covanta Holding Corporation Daiseki Co. Ltd. Hitachi Zosen Corporation Remondis AG & Co. Kg Suez Environment S.A. Veolia Environment S.A. Waste Management Inc.
+
+Sources:
+
+* [https://www.alliedmarketresearch.com/waste-management-market](https://www.alliedmarketresearch.com/waste-management-market)
+
 ## To Do's
 
 * Market Overview – Max
