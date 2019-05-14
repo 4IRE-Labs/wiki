@@ -15,7 +15,6 @@
   * [Calculating the Crypto Address Reputation for Antifraud](solutions-for/fintech/complaince-scoring.md)
   * [Ensuring GDPR Compliance with Tech Audit](solutions-for/fintech/tech-gdpr-compliance.md)
   * [Improving Developer Experience \(DevX\)](solutions-for/fintech/developer-community-devxp.md)
-* [Blockchains for Smart Cities](solutions-for/smart-city.md)
 * [Logistics](solutions-for/asset-tracking/README.md)
   * [Expanding Supply Chaing Traceability with Blockchain](solutions-for/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
   * [Secure Audit Trail for eDocuments with Blockchain](solutions-for/asset-tracking/how-to-track-document-versions-and-signers-on-the-blockchain.md)
@@ -24,6 +23,7 @@
   * [Funding Public Goods with Continuous Token Model](solutions-for/community-network-coop/continuous-token-model-apiary.md)
   * [Improving Ethereum Governance with Signals Collection App](solutions-for/community-network-coop/improving-ethereum-governance-with-signals-collection-app.md)
   * [Increasing the amount and quality of interactions in the community](solutions-for/community-network-coop/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
+  * [Blockchains for Smart Cities](solutions-for/community-network-coop/smart-city.md)
 
 ## About
 

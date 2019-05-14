@@ -50,6 +50,12 @@
 
 [**ETH PRIZE**](http://ethprize.io/)– issuing bounties to solve the Ethereum ecosystem's biggest challenges. There are currently two bounties available, for $250k each.
 
+[**Giveth**](https://beta.giveth.io/)\*\*\*\*
+
+\*\*\*\*[**GitCoin**](https://gitcoin.co/grants/)\*\*\*\*
+
+\*\*\*\*[**WeTrust**](https://cryptounlocked.wetrust.io/)\*\*\*\*
+
 [**The Bounties Network**](https://explorer.bounties.network/explorer) –An open-source, generalized platform for bounties across Ethereum
 
 [**Status Open Bounty**](https://openbounty.status.im/) – Status has an [active bounties platform](https://openbounty.status.im/app#/) that is supported by a $1m pledge in Nov 2017 to support projects and developers in the space.
