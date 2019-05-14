@@ -34,6 +34,7 @@
 * [Helen Petrashchuk](about/helen-petrashchuk.md)
 * [Yura Riznyk](about/yura-riznyk.md)
 * [Andrey Krit](about/andrey-krit.md)
+* [Roman Malkevych](about/roman-malkevych.md)
 * [Max Semenchuk](about/max-semenchuk.md)
 
 ## Services
