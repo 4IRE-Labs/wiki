@@ -8,6 +8,8 @@
 
 [**The Stable Fund**](https://stable.fund/) ****–The Stable Fund is an investment fund started by L4, in partnership with MakerDAO. They aim to support startups using using Dai or Maker infrastructure as a core component. The Stable Fund offers no-strings attached \(equity-free\) grants of up to $25k and equity funding of up to $200k.
 
+[**Polkadot Grants**](https://github.com/w3f/Web3-collaboration/blob/master/development.md) –These are more informal grants published on the Web 3 Foundation's github. Funding can be applied for by those building around the Polkadot ecosystem and working to make the Web 3 vision a reality.
+
 [**Ethereum Community Fund**](https://ecf.network/) – The Ethereum Community Fund is similar to the EF in that it wishes to advance the Ethereum ecosystem, however is backed by several founding members including Cosmos, OmiseGo, Maker, Golem, Web3 and Status. Typical grant amounts range from $10,000 to $100,000; in general, ECF will provide funding that will initially cover 6 months of runway. See previously funded ECF alumni [here](https://medium.com/ecf-review/meet-the-grantees-ecf-class-of-2018-part-ii-ff46a284a0b1). Interested parties can submit an application [here](https://docs.google.com/forms/d/e/1FAIpQLScJoqPd1VeBLtmjUm4Cde_H12uFjS_a1HkSd8czRhDFCQJCPQ/viewform).
 
 [**Ethereum Foundation**](https://app.tettra.co/teams/ethereum/pages/applying-for-ef-grants) – The Ethereum Foundation grants have committed over $11M to over 52 projects since they kicked off their program at the start of 2018. They fund projects that are committed to advancing the Ethereum ecosystem; a rather broad mandate covering public infrastructure and community goods. Preceding the funding of each wave, the EF [publishes a wish list](https://blog.ethereum.org/2018/08/17/ethereum-foundation-grants-update-wave-3/) for the types of projects that they hope to see apply.
@@ -37,8 +39,6 @@
 \*\*\*\*[**NEM Community Fund**](https://nem.io/community-fund/) – As of September 2018, funding process is undergoing a restructure. The funding pool consists of ~300 million NEM \($28M at current prices\) and is largely focused on the Asia-Pacific region.
 
 [**Bitcoin Development Grants** ](https://bitcoindevelopmentgrant.com/en/)– A $1.2M grant fund for Bitcoin protocol development supported by Bitmain, Xapo and many more crypto figureheads.
-
-[**Polkadot Grants**](https://github.com/w3f/Web3-collaboration/blob/master/development.md) –These are more informal grants published on the Web 3 Foundation's github. Funding can be applied for by those building around the Polkadot ecosystem and working to make the Web 3 vision a reality.
 
 \*\*\*\*[**Scuttlebutt Grants**](https://github.com/ssbc/grants-process/blob/master/grants.md) – $5k grants \($200k pledged\) to support with the development of Scuttlebutt, funded by DFINITY.
 
