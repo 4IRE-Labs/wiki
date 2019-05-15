@@ -1,12 +1,18 @@
-# Open Funding Opportunities
+# Blockchain Funding Opportunities
 
 ## Grants
 
-* [**Aragon Nest & Flock**](https://github.com/aragon/nest) ****– Aragon Nest was launched to support projects building fundamental tools and infrastructure, largely around Aragon and Ethereum
-* [**0x Ecosystem Acceleration Program**](https://0x.smapply.io/) – funding startups building in a variety of 0x relayer verticals.
-* **The Stable Fund** – aim to support startups using using Dai or Maker infrastructure as a core component. The Stable Fund offers no-strings attached \(equity-free\) grants of up to $25k and equity funding of up to $200k.
-* [**Polkadot Grants**](https://github.com/w3f/Web3-collaboration/blob/master/development.md) –These are more informal grants published on the Web 3 Foundation's github. Funding can be applied for by those building around the Polkadot ecosystem and working to make the Web 3 vision a reality.
-* \*\*\*\*[**ConsenSys Grants**](https://www.grants.consensys.net/) – will be dispersed in amounts of $10-25k via Gitcoin. Applicants will have the opportunity to apply under categories, which will be determined by the wider Ethereum community in an effort to support decentralized decision making. For now, ConsenSys will support projects that focus on infrastructure, research, user experience, design, interoperability, and developer tools. To learn more, [sign up here](https://pages.consensys.net/consensys-grants) for a dedicated newsletter to keep up to date on grant recipients and projects.
+[**Aragon Nest & Flock**](https://github.com/aragon/nest) ****– Aragon Nest was launched to support projects building fundamental tools and infrastructure, largely around Aragon and Ethereum
+
+[**0x Ecosystem Acceleration Program**](https://0x.smapply.io/) – funding startups building in a variety of 0x relayer verticals.
+
+[**Polkadot Grants**](https://github.com/w3f/Web3-collaboration/blob/master/development.md) –These are more informal grants published on the Web 3 Foundation's github. Funding can be applied for by those building around the Polkadot ecosystem and working to make the Web 3 vision a reality.
+
+\*\*\*\*[**Gnosis Ecosystem Grant**](https://blog.gnosis.pm/unveiling-the-gnosis-ecosystem-fund-7353926bfb65) – is more than just a fund, not only are we encouraging third-party development on Gnosis platforms, we’re providing mentorship, community, and outreach support.
+
+\*\*\*\*[**ConsenSys Grants**](https://www.grants.consensys.net/) – will be dispersed in amounts of $10-25k via Gitcoin. Applicants will have the opportunity to apply under categories, which will be determined by the wider Ethereum community in an effort to support decentralized decision making. For now, ConsenSys will support projects that focus on infrastructure, research, user experience, design, interoperability, and developer tools. To learn more, [sign up here](https://pages.consensys.net/consensys-grants) for a dedicated newsletter to keep up to date on grant recipients and projects.
+
+**The Stable Fund** – aim to support startups using using Dai or Maker infrastructure as a core component. The Stable Fund offers no-strings attached \(equity-free\) grants of up to $25k and equity funding of up to $200k.
 
 [**Ethereum Community Fund**](https://ecf.network/) – The Ethereum Community Fund is similar to the EF in that it wishes to advance the Ethereum ecosystem, however is backed by several founding members including Cosmos, OmiseGo, Maker, Golem, Web3 and Status. Typical grant amounts range from $10,000 to $100,000; in general, ECF will provide funding that will initially cover 6 months of runway. See previously funded ECF alumni [here](https://medium.com/ecf-review/meet-the-grantees-ecf-class-of-2018-part-ii-ff46a284a0b1). Interested parties can submit an application [here](https://docs.google.com/forms/d/e/1FAIpQLScJoqPd1VeBLtmjUm4Cde_H12uFjS_a1HkSd8czRhDFCQJCPQ/viewform).
 
@@ -14,7 +20,7 @@
 
 [**Protocol Labs Request For Proposals \(RFP\) Program**](https://protocol.ai/blog/ann-research-rfp/) – The first RFPs solicit improvements to components used in Filecoin. Future RFPs will fund problems across PL's entire stack of protocols, from Multiformats to Filecoin, and they also welcome open problems and suggestions for work that they may be interested in funding. The RFP Program has an inital commitment of $5M to fund multiple rounds of grants ranging from $5,000 to $2M. Check out active RFPs [here](https://github.com/protocol/research-RFPs). Each RFP references an [Open Problem Statement](https://github.com/protocol/research/issues) in Protocol Labs' public research repo. Application instructions can be found [here](https://github.com/protocol/research-RFPs/blob/master/RFP-application-instructions.md).
 
-\*\*\*\*[**MakerDAO Core Community Development Group \(CCDG\)** ](https://medium.com/makerdao/announcing-the-makerdao-core-community-development-initiative-d388bfba88e3)– A series of initiatives \(fund grants, bounties, community development rewards\) designed to create direct incentives and support structures to allow people to participate in and contribute to the success the Dai Stable Coin platform.
+[**MakerDAO Core Community Development Group \(CCDG\)** ](https://medium.com/makerdao/announcing-the-makerdao-core-community-development-initiative-d388bfba88e3)– A series of initiatives \(fund grants, bounties, community development rewards\) designed to create direct incentives and support structures to allow people to participate in and contribute to the success the Dai Stable Coin platform.
 
 [**Social Alpha Foundation**](https://www.socialalphafoundation.org/saf-grant/) – Co-founded by Jehan Chu of Kenetic Capital, Social Alpha Foundation offers grants ranging from $10k - 100,000k. There are two categories of grants: the education grant, which supports organizations, collectives and individuals that offer blockchain education with a focus on social impact and the application grant, for non-commercial blockchain applications that tackle social welfare issues with a focus on Public Health, Environment or Education.
 
@@ -66,12 +72,12 @@
 
 ## Hackathons
 
-* [https://coinlist.co/build/the-graph](https://coinlist.co/build/the-graph)
 * Feb 15-17 [EthDenver](https://www.ethdenver.com/)
 * Mar 8-10 [EthParis](https://ethparis.com/)
 * Apr 8-14 [EDCON](https://www.edcon.io/) \(Sydney\) – Kirill
 * Apr 12-14 [Odyssey](https://www.odyssey.org/odyssey-hackathon/) - Biggest Blockchain & AI hackathon \(Groningen, Netherlands\) – Max
 * Apr 19-21 [EthCapetown](https://ethcapetown.com/)
+* May 9 [Coinlist The Graph](https://coinlist.co/build/the-graph)
 * May 13-15 [Consesus](https://www.coindesk.com/events/consensus-2019) \(NYC\)
 * May 17-19 [EthNYC](https://twitter.com/ethnewyork)
 * Aug 10-12 [EthIndia](https://ethindia.co/) \(Bangalore\)

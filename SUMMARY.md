@@ -67,5 +67,5 @@
 
 ## Extra
 
-* [Open Funding Opportunities](extra/open-funding-opportunities.md)
+* [Blockchain Funding Opportunities](extra/open-funding-opportunities.md)
 
