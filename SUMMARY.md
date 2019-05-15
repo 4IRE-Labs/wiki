@@ -43,7 +43,7 @@
   * [Blockchain for Enterprise](services/architecture-design-protocol/blockchain-for-enterprise.md)
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
 * [UXUI Design](services/uxui-design.md)
-* [Customer Development & Validation](services/customer-development-and-formal-validation.md)
+* [New Product Development & Validation](services/customer-development-and-formal-validation.md)
 
 ## Case Studies
 
