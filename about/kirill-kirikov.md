@@ -32,13 +32,17 @@ Mobile financial management tool, Environment monitoring system/ enterprise app 
 * Swift
 * Docker
 * Ethereum / Solidity
+* EOS
+* Multichain 
+* Quorum
+* Stellar  
 * Tendermint
 * Hyperledger / Solidity
 * AWS
 
 Development Tools: JIRA, Confluence
 
-Libraries/Frameworks/Tools: CSS, XML, HTML, JSON, ODBC, REST, FIREBASE, STL
+Libraries/Frameworks/Tools: CSS, XML, HTML, JSON, ODBC, REST, FIREBASE, STL, IPFS
 
 ## **Recent Projects**
 
