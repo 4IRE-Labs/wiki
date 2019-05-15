@@ -16,9 +16,9 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 * [Bohdan Malkevych](about/bohdan-malkevych.md)
 * [Helen Petrashchuk](about/helen-petrashchuk.md)
 * [Max Semenchuk](about/max-semenchuk.md)
-* Yura Riznyk 
-* Andrey Krit 
-* Roman Malkevych
+* [Yura Riznyk ](about/yura-riznyk.md)
+* [Andrey Krit ](about/andrey-krit.md)
+* [Roman Malkevych](about/roman-malkevych.md)
 
 Check out our [Blog](https://medium.com/practical-blockchain) & [Twitter](https://twitter.com/4irelabs)
 
