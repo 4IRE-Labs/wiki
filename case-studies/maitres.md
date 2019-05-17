@@ -4,6 +4,8 @@ description: Smart restaurant booking platform
 
 # Maitres
 
+![](../.gitbook/assets/5b740d3ff79479451f204e43_maitres_design_splash-1.jpg)
+
 The smart restaurant booking platform in Sweden and integrated with 25 the most popular Swedish restaurants \(more on [https://www.maitres.com/restaurants](https://www.maitres.com/restaurants)\) The app was also integrated with the several payment gateways and allows for the corporate users to generate invoices.  The users can easily find the restaurant, book online, pay via the app for the bill and rate.  The app also allows the owners of the restaurants to increase the revenue and enhance the dining experience.    
 
 
