@@ -23,7 +23,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 Check out our [Blog](https://medium.com/practical-blockchain) & [Twitter](https://twitter.com/4irelabs)
 
 ## Services
-
+* [GDPR](services/gdpr-compliance.md)
 * [Architecture / Protocol Design](services/architecture-design-protocol/)
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
 * [UXUI Design](services/uxui-design.md)
