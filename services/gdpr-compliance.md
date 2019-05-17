@@ -1,5 +1,4 @@
-4irelabs GDPR manifesto
-==
+## 4irelabs GDPR manifesto
 
 Basics
 --
