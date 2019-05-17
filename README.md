@@ -24,7 +24,7 @@ Check out our [Blog](https://medium.com/practical-blockchain) & [Twitter](https:
 
 ## Services
 
-* [GDPR](https://github.com/4IRE-Labs/wiki/tree/03f67b277170cbd15dc4c595255f8f8edcb42b50/services/gdpr-compliance.md)
+* [GDPR](services/gdpr.md)
 * [Architecture / Protocol Design](services/architecture-design-protocol/)
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
 * [UXUI Design](services/uxui-design.md)
