@@ -16,7 +16,19 @@ The app was released into production in 2018. Check out and test [https://itunes
 
 iOS and backend development, tech support.
 
-Team Lead: [Oleg Bugrovoy](../about/oleg-bugrovoy.md)
+Technologies: 
+
+Backend: Go 
+
+Native mobile development: Swift 
+
+Video explanation on [https://www.facebook.com/maitresdining/videos/2431530593545586/](https://www.facebook.com/maitresdining/videos/2431530593545586/)
+
+Team Lead: [Oleg Bugrovoy](../about/oleg-bugrovoy.md) 
+
+Team composition:
+
+Tech Lead, Backend Engineer, iOS Engineer, Q/A
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
