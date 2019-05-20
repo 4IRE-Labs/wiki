@@ -32,20 +32,6 @@ Video explanation
 
 More on [https://www.hivenetwork.online/](https://www.hivenetwork.online/)
 
-
-
-### **hiveonline builds reputation based on the facts**
-
-![how it works 1](https://www.hivenetwork.online/wp-content/uploads/2019/05/factors-of-reputation.png)
-
-* Does the business deliver on their contract?
-* Do they get paid for the job?
-* Do they pay back their loans on time?
-* Do they have professional certifications?
-* Does the customer pay on time?
-* How long has the company existed for?
-* How to they compare with similar companies that have gone bankrupt?
-
 {% embed url="http://fintechlab.dk/how-to-combine-fintech-with-impact/" %}
 
 \*\*\*\*
