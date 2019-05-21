@@ -12,7 +12,9 @@ Team: [Bohdan Malkevych](../about/bohdan-malkevych.md), James Hancock, [Max Seme
 
 Project got funding from Aragon Nest program, here's our presentation from the Aracon conference:
 
-{% embed url="https://youtu.be/DhMvMTwArXA?t=3945" %}
+{% embed url="https://youtu.be/DhMvMTwArXA?t=3964" %}
+
+
 
 Link to the project \(mainnet\): [https://tennagraph.com/](https://tennagraph.com/)
 
