@@ -48,6 +48,18 @@ Other skills: AGILE CVS GIT MERCURIAL SUBVERSION
 
 Libraries/Frameworks/Tools: DJANGO GOOGLE WEB TOOLKIT HIBERNATE ANSIBLE WEB3.JS TRUFFLE OPENZEPPELIN
 
+Languages: 
+
+English - advanced 
+
+Spanish - Upper intermediate 
+
+Russian - native 
+
+Ukrainian - native 
+
+Portuguese - Upper intermediate
+
   
 
 
