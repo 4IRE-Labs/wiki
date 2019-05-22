@@ -13,13 +13,13 @@
 
 * [Enabling Decentralized Interchain Transactions between ETH and BTC with Parachains](ethereum-bitcoin-bridge-wip.md)
 * [Improving Crypto Wallet Usability with Steganography](asset-security.md)
-* [Ensuring GDPR Compliance with Tech Audit](tech-gdpr-compliance.md)
+* [GDPR Compliance](tech-gdpr-compliance.md)
+* [KYC/AML Compliance](kyc-module-integartion.md)
+* PSD2 Compliance
 * [Transparent Cross Border Payments with Blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
 * [Improving Developer Experience \(devX\)](developer-community-devxp.md)
 * [Increasing Liquidity with Asset Tokenization](asset-tokenization.md)
-* [KYC Compliance](kyc-module-integartion.md)
-* Effective Scaling, DevOps & Infrastructure
-* Data Scoring \([Calculating the Crypto Address Reputation for Antifraud](complaince-scoring.md)\)
+* Data Scoring / Sense making \([Calculating the Crypto Address Reputation for Antifraud](complaince-scoring.md)\)
 
 ## Services
 
@@ -28,6 +28,7 @@
 * [UXUI Design](../../services/uxui-design.md)
 * [Customer Development and Validation](../../services/customer-development-and-formal-validation.md)
 * Security Audit \([BitRent](https://medium.com/practical-blockchain/bitrent-smart-contracts-audit-case-study-d7d61a34e9f7)\)
+* Design Sprint
 
 ## Case Studies
 
