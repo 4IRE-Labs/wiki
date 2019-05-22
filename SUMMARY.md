@@ -1,7 +1,6 @@
 # Table of contents
 
 * [4IRE Labs \| Navigation](README.md)
-* [Back to the homescreen](https://4irelabs.com)
 
 ## Solutions for
 
@@ -24,6 +23,7 @@
   * [Improving Ethereum Governance with Signals Collection App](solutions-for/community-network-coop/improving-ethereum-governance-with-signals-collection-app.md)
   * [Increasing the amount and quality of interactions in the community](solutions-for/community-network-coop/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
   * [Blockchains for Smart Cities](solutions-for/community-network-coop/smart-city.md)
+* [Back to the homescreen](https://4irelabs.com)
 
 ## About
 
