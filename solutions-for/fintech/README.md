@@ -30,6 +30,13 @@
 * Security Audit \([BitRent](https://medium.com/practical-blockchain/bitrent-smart-contracts-audit-case-study-d7d61a34e9f7)\)
 * Design Sprint
 
+## Consultants
+
+* [Kirill Kirikov](../../about/kirill-kirikov.md)
+* [Oleg Bugrovoy](../../about/oleg-bugrovoy.md)
+* [Roman Malkevych](../../about/roman-malkevych.md)
+* [Bohdan Malkevych](../../about/bohdan-malkevych.md)
+
 ## Case Studies
 
 * [Notary on blockchain](../../case-studies/notarization-platform.md) – Blockchain-based notarization platform
