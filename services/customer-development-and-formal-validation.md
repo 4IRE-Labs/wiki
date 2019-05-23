@@ -3,7 +3,7 @@
 ## Formats
 
 * [GV Design Sprint](https://www.gv.com/sprint/)
-* Customer Development \(interviews, market research\)
+* Customer Development Interviews
 * Market Research
 * Ritual Dissent
 * TRIZ
