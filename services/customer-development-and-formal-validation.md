@@ -19,13 +19,12 @@
 ## Formats
 
 * [GV Design Sprint](https://www.gv.com/sprint/)
+* Discovery Phase
 * Customer Development Interviews
 * Market Research
 * Ritual Dissent
 * TRIZ
-* Value Proposition Canvas
-* Strategy Sprint
-* Community Development
+* Strategy Session
 * [Brainstorming](https://business.tutsplus.com/articles/top-brainstorming-techniques--cms-27181)
 * MVP
 
