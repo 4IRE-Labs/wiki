@@ -27,6 +27,7 @@
 * Strategy Session
 * [Brainstorming](https://business.tutsplus.com/articles/top-brainstorming-techniques--cms-27181)
 * MVP
+* Grant Application Sprint
 
 \*With focus on online collaboration
 
