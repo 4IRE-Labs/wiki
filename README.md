@@ -28,7 +28,7 @@ Check out our [Blog](https://medium.com/practical-blockchain) & [Twitter](https:
 * [Architecture / Protocol Design](services/architecture-design-protocol/)
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
 * [UXUI Design](services/uxui-design.md)
-* [New Product Development & Validation](services/customer-development-and-formal-validation.md)
+* [New Product Development & Validation](solutions-for/customer-development-and-formal-validation.md)
 
 ## Case Studies
 

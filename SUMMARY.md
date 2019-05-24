@@ -23,6 +23,7 @@
   * [Improving Ethereum Governance with Signals Collection App](solutions-for/community-network-coop/improving-ethereum-governance-with-signals-collection-app.md)
   * [Increasing the amount and quality of interactions in the community](solutions-for/community-network-coop/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
   * [Blockchains for Smart Cities](solutions-for/community-network-coop/smart-city.md)
+* [New Product Development & Validation](solutions-for/customer-development-and-formal-validation.md)
 * [Back to the homescreen](https://4irelabs.com)
 
 ## About
@@ -44,7 +45,6 @@
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
 * [UXUI Design](services/uxui-design.md)
 * [GDPR](services/gdpr.md)
-* [New Product Development & Validation](services/customer-development-and-formal-validation.md)
 
 ## Case Studies
 
