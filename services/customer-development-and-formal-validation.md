@@ -1,5 +1,13 @@
 # New Product Development & Validation
 
+## Topics
+
+* Fintech
+* Web3
+* SupplyChain
+* Smart Cities
+* Dgov/DAO
+
 ## Formats
 
 * [GV Design Sprint](https://www.gv.com/sprint/)
@@ -12,5 +20,5 @@
 * Community Development
 * [Brainstorming](https://business.tutsplus.com/articles/top-brainstorming-techniques--cms-27181)
 
-With focus on online collaboration
+\*With focus on online collaboration
 
