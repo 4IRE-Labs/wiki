@@ -2,7 +2,15 @@
 
 ## Topics
 
-* Fintech
+* Fintech & DeFi
+  * Compliance
+  * Scaling
+  * Data Sensemaking
+  * Adoption
+  * Traceability
+  * Security
+  * Usability
+  * Interoperability
 * Web3
 * SupplyChain
 * Smart Cities
@@ -19,6 +27,7 @@
 * Strategy Sprint
 * Community Development
 * [Brainstorming](https://business.tutsplus.com/articles/top-brainstorming-techniques--cms-27181)
+* MVP
 
 \*With focus on online collaboration
 
