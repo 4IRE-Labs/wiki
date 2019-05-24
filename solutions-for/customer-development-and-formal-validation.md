@@ -1,20 +1,29 @@
 # New Product Development & Validation
 
-## Formats & Tools
+## Stages & Tools
 
-[GV Design Sprint](https://www.gv.com/sprint/)
+Design thinking, [GV Design Sprint](https://www.gv.com/sprint/), TRIZ
 
-* Discovery Phase
-* Customer Development Interviews
-* Market Research
-* Ritual Dissent
-* TRIZ
-* Strategy Session
+### 1. Problem Research
+
+* Cust Dev Interviews
+* Behaviour Observation
+* Empathy map / Canvas
+* Competitors Analysis
+
+### 2. Solution Ideation & Validation
+
 * [Brainstorming](https://business.tutsplus.com/articles/top-brainstorming-techniques--cms-27181)
+* Ritual Dissent
 * MVP
-* Grant Application Sprint
+* Tests with customers
 
-\*With focus on online collaboration
+### 3. Product / Market Fit
+
+* Grant Application Sprint 
+* Dedicated team
+
+\*With focus on the online collaboration
 
 ## Topics
 
