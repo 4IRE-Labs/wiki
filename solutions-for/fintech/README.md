@@ -33,6 +33,7 @@
 ## Consultants
 
 * [Kirill Kirikov](../../about/kirill-kirikov.md)
+* [Max Semenchuk](../../about/max-semenchuk.md)
 * [Oleg Bugrovoy](../../about/oleg-bugrovoy.md)
 * [Roman Malkevych](../../about/roman-malkevych.md)
 * [Bohdan Malkevych](../../about/bohdan-malkevych.md)
