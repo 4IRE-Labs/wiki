@@ -1,6 +1,12 @@
-# Extending Maker DAO scalability with BTC collateral
+# Use Cases for Terrabridge \(ETH&lt;&gt;BTC\)
 
-## Need
+## DEX and 0x Scenarios
+
+Reasons for DEX
+
+## Extending Maker DAO Collateral Pool
+
+Need:
 
 Facts:
 
@@ -16,15 +22,17 @@ Dai’s disability to scale has no impact on Maker because that was never the go
 
 The two other prominent use cases are long leverage and treasury/payroll management for ICOs. The basic idea is always to generate liquidity _ahead of a future liquidity event_ — spending money that you expect to receive later. Either from selling ETH after a tax deadline or from selling it at a higher price at a later time.
 
-## Solution
+### Solution
 
 Hypotheses:
 
 * We can extend reserves with Bitcoin 
 
-## References
+### References
 
 * [https://medium.com/@hasufly/maker-dai-stable-but-not-scalable-3107ba730484?sk=bc7d016d8f47ff68a951beee75ccf0c6](https://medium.com/@hasufly/maker-dai-stable-but-not-scalable-3107ba730484?sk=bc7d016d8f47ff68a951beee75ccf0c6)
 * [https://www.reddit.com/r/MakerDAO/comments/7dyrl4/bitcoin\_as\_a\_collateral\_type/](https://www.reddit.com/r/MakerDAO/comments/7dyrl4/bitcoin_as_a_collateral_type/)
 * [https://www.coindesk.com/makerdao-demos-tech-to-back-stablecoin-dai-with-any-crypto-asset](https://www.coindesk.com/makerdao-demos-tech-to-back-stablecoin-dai-with-any-crypto-asset)
+
+## BTC for the Bonding Curve
 
