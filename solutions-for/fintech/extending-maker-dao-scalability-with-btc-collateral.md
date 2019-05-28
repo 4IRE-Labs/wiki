@@ -1,8 +1,13 @@
 # Use Cases for Terrabridge \(ETH&lt;&gt;BTC\)
 
-## DEX and 0x Scenarios
+## Trading BTC through DEX 
 
-Reasons for DEX
+DEX benefits assumptions:
+
+* Lower operational risks such as hacks and thefts
+* Overcomes government censorship \(in countries like China and India\)
+* Exchange can impose terms or block users assets or accounts without notice
+* Possible manipulation with trading orders and wash trading to create the “impression” that a particular trading pair is attractive \(?\)
 
 ## Extending Maker DAO Collateral Pool
 
@@ -34,5 +39,5 @@ Hypotheses:
 * [https://www.reddit.com/r/MakerDAO/comments/7dyrl4/bitcoin\_as\_a\_collateral\_type/](https://www.reddit.com/r/MakerDAO/comments/7dyrl4/bitcoin_as_a_collateral_type/)
 * [https://www.coindesk.com/makerdao-demos-tech-to-back-stablecoin-dai-with-any-crypto-asset](https://www.coindesk.com/makerdao-demos-tech-to-back-stablecoin-dai-with-any-crypto-asset)
 
-## BTC for the Bonding Curve
+## Staking BTC in the Bonding Curve
 
