@@ -17,8 +17,6 @@ Wrapped BTC \([wbtc](https://www.wbtc.network/)\) is a possible solution.
 
 ## Extending Maker DAO Collateral Pool
 
-Need:
-
 Facts:
 
 * Professional arbitrage is unprofitable for Dai
@@ -33,11 +31,9 @@ Dai’s disability to scale has no impact on Maker because that was never the go
 
 The two other prominent use cases are long leverage and treasury/payroll management for ICOs. The basic idea is always to generate liquidity _ahead of a future liquidity event_ — spending money that you expect to receive later. Either from selling ETH after a tax deadline or from selling it at a higher price at a later time.
 
-### Solution
+Solution Hypotheses:
 
-Hypotheses:
-
-* We can extend reserves with Bitcoin 
+* We can extend reserves with Bitcoin
 
 ### References
 
