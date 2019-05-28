@@ -101,6 +101,7 @@
 * [https://blockchaincentre.com.au/incubator/](https://blockchaincentre.com.au/incubator/)
 * [https://www.adelphoi.io/](https://www.adelphoi.io/)
 * [DAO Incubator](http://daoincubator.org)
+* [Eth Metacartel Accelerator](https://medium.com/metacartel/calling-all-application-layer-projects-metacartel-dao-accelerator-applications-now-open-676d0a9409e)
 
 
 
