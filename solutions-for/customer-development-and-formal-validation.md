@@ -10,6 +10,7 @@ Design thinking, [GV Design Sprint](https://www.gv.com/sprint/), TRIZ
 * Behaviour Observation
 * Empathy map / Canvas
 * Competitors Analysis
+* How Might We Statement
 
 ### 2. Solution Ideation & Validation
 
