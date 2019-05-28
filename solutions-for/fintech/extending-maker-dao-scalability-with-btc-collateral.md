@@ -1,13 +1,19 @@
 # Use Cases for Terrabridge \(ETH&lt;&gt;BTC\)
 
-## Trading BTC through DEX 
+[Terra-Bridge](https://github.com/ContractLand/terra-bridge-btc) is a protocol for interchain transfers between Ethereum and Bitcoin. Here we explore the possible applications of this protocols for Decentralized Finance Services.
+
+## DEX Trading 
 
 DEX benefits assumptions:
 
 * Lower operational risks such as hacks and thefts
 * Overcomes government censorship \(in countries like China and India\)
 * Exchange can impose terms or block users assets or accounts without notice
-* Possible manipulation with trading orders and wash trading to create the “impression” that a particular trading pair is attractive \(?\)
+* Possible manipulation with trading orders and wash trading to create the “impression” that a particular trading pair is attractive
+
+But DEX now support only 
+
+Wrapped BTC \([wbtc](https://www.wbtc.network/)\) is a possible solution.
 
 ## Extending Maker DAO Collateral Pool
 
@@ -40,4 +46,14 @@ Hypotheses:
 * [https://www.coindesk.com/makerdao-demos-tech-to-back-stablecoin-dai-with-any-crypto-asset](https://www.coindesk.com/makerdao-demos-tech-to-back-stablecoin-dai-with-any-crypto-asset)
 
 ## Staking BTC in the Bonding Curve
+
+Bonding curve pools can be extended with the additional liquidity.
+
+## **Stable coins**
+
+External chain assets such as BTC could diversify the collaterals used in stable currencies on Ethereum.
+
+## **Financial derivatives**
+
+Interconnecting blockchain based assets opens up possibilities for various financial derivative products.
 
