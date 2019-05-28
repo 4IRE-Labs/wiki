@@ -54,19 +54,13 @@
 
 ## Bounties
 
-[**ETH PRIZE**](http://ethprize.io/)– issuing bounties to solve the Ethereum ecosystem's biggest challenges. There are currently two bounties available, for $250k each.
+[**ETH PRIZE**](http://ethprize.io/) ****– issuing bounties to solve the Ethereum ecosystem's biggest challenges. There are currently two bounties available, for $250k each.
 
-[**Giveth**](https://beta.giveth.io/)\*\*\*\*
+[**Giveth**](https://beta.giveth.io/) ****– ****A Community of Makers Building the Future of Giving
 
-\*\*\*\*[**GitCoin**](https://gitcoin.co/grants/)\*\*\*\*
+\*\*\*\*[**GitCoin**](https://gitcoin.co/grants/) ****– ****the easiest way to monetize or incentivize work in Open Source Software
 
-\*\*\*\*[**WeTrust**](https://cryptounlocked.wetrust.io/)\*\*\*\*
-
-[Giveth](https://beta.giveth.io/campaigns/5b51bdbdf8ba4732631989f5)
-
-[GitCoin](https://gitcoin.co/grants/85/tennagraph-minimum-bias-ethereum-signal-aggregat-2)
-
-[WeTrust](https://cryptounlocked.wetrust.io/tennagraph)
+\*\*\*\*[**WeTrust**](https://cryptounlocked.wetrust.io/) ****– ****Proof of Impact Fundraising
 
 [**The Bounties Network**](https://explorer.bounties.network/explorer) –An open-source, generalized platform for bounties across Ethereum
 
