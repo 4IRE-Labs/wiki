@@ -28,17 +28,25 @@ Design thinking, [GV Design Sprint](https://www.gv.com/sprint/), TRIZ
 
 ## Topics
 
-* Fintech & DeFi
-  * Compliance
+* Ethereum
+  * Governance / Signaling – [Tennagraph](../case-studies/tennagraph.md)
+  * UX – [CryptoGraphica](../case-studies/cryptographica.md)
+  * Privacy
   * Scaling
-  * Data Sensemaking
-  * Adoption
-  * Traceability
   * Security
-  * Usability
-  * Interoperability
-* Web3
-* SupplyChain
-* Smart Cities
-* Dgov/DAO
+  * DevX \(knowledge & tools\)
+* Web 3
+  * Protocol integrations – [TerraBridge](../solutions-for/fintech/extending-maker-dao-scalability-with-btc-collateral.md)
+  * Development and deployment tooling
+  * New languages, libraries, chains
+  * Second layer protocols Monitoring
+  * UI
+  * Benchmarking tools
+  * Core implementation testing tools
+  * Polkadot Runtime Modules and corresponding UIs
+  * Hardware wallet integration / HSMs
+  * Various Research \(has subtopics\)
+* DAO Stack, Gnosis, Aragon, Maker DAO, 0x
+  * Adoption / Ecosystem Dev – [TerraBridge](../solutions-for/fintech/extending-maker-dao-scalability-with-btc-collateral.md), [Apiary](../solutions-for/community-network-coop/continuous-token-model-apiary.md)
+  * Scaling
 
