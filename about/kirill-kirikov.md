@@ -8,11 +8,11 @@ Lead Blockchain Developer: Ethereum/Solidity, Hyperledger, Multichain. 12+ years
 
 ### Industry Experience
 
-Banking & Finance, Environmental Activism & Social Organisations, Entertainment & Games, Construction & Real estate
+Automotive, Cloud Computing, Financial Technologies, Environmental Activism & Social Organisations
 
 ### Product Experience
 
-Mobile financial management tool, Environment monitoring system/ enterprise app and server/ cameras streaming and recording, Middleware for integration of wallet services and consumers, e-learning gamification solution, ICO
+Mobile financial management tool, Environment monitoring system/ enterprise app and server/ cameras streaming and recording, Middleware for integration of wallet services and consumers, e-learning gamification solution, ICO, blockchain interoperability.
 
 ## Tech Stack
 
