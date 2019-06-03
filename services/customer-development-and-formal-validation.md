@@ -24,7 +24,8 @@ Design thinking, [GV Design Sprint](https://www.gv.com/sprint/), TRIZ
 * Grant Application Sprint 
 * Dedicated team
 
-\*With focus on the online collaboration
+\*With focus on the online collaboration  
+[Innovation A to Z Map](https://info.boardofinnovation.com/hubfs/Innovation-A-to-Z-Board-of-Innovation.pdf?utm_campaign=Tools%3A%20Innovation%20A%20to%20Z%20&utm_medium=email&_hsenc=p2ANqtz--ziGd_V_BLsyPa5nPKXIo47vHBV7sGpsUVvajVeYJjVwfn2cBoSC8I1gJoeJ7J3WhpYYh0GzsuJYDJa_tgWFr1DMOmpA&_hsmi=66231733&utm_content=66231733&utm_source=hs_automation&hsCtaTracking=3977fa6b-5139-4a33-96f1-84532780c5a6%7C3b4bc9be-74b9-4d90-9e4e-28a469500c3c)
 
 ## Topics
 
