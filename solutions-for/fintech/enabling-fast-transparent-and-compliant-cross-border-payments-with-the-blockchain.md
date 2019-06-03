@@ -211,7 +211,11 @@ The blockchain naturally fits business case for cross-border remittances to:
 * PoC implementation – vertically scalable prototype
 * Further evolution of blockchain part with all required events captured
 
-## More info
+## More info 
+
+Interview with our client, CEO Avi Sarkar Drop Money - the remittance system based on PSD2/ GDPR regulations: [https://medium.com/practical-blockchain/cross-border-payments-on-blockchain-an-interview-with-avi-sarkar-founder-ceo-drop-money-39a12f5ac41f](https://medium.com/practical-blockchain/cross-border-payments-on-blockchain-an-interview-with-avi-sarkar-founder-ceo-drop-money-39a12f5ac41f)
+
+
 
 ​[https://www.toptal.com/finance/market-research-analysts/international-money-transfer](https://www.toptal.com/finance/market-research-analysts/international-money-transfer)
 
