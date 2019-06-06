@@ -6,7 +6,7 @@
 
 ## Case Management
 
-![Now](../../.gitbook/assets/image%20%2863%29.png)
+![Now](../../.gitbook/assets/image%20%2864%29.png)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Comparison
 
-![](../../.gitbook/assets/image%20%2872%29.png)
+![](../../.gitbook/assets/image%20%2873%29.png)
 
 ### Benefits
 
@@ -61,7 +61,7 @@ Use blockchain for onboarding of new customers or verification of policy holders
 
 ## **Flight Delay Insurance**
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../.gitbook/assets/image%20%2865%29.png)
 
 Automatic compensation for flight delays
 
