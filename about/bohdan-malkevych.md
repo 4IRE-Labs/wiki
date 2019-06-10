@@ -10,6 +10,8 @@ Blockchain Engineer
 * Backend: Python \(Django\), NodeJS
 * Frontend: Vue.js, Vuetify, Javascript, HTML, CSS
 
+
+
 [Github profile](https://github.com/malkevych), [Twiter profile](https://twitter.com/bomalkevych), [Peepeth](https://peepeth.com/malkevych)
 
 Projects: [CMI](../case-studies/cmi.md), [Tennagraph](../case-studies/tennagraph.md), [ICONX](../case-studies/iconx-wip.md), [Blockchain-based notarization platform](../case-studies/notarization-platform.md)
@@ -52,8 +54,10 @@ Development Tools:
 * VISUAL STUDIO 
 * XCODE 
 * SUBLIME TEXT 3 
-* 
-Other skills: AWS, Google analytics, Flurry, Mixpanel, HEROKU, GIT/SVN, GIT Flow, Npm, Yarn,  Ethereum Hyperladger,  Quorum, Hyperledger Fabric, OpenZeppelin, Cocoapods, Core-Data, Realm Database, SQL, Parse Server, GCD, NSOperation, AFNetworking, Alomofire, ObjectMapper, AutoLayout, SizeClasses, Interface builder,, Social SDKs, Xamarin IOS, Google Analytics, Flurry, Mixpanel, AdMob, HTML, CSS
+
+
+
+Other skills: AWS, Google analytics, Flurry, Mixpanel, HEROKU, GIT/SVN, GIT Flow, Npm, Yarn,  Ethereum Hyperladger,  Quorum, Hyperledger Fabric, OpenZeppelin, Cocoapods, Core-Data, Realm Database, SQL, Parse Server, GCD, NSOperation, AFNetworking, Alomofire, ObjectMapper, AutoLayout, SizeClasses, Interface builder,, Social SDKs, Xamarin IOS, Google Analytics, Flurry, Mixpanel, AdMob, HTML, CSS, Machine Learning 
 
 Libraries/Frameworks/Tools: DJANGO MOCHA VUE.JS WEB3.JS TRUFFLE AXIOS
 
@@ -78,7 +82,7 @@ MBFileAttachLib \( Objective-c\) - This library gives you an ability browse thro
 [https://github.com/SeductiveMobile/M8BadgeToken](https://github.com/SeductiveMobile/M8BadgeToken).  
 
 
-**Icon X** – Blockchain Engineer on this project.. ICON X is a marketing focused ICO platform.
+**Icon X** –  the crowdfunding platform where Bohdan was engaged as Solution Architect. 
 
 **Recycle Chain** – is an open market for recyclables. Core of the system is the blockchain database, that's stored and synced between all users.
 
