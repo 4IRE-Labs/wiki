@@ -4,7 +4,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ## **Solutions for**
 
-* [Fintech](solutions-for/fintech/)
+* [Fintech](solutions-for/fintech/) – Fintech / e-wallets / Remittance services/ bonds management / digital banking solutions / regtech / assets tokenization
 * [Logistics & Supply Chains](solutions-for/asset-tracking/)
 * [Communities, Networks & Cooperatives](solutions-for/community-network-coop/)
 
