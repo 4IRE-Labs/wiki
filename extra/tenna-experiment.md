@@ -8,5 +8,13 @@
 * Tenna дерево транзакций
 * Tenna hold time?
 
+## Plan
 
+* HWM
+* Map
+* Longterm goal + sprint questions
+* Ligtning Demos
+* Sketching
+* Prototyping
+* Testing
 
