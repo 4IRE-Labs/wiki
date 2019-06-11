@@ -10,11 +10,27 @@
 
 ## Plan
 
-* HWM
+* Experts + HowMightWe
 * Map
 * Longterm goal + sprint questions
-* Ligtning Demos
-* Sketching
+* Sketching + Lightning Demos
 * Prototyping
 * Testing
+
+## How might we
+
+* Extract more insights from the carbonvote
+* Show the results in the clear / insightful manner
+
+## Sprint Questions
+
+* Can we add insights on top of existent data?
+* Can we make helpful insights for big players?
+* Can we make our way in existent gov process?
+* Can we connect enough ID data?
+
+## Resources
+
+* [https://mapping.daolandscape.today/](https://mapping.daolandscape.today/)
+* [https://www.youtube.com/watch?v=3fF0Ex7qalQ&feature=youtu.be](https://www.youtube.com/watch?v=3fF0Ex7qalQ&feature=youtu.be)
 
