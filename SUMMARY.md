@@ -70,5 +70,4 @@
 ## Extra
 
 * [Blockchain Funding Opportunities](extra/open-funding-opportunities.md)
-* [Tenna experiment](extra/tenna-experiment.md)
 
