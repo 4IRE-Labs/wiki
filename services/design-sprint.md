@@ -1,9 +1,9 @@
 # Design Sprint
 
-## Who is it for?
+## Who uses it and when?
 
 * startup founders – for faster product validation
-* product managers – for innovation and improvements in the existent product
+* product managers – for innovation and improvements in the existent product \(like new features or side products\)
 
 ### Product Manager Journey
 
@@ -16,7 +16,7 @@
 * Teams lack real data on which to base business decisions, instead relying on endless internal discussions
 * Product development cycles run too long, causing teams to lose enthusiasm and focus.
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image%20%2838%29.png)
 
 ### So how might we...
 
@@ -26,15 +26,25 @@
 
 ## How is Design Sprint solving it
 
+Check this 5 minutes intro video:
+
 {% embed url="https://www.youtube.com/watch?v=7oIvJOGhVck" %}
 
 ### Principles
 
 * Together Alone – optimal combination of collective intelligence and deep individual work
 * Tangible Discussion – faster and more clear decision making
-* Don't rely on creativity – using tested methods for idea generation
+* Don't rely on creativity – using tested methods for mass solution ideation
 
 ### Process
 
 ![](../.gitbook/assets/image%20%2822%29.png)
+
+### Team Composition
+
+You must have the decision maker and a facilitator in the sprint. Besides that you can include the people with expertises you can use in the product: designers, engineers, marketers etc. Optimal composition is 5-7 people, but there's no restriction to have more or less. What's **crucial – is to have subject experts** who understand the problem we're trying to solve.
+
+## Interested to learn more?
+
+Contact us through the chat here or via email [ms@4irelabs.com](mailto:ms@4irelabs.com) \(Max\) and we can have a call to discuss how design sprint can help your product.
 
