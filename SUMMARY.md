@@ -44,7 +44,7 @@
   * [Blockchain for Enterprise](services/architecture-design-protocol/blockchain-for-enterprise.md)
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
 * [UXUI Design](services/uxui-design.md)
-* [New Product Development & Validation](services/customer-development-and-formal-validation.md)
+* [Design Sprint](services/design-sprint.md)
 * [GDPR Compliance Audit](services/gdpr.md)
 
 ## Case Studies
@@ -67,7 +67,8 @@
 * [Archive](case-studies/archive/README.md)
   * [Merging.Space – Project Management Tool](case-studies/archive/merge-space-overview.md)
 
-## Extra
+## Labs
 
+* [New Product Development & Validation](extra/customer-development-and-formal-validation.md)
 * [Blockchain Funding Opportunities](extra/open-funding-opportunities.md)
 

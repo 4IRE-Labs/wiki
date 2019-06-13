@@ -12,7 +12,7 @@
 
 ## Problem Research
 
-![Customer Journey](../../.gitbook/assets/image%20%2859%29.png)
+![Customer Journey](../../.gitbook/assets/image%20%2863%29.png)
 
 ### **Needs Hypotheses**
 

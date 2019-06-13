@@ -26,7 +26,7 @@ Cross-chain transfer between Ethereum and Bitcoin is useful in fields such as:
 
 ## **Solution**
 
-![](../../.gitbook/assets/image%20%2862%29.png)
+![](../../.gitbook/assets/image%20%2866%29.png)
 
 We’ve design the bridge, that is a two way pegging mechanism that works through a rotating validator set and two bridge contracts \(“contract” here refers to an executable piece of logic in the context of its residing chain\). The bridge contracts resides on the home and foreign chains, hereon referred to as home-bridge and foreign-bridge.
 

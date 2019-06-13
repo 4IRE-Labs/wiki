@@ -6,7 +6,7 @@
 
 ## Case Management
 
-![Now](../../.gitbook/assets/image%20%2864%29.png)
+![Now](../../.gitbook/assets/image%20%2868%29.png)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Comparison
 
-![](../../.gitbook/assets/image%20%2873%29.png)
+![](../../.gitbook/assets/image%20%2877%29.png)
 
 ### Benefits
 
@@ -39,7 +39,7 @@
 
 ## Cross-insurance interaction
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
 A blockchain ledger could provide insight and notification if one of those reinsurers then tried to offload some of its portion to a subsidiary of the other reinsurer. It also would help insurers gain confidence that, as they pay out claims, they are appropriately rebalancing their capital exposures against specific risks.
 
@@ -49,7 +49,7 @@ At minimum, global insurers can use blockchain to cut asset management costs by 
 
 ## **Asset Registries and Data Provenance**
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](../../.gitbook/assets/image%20%2830%29.png)
 
 Global, digital ledger that provides audit trail for valuable assets throughout their lifetime journey. This digital incarnation, or thumbprint, is used by various stakeholders across a supply chain pipeline to form provenance and verify authenticity.
 
@@ -61,7 +61,7 @@ Use blockchain for onboarding of new customers or verification of policy holders
 
 ## **Flight Delay Insurance**
 
-![](../../.gitbook/assets/image%20%2865%29.png)
+![](../../.gitbook/assets/image%20%2869%29.png)
 
 Automatic compensation for flight delays
 
@@ -82,7 +82,7 @@ The emergence of the sharing economy, exemplified by companies such as Uber and 
 
 ## **Underwriting**
 
-![](../../.gitbook/assets/image%20%2857%29.png)
+![](../../.gitbook/assets/image%20%2861%29.png)
 
 Non-underwritten products—tightly integrated with the blockchain for policy administration, claim handling, and ultimately payment—reduce overheads at nearly every point in an insurance company’s operations, resulting in the potential for significant margin growth in even the most mature markets.
 

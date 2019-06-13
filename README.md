@@ -4,7 +4,13 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ## **Solutions for**
 
-* [Fintech](solutions-for/fintech/) – Fintech / e-wallets / Remittance services/ bonds management / digital banking solutions / regtech / assets tokenization
+* [Fintech](solutions-for/fintech/)
+  * e-wallets
+  * remittance services
+  * bonds management
+  * digital banking solutions
+  * regtech
+  * assets tokenization
 * [Logistics & Supply Chains](solutions-for/asset-tracking/)
 * [Communities, Networks & Cooperatives](solutions-for/community-network-coop/)
 
@@ -28,7 +34,8 @@ Check out our [Blog](https://medium.com/practical-blockchain) & [Twitter](https:
 * [Architecture / Protocol Design](services/architecture-design-protocol/)
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
 * [UXUI Design](services/uxui-design.md)
-* [New Product Development & Validation](services/customer-development-and-formal-validation.md)
+* Design Sprint
+* [New Product Development & Validation](extra/customer-development-and-formal-validation.md)
 
 ## Case Studies
 
