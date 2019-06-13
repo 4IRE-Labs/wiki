@@ -16,13 +16,15 @@
 * Teams lack real data on which to base business decisions, instead relying on endless internal discussions
 * Product development cycles run too long, causing teams to lose enthusiasm and focus.
 
+![](../.gitbook/assets/image%20%2837%29.png)
+
 ### So how might we...
 
 * Create more more and better ideas
 * Enable deeper understanding, engagement and alignment with the team
 * Get real data and learn faster
 
-## How does it work?
+## How is Design Sprint solving it
 
 {% embed url="https://www.youtube.com/watch?v=7oIvJOGhVck" %}
 
