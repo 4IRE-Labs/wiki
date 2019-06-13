@@ -42,7 +42,7 @@ Check this 5 minutes intro video:
 
 ### Team Composition
 
-You must have the decision maker and a facilitator in the sprint. Besides that you can include the people with expertises you can use in the product: designers, engineers, marketers etc. Optimal composition is 5-7 people, but there's no restriction to have more or less. What's **crucial – is to have subject experts** who understand the problem we're trying to solve.
+You must have the decision maker and a facilitator in the sprint. Besides that you can include the people with expertises you can use in the product: designers, engineers, marketers etc. Optimal composition is 5-7 people, but there's no restriction to have more or less. What's **crucial – is to have at least one subject expert** who understands the problem we're trying to solve.
 
 ## Can it help my product?
 
