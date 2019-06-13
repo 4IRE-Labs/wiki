@@ -24,7 +24,7 @@
 * Enable deeper understanding, engagement and alignment with the team
 * Get real data and learn faster
 
-## How is Design Sprint solving it
+## How is Design Sprint solving it?
 
 Check this 5 minutes intro video:
 
@@ -44,7 +44,7 @@ Check this 5 minutes intro video:
 
 You must have the decision maker and a facilitator in the sprint. Besides that you can include the people with expertises you can use in the product: designers, engineers, marketers etc. Optimal composition is 5-7 people, but there's no restriction to have more or less. What's **crucial – is to have subject experts** who understand the problem we're trying to solve.
 
-## Interested to learn more?
+## Can it help my product?
 
-Contact us through the chat here or via email [ms@4irelabs.com](mailto:ms@4irelabs.com) \(Max\) and we can have a call to discuss how design sprint can help your product.
+Contact us through the chat here or via email [ms@4irelabs.com](mailto:ms@4irelabs.com) \(Max\) and let's have a chat to see how it can fit your product or idea.
 
