@@ -31,6 +31,10 @@
 * Helen L
 * Olya
 
+### Outsourcing team
+
+* Team of 16:  Engineers, QAs, PMs
+
 ​Mere on [https://4irelabs.com/team](https://4irelabs.com/team)
 
 ## History & Achievements

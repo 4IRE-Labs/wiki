@@ -67,7 +67,7 @@
 * [Archive](case-studies/archive/README.md)
   * [Merging.Space – Project Management Tool](case-studies/archive/merge-space-overview.md)
 
-## Labs
+## Labs <a id="extra"></a>
 
 * [New Product Development & Validation](extra/customer-development-and-formal-validation.md)
 * [Blockchain Funding Opportunities](extra/open-funding-opportunities.md)
