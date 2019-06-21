@@ -36,7 +36,8 @@
 
 ## Labs
 
-* [Research Projects](labs/projects.md)
+* [Research Projects](labs/projects/README.md)
+  * [Improving UX / Saving password in more human way](labs/projects/improving-ux-saving-password-in-more-human-way.md)
 * [Blockchain Funding Opportunities](labs/open-funding-opportunities.md)
 
 ## About
