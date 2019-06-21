@@ -36,7 +36,7 @@
 
 ## Labs <a id="extra"></a>
 
-* [Research Projects](extra/customer-development-and-formal-validation.md)
+* [Research Projects](extra/projects.md)
 * [Blockchain Funding Opportunities](extra/open-funding-opportunities.md)
 
 ## About
