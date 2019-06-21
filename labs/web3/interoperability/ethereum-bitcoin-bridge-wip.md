@@ -4,9 +4,9 @@ Protocol for interchain transfers between Ethereum and Bitcoin
 
 Problem: there were no mechanism for establishing in details the mechanism for permission-less transferring of assets between Ethereum and Bitcoin.
 
-Services: [Architecture / Protocol Design](../../services/architecture-design-protocol/)
+Services: [Architecture / Protocol Design](../../../services/architecture-design-protocol/)
 
-Team: [Kirill Kirikov](../../about/kirill-kirikov.md)
+Team: [Kirill Kirikov](../../../about/kirill-kirikov.md)
 
 ## **Benefit**
 
@@ -26,7 +26,7 @@ Cross-chain transfer between Ethereum and Bitcoin is useful in fields such as:
 
 ## **Solution**
 
-![](../../.gitbook/assets/image%20%2868%29.png)
+![](../../../.gitbook/assets/image%20%2868%29.png)
 
 We’ve design the bridge, that is a two way pegging mechanism that works through a rotating validator set and two bridge contracts \(“contract” here refers to an executable piece of logic in the context of its residing chain\). The bridge contracts resides on the home and foreign chains, hereon referred to as home-bridge and foreign-bridge.
 
