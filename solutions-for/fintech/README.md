@@ -12,7 +12,7 @@
 ## Solutions
 
 * [Enabling Decentralized Interchain Transactions between ETH and BTC with Parachains](../../labs/web3/interoperability/ethereum-bitcoin-bridge-wip.md)
-* [Improving Crypto Wallet Usability with Steganography](../../labs/web3/improving-ux-saving-password-in-more-human-way/asset-security.md)
+* [Improving Crypto Wallet Usability with Steganography]()
 * [KYC/AML Compliance](kyc-module-integartion.md)
 * PSD2 Compliance
 * [Transparent Cross Border Payments with Blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)

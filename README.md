@@ -48,7 +48,7 @@ Research projects on
 
 * [Tennagraph](case-studies/tennagraph.md) – Ethereum Signal Aggregator
 * [Terra bridge](https://github.com/ContractLand/terra-bridge-btc) – Connecting EVM based blockchain for Interchain DEX
-* [CryptoGraphica](labs/web3/improving-ux-saving-password-in-more-human-way/cryptographica.md) – Solution for wallet \#Usability \#Security
+* [CryptoGraphica](labs/web3/improving-ux-saving-password-in-more-human-way/storing-the-private-key/cryptographica.md) – Solution for wallet \#Usability \#Security
 
 ### Commercial
 

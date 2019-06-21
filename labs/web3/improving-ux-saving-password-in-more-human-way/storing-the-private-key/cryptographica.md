@@ -1,6 +1,6 @@
-# Improving Crypto Wallet Usability with Steganography
+# Saving Password in a picture CryptoGraphica
 
-**Challenge:** How might we ease up private key storing for cryptowallet users?
+ **Challenge:** How might we ease up private key storing for cryptowallet users?
 
 **End goal:** users can recover their private keys without the need to memorize or store them.
 
@@ -12,7 +12,7 @@
 
 ## Problem Research
 
-![Customer Journey](../../../.gitbook/assets/image%20%2865%29.png)
+![Customer Journey](../../../../.gitbook/assets/image%20%2865%29.png)
 
 ### **Needs Hypotheses**
 
@@ -50,7 +50,7 @@ You may take a family picture that everybody has and encode your seed phrase wit
 
 ### Prototype
 
-![iOS App demo](../../../.gitbook/assets/img_8766.gif)
+![iOS App demo](../../../../.gitbook/assets/img_8766.gif)
 
 {% embed url="https://github.com/4IRE-Labs/CryptoGraphica" %}
 
@@ -65,4 +65,12 @@ Questions:
 * Have you ever lost the they?
 
 \*Test goes here\*
+
+A library for wallets that allows saving the seed phrase into local stored photos
+
+![Quick demo](../../../../.gitbook/assets/img_8766.gif)
+
+{% embed url="https://docs.google.com/presentation/d/1tqmcX3rE0vgknMLGck0PqyQAUNYj9pIbZJy3LS8EMZI/edit\#slide=id.g5480e33042\_0\_15" caption="in Russian, english to appear soon" %}
+
+Repo: [https://github.com/4IRE-Labs/CryptoGraphica](https://github.com/4IRE-Labs/CryptoGraphica)
 

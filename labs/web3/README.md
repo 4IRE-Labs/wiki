@@ -15,7 +15,7 @@ While the Web 2.0 democratized many power structures and created new opportuniti
 
 * Adoption/UX:
   * [Saving password in more a human way](improving-ux-saving-password-in-more-human-way/)
-  * [CryptoGraphica](improving-ux-saving-password-in-more-human-way/cryptographica.md)
+  * [CryptoGraphica](improving-ux-saving-password-in-more-human-way/storing-the-private-key/cryptographica.md)
 * DevX & tools:
   * Create convenient tools for DApps development using cloud providers
 * Interoperability:
