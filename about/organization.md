@@ -4,9 +4,18 @@
 
 ### Our Values
 
-* Freedom
-* Team care / close relations
-* Self-development & growth
+* Positive Impact
+* Security
+* Team work
+* Self-development
+* Innovation
+* Transparency
+* Fun
+* Freedom & Travel
+* Trust
+* Commitment
+* Respect
+* Comfort
 
 ## Core Team
 
@@ -15,27 +24,25 @@
 * [​Kirill Kirikov​](kirill-kirikov.md) – Lead Blockchain Developer: Ethereum/Solidity, Hyperledger, Multichain
 * ​[Oleg​ Bugrovoy](oleg-bugrovoy.md) – Lead Blockchain & Backend EngineerA skilled backend/blockchain engineer with management skills.
 * ​[Bohdan​ Malkevych](bohdan-malkevych.md) – Blockchain Engineer
-* Roman Malkevych – Blockchain Engineer
-* Yura Riznyk
+* [Roman Malkevych](roman-malkevych.md) – Blockchain Engineer
+* [Yura Riznyk](yura-riznyk.md)
 * Stas Varetsky
-* Andrey Krit
-* Yaroslav Morgunov
+* [Andrey Krit](andrey-krit.md)
 
 ### Admin team
 
 * [Max Semenchuk](max-semenchuk.md)
 * [Helen Petrashchuk](helen-petrashchuk.md)
 * Nana
-* Johan
-* Svetlana
-* Helen L
-* Olya
+* Johan Lundin
+* Svetlana Semenchuk
+* Helen Linnik
 
-### Outsourcing team
+### Engineering team
 
-* Team of 16:  Engineers, QAs, PMs
+* Team of 16: Engineers, QAs, PMs
 
-​Mere on [https://4irelabs.com/team](https://4irelabs.com/team)
+​More on [https://4irelabs.com/team](https://4irelabs.com/team)
 
 ## History & Achievements
 
