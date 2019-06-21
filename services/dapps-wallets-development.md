@@ -1,12 +1,22 @@
 # Dapps / Wallets Development
 
-## Services
-
 We offer full-cycle development \(BA, UX, PM, Development, QA, DevOps\) for fintech, e-commerce and other Apps and Dapps.
 
 **Case Studies:** [Kidcoin](../case-studies/kidcoin.md), [Kepler Collective](../case-studies/kepler-collective.md), [Social. Media Market](../case-studies/social.-media-market.md), [Smart Documents](../case-studies/notarization-platform.md), [ORME](../case-studies/orme.md)
 
 **Consultants:** [Kirill Kirikov](../about/kirill-kirikov.md), [Oleg Bugrovoy](../about/oleg-bugrovoy.md), [Bohdan Malkevych](../about/bohdan-malkevych.md)
+
+## Design
+
+We design web, mobile experiences, including web3/blockchain. Current portfolio is on [behance](https://www.behance.net/4irelabs) and [dribble](https://dribbble.com/4irelabs).
+
+Some examples:
+
+![](../.gitbook/assets/ezgif-1-674ae8fe72.gif)
+
+![](../.gitbook/assets/ezgif-1-4e6d081ed7.gif)
+
+![](../.gitbook/assets/ezgif-3-1f87aee109.gif)
 
 ## Tech Stack
 
@@ -61,6 +71,6 @@ Deliverables: Fully operational software, 24/7 support
 Duration: continuous
 
 {% hint style="info" %}
-See also [Architecture](architecture-design-protocol/) and [Design](uxui-design.md)
+See also [Architecture](architecture-design-protocol/) and [Design]()
 {% endhint %}
 

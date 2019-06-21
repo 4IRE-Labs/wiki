@@ -18,11 +18,10 @@
 
 ## Services
 
+* [Design Sprint](services/design-sprint.md)
 * [Architecture / Protocol Design](services/architecture-design-protocol/README.md)
   * [Blockchain for Enterprise](services/architecture-design-protocol/blockchain-for-enterprise.md)
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
-* [UXUI Design](services/uxui-design.md)
-* [Design Sprint](services/design-sprint.md)
 * [GDPR Compliance Audit](services/gdpr.md)
 
 ## Labs
