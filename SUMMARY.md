@@ -34,10 +34,10 @@
 * [Design Sprint](services/design-sprint.md)
 * [GDPR Compliance Audit](services/gdpr.md)
 
-## Labs <a id="extra"></a>
+## Labs
 
-* [Research Projects](extra/projects.md)
-* [Blockchain Funding Opportunities](extra/open-funding-opportunities.md)
+* [Research Projects](labs/projects.md)
+* [Blockchain Funding Opportunities](labs/open-funding-opportunities.md)
 
 ## About
 
