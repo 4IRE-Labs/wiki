@@ -13,7 +13,6 @@
   * [Increasing Liquidity with Asset Tokenization](solutions-for/fintech/asset-tokenization.md)
   * [Blockchain for Insurance Case Studies](solutions-for/fintech/blockchain-for-insurance.md)
   * [Calculating the Crypto Address Reputation for Antifraud](solutions-for/fintech/complaince-scoring.md)
-  * [Ensuring GDPR Compliance with Tech Audit](solutions-for/fintech/tech-gdpr-compliance.md)
   * [Improving Developer Experience \(DevX\)](solutions-for/fintech/developer-community-devxp.md)
   * [Use Cases for Terrabridge \(ETH&lt;&gt;BTC\)](solutions-for/fintech/extending-maker-dao-scalability-with-btc-collateral.md)
 * [Logistics](solutions-for/asset-tracking/README.md)
@@ -26,6 +25,20 @@
   * [Increasing the amount and quality of interactions in the community](solutions-for/community-network-coop/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
   * [Blockchains for Smart Cities](solutions-for/community-network-coop/smart-city.md)
 
+## Services
+
+* [Architecture / Protocol Design](services/architecture-design-protocol/README.md)
+  * [Blockchain for Enterprise](services/architecture-design-protocol/blockchain-for-enterprise.md)
+* [Dapps / Wallets Development](services/dapps-wallets-development.md)
+* [UXUI Design](services/uxui-design.md)
+* [Design Sprint](services/design-sprint.md)
+* [GDPR Compliance Audit](services/gdpr.md)
+
+## Labs <a id="extra"></a>
+
+* [Research Projects](extra/customer-development-and-formal-validation.md)
+* [Blockchain Funding Opportunities](extra/open-funding-opportunities.md)
+
 ## About
 
 * [Organization](about/organization.md)
@@ -37,15 +50,6 @@
 * [Andrey Krit](about/andrey-krit.md)
 * [Roman Malkevych](about/roman-malkevych.md)
 * [Max Semenchuk](about/max-semenchuk.md)
-
-## Services
-
-* [Architecture / Protocol Design](services/architecture-design-protocol/README.md)
-  * [Blockchain for Enterprise](services/architecture-design-protocol/blockchain-for-enterprise.md)
-* [Dapps / Wallets Development](services/dapps-wallets-development.md)
-* [UXUI Design](services/uxui-design.md)
-* [Design Sprint](services/design-sprint.md)
-* [GDPR Compliance Audit](services/gdpr.md)
 
 ## Case Studies
 
@@ -66,9 +70,4 @@
 * [Vork](case-studies/vork.md)
 * [Archive](case-studies/archive/README.md)
   * [Merging.Space – Project Management Tool](case-studies/archive/merge-space-overview.md)
-
-## Labs <a id="extra"></a>
-
-* [New Product Development & Validation](extra/customer-development-and-formal-validation.md)
-* [Blockchain Funding Opportunities](extra/open-funding-opportunities.md)
 

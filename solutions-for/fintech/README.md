@@ -13,7 +13,6 @@
 
 * [Enabling Decentralized Interchain Transactions between ETH and BTC with Parachains](ethereum-bitcoin-bridge-wip.md)
 * [Improving Crypto Wallet Usability with Steganography](asset-security.md)
-* [GDPR Compliance](tech-gdpr-compliance.md)
 * [KYC/AML Compliance](kyc-module-integartion.md)
 * PSD2 Compliance
 * [Transparent Cross Border Payments with Blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
