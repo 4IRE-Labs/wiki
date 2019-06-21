@@ -1,4 +1,4 @@
-# Networks Governance
+# Network Governance
 
 ## Types
 
