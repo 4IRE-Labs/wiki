@@ -12,7 +12,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
   * regtech
   * assets tokenization
 * [Logistics & Supply Chains](solutions-for/asset-tracking/)
-* [Communities, Networks & Cooperatives](solutions-for/community-network-coop/)
+* [Communities, Networks & Cooperatives]()
 
 ## About
 
@@ -43,7 +43,7 @@ Check out our [Blog](https://medium.com/practical-blockchain) & [Twitter](https:
 
 * [Tennagraph](case-studies/tennagraph.md) – Ethereum Signal Aggregator
 * [Terra bridge](https://github.com/ContractLand/terra-bridge-btc) – Connecting EVM based blockchain for Interchain DEX
-* [CryptoGraphica](labs/governance/improving-ux-saving-password-in-more-human-way/cryptographica.md) – Solution for wallet \#Usability \#Security
+* [CryptoGraphica](labs/web3/improving-ux-saving-password-in-more-human-way/cryptographica.md) – Solution for wallet \#Usability \#Security
 
 ### Commercial
 

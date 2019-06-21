@@ -19,11 +19,6 @@
   * [Expanding Supply Chaing Traceability with Blockchain](solutions-for/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
   * [Secure Audit Trail for eDocuments with Blockchain](solutions-for/asset-tracking/how-to-track-document-versions-and-signers-on-the-blockchain.md)
   * [Improving the recycling rates with recyclables open market on blockchain](solutions-for/asset-tracking/recyclechain.md)
-* [Government, Communities, Networks & Platform Cooperatives](solutions-for/community-network-coop/README.md)
-  * [Funding Public Goods with Continuous Token Model](solutions-for/community-network-coop/continuous-token-model-apiary.md)
-  * [Improving Ethereum Governance with Signals Collection App](solutions-for/community-network-coop/improving-ethereum-governance-with-signals-collection-app.md)
-  * [Increasing the amount and quality of interactions in the community](solutions-for/community-network-coop/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
-  * [Blockchains for Smart Cities](solutions-for/community-network-coop/smart-city.md)
 
 ## Services
 
@@ -38,9 +33,13 @@
 
 * [Research Projects](labs/projects.md)
 * [Governance](labs/governance/README.md)
-  * [Adoption / UX](labs/governance/improving-ux-saving-password-in-more-human-way/README.md)
-    * [Saving password in a more human way](labs/governance/improving-ux-saving-password-in-more-human-way/saving-password-in-a-more-human-way.md)
-    * [Saving Password in a picture CryptoGraphica](labs/governance/improving-ux-saving-password-in-more-human-way/cryptographica.md)
+  * [Funding Public Goods with Continuous Token Model](labs/governance/continuous-token-model-apiary.md)
+  * [Improving Ethereum Governance with Signals Collection App](labs/governance/improving-ethereum-governance-with-signals-collection-app.md)
+  * [Increasing the amount and quality of interactions in the community](labs/governance/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
+* [Web3](labs/web3/README.md)
+  * [Adoption / UX](labs/web3/improving-ux-saving-password-in-more-human-way/README.md)
+    * [Saving password in a more human way](labs/web3/improving-ux-saving-password-in-more-human-way/saving-password-in-a-more-human-way.md)
+    * [Saving Password in a picture CryptoGraphica](labs/web3/improving-ux-saving-password-in-more-human-way/cryptographica.md)
 * [Blockchain Funding Opportunities](labs/open-funding-opportunities.md)
 
 ## About

@@ -2,19 +2,12 @@
 
 ## Governance
 
-* [DAO Landscape Mapping](https://mapping.daolandscape.today/)
-* Make the signals collection easier for the Ethereum Governance \([Tennagraph](../case-studies/tennagraph.md)\)
-* [TerraBridge](../solutions-for/fintech/extending-maker-dao-scalability-with-btc-collateral.md)
-* [Apiary](../solutions-for/community-network-coop/continuous-token-model-apiary.md)
-* Blockchain for voting
-* Drive more activity, retention and loyalty from customers, business partners, network/marketplace users
-* incentivize positive actions
-
+* 
 ## Decentralized Internet \(Ethereum & Web 3\)
 
 * Adoption/UX:
-  * [Saving password in more a human way](governance/improving-ux-saving-password-in-more-human-way/)
-  * [CryptoGraphica](governance/improving-ux-saving-password-in-more-human-way/cryptographica.md)
+  * [Saving password in more a human way](web3/improving-ux-saving-password-in-more-human-way/)
+  * [CryptoGraphica](web3/improving-ux-saving-password-in-more-human-way/cryptographica.md)
 * DevX & tools: Create convenient tools for DApps development using cloud providers
 * Interoperability: [Enabling Decentralized Interchain Transactions between ETH and BTC with Parachains](../solutions-for/fintech/ethereum-bitcoin-bridge-wip.md) \([TerraBridge](../solutions-for/fintech/extending-maker-dao-scalability-with-btc-collateral.md)\)
 
