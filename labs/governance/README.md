@@ -32,3 +32,7 @@ A platform cooperative, or platform co-op, is a cooperatively owned, democratica
 * [Commons Stack](https://commons-stack.gitbook.io/wiki/)
 * [DAO Landscape Report](https://dao-landscape.gitbook.io/project/preliminary-research)
 
+## Read more
+
+* [Types of Communities](http://www.feverbee.com/wp-content/uploads/2010/11/TypesofCommunities.pdf)
+
