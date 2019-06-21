@@ -11,7 +11,6 @@
   * [Increasing Liquidity with Asset Tokenization](solutions-for/fintech/asset-tokenization.md)
   * [Blockchain for Insurance Case Studies](solutions-for/fintech/blockchain-for-insurance.md)
   * [Calculating the Crypto Address Reputation for Antifraud](solutions-for/fintech/complaince-scoring.md)
-  * [Use Cases for Terrabridge \(ETH&lt;&gt;BTC\)](solutions-for/fintech/extending-maker-dao-scalability-with-btc-collateral.md)
 * [Logistics](solutions-for/asset-tracking/README.md)
   * [Expanding Supply Chaing Traceability with Blockchain](solutions-for/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
   * [Secure Audit Trail for eDocuments with Blockchain](solutions-for/asset-tracking/how-to-track-document-versions-and-signers-on-the-blockchain.md)
@@ -39,6 +38,7 @@
       * [Saving Password in a picture CryptoGraphica](labs/web3/improving-ux-saving-password-in-more-human-way/storing-the-private-key/cryptographica.md)
   * [Developer tools & DevX](labs/web3/improving-developer-experience-devx.md)
   * [Interoperability](labs/web3/interoperability/README.md)
+    * [Use Cases for Terrabridge \(ETH&lt;&gt;BTC\)](labs/web3/interoperability/extending-maker-dao-scalability-with-btc-collateral.md)
     * [Enabling Decentralized Interchain Transactions between ETH and BTC with Parachains](labs/web3/interoperability/ethereum-bitcoin-bridge-wip.md)
 * [Blockchain Funding Opportunities](labs/open-funding-opportunities.md)
 

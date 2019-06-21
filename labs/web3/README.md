@@ -19,5 +19,5 @@ While the Web 2.0 democratized many power structures and created new opportuniti
 * DevX & tools:
   * Create convenient tools for DApps development using cloud providers
 * Interoperability:
-  * [Enabling Decentralized Interchain Transactions between ETH and BTC with Parachains](interoperability/ethereum-bitcoin-bridge-wip.md) \([TerraBridge](../../solutions-for/fintech/extending-maker-dao-scalability-with-btc-collateral.md)\)
+  * [Enabling Decentralized Interchain Transactions between ETH and BTC with Parachains](interoperability/ethereum-bitcoin-bridge-wip.md) \([TerraBridge](interoperability/extending-maker-dao-scalability-with-btc-collateral.md)\)
 
