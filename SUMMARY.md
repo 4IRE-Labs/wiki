@@ -38,7 +38,9 @@
 
 * [Research Projects](labs/projects.md)
 * [Governance](labs/governance/README.md)
-  * [Improving UX / Saving password in more human way](labs/governance/improving-ux-saving-password-in-more-human-way.md)
+  * [Adoption / UX](labs/governance/improving-ux-saving-password-in-more-human-way/README.md)
+    * [Saving password in a more human way](labs/governance/improving-ux-saving-password-in-more-human-way/saving-password-in-a-more-human-way.md)
+    * [Saving Password in a picture CryptoGraphica](labs/governance/improving-ux-saving-password-in-more-human-way/cryptographica.md)
 * [Blockchain Funding Opportunities](labs/open-funding-opportunities.md)
 
 ## About
@@ -56,7 +58,6 @@
 ## Case Studies
 
 * [Blockchain-based notarization platform](case-studies/notarization-platform.md)
-* [CryptoGraphica](case-studies/cryptographica.md)
 * [Hiveonline](case-studies/hiveonline.md)
 * [Social Media Market](case-studies/social.-media-market.md)
 * [Kidcoin](case-studies/kidcoin.md)

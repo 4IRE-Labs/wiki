@@ -1,4 +1,4 @@
-# Improving UX / Saving password in more human way
+# Adoption / UX
 
 Target Audience: crypto wallets owners
 
@@ -19,4 +19,6 @@ Sprint Questions \(Can we\):
 * Can we make it look secure enough?
 * Can we дополнить обычные пароль в воллетах?
 * Can we make it seamless on iOS?
+
+
 

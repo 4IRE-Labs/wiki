@@ -43,7 +43,7 @@ Check out our [Blog](https://medium.com/practical-blockchain) & [Twitter](https:
 
 * [Tennagraph](case-studies/tennagraph.md) – Ethereum Signal Aggregator
 * [Terra bridge](https://github.com/ContractLand/terra-bridge-btc) – Connecting EVM based blockchain for Interchain DEX
-* [CryptoGraphica](case-studies/cryptographica.md) – Solution for wallet \#Usability \#Security
+* [CryptoGraphica](labs/governance/improving-ux-saving-password-in-more-human-way/cryptographica.md) – Solution for wallet \#Usability \#Security
 
 ### Commercial
 
