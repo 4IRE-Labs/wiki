@@ -12,7 +12,6 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
   * regtech
   * assets tokenization
 * [Logistics & Supply Chains](solutions-for/asset-tracking/)
-* [Communities, Networks & Cooperatives]()
 
 ## About
 
@@ -35,7 +34,13 @@ Check out our [Blog](https://medium.com/practical-blockchain) & [Twitter](https:
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
 * [UXUI Design](services/uxui-design.md)
 * [Design Sprint](services/design-sprint.md)
-* [New Product Development & Validation](labs/projects.md)
+
+## Labs
+
+Research projects on
+
+* [Networks Governance](labs/governance/)
+* Web3
 
 ## Case Studies
 

@@ -2,6 +2,8 @@
 
 For logistics, manufacturing, e-commerce \(companies with solid logistics departments\) 
 
+Challenge: Make Supply Chain more transparent
+
 ## Solutions
 
 * Improved Product Quality Tracking & Settlement automation with blockchain\*

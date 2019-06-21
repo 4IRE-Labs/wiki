@@ -1,10 +1,10 @@
-# Governance
+# Networks Governance
 
 ## Types
 
 * Governments
 * Communities
-* Networks
+* Professional Networks
 * Platform Cooperatives
 
 ## Challenge

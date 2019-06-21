@@ -28,12 +28,11 @@
 
 ## Labs
 
-* [Research Projects](labs/projects.md)
-* [Governance](labs/governance/README.md)
+* [Networks Governance](labs/governance/README.md)
   * [Funding Public Goods with Continuous Token Model](labs/governance/continuous-token-model-apiary.md)
   * [Improving Ethereum Governance with Signals Collection App](labs/governance/improving-ethereum-governance-with-signals-collection-app.md)
   * [Increasing the amount and quality of interactions in the community](labs/governance/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
-* [Decentralized Internet \(Ethereum & Web 3\)](labs/web3/README.md)
+* [Web3](labs/web3/README.md)
   * [Adoption / UX](labs/web3/improving-ux-saving-password-in-more-human-way/README.md)
     * [Storing the private key](labs/web3/improving-ux-saving-password-in-more-human-way/storing-the-private-key.md)
     * [Improving Crypto Wallet Usability with Steganography](labs/web3/improving-ux-saving-password-in-more-human-way/asset-security.md)
