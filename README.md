@@ -13,20 +13,6 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
   * assets tokenization
 * [Logistics & Supply Chains](solutions-for/asset-tracking/)
 
-## About
-
-* [Organization](about/organization.md)
-* [Kirill Kirikov](about/kirill-kirikov.md) 
-* [Oleg Bugrovoy](about/oleg-bugrovoy.md)
-* [Bohdan Malkevych](about/bohdan-malkevych.md)
-* [Helen Petrashchuk](about/helen-petrashchuk.md)
-* [Max Semenchuk](about/max-semenchuk.md)
-* [Yura Riznyk ](about/yura-riznyk.md)
-* [Andrey Krit ](about/andrey-krit.md)
-* [Roman Malkevych](about/roman-malkevych.md)
-
-Check out our [Blog](https://medium.com/practical-blockchain) & [Twitter](https://twitter.com/4irelabs)
-
 ## Services
 
 * [GDPR](services/gdpr.md)
@@ -45,6 +31,20 @@ Check out our [Blog](https://medium.com/practical-blockchain) & [Twitter](https:
   * [Adoption / UX](labs/web3/improving-ux-saving-password-in-more-human-way/)
   * [Developer tools and DevX](labs/web3/improving-developer-experience-devx.md)
   * [Interoperability](labs/web3/interoperability/)
+
+## About
+
+* [Organization](about/organization.md)
+* [Kirill Kirikov](about/kirill-kirikov.md) 
+* [Oleg Bugrovoy](about/oleg-bugrovoy.md)
+* [Bohdan Malkevych](about/bohdan-malkevych.md)
+* [Helen Petrashchuk](about/helen-petrashchuk.md)
+* [Max Semenchuk](about/max-semenchuk.md)
+* [Yura Riznyk ](about/yura-riznyk.md)
+* [Andrey Krit ](about/andrey-krit.md)
+* [Roman Malkevych](about/roman-malkevych.md)
+
+Check out our [Blog](https://medium.com/practical-blockchain) & [Twitter](https://twitter.com/4irelabs)
 
 ## Case Studies
 
