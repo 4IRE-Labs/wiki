@@ -12,13 +12,5 @@ Challenges:
 * HMW to avoid memorizing the pass \(3\)
 * HWM Make reentering super easy and secure \(1\)
 
-Sprint Questions \(Can we\):
-
-* Do people want more fun / tired of saving the passwords in the old way \(odd, not human-focused\)
-* Can we make pass storage more fun with photos?
-* Can we make it look secure enough?
-* Can we дополнить обычные пароль в воллетах?
-* Can we make it seamless on iOS?
-
 
 
