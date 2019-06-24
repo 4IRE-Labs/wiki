@@ -5,14 +5,12 @@
 * Governments
 * Communities
 * Professional Networks
-* Platform Cooperatives
+* \(Platform\) Cooperatives
 
 ## Challenge
 
-* Effective fund distribution – [Apiary](continuous-token-model-apiary.md)
-* [DAO Landscape Mapping](https://mapping.daolandscape.today/)
 * Make the signals collection easier for the Ethereum Governance \([Tennagraph](../../case-studies/tennagraph.md)\)
-* [TerraBridge](../web3/interoperability/extending-maker-dao-scalability-with-btc-collateral.md)
+* Effective fund distribution – [Apiary](continuous-token-model-apiary.md)
 * Blockchain for voting
 * Drive more activity, retention and loyalty from customers, business partners, network/marketplace users
 * Incentivize positive actions
@@ -30,7 +28,7 @@ A platform cooperative, or platform co-op, is a cooperatively owned, democratica
 
 * [Apiary](continuous-token-model-apiary.md)
 * [Commons Stack](https://commons-stack.gitbook.io/wiki/)
-* [DAO Landscape Report](https://dao-landscape.gitbook.io/project/preliminary-research)
+* [DAO Landscape Mapping](https://mapping.daolandscape.today/)
 
 ## Read more
 
