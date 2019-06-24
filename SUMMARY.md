@@ -33,7 +33,7 @@
 * [Web3](labs/web3/README.md)
   * [Adoption / UX](labs/web3/improving-ux-saving-password-in-more-human-way/README.md)
     * [Storing the private key](labs/web3/improving-ux-saving-password-in-more-human-way/storing-the-private-key/README.md)
-      * [Selection the security level](labs/web3/improving-ux-saving-password-in-more-human-way/storing-the-private-key/selection-the-security-level.md)
+      * [Security Level Slider](labs/web3/improving-ux-saving-password-in-more-human-way/storing-the-private-key/security-level-slider.md)
       * [Saving Password in a picture CryptoGraphica](labs/web3/improving-ux-saving-password-in-more-human-way/storing-the-private-key/cryptographica.md)
   * [Developer tools & DevX](labs/web3/improving-developer-experience-devx.md)
   * [Interoperability](labs/web3/interoperability/README.md)
