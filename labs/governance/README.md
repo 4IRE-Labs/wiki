@@ -4,10 +4,8 @@ Network is a type of organization focused on connecting members for collaboratio
 
 ## Types
 
-* Governments
 * Communities
 * Professional Networks
-* \(Platform\) Cooperatives
 
 ## Open Challenges
 
