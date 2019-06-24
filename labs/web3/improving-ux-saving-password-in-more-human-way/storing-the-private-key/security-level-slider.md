@@ -17,5 +17,9 @@ The idea is in providing users the option to select the level of security they d
 * Can we make it as an additional option to regular seed phrases?
 * Can we make it seamless on iOS?
 
+## Results of user demos
+
+coming soon
+
 
 
