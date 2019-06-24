@@ -1,13 +1,13 @@
 # Network Governance
 
+Network is a type of organization focused on connecting members for collaboration, opportunities exchange \(projects, sales\), hiring etc.
+
 ## Types
 
-* Governments
 * Communities
 * Professional Networks
-* \(Platform\) Cooperatives
 
-## Challenge
+## Open Challenges
 
 * Make the signals collection easier for the Ethereum Governance \([Tennagraph](../../case-studies/tennagraph.md)\)
 * Effective fund distribution – [Apiary](continuous-token-model-apiary.md)
