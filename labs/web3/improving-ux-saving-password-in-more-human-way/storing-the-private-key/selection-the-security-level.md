@@ -9,7 +9,7 @@ Sprint Questions \(Can we\):
 * Do people want more fun / tired of saving the passwords in the old way \(odd, not human-focused\)
 * Can we make pass storage more fun with photos?
 * Can we make it look secure enough?
-* Can we дополнить обычные пароль в воллетах?
+* Can we make it as an additional option to regular seed phrases?
 * Can we make it seamless on iOS?
 
 
