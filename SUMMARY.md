@@ -34,7 +34,7 @@
   * [Adoption / UX](labs/web3/adoption-ux/README.md)
     * [Storing the private key](labs/web3/adoption-ux/storing-the-private-key/README.md)
       * [Security Level Slider](labs/web3/adoption-ux/storing-the-private-key/security-level-slider.md)
-      * [Saving Password in a picture CryptoGraphica](labs/web3/adoption-ux/storing-the-private-key/cryptographica.md)
+      * [Encoding seed phrase to the picture \(steganography\)](labs/web3/adoption-ux/storing-the-private-key/encoding-seed-phrase-to-the-picture-steganography.md)
   * [Developer tools & DevX](labs/web3/improving-developer-experience-devx.md)
   * [Interoperability](labs/web3/interoperability/README.md)
     * [Use Cases for Terrabridge \(ETH&lt;&gt;BTC\)](labs/web3/interoperability/extending-maker-dao-scalability-with-btc-collateral.md)

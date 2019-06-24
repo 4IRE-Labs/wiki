@@ -1,4 +1,4 @@
-# Saving Password in a picture CryptoGraphica
+# Encoding seed phrase to the picture \(steganography\)
 
  **Challenge:** How might we ease up private key storing for cryptowallet users?
 
