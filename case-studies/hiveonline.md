@@ -14,7 +14,7 @@ hiveonline’s app takes the pain out of managing projects as a small business F
 
 СEO Sofia Blakstad - Board Advisor at Copengagen fintech hub. For hiveonline, Sofie has been invited to speak at the World Economic Forum, G7 and G20 groups and World Bank/IMF Summit in partnership with UNEP and the Sustainable Digital Finance Alliance, where she is an advisor on fintech applications to sustainable finance, blockchain, identity and trust. Sofie is also an advisor to the Edinburgh Futures Institute and holds an MSc in Informatics. Sofie’s second book, with Rob Allen, Fintech Revolution \(Palgrave Macmillan, 2018\) was named “One of the Best Fintech Books of All Time” and “One of the Best New Fintech Books for 2019 \(Book Authority\).Services:
 
-![](../.gitbook/assets/image%20%2883%29.png)
+![](../.gitbook/assets/image%20%2884%29.png)
 
 [Dapps / Wallets development](../services/dapps-wallets-development.md) \(iOS, backend\)
 

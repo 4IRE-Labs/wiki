@@ -6,7 +6,7 @@ Works: Fixing the problems suffered by the CIF's software along with the dash fo
 
 Team: [Kirill Kirikov](../about/kirill-kirikov.md)
 
-![](../.gitbook/assets/image%20%2865%29.png)
+![](../.gitbook/assets/image%20%2866%29.png)
 
 ### Customer review
 
