@@ -22,8 +22,6 @@ The initiator in such case may be not the person in charge or most responsibleâ€
 **Examples:**
 
 * Patreon
-* [https://www.ryhope.network/](https://www.ryhope.network/)
-* knowledge repo DAOs
 
 ### Communities Public Projects
 
@@ -33,7 +31,7 @@ So the initiator can open up a DAO for maintaining the community and start crowd
 
 **Examples:**
 
-* [https://www.spacehive.com/](https://www.spacehive.com/)
+* [Space Hive](https://www.spacehive.com/)
 
 ### Standard Organizations
 
