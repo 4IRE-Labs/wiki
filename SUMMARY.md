@@ -27,7 +27,7 @@
 ## Labs
 
 * [Network Governance](labs/governance/README.md)
-  * [Funding Public Goods with Continuous Token Model](labs/governance/continuous-token-model-apiary.md)
+  * [Funding Public Goods](labs/governance/continuous-token-model-apiary.md)
   * [Ethereum Governance / Signaling](labs/governance/improving-ethereum-governance-with-signals-collection-app.md)
   * [Increasing the amount and quality of interactions in the community](labs/governance/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
 * [Web3](labs/web3/README.md)

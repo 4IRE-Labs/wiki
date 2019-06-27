@@ -1,8 +1,10 @@
-# Funding Public Goods with Continuous Token Model
+# Funding Public Goods
 
 ## Use Cases
 
-Open source software ecosystems, news media, finance and public projects
+* Open source software ecosystems
+* News media
+* Research
 
 ### Open Source Ecosystems \(e.g. Aragon Nest\)
 
