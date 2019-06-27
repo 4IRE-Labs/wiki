@@ -27,8 +27,8 @@
 ## Labs
 
 * [Network Governance](labs/governance/README.md)
-  * [Funding Public Goods](labs/governance/continuous-token-model-apiary.md)
-  * [Ethereum Governance / Signaling](labs/governance/improving-ethereum-governance-with-signals-collection-app.md)
+  * [Funding Public Goods](labs/governance/funding-public-goods.md)
+  * [Ethereum Governance / Signaling](labs/governance/ethereum-governance-signals.md)
   * [Increasing the amount and quality of interactions in the community](labs/governance/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
 * [Web3](labs/web3/README.md)
   * [Adoption / UX](labs/web3/adoption-ux/README.md)
@@ -36,7 +36,7 @@
       * [Security Level Slider](labs/web3/adoption-ux/storing-the-private-key/security-level-slider.md)
       * [Encoding seed phrase to the picture \(steganography\)](labs/web3/adoption-ux/storing-the-private-key/encoding-seed-phrase-to-the-picture-steganography.md)
   * [Developer tools & DevX](labs/web3/improving-developer-experience-devx/README.md)
-    * [Как упростить автоматическое получение адреса смарт контракта на фронтенде](labs/web3/improving-developer-experience-devx/kak-uprostit-avtomaticheskoe-poluchenie-adresa-smart-kontrakta-na-frontende.md)
+    * [Automate transmission of the smart contract address to the front-end](labs/web3/improving-developer-experience-devx/automate-transmission-of-the-smart-contract-address-to-the-front-end.md)
     * [Improving Developer Experience in Aragon](labs/web3/improving-developer-experience-devx/improving-developer-experience-in-aragon.md)
   * [Interoperability](labs/web3/interoperability/README.md)
     * [Use Cases for Terrabridge \(ETH&lt;&gt;BTC\)](labs/web3/interoperability/extending-maker-dao-scalability-with-btc-collateral.md)

@@ -24,8 +24,8 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 ## Labs Researches
 
 * [Networks Governance](labs/governance/)
-  * [Funding Public Goods](labs/governance/continuous-token-model-apiary.md)
-  * [Signaling](labs/governance/improving-ethereum-governance-with-signals-collection-app.md)
+  * [Funding Public Goods](labs/governance/funding-public-goods.md)
+  * [Signaling](labs/governance/ethereum-governance-signals.md)
   * [Increasing engagement](labs/governance/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
 * [Web3](labs/web3/)
   * [Adoption / UX](labs/web3/adoption-ux/)
