@@ -30,6 +30,7 @@
   * [Funding Public Goods](labs/governance/funding-public-goods.md)
   * [Ethereum Governance / Signaling](labs/governance/ethereum-governance-signals.md)
   * [Increasing the amount and quality of interactions in the community](labs/governance/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
+  * [Make agile rewards](labs/governance/make-agile-rewards.md)
 * [Web3](labs/web3/README.md)
   * [Adoption / UX](labs/web3/adoption-ux/README.md)
     * [Security Level Slider](labs/web3/adoption-ux/security-level-slider.md)
