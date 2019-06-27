@@ -2,7 +2,7 @@
 
 Developer Experience \(DX\) is the equivalent to User Experience \(UX\) when the user of the software or system is a developer. DX describes the experience developers have when they use your product, be it client libraries, SDKs, frameworks, open source code, tools, API, technology or service. DX shares some ideas and philosophies from UX design \(or HCI\), but builds on these with an eye towards modern technology and standards.
 
-![](../../../.gitbook/assets/image%20%2874%29.png)
+![](../../../.gitbook/assets/image%20%2875%29.png)
 
 Challenges:
 

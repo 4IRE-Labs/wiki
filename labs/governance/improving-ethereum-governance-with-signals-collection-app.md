@@ -1,4 +1,4 @@
-# Improving Ethereum Governance with Signals Collection App
+# Ethereum Governance / Signaling
 
 ## Ethereum Stakeholders
 
@@ -9,12 +9,15 @@
 5. Users
 6. Researchers
 
-## Need Hypotheses
+## Challenges
 
-* Better signal collection can help improving ambiguous proposals \(EIPs\)
-* EF / Ethereum Dev Call Faci / Coordinator \(Hudson Jameson\) needs a tool for easier community stances collection
-* Major DApp devs want to have a say in the Ethereum roadmap development \(1 confirm\)
-* Miners want to participate in the governance
+![](../../.gitbook/assets/image%20%285%29.png)
+
+Top 3 challenges:
+
+* Increase the volume of signaling
+* Hear majority not just loudest people
+* Simplify the signal collection
 
 ## Solutions Hypotheses
 
