@@ -15,11 +15,10 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ## Services
 
-* [GDPR](services/gdpr.md)
+* [Design Sprint](services/design-sprint.md)
 * [Architecture / Protocol Design](services/architecture-design-protocol/)
 * [Dapps / Wallets Development](services/dapps-wallets-development.md)
-* [UXUI Design]()
-* [Design Sprint](services/design-sprint.md)
+* [GDPR Compliance Audit](services/gdpr.md)
 
 ## Labs Researches
 
