@@ -29,7 +29,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
   * [Increasing engagement](labs/governance/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
 * [Web3](labs/web3/)
   * [Adoption / UX](labs/web3/adoption-ux/)
-  * [Developer tools and DevX](labs/web3/improving-developer-experience-devx.md)
+  * [Developer tools and DevX](labs/web3/improving-developer-experience-devx/)
   * [Interoperability](labs/web3/interoperability/)
 
 ## About
