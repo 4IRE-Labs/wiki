@@ -41,7 +41,7 @@
   * [Interoperability](labs/web3/interoperability/README.md)
     * [Use Cases for Terrabridge \(ETH&lt;&gt;BTC\)](labs/web3/interoperability/extending-maker-dao-scalability-with-btc-collateral.md)
     * [Enabling Decentralized Interchain Transactions between ETH and BTC with Parachains](labs/web3/interoperability/ethereum-bitcoin-bridge-wip.md)
-* [Blockchain Funding Opportunities](labs/open-funding-opportunities.md)
+* [Fintech](labs/fintech.md)
 
 ## About
 
