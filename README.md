@@ -30,6 +30,7 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
   * [Adoption / UX](labs/web3/adoption-ux/)
   * [Developer tools and DevX](labs/web3/improving-developer-experience-devx/)
   * [Interoperability](labs/web3/interoperability/)
+* [Fintech](labs/fintech.md)
 
 ## About
 
