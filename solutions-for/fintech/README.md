@@ -12,7 +12,6 @@
 ## Solutions
 
 * [Enabling Decentralized Interchain Transactions between ETH and BTC with Parachains](../../labs/web3/interoperability/ethereum-bitcoin-bridge-wip.md)
-* [Improving Crypto Wallet Usability with Steganography]()
 * [KYC/AML Compliance](kyc-module-integartion.md)
 * PSD2 Compliance
 * [Transparent Cross Border Payments with Blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
@@ -23,10 +22,8 @@
 
 * [Architecture / Protocol Design](../../services/architecture-design-protocol/)
 * [App Development](../../services/dapps-wallets-development.md) – cost reduction in backend, web, mobile development
-* [UXUI Design]()
-* [Customer Development and Validation]()
 * Security Audit \([BitRent](https://medium.com/practical-blockchain/bitrent-smart-contracts-audit-case-study-d7d61a34e9f7)\)
-* Design Sprint
+* [Design Sprint](../../services/design-sprint.md)
 
 ## Consultants
 
