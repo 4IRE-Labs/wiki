@@ -56,7 +56,7 @@ A platform cooperative, or platform co-op, is a cooperatively owned, democratica
 * [Fund public goods](funding-public-goods.md)
 * [Get more valuable info on stances](ethereum-governance-signals.md)
 * [Increasing the amount and quality of interactions in the community](increasing-the-amount-and-quality-of-interactions-in-the-community.md)
-* Drive more activity, retention and loyalty from customers, business partners, network/marketplace users
+* Drive more activity, retention and loyalty from customers, business partners, network/marketplace users via distributing future value
 
 ## Grants
 

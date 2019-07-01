@@ -15,7 +15,7 @@
 
 [**0x Ecosystem Acceleration Program**](https://0x.smapply.io/) – funding startups building in a variety of 0x relayer verticals.
 
-\*\*\*\*[**The Stable Fund**](https://www.crunchbase.com/organization/the-stable-fund) ****– aim to support startups using using Dai or Maker infrastructure as a core component. The Stable Fund offers no-strings attached \(equity-free\) grants of up to $25k and equity funding of up to $200k.
+\*\*\*\*[**The Stable Fund**](https://stable.fund/) ****– aim to support startups using using Dai or Maker infrastructure as a core component. The Stable Fund offers no-strings attached \(equity-free\) grants of up to $25k and equity funding of up to $200k.
 
 [**Stellar Partnership Grant Program**](https://www.stellar.org/lumens/stellar-partnership-grant-program/) – This grant program aims to support projects who integrate with the Stellar network and pursue the improvement of the global financial landscape and promote financial inclusion. The Stellar Development Foundation has allocated 25 billion total lumens to this program \(a monster $6b pool at these prices?!\).
 
