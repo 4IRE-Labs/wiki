@@ -55,7 +55,10 @@ Build rough prototypes to learn how to make ideas better.
 
 Refine ideas by gathering feedback and experimenting forward.
 
-* Customer interviews
+* Respondent recruiting + interviews
+* Product Analytics
+* A/B Testing
+* Focus groups
 
 ## Publicizing
 
