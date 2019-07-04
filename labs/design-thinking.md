@@ -31,6 +31,7 @@ Inspire new thinking by discovering what people really need.
 * Reference wall
 * Observation
 * Interviews \(ad-hoc, in-depth\)
+* Research triangulation
 
 ## Solution Ideation
 
