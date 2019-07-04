@@ -55,7 +55,7 @@ Build rough prototypes to learn how to make ideas better.
 
 Refine ideas by gathering feedback and experimenting forward.
 
-* Respondent recruiting + interviews \(deep, ad-hoc\)
+* Respondent recruiting + interviews \(ad-hoc, in-depth\)
 * Product Analytics
 * A/B Testing
 * Focus groups
