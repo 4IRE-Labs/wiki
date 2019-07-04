@@ -8,14 +8,14 @@
 * Is exploration safe for the organization?
 * Can we get the feedback from target audience in the short terms?
 
-## Selecting the challenge
+## Challenge Definition
 
 Identify a driving question that inspires others to search for creative solutions. Define better the current state & challenge the current understanding of right.
 
 * Briefing
 * Stakeholder mapping
-* Task reframing
 * Research board
+* Challenge reframing
 
 ## Challenge Researching
 
@@ -55,7 +55,7 @@ Build rough prototypes to learn how to make ideas better.
 
 Refine ideas by gathering feedback and experimenting forward.
 
-* Respondent recruiting + interviews
+* Respondent recruiting + interviews \(deep, ad-hoc\)
 * Product Analytics
 * A/B Testing
 * Focus groups
