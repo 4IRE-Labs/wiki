@@ -27,7 +27,7 @@ Inspire new thinking by discovering what people really need.
 * Stakeholder interview
 * Expert interview
 * Ethnography \(+auto-ethnography, journal\)
-* Substitute analysis \(+blue ocean\)
+* Substitute analysis \(blue ocean\)
 * Reference wall
 * Observation
 * Interviews \(ad-hoc, in-depth\)
