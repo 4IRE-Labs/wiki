@@ -7,11 +7,6 @@
 * Persona
 * Customer journey
 
-## Research
-
-* Expert interview
-* Competitor analysis
-
 ## Generate Ideas
 
 * Crazy8
