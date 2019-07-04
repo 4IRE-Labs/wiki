@@ -30,6 +30,7 @@ Inspire new thinking by discovering what people really need.
 * Substitute analysis \(+blue ocean\)
 * Reference wall
 * Observation
+* Interviews \(ad-hoc, in-depth\)
 
 ## Solution Ideation
 
@@ -56,7 +57,8 @@ Build rough prototypes to learn how to make ideas better.
 
 Refine ideas by gathering feedback and experimenting forward.
 
-* Respondent recruiting + interviews \(ad-hoc, in-depth\)
+* User Testing
+* Surveying
 * Product Analytics
 * A/B Testing
 * Focus groups
