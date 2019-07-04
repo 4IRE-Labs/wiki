@@ -4,7 +4,8 @@
 
 Identify a driving question that inspires others to search for creative solutions.
 
-* Persona
+* Briefing
+* Persona profile
 * Stakeholder map
 * Customer journey
 * Task reframing
