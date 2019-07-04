@@ -41,7 +41,7 @@
     * [Use Cases for Terrabridge \(ETH&lt;&gt;BTC\)](labs/web3/interoperability/extending-maker-dao-scalability-with-btc-collateral.md)
     * [Enabling Decentralized Interchain Transactions between ETH and BTC with Parachains](labs/web3/interoperability/ethereum-bitcoin-bridge-wip.md)
 * [Fintech](labs/fintech.md)
-* [Design Thinking](labs/design-thinking.md)
+* [Design Thinking / Service Design](labs/design-thinking.md)
 
 ## About
 
