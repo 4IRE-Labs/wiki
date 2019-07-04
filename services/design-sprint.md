@@ -16,7 +16,7 @@
 * Teams lack real data on which to base business decisions, instead relying on endless internal discussions
 * Product development cycles run too long, causing teams to lose enthusiasm and focus.
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 ### So how might we...
 

@@ -6,7 +6,7 @@
 
 ## Case Management
 
-![Now](../../.gitbook/assets/image%20%2873%29.png)
+![Now](../../.gitbook/assets/image%20%2874%29.png)
 
 
 
@@ -16,7 +16,7 @@
 
 ### Comparison
 
-![](../../.gitbook/assets/image%20%2883%29.png)
+![](../../.gitbook/assets/image%20%2884%29.png)
 
 ### Benefits
 
@@ -61,7 +61,7 @@ Use blockchain for onboarding of new customers or verification of policy holders
 
 ## **Flight Delay Insurance**
 
-![](../../.gitbook/assets/image%20%2874%29.png)
+![](../../.gitbook/assets/image%20%2875%29.png)
 
 Automatic compensation for flight delays
 
@@ -82,7 +82,7 @@ The emergence of the sharing economy, exemplified by companies such as Uber and 
 
 ## **Underwriting**
 
-![](../../.gitbook/assets/image%20%2866%29.png)
+![](../../.gitbook/assets/image%20%2867%29.png)
 
 Non-underwritten products—tightly integrated with the blockchain for policy administration, claim handling, and ultimately payment—reduce overheads at nearly every point in an insurance company’s operations, resulting in the potential for significant margin growth in even the most mature markets.
 
