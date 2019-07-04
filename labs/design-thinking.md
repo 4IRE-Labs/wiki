@@ -32,6 +32,7 @@ Inspire new thinking by discovering what people really need.
 * Observation
 * Interviews \(ad-hoc, in-depth\)
 * Research triangulation
+* Extremal users
 
 ## Solution Ideation
 
