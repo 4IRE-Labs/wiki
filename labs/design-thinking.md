@@ -24,7 +24,6 @@ Push past obvious solutions to get to breakthrough ideas.
 * Crazy8
 * Brainwriting \(6-3-5\)
 * [Business Models Navigator](https://drive.google.com/open?id=1ldJzqKeRtyDTcRDAMs2p5GV07dSs1QEL)
-* Lean Canvas 
 
 ## Prototyping
 
@@ -32,7 +31,6 @@ Build rough prototypes to learn how to make ideas better.
 
 * Clickable prototypes
 * Agile / Scrum
-* Value Proposition Canvas
 
 ## Testing
 
