@@ -30,7 +30,8 @@ Inspire new thinking by discovering what people really need.
 * Substitute analysis \(blue ocean\)
 * Reference wall
 * Observation
-* Interviews \(ad-hoc, in-depth\)
+* Interview Recruiting \(direct, ad-hoc, snowball, social networks...\)
+* In-depth interviews
 * Research triangulation
 * Extremal users
 
