@@ -62,6 +62,7 @@ Refine ideas by gathering feedback and experimenting forward.
 * Product Analytics
 * A/B Testing
 * Focus groups
+* The mom test
 
 ## Publicizing
 
