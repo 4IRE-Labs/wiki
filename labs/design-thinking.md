@@ -7,13 +7,14 @@
 * Persona
 * Customer journey
 
-## Research
+## Researching
 
 * Expert interview
 * Auto-ethnography
 * Competitor analysis \(+blue ocean\)
+* Reference wall
 
-## Generate Ideas
+## Generating Ideas
 
 * Crazy8
 * Brainwriting \(6-3-5\)
@@ -23,4 +24,12 @@
 
 * Clickable prototypes
 * Agile / Scrum
+
+## Testing
+
+* Customer interviews
+
+## Publicizing
+
+* Storytelling
 
