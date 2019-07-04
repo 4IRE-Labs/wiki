@@ -10,6 +10,7 @@
 ## Research
 
 * Expert interview
+* Auto-ethnography
 * Competitor analysis \(+blue ocean\)
 
 ## Generate Ideas
