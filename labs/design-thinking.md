@@ -14,7 +14,7 @@ Identify a driving question that inspires others to search for creative solution
 Inspire new thinking by discovering what people really need.
 
 * Expert interview
-* Auto-ethnography
+* Ethnography \(+auto-ethnography\)
 * Competitor analysis \(+blue ocean\)
 * Reference wall
 
