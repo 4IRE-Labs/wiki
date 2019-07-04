@@ -29,6 +29,7 @@ Inspire new thinking by discovering what people really need.
 * Ethnography \(+auto-ethnography, journal\)
 * Substitute analysis \(+blue ocean\)
 * Reference wall
+* Observation
 
 ## Solution Ideation
 
