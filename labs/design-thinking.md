@@ -21,7 +21,7 @@ Identify a driving question that inspires others to search for creative solution
 
 Inspire new thinking by discovering what people really need.
 
-* Cabinet research
+* Desk research
 * Persona description \(jobs to be done, pains, gains\)
 * Customer journey
 * Stakeholder interview
