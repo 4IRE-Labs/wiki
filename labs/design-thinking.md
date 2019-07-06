@@ -55,6 +55,7 @@ Build rough prototypes to learn how to make ideas better.
 * Clickable prototypes
 * Agile / Scrum
 * Value Proposition Canvas
+* Scenarios & Storyboards
 * Sprint Questions
 
 ## Testing
