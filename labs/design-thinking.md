@@ -40,6 +40,7 @@ Inspire new thinking by discovering what people really need.
 Push past obvious solutions to get to breakthrough ideas.
 
 * Doodling
+* Brainstorm \(+trampoline\)
 * Crazy8
 * Brainwriting \(6-3-5\)
 * 3 slides
@@ -71,5 +72,6 @@ Refine ideas by gathering feedback and experimenting forward.
 
 Craft a human story to inspire others toward action.
 
-* Storytelling
+* Paper / article
+* Presentation
 
