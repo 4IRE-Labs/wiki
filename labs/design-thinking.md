@@ -76,3 +76,8 @@ Craft a human story to inspire others toward action.
 * Paper / article
 * Presentation
 
+## Read more
+
+* [This is service design doing](https://www.thisisservicedesigndoing.com/)
+* [This is service design methods](https://assets.website-files.com/5989fc3322e8860001ac9a43/5a60fd63f18c0b0001044b61_lkaasd3463456543klhj23i4ho.pdf)
+
