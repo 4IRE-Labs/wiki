@@ -49,6 +49,10 @@ A platform cooperative, or platform co-op, is a cooperatively owned, democratica
 
 * [Stocksy United](https://en.wikipedia.org/wiki/Stocksy_United)
 
+### Associations
+
+...
+
 ## Challenges
 
 ![](../../.gitbook/assets/image%20%2818%29.png)
