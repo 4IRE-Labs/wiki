@@ -47,6 +47,7 @@ Push past obvious solutions to get to breakthrough ideas.
 * [Business Models Navigator](https://drive.google.com/open?id=1ldJzqKeRtyDTcRDAMs2p5GV07dSs1QEL)
 * Lean Canvas 
 * Now-How-Wow Matrix
+* Ritual Dissent
 
 ## Prototyping
 
