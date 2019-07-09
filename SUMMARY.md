@@ -26,6 +26,7 @@
 
 ## Labs
 
+* [Strategy](labs/strategy.md)
 * [Network Governance](labs/governance/README.md)
   * [Funding Public Goods](labs/governance/funding-public-goods.md)
   * [Ethereum Governance / Signaling](labs/governance/ethereum-governance-signals.md)
