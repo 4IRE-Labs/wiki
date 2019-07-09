@@ -51,6 +51,7 @@
 * [Oleg Bugrovoy](about/oleg-bugrovoy.md)
 * [Bohdan Malkevych](about/bohdan-malkevych.md)
 * [Helen Petrashchuk](about/helen-petrashchuk.md)
+* [Stas Varetsky](about/stas-varetsky.md)
 * [Yura Riznyk](about/yura-riznyk.md)
 * [Andrey Krit](about/andrey-krit.md)
 * [Roman Malkevych](about/roman-malkevych.md)

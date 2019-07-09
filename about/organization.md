@@ -1,6 +1,6 @@
 # Organization
 
-4irelabs works since on 2011, with HQ in Kyiv, Ukraine and representation in Singapore & Stockholm. We work under the holacracy self-organization framework, use lean and agile approaches for our work.
+4irelabs works since on 2011, with HQ in Kyiv, Ukraine and representation in Singapore & Stockholm. We work under the holacracy self-organization framework, use lean and agile approaches for our work. Name "4IRE" means 4th Industrial Revolution Engine, meaning our intention to improve the society with new technology \(blockchain, IoT etc\).
 
 ### Our Values
 
@@ -21,13 +21,13 @@
 
 ### Consultants
 
-* [​Kirill Kirikov​](kirill-kirikov.md) – Lead Blockchain Developer: Ethereum/Solidity, Hyperledger, Multichain
-* ​[Oleg​ Bugrovoy](oleg-bugrovoy.md) – Lead Blockchain & Backend EngineerA skilled backend/blockchain engineer with management skills.
-* ​[Bohdan​ Malkevych](bohdan-malkevych.md) – Blockchain Engineer
-* [Roman Malkevych](roman-malkevych.md) – Blockchain Engineer
-* [Yura Riznyk](yura-riznyk.md)
-* Stas Varetsky
-* [Andrey Krit](andrey-krit.md)
+* [​Kirill Kirikov​](kirill-kirikov.md) – Lead Engineer \(Ethereum/Solidity, Hyperledger, Multichain\)
+* ​[Oleg​ Bugrovoy](oleg-bugrovoy.md) – Lead Blockchain & Backend Engineer with management skills.
+* ​[Bohdan​ Malkevych](bohdan-malkevych.md) – Engineer
+* [Roman Malkevych](roman-malkevych.md) – Engineer
+* [Yura Riznyk](yura-riznyk.md) – Engineer
+* [Stas Varetsky](stas-varetsky.md) – Researcher, Product Manager
+* [Andrey Krit](andrey-krit.md) – Engineer
 
 ### Admin team
 
