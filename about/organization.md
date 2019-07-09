@@ -1,6 +1,6 @@
 # Organization
 
-4irelabs works since on 2011, with HQ in Kyiv, Ukraine and representation in Singapore & Stockholm. We work under the holacracy self-organization framework, use lean and agile approaches for our work. Name "4IRE" means 4th Industrial Revolution Engine, meaning our intention to improve the society with new technology \(blockchain, IoT etc\).
+4irelabs works since on 2011, with HQ in Kyiv, Ukraine and representation in Singapore & Stockholm. We work under the holacracy self-organization framework, use lean and agile approaches for our work. Name "4IRE" \(pronounced as "fire"\) means 4th Industrial Revolution Engine, meaning our intention to improve the society with new technology \(blockchain, IoT etc\).
 
 ### Our Values
 
@@ -28,21 +28,6 @@
 * [Yura Riznyk](yura-riznyk.md) – Engineer
 * [Stas Varetsky](stas-varetsky.md) – Researcher, Product Manager
 * [Andrey Krit](andrey-krit.md) – Engineer
-
-### Admin team
-
-* [Max Semenchuk](max-semenchuk.md)
-* [Helen Petrashchuk](helen-petrashchuk.md)
-* Nana
-* Johan Lundin
-* Svetlana Semenchuk
-* Helen Linnik
-
-### Engineering team
-
-* Team of 16: Engineers, QAs, PMs
-
-​More on [https://4irelabs.com/team](https://4irelabs.com/team)
 
 ## History & Achievements
 
