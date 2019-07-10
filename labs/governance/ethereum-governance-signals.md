@@ -31,3 +31,9 @@ Top 3 challenges:
 * [Ethereum Governance Survey](https://ethereum-magicians.org/t/ethereum-governance-survey-call-to-action/3137)
 * Futarchy / Prediction markets
 
+## Publications
+
+{% embed url="https://medium.com/practical-blockchain/getting-more-insights-from-the-ethereum-carbonvote-9e4d2eb46e8" %}
+
+
+
