@@ -11,15 +11,32 @@ While the Web 2.0 democratized many power structures and created new opportuniti
 * Permissionless blockchains
 * Uninterrupted service
 
-## Challenges
+## Authorization
 
-* Adoption/UX
-  * [Saving password in more a human way](adoption-ux/)
-  * [CryptoGraphica](adoption-ux/encoding-seed-phrase-to-the-picture-steganography.md)
-* DevX & tools
-  * Create convenient tools for DApps development using cloud providers
-* Interoperability
-  * [Enabling Decentralized Interchain Transactions between ETH and BTC with Parachains](interoperability/ethereum-bitcoin-bridge-wip.md) \([TerraBridge](interoperability/extending-maker-dao-scalability-with-btc-collateral.md)\)
+Target Audience: crypto wallets owners
+
+### Challenges
+
+![](https://lh5.googleusercontent.com/Q_OoCl3UKYdDZgmisp9t0nANfxs961HzKRbyV9_CyB_Q9IG-KDPNH2bIdVJgY5EnI1He7ExnnrZOwKVKMG6eqrNl0QyEj1MWzLtFCreonKoS7cY1VJZs26Wouz54MP7H2YjRsWgf)
+
+* [HMW we make password saving more fun](security-level.md) \(6\)
+* [HMW to ease up backing it up in a secure way](encoding-seed-phrase-to-the-picture-steganography.md) \(5\)
+* HMW we give users feel of safety - 1 global, secure place \(4\)
+* HMW to avoid memorizing the pass \(3\)
+* HWM Make reentering super easy and secure \(1\)
+
+### Solutions
+
+* Improving the cryptowallet authorization experience with security level selector
+* [CryptoGraphica](encoding-seed-phrase-to-the-picture-steganography.md)
+
+## DevX & tools
+
+* Create convenient tools for DApps development using cloud providers
+
+## Interoperability
+
+* [Enabling Decentralized Interchain Transactions between ETH and BTC with Parachains](interoperability/ethereum-bitcoin-bridge-wip.md) \([TerraBridge](interoperability/extending-maker-dao-scalability-with-btc-collateral.md)\)
 
 ## Grants
 
