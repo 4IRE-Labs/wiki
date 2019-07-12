@@ -26,8 +26,7 @@ KPI: research productivity
 * **Decentralized execution**
   * **Funding public goods**
     * Stake to come to network + tax
-    * Нетворки на подписке
-    * Buyin or workin 
+    * Networks on subscription \(Buy-in or work-in\)
   * **Increasing the amount and quality of interactions**
 * **Improve org experience**
 * How to make collaborative strategies
@@ -51,10 +50,10 @@ Solve complex technical RnD solutions and get support from the market innovators
 Research Nordic Fintech Product needs and help them close it. In 2-3 months we have relations with key fintech players, have some knowledge on their needs, help to realize at least +1 paid project.
 
 * Market mapping \(какие типа, хабы и тд\)
-* Инициировать диалог по потребностям, выявлению инсайтов
-* Разработать оффер по инстайтам
-* Репорт Nordic Fintech Innovation
-* Crossborder Payments?
+* Initiate the dialog on needs to find insights
+* Develop the offer based on the insights
+* Build Report on Nordic Fintech Innovation
+* Research Crossborder Payments Tech
 * Improve the speed of setup AML/KYC in the product by using aggregated KYC providers in 1 service
 * Allow faster, cheaper and contract signing for businesses
 * Go2 Finnovate Berlin Feb2020
