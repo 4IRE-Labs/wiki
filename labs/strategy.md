@@ -14,7 +14,9 @@ Aspirations:
 
 KPI: research productivity
 
-### Research network governance solutions \([Max](../about/max-semenchuk.md)\) <a id="Labs-Researchnetworkgovernancesolutions(Max)"></a>
+### Research [network governance solutions](governance/) \([Max](../about/max-semenchuk.md)\) <a id="Labs-Researchnetworkgovernancesolutions(Max)"></a>
+
+Focus on adoption/implementation
 
 * **Refine \#dgov the TA and problems**
   * Make community interviews with selected governance TA
@@ -36,7 +38,7 @@ KPI: research productivity
 * Collect / Monthly review grant programs, hackathons, [incubators / accelerators](https://wiki.4irelabs.com/docs/research/blockchain-accelerators-and-incubators)
   * **Tenna Moloch Grant Push**
 
-### Research web3 solutions \([Kirill](../about/kirill-kirikov.md)\) <a id="Labs-Researchweb3solutions(Kirill)"></a>
+### Research [web3 solutions ](web3/)\([Kirill](../about/kirill-kirikov.md)\) <a id="Labs-Researchweb3solutions(Kirill)"></a>
 
 Solve complex technical RnD solutions and get support from the market innovators.
 
@@ -45,7 +47,7 @@ Solve complex technical RnD solutions and get support from the market innovators
 * DevX researches / FE smart contracts autofill 
 * Adoption / Usability
 
-### Research fintech solutions \([Stas](../about/stas-varetsky.md)\) <a id="Labs-Researchfintechsolutions(Stas)"></a>
+### Research[ fintech solutions](fintech.md) \([Stas](../about/stas-varetsky.md)\) <a id="Labs-Researchfintechsolutions(Stas)"></a>
 
 Research Nordic Fintech Product needs and help them close it. In 2-3 months we have relations with key fintech players, have some knowledge on their needs, help to realize at least +1 paid project.
 
@@ -65,6 +67,13 @@ Research Nordic Fintech Product needs and help them close it. In 2-3 months we h
 * Token system redesign
 * Develop the brand
 * Publicize the work more
+* Add Expertise
+  * Security
+  * Marketing
+  * b2b enterprise connection
+  * fundraising
+  * PR
+  * Copywriting
 * Culture
   * Promote self-development, decentralization
 * Refine
