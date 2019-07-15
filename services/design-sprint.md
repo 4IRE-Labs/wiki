@@ -48,3 +48,8 @@ You must have the decision maker and a facilitator in the sprint. Besides that y
 
 Contact us through the chat here or via email [ms@4irelabs.com](mailto:ms@4irelabs.com) \(Max\) and let's have a chat to see how it can fit your product or idea.
 
+## Publications
+
+* [Improving the crypto wallet authorization experience with security level selector](https://medium.com/practical-blockchain/improving-the-crypto-wallet-authorization-experience-with-security-level-selector-85dfa2a567b3)
+* [Short story of wrong product, usability testing and Userbrain](https://blog.seductive-mobile.com/short-story-of-wrong-product-usability-testing-and-userbrain-a490053893f9)
+

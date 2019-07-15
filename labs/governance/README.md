@@ -6,22 +6,14 @@ Network is a type of organization focused on connecting members for collaboratio
 
 ### Open Source Ecosystems
 
-This is the case where we’d like to do an efficient distribution of several funds and investors to a distributed network. If it’s impractical to deal with a analog registered company and the funds are allocated for a long term, we need a mechanism for keeping the initiatives live and sustainable. So somebody can initialise a purpose-driven initiative \(e.g. develop open-source software or maintain the Ethereum documentation\) and open funds allocation for the cause.
+This is the case where we’d like to do an efficient distribution of several funds and investors to a distributed network. If it’s impractical to deal with an analog registered company and the funds are allocated for a long term, we need a mechanism for keeping the initiatives live and sustainable. So somebody can start a purpose-driven initiative \(e.g. develop open-source software or maintain the documentation\) and open funds allocation for the cause.
 
 The initiator in such case may be not the person in charge or most responsible — his role is to describe the need and allow the crowdfunding. As the funds start to concentrate on such DAO account it can attract the executors to step in and do the work.
 
 **Examples:**
 
-* [https://opencollective.com/](https://opencollective.com/)
-* Gitcoin
-
-### Creators Organization
-
-[Patreon](http://www.patreon.com/) is a highly successful service for supporting the creators with $12M monthly payouts for over 100k or creators. With that Patreon has some issues with [censorship](http://www.openlettertopatreon.com/) and [high pledge fees](https://www.reddit.com/r/patreon/comments/7i8pwa/new_pledge_fee_discussion/). Not saying that it’s easily solved, though there’s a place for similar services, like [Stake Tree](https://staketree.com/). So a potential organization with more than 1 creator can do a responsible crowdfunding. It can be a podcast, youtube show, book, research etc.
-
-**Examples:**
-
-* Patreon
+* Ethereum
+* Linux
 
 ### Communities Public Projects
 
@@ -31,15 +23,18 @@ So the initiator can open up a DAO for maintaining the community and start crowd
 
 **Examples:**
 
-* [Space Hive](https://www.spacehive.com/)
+* Game communities
+* Neighborhood & City Projects
+* Education and research projects
 
-### Standard Organizations
+### Consortia and Associations
 
 Networks intended to setup interoperability standards.
 
 **Examples:**
 
 * [Ethereum Enterprise Alliance](https://entethalliance.org/)
+* Libra Network
 
 ### Platform Cooperatives
 
@@ -47,11 +42,7 @@ A platform cooperative, or platform co-op, is a cooperatively owned, democratica
 
 **Examples:**
 
-* [Stocksy United](https://en.wikipedia.org/wiki/Stocksy_United)
-
-### Associations
-
-...
+* * [Stocksy United](https://en.wikipedia.org/wiki/Stocksy_United)
 
 ## Challenges
 
@@ -64,7 +55,9 @@ A platform cooperative, or platform co-op, is a cooperatively owned, democratica
 
 ## Grants
 
-[**Aragon Nest & Flock**](https://github.com/aragon/nest) ****– Aragon Nest was launched to support projects building fundamental tools and infrastructure, largely around Aragon and Ethereum
+[**Aragon Nest & Flock**](https://github.com/aragon/nest) ****– Aragon Nest was launched to support projects building fundamental tools and infrastructure, largely around Aragon and Ethereum.
+
+[**Moloch**](https://molochdao.com/) – A community DAO focused on funding Ethereum development, in the name of Moloch the God of Coordination Failure
 
 ## Read more
 
