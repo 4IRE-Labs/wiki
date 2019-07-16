@@ -5,7 +5,7 @@
 * startup founders – for faster product validation
 * product managers – for innovation and improvements in the existent product \(like new features or side products\)
 
-![](../.gitbook/assets/img_0654.JPG)
+![Max Semenchuk, partner at 4ire labs facilitating the Design Sprint at Unit City](../.gitbook/assets/img_0654.JPG)
 
 ### Product Manager Journey
 
