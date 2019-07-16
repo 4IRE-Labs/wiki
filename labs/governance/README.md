@@ -19,6 +19,10 @@ The initiator in such case may be not the person in charge or most responsibleâ€
 * Neighborhood & City Projects
 * Education and Research projects
 
+**Journey:**
+
+1
+
 ### Professional & Industry Networks
 
 **Examples:**

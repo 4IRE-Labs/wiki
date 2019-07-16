@@ -5,6 +5,8 @@
 * startup founders – for faster product validation
 * product managers – for innovation and improvements in the existent product \(like new features or side products\)
 
+![](../.gitbook/assets/img_0654.JPG)
+
 ### Product Manager Journey
 
 ![](../.gitbook/assets/1_on4f6ypmj4gpq95vvyvfrw.gif)
