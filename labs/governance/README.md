@@ -1,8 +1,13 @@
 # Network Governance
 
-Network is a type of organization focused on connecting members for collaboration, opportunities exchange \(projects, sales\), hiring etc.
+Network is a type of organization focused on connecting members for collaboration and opportunities exchange.
 
 ## Network Types
+
+### IT / Infrastructure Networks
+
+* Internet
+* Ethereum
 
 ### Public Communities
 
@@ -14,14 +19,10 @@ The initiator in such case may be not the person in charge or most responsibleâ€
 
 **Examples:**
 
-* Open Source \(Ethereum, Linux\)
+* Open Source
 * Game communities
 * Neighborhood & City Projects
 * Education and Research projects
-
-**Journey:**
-
-1
 
 ### Professional & Industry Networks
 
