@@ -62,7 +62,8 @@ Research Nordic Fintech Product needs and help them close it. In 2-3 months we h
 
 ### Increase team capacity \([Max](../about/max-semenchuk.md)\) <a id="Labs-Increaseteamcapacity(Max)"></a>
 
-* Make monthly blockchain developer meetups
+* Make monthly blockchain developer meetups \(Max\)
+* Teach Stas the design thinking facilitation \(Max\)
 * Engage more UX, marketing, PR people
 * Token system redesign
 * Develop the brand

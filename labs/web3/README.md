@@ -85,6 +85,8 @@ Target Audience: crypto wallets owners
 
 [**Scuttlebutt Grants**](https://github.com/ssbc/grants-process/blob/master/grants.md) – $5k grants \($200k pledged\) to support with the development of Scuttlebutt, funded by DFINITY.
 
+{% embed url="https://medium.com/metacartel/metacartel-dao-rises-e0646393718b" %}
+
 
 
 ## Bounties
