@@ -1,7 +1,8 @@
 # Table of contents
 
 * [4IRE Labs \| Navigation](README.md)
-* [Back to the homescreen](https://4irelabs.com)
+* [Strategy](strategy.md)
+* [Main Website](https://4irelabs.com)
 
 ## Solutions for
 
@@ -26,7 +27,6 @@
 
 ## Labs
 
-* [Strategy](labs/strategy.md)
 * [Network Governance](labs/governance/README.md)
   * [Funding Public Goods](labs/governance/funding-public-goods.md)
   * [Ethereum Governance / Signaling](labs/governance/ethereum-governance-signals.md)
