@@ -10,6 +10,8 @@ Aspirations:
 * Whatever Elon Musk does
 * Lockheed Martin's [Skunk Works](https://en.wikipedia.org/wiki/Skunk_Works)
 
+Process: question + resources \(people, funds\) –&gt; answers
+
 ## Goals 2019 <a id="Labs-Goals2019"></a>
 
 KPI: research productivity
@@ -18,28 +20,28 @@ Focus on user researches.
 
 ### Research [network governance solutions](labs/governance/) \([Max](about/max-semenchuk.md)\) <a id="Labs-Researchnetworkgovernancesolutions(Max)"></a>
 
-Focus on adoption/implementation
-
-* **Who are the stakeholders in the dgov space**
-* **What are the most important problems of stakeholders in the dgov space**
-  * Make community interviews with selected governance TA
-  * Connect partners to help \(+dgov, Martin, giveth labs\)
-* **How Might we Decrease the governance costs \(0%\)**
-* **Making better decisions**
-  * **Signalling on the proposals**
-    * **Tennagraph – influencers budget $500**
-* **Decentralized execution**
-  * **Funding public goods**
-    * Stake to come to network + tax
-    * Networks on subscription \(Buy-in or work-in\)
-  * **Increasing the amount and quality of interactions**
-* **Improve org experience**
-* How to make collaborative strategies
-* Dgov Adoption
+* Focus on adoption/implementation
 * **Regular Open workshops/groups in the ecosystem and community**
   * Create Partnerships work \(monthly working group call or else for more efficient research\) \#Governance \(advisors, experts\) Crash test / Ideation
 * Collect / Monthly review grant programs, hackathons, [incubators / accelerators](https://wiki.4irelabs.com/docs/research/blockchain-accelerators-and-incubators)
-  * **Tenna Moloch Grant Push**
+
+**Research Questions:**
+
+* Who are the stakeholders in the dgov space?
+* What are the most important problems of stakeholders in the dgov space?
+  * Make community interviews with selected governance TA
+  * Connect partners to help \(+dgov, Martin, giveth labs\)
+* How Might we Decrease the governance costs?
+* How Might we Make better decisions?
+  * Signalling on the proposals
+    * Tennagraph – influencers budget $500
+* How might we Fund public goods
+  * Stake to come to network + tax
+  * Networks on subscription \(Buy-in or work-in\)
+* HWM Improve org experience?
+* HWM Increasing the amount and quality of interactions?
+* HWM make collaborative strategies?
+* HWM increase Dgov Adoption?
 
 ### Research [web3 solutions ](labs/web3/)\([Kirill](about/kirill-kirikov.md)\) <a id="Labs-Researchweb3solutions(Kirill)"></a>
 
@@ -70,7 +72,7 @@ Research Nordic Fintech Product needs and help them close it. In 2-3 months we h
 * Teach Stas the design thinking facilitation \(Max\)
 * Engage more UX, marketing, PR people
 * Token system redesign
-* Develop the brand
+* Develop the brand awareness
 * Publicize the work more
 * Add Expertise
   * Security
