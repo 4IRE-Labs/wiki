@@ -20,10 +20,19 @@ Focus on user researches.
 
 ### Research [network governance solutions](labs/governance/) by [Max](about/max-semenchuk.md) <a id="Labs-Researchnetworkgovernancesolutions(Max)"></a>
 
-* Focus on adoption/implementation
-* Regular Open workshops/groups in the ecosystem and community
-  * Create Partnerships work \(monthly working group call or else for more efficient research\) \#Governance \(advisors, experts\) Crash test / Ideation
-* Collect / Monthly review grant programs, hackathons, [incubators / accelerators](https://wiki.4irelabs.com/docs/research/blockchain-accelerators-and-incubators)
+Stakeholders:
+
+1. Network Foundations \(Ethereum Foundation, Internet Foundation, Decentralized Identity Foundation\)
+2. Platform Cooperatives \(electricity, data, hacktivists, DEX etc mostly digital\)
+3. Public Communities \(Neighborhood, Fan projects etc\)
+4. Consortia and Associations \([Ethereum Enterprise Alliance](https://entethalliance.org/)**,** Libra Network\)
+
+Priorities:
+
+1. Focus on adoption/implementation/user research
+2. Regular Open workshops/groups in the ecosystem and community
+   * Create Partnerships work \(monthly working group call or else for more efficient research\) \#Governance \(advisors, experts\) Crash test / Ideation
+3. Collect / Monthly review grant programs, hackathons, [incubators / accelerators](https://wiki.4irelabs.com/docs/research/blockchain-accelerators-and-incubators)
 
 **Research Questions:**
 
