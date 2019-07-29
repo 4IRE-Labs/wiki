@@ -2,17 +2,6 @@
 
 We research & develop IT solutions, based on blockchain, cloud and mobile tech. Working in financial, e-commerce, logistics and other domains.
 
-## **Solutions for**
-
-* [Fintech](solutions-for/fintech/)
-  * e-wallets
-  * remittance services
-  * bonds management
-  * digital banking solutions
-  * regtech
-  * assets tokenization
-* [Logistics & Supply Chains](solutions-for/asset-tracking/)
-
 ## Services
 
 * [Design Sprint](services/design-sprint.md)
