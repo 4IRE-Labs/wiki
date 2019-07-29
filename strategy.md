@@ -18,10 +18,10 @@ KPI: research productivity
 
 Focus on user researches.
 
-### Research [network governance solutions](labs/governance/) \([Max](about/max-semenchuk.md)\) <a id="Labs-Researchnetworkgovernancesolutions(Max)"></a>
+### Research [network governance solutions](labs/governance/) by [Max](about/max-semenchuk.md) <a id="Labs-Researchnetworkgovernancesolutions(Max)"></a>
 
 * Focus on adoption/implementation
-* **Regular Open workshops/groups in the ecosystem and community**
+* Regular Open workshops/groups in the ecosystem and community
   * Create Partnerships work \(monthly working group call or else for more efficient research\) \#Governance \(advisors, experts\) Crash test / Ideation
 * Collect / Monthly review grant programs, hackathons, [incubators / accelerators](https://wiki.4irelabs.com/docs/research/blockchain-accelerators-and-incubators)
 
@@ -43,7 +43,7 @@ Focus on user researches.
 * HWM make collaborative strategies?
 * HWM increase Dgov Adoption?
 
-### Research [web3 solutions ](labs/web3/)\([Kirill](about/kirill-kirikov.md)\) <a id="Labs-Researchweb3solutions(Kirill)"></a>
+### Research [web3 solutions ](labs/web3/)by [Kirill](about/kirill-kirikov.md) <a id="Labs-Researchweb3solutions(Kirill)"></a>
 
 Solve complex technical RnD solutions and get support from the market innovators.
 
@@ -52,7 +52,7 @@ Solve complex technical RnD solutions and get support from the market innovators
 * DevX researches / FE smart contracts autofill 
 * Adoption / Usability
 
-### Research[ fintech solutions](labs/fintech.md) \([Stas](about/stas-varetsky.md)\) <a id="Labs-Researchfintechsolutions(Stas)"></a>
+### Research[ fintech solutions](labs/fintech.md) by [Stas](about/stas-varetsky.md) <a id="Labs-Researchfintechsolutions(Stas)"></a>
 
 Research Nordic Fintech Product needs and help them close it. In 2-3 months we have relations with key fintech players, have some knowledge on their needs, help to realize at least +1 paid project.
 
@@ -65,7 +65,7 @@ Research Nordic Fintech Product needs and help them close it. In 2-3 months we h
 * Allow faster, cheaper and contract signing for businesses
 * Go2 Finnovate Berlin Feb2020
 
-### Increase team capacity \([Max](about/max-semenchuk.md)\) <a id="Labs-Increaseteamcapacity(Max)"></a>
+### Increase team capacity by [Max](about/max-semenchuk.md) <a id="Labs-Increaseteamcapacity(Max)"></a>
 
 * Setup research refinement method \(right question, stakeholders, links etc\) by Max
 * Make monthly blockchain developer meetups \(Max\)
