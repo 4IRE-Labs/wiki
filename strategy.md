@@ -1,6 +1,6 @@
 # Strategy
 
-## **Purpose:** create more successful new products <a id="Labs-Purpose:createmoresuccessfulnewproducts"></a>
+## **Purpose:** create more successful products <a id="Labs-Purpose:createmoresuccessfulnewproducts"></a>
 
 Aspirations:
 
@@ -20,10 +20,11 @@ Focus on user researches.
 
 Focus on adoption/implementation
 
-* **Refine \#dgov the TA and problems**
+* **Who are the stakeholders in the dgov space**
+* **What are the most important problems of stakeholders in the dgov space**
   * Make community interviews with selected governance TA
   * Connect partners to help \(+dgov, Martin, giveth labs\)
-* **Decreasing the governance costs \(0%\)**
+* **How Might we Decrease the governance costs \(0%\)**
 * **Making better decisions**
   * **Signalling on the proposals**
     * **Tennagraph – influencers budget $500**
@@ -64,6 +65,7 @@ Research Nordic Fintech Product needs and help them close it. In 2-3 months we h
 
 ### Increase team capacity \([Max](about/max-semenchuk.md)\) <a id="Labs-Increaseteamcapacity(Max)"></a>
 
+* Setup research refinement method \(right question, stakeholders, links etc\) by Max
 * Make monthly blockchain developer meetups \(Max\)
 * Teach Stas the design thinking facilitation \(Max\)
 * Engage more UX, marketing, PR people
