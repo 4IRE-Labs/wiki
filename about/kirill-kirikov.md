@@ -60,6 +60,7 @@ Libraries/Frameworks/Tools: CSS, XML, HTML, JSON, ODBC, REST, FIREBASE, STL, IPF
 * Winstars - Blockchain-based gaming platform.
 * [CMI](../case-studies/cmi.md) – a global media ecosystem integrating blockchain into news, social media, trade, finance, education and technology innovation.
 * [HiveOnline](../case-studies/hiveonline.md) – blockchain trust record platform for SME \(wip\)
+* [Green Assets Wallet ](https://greenassetswallet.org/about) - a  blockchain based platform for a transparent and efficient green debt market in Sweden formed under the lead of [Stockholm Green Digital Finance](http://stockholmgreenfin.tech/). 
 
 ## **Work history**
 
