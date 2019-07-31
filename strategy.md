@@ -74,8 +74,9 @@ Research Nordic Fintech Product needs and help them close it. In 2-3 months we h
 * Allow faster, cheaper and contract signing for businesses
 * Go2 Finnovate Berlin Feb2020
 
-### Increase team capacity by [Max](about/max-semenchuk.md) <a id="Labs-Increaseteamcapacity(Max)"></a>
+### Increase the capacity by [Max](about/max-semenchuk.md) <a id="Labs-Increaseteamcapacity(Max)"></a>
 
+* Paid milestones
 * Setup research refinement method \(right question, stakeholders, links etc\) by Max
 * Make monthly blockchain developer meetups \(Max\)
 * Teach Stas the design thinking facilitation \(Max\)
