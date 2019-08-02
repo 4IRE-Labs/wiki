@@ -1,7 +1,7 @@
 # Table of contents
 
 * [4IRE Labs \| Navigation](README.md)
-* [Strategy](strategy.md)
+* [Strategy & Goals](strategy.md)
 * [Main Website](https://4irelabs.com)
 
 ## Solutions for

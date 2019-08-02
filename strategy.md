@@ -1,6 +1,6 @@
-# Strategy
+# Strategy & Goals
 
-## **Purpose:** create more successful products <a id="Labs-Purpose:createmoresuccessfulnewproducts"></a>
+**Purpose:** create more successful products
 
 Aspirations:
 
@@ -10,58 +10,67 @@ Aspirations:
 * Whatever Elon Musk does
 * Lockheed Martin's [Skunk Works](https://en.wikipedia.org/wiki/Skunk_Works)
 
-Process: question + resources \(people, funds\) –&gt; answers
-
-## Goals 2019 <a id="Labs-Goals2019"></a>
-
+Process: question + resources \(people, funds\) –&gt; answers  
 KPI: research productivity
 
-Focus on user researches.
+## Increase the team capacity by [Max](about/max-semenchuk.md)
 
-### Research [network governance solutions](labs/governance/) by [Max](about/max-semenchuk.md) <a id="Labs-Researchnetworkgovernancesolutions(Max)"></a>
+* Identifying the most important problem
+  * Regular Open workshops/groups in the ecosystem and community
+  * Create Partnerships work \(monthly working group call or else for more efficient research\) \#Governance \(advisors, experts\) Crash test / Ideation
+* Getting sustainable funding
+  * Collect / Monthly review grant programs, hackathons, [incubators / accelerators](https://wiki.4irelabs.com/docs/research/blockchain-accelerators-and-incubators)
+  * Paid milestones
+  * Token system redesign
+  * Get customers  / +Develop the brand awareness, Publicize the work more
+  * Build relationships with domain investors
+  * Track grants and support the grant requests
+* Bring more expertise / people
+  * Make monthly blockchain developer meetups
+  * Engage more UX, marketing, PR people
+  * Attract advisors
+  * Internships \(Unit City, xteams\)
+* Improve research quality
+  * Setup research refinement method \(right question, stakeholders, links etc\)
+  * Refine interview practices
 
-Stakeholders:
+## Research [network governance solutions](labs/governance/) by [Max](about/max-semenchuk.md)
 
-1. Network Foundations \(Ethereum Foundation, Internet Foundation, Decentralized Identity Foundation\)
-2. Platform Cooperatives \(electricity, data, hacktivists, DEX etc mostly digital\)
-3. Public Communities \(Neighborhood, Fan projects etc\)
-4. Consortia and Associations \([Ethereum Enterprise Alliance](https://entethalliance.org/)**,** Libra Network\)
+#### Network Foundations
 
-Priorities:
+Ethereum Foundation, Internet Foundation, Decentralized Identity Foundation
 
-1. Focus on adoption/implementation/user research
-2. Regular Open workshops/groups in the ecosystem and community
-   * Create Partnerships work \(monthly working group call or else for more efficient research\) \#Governance \(advisors, experts\) Crash test / Ideation
-3. Collect / Monthly review grant programs, hackathons, [incubators / accelerators](https://wiki.4irelabs.com/docs/research/blockchain-accelerators-and-incubators)
+* Making Better Decisions \(Signaling, Proposal Making, Selection\)
 
-**Research Questions:**
+#### Platform Cooperatives
 
-* Who are the stakeholders in the dgov space?
-* What are the most important problems of stakeholders in the dgov space?
-  * Make community interviews with selected governance TA
-  * Connect partners to help \(+dgov, Martin, giveth labs\)
-* How Might we Decrease the governance costs?
-* How Might we Make better decisions?
-  * Signalling on the proposals
-    * Tennagraph – influencers budget $500
-* How might we Fund public goods
-  * Stake to come to network + tax
-  * Networks on subscription \(Buy-in or work-in\)
-* HWM Improve org experience?
-* HWM Increasing the amount and quality of interactions?
-* HWM make collaborative strategies?
-* HWM increase Dgov Adoption?
+Electricity, data, hacktivists, DEX etc mostly digital
 
-### Research [web3 solutions ](labs/web3/)by [Kirill](about/kirill-kirikov.md) <a id="Labs-Researchweb3solutions(Kirill)"></a>
+* Decreasing the governance costs
+* Improving org experience
+* Making collaborative strategies?
+
+#### Public Communities 
+
+Neighborhood, Fan projects etc
+
+* Funding public goods \(Stake to come to network + tax, Networks on subscription \(Buy-in or work-in\)
+* Increasing the amount and quality of interactions
+
+#### Consortia and Associations
+
+[Ethereum Enterprise Alliance](https://entethalliance.org/)**,** Libra Network
+
+## Research [web3 solutions ](labs/web3/)by [Kirill](about/kirill-kirikov.md)
 
 Solve complex technical RnD solutions and get support from the market innovators.
 
 * Research Pantheon, ConsesysLabs, EEA, build\_ua
 * Interoperability / BTC Bridge Web3 grant
-* DevX researches / FE smart contracts autofill 
+* DevX researches / FE smart contracts autofill
 * Adoption / Usability
 
-### Research[ fintech solutions](labs/fintech.md) by [Stas](about/stas-varetsky.md) <a id="Labs-Researchfintechsolutions(Stas)"></a>
+## Research[ fintech solutions](labs/fintech.md) by [Stas](about/stas-varetsky.md)
 
 Research Nordic Fintech Product needs and help them close it. In 2-3 months we have relations with key fintech players, have some knowledge on their needs, help to realize at least +1 paid project.
 
@@ -73,32 +82,6 @@ Research Nordic Fintech Product needs and help them close it. In 2-3 months we h
 * Improve the speed of setup AML/KYC in the product by using aggregated KYC providers in 1 service
 * Allow faster, cheaper and contract signing for businesses
 * Go2 Finnovate Berlin Feb2020
-
-### Increase the capacity by [Max](about/max-semenchuk.md) <a id="Labs-Increaseteamcapacity(Max)"></a>
-
-* Paid milestones
-* Setup research refinement method \(right question, stakeholders, links etc\) by Max
-* Make monthly blockchain developer meetups \(Max\)
-* Teach Stas the design thinking facilitation \(Max\)
-* Engage more UX, marketing, PR people
-* Token system redesign
-* Develop the brand awareness
-* Publicize the work more
-* Internships \(Unit City, xteams\)
-* Add Expertise
-  * Security
-  * Marketing
-  * b2b enterprise connection
-  * fundraising
-  * PR
-  * Copywriting
-* Culture
-  * Promote self-development, decentralization
-* Refine
-  * interview practices
-  * storytelling
-* Get investments
-  * Build relationships with domain investors
 
 ## Policies <a id="Labs-Policies"></a>
 
