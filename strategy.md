@@ -16,8 +16,8 @@ KPI: research productivity
 ## Increase the team capacity by [Max](about/max-semenchuk.md)
 
 * Identifying the most important problem
-  * Regular Open workshops/groups in the ecosystem and community
-  * Create Partnerships work \(monthly working group call or else for more efficient research\) \#Governance \(advisors, experts\) Crash test / Ideation
+  * Collect interview with stakeholders on topics
+  * Create Partnerships work \(monthly working group call or else for more efficient research\) \#Governance \(advisors, experts\)
 * Getting sustainable funding
   * Collect / Monthly review grant programs, hackathons, [incubators / accelerators](https://wiki.4irelabs.com/docs/research/blockchain-accelerators-and-incubators)
   * Paid milestones
@@ -33,6 +33,8 @@ KPI: research productivity
 * Improve research quality
   * Setup research refinement method \(right question, stakeholders, links etc\)
   * Refine interview practices
+  * Crash test / Ideation
+  * Advisory process
 
 ## Research [network governance solutions](labs/governance/) by [Max](about/max-semenchuk.md)
 
