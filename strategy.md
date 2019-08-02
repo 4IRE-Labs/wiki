@@ -84,6 +84,7 @@ Research Nordic Fintech Product needs and help them close it. In 2-3 months we h
 * Token system redesign
 * Develop the brand awareness
 * Publicize the work more
+* Internships \(Unit City, xteams\)
 * Add Expertise
   * Security
   * Marketing
