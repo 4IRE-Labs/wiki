@@ -75,3 +75,8 @@
 * [Archive](case-studies/archive/README.md)
   * [Merging.Space – Project Management Tool](case-studies/archive/merge-space-overview.md)
 
+## org
+
+* [Tacticals](org/tacticals/README.md)
+  * [Tactical 01.08.2019](org/tacticals/tactical-01.08.2019.md)
+
