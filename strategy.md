@@ -36,13 +36,7 @@ KPI: research productivity
   * Crash test / Ideation
   * Advisory process
 
-## Research [network governance solutions](labs/governance/) by [Max](about/max-semenchuk.md)
-
-#### Network Foundations
-
-Ethereum Foundation, Internet Foundation, Decentralized Identity Foundation
-
-* Making Better Decisions \(Signaling, Proposal Making, Selection\)
+## Research platform coops solutions by [Max](about/max-semenchuk.md)
 
 #### Platform Cooperatives
 
@@ -51,6 +45,24 @@ Electricity, data, hacktivists, DEX etc mostly digital
 * Decreasing the governance costs
 * Improving org experience
 * Making collaborative strategies?
+
+
+
+* Build the list of current coops
+  * dOrg
+  * [Stocksy United](https://en.wikipedia.org/wiki/Stocksy_United)
+  * [Midata](https://www.midata.coop/)
+  * 4IRE
+  * Translation Coop
+* Drive more activity, retention and loyalty from customers, business partners, network/marketplace users via distributing future value
+* Make community interviews with selected governance TA
+* Connect partners to help \(+dgov, Martin, giveth labs\)
+* Decreasing the governance costs \(0%\)
+* Improve OrgXP
+* How to make collaborative strategies
+* Partner with Nathan Schneider / [MEDLabBoulder](https://twitter.com/MEDLabBoulder)
+
+
 
 #### Public Communities 
 
