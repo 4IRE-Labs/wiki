@@ -38,44 +38,7 @@ KPI: research productivity
 
 ## Research platform coops solutions by [Max](about/max-semenchuk.md)
 
-#### Platform Cooperatives
-
-Electricity, data, hacktivists, DEX etc mostly digital
-
-* Decreasing the governance costs
-* Improving org experience
-* Making collaborative strategies?
-
-
-
-* Build the list of current coops
-  * dOrg
-  * [Stocksy United](https://en.wikipedia.org/wiki/Stocksy_United)
-  * [Midata](https://www.midata.coop/)
-  * 4IRE
-  * Translation Coop
-* Drive more activity, retention and loyalty from customers, business partners, network/marketplace users via distributing future value
-* Make community interviews with selected governance TA
-* Connect partners to help \(+dgov, Martin, giveth labs\)
-* Decreasing the governance costs \(0%\)
-* Improve OrgXP
-* How to make collaborative strategies
-* Partner with Nathan Schneider / [MEDLabBoulder](https://twitter.com/MEDLabBoulder)
-
-
-
-#### Public Communities 
-
-Neighborhood, Fan projects etc
-
-* Funding public goods \(Stake to come to network + tax, Networks on subscription \(Buy-in or work-in\)
-* Increasing the amount and quality of interactions
-
-#### Consortia and Associations
-
-[Ethereum Enterprise Alliance](https://entethalliance.org/)**,** Libra Network
-
-## Research [web3 solutions ](web3/web3/)by [Kirill](about/kirill-kirikov.md)
+## Research [web3 solutions ](web3/web3.md)by [Kirill](about/kirill-kirikov.md)
 
 Solve complex technical RnD solutions and get support from the market innovators.
 
