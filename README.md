@@ -15,9 +15,9 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
   * [Funding Public Goods](temp/governance/funding-public-goods.md)
   * [Signaling](temp/governance/ethereum-governance-signals.md)
   * [Increasing engagement](temp/governance/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
-* [Web3](web3/web3.md)
-  * [Developer tools and DevX](web3/improving-developer-experience-devx/)
-  * [Interoperability](web3/interoperability/)
+* [Web3](web3/web3/)
+  * [Developer tools and DevX](web3/web3/improving-developer-experience-devx/)
+  * [Interoperability](web3/web3/interoperability/)
 * [Fintech]()
 
 ## About
@@ -40,7 +40,7 @@ Check out our [Blog](https://medium.com/practical-blockchain) & [Twitter](https:
 
 * [Tennagraph](case-studies/tennagraph.md) – Ethereum Signal Aggregator
 * [Terra bridge](https://github.com/ContractLand/terra-bridge-btc) – Connecting EVM based blockchain for Interchain DEX
-* [CryptoGraphica](web3/encoding-seed-phrase-to-the-picture-steganography.md) – Solution for wallet \#Usability \#Security
+* [CryptoGraphica](web3/web3/encoding-seed-phrase-to-the-picture-steganography.md) – Solution for wallet \#Usability \#Security
 
 ### Commercial
 

@@ -1,4 +1,4 @@
-# Logistics
+# Logistics Summary
 
 For logistics, manufacturing, e-commerce \(companies with solid logistics departments\) 
 
