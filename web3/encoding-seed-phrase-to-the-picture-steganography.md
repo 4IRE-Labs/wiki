@@ -12,7 +12,7 @@
 
 ## Problem Research
 
-![Customer Journey](../../.gitbook/assets/image%20%2869%29.png)
+![Customer Journey](../.gitbook/assets/image%20%2869%29.png)
 
 ### **Needs Hypotheses**
 
@@ -50,7 +50,7 @@ You may take a family picture that everybody has and encode your seed phrase wit
 
 ### Prototype
 
-![iOS App demo](../../.gitbook/assets/img_8766.gif)
+![iOS App demo](../.gitbook/assets/img_8766.gif)
 
 {% embed url="https://github.com/4IRE-Labs/CryptoGraphica" %}
 
@@ -68,7 +68,7 @@ Questions:
 
 A library for wallets that allows saving the seed phrase into local stored photos
 
-![Quick demo](../../.gitbook/assets/img_8766.gif)
+![Quick demo](../.gitbook/assets/img_8766.gif)
 
 Repo: [https://github.com/4IRE-Labs/CryptoGraphica](https://github.com/4IRE-Labs/CryptoGraphica)
 

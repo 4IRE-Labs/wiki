@@ -4,7 +4,7 @@ Developer Experience \(DX\) is the equivalent to User Experience \(UX\) when the
 
 ## Challenges
 
-![](../../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
 1. [Automate transmission of the smart contract address to the front-end](automate-transmission-of-the-smart-contract-address-to-the-front-end.md) \(4\)
 2. Simplify the updates to smart contracts \(3\)

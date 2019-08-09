@@ -22,7 +22,7 @@
 
 ## Solutions
 
-* [Enabling Decentralized Interchain Transactions between ETH and BTC with Parachains](../../web3/web3/interoperability/ethereum-bitcoin-bridge-wip.md)
+* [Enabling Decentralized Interchain Transactions between ETH and BTC with Parachains](../web3/interoperability/ethereum-bitcoin-bridge-wip.md)
 * [KYC/AML Compliance](kyc-module-integartion.md)
 * PSD2 Compliance
 * [Transparent Cross Border Payments with Blockchain](enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
@@ -31,28 +31,28 @@
 
 ## Services
 
-* [Architecture / Protocol Design](../../architecture-design-protocol/)
-* [App Development](../../dapps-wallets-development.md) – cost reduction in backend, web, mobile development
+* [Architecture / Protocol Design](../architecture-design-protocol/)
+* [App Development](../dapps-wallets-development.md) – cost reduction in backend, web, mobile development
 * Security Audit \([BitRent](https://medium.com/practical-blockchain/bitrent-smart-contracts-audit-case-study-d7d61a34e9f7)\)
-* [Design Sprint](../../design-thinking/design-sprint.md)
+* [Design Sprint](../design-thinking/design-sprint.md)
 
 ## Consultants
 
-* [Kirill Kirikov](../../about/kirill-kirikov.md)
-* [Max Semenchuk](../../about/max-semenchuk.md)
-* [Oleg Bugrovoy](../../about/oleg-bugrovoy.md)
-* [Roman Malkevych](../../about/roman-malkevych.md)
-* [Bohdan Malkevych](../../about/bohdan-malkevych.md)
+* [Kirill Kirikov](../about/kirill-kirikov.md)
+* [Max Semenchuk](../about/max-semenchuk.md)
+* [Oleg Bugrovoy](../about/oleg-bugrovoy.md)
+* [Roman Malkevych](../about/roman-malkevych.md)
+* [Bohdan Malkevych](../about/bohdan-malkevych.md)
 
 ## Case Studies
 
-* [Notary on blockchain](../../case-studies/notarization-platform.md) – Blockchain-based notarization platform
-* [Hiveonline](../../case-studies/hiveonline.md) – The financial trust platform for small businesses
-* [Kidcoin](../../case-studies/kidcoin.md) – Blockchain-based family finances and digital wallets for kids
-* [Kepler Collective](../../case-studies/kepler-collective.md) – Hub for selecting and investing in ICO pools
-* [ORME](../../case-studies/orme.md) – Market maker for the exchange platform
-* [ICONX](../../case-studies/iconx-wip.md) – Asset tokenization platform
-* [Hybrid wallet](../../case-studies/hybrid-wallet-fiat-and-crypto-assets.md) for Fiat and crypto Assets
+* [Notary on blockchain](../case-studies/notarization-platform.md) – Blockchain-based notarization platform
+* [Hiveonline](../case-studies/hiveonline.md) – The financial trust platform for small businesses
+* [Kidcoin](../case-studies/kidcoin.md) – Blockchain-based family finances and digital wallets for kids
+* [Kepler Collective](../case-studies/kepler-collective.md) – Hub for selecting and investing in ICO pools
+* [ORME](../case-studies/orme.md) – Market maker for the exchange platform
+* [ICONX](../case-studies/iconx-wip.md) – Asset tokenization platform
+* [Hybrid wallet](../case-studies/hybrid-wallet-fiat-and-crypto-assets.md) for Fiat and crypto Assets
 * [Terra bridge](https://github.com/ContractLand/terra-bridge-btc) – Connecting EVM based blockchain for Interchain DEX
 
 ## Our Benefits

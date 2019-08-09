@@ -15,31 +15,31 @@
 
 ## Fintech
 
-* [Fintech Summary](fintech/fintech/README.md)
-  * [KYC Compliance](fintech/fintech/kyc-module-integartion.md)
-  * [Transparent Cross Border Payments with Blockchain](fintech/fintech/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
-  * [Increasing Liquidity with Asset Tokenization](fintech/fintech/asset-tokenization.md)
-  * [Blockchain for Insurance Case Studies](fintech/fintech/blockchain-for-insurance.md)
-  * [Calculating the Crypto Address Reputation for Antifraud](fintech/fintech/complaince-scoring.md)
+* [Fintech Summary](fintech/fintech.md)
+* [KYC Compliance](fintech/kyc-module-integartion.md)
+* [Transparent Cross Border Payments with Blockchain](fintech/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
+* [Increasing Liquidity with Asset Tokenization](fintech/asset-tokenization.md)
+* [Blockchain for Insurance Case Studies](fintech/blockchain-for-insurance.md)
+* [Calculating the Crypto Address Reputation for Antifraud](fintech/complaince-scoring.md)
 
 ## Web3
 
-* [Web3 Summary](web3/web3/README.md)
-  * [Improving the cryptowallet authorization experience with security level selector](web3/web3/security-level.md)
-  * [Encoding seed phrase to the picture \(steganography\)](web3/web3/encoding-seed-phrase-to-the-picture-steganography.md)
-  * [Developer tools & DevX](web3/web3/improving-developer-experience-devx/README.md)
-    * [Automate transmission of the smart contract address to the front-end](web3/web3/improving-developer-experience-devx/automate-transmission-of-the-smart-contract-address-to-the-front-end.md)
-    * [Improving Developer Experience in Aragon](web3/web3/improving-developer-experience-devx/improving-developer-experience-in-aragon.md)
-  * [Interoperability](web3/web3/interoperability/README.md)
-    * [Use Cases for Terrabridge \(ETH&lt;&gt;BTC\)](web3/web3/interoperability/extending-maker-dao-scalability-with-btc-collateral.md)
-    * [Enabling Decentralized Interchain Transactions between ETH and BTC with Parachains](web3/web3/interoperability/ethereum-bitcoin-bridge-wip.md)
+* [Web3 Summary](web3/web3.md)
+* [Improving the cryptowallet authorization experience with security level selector](web3/security-level.md)
+* [Encoding seed phrase to the picture \(steganography\)](web3/encoding-seed-phrase-to-the-picture-steganography.md)
+* [Developer tools & DevX](web3/improving-developer-experience-devx/README.md)
+  * [Automate transmission of the smart contract address to the front-end](web3/improving-developer-experience-devx/automate-transmission-of-the-smart-contract-address-to-the-front-end.md)
+  * [Improving Developer Experience in Aragon](web3/improving-developer-experience-devx/improving-developer-experience-in-aragon.md)
+* [Interoperability](web3/interoperability/README.md)
+  * [Use Cases for Terrabridge \(ETH&lt;&gt;BTC\)](web3/interoperability/extending-maker-dao-scalability-with-btc-collateral.md)
+  * [Enabling Decentralized Interchain Transactions between ETH and BTC with Parachains](web3/interoperability/ethereum-bitcoin-bridge-wip.md)
 
 ## Logistics
 
-* [Logistics Summary](logistics/asset-tracking/README.md)
-  * [Expanding Supply Chaing Traceability with Blockchain](logistics/asset-tracking/supply-chain-blockchain-tech-review-and-comparison.md)
-  * [Secure Audit Trail for eDocuments with Blockchain](logistics/asset-tracking/how-to-track-document-versions-and-signers-on-the-blockchain.md)
-  * [Improving the recycling rates with recyclables open market on blockchain](logistics/asset-tracking/recyclechain.md)
+* [Logistics Summary](logistics/asset-tracking.md)
+* [Expanding Supply Chaing Traceability with Blockchain](logistics/supply-chain-blockchain-tech-review-and-comparison.md)
+* [Secure Audit Trail for eDocuments with Blockchain](logistics/how-to-track-document-versions-and-signers-on-the-blockchain.md)
+* [Improving the recycling rates with recyclables open market on blockchain](logistics/recyclechain.md)
 
 ## About
 

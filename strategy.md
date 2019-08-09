@@ -75,7 +75,7 @@ Neighborhood, Fan projects etc
 
 [Ethereum Enterprise Alliance](https://entethalliance.org/)**,** Libra Network
 
-## Research [web3 solutions ](web3/web3/)by [Kirill](about/kirill-kirikov.md)
+## Research [web3 solutions ](web3/web3.md)by [Kirill](about/kirill-kirikov.md)
 
 Solve complex technical RnD solutions and get support from the market innovators.
 
