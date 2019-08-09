@@ -4,21 +4,21 @@ We research & develop IT solutions, based on blockchain, cloud and mobile tech. 
 
 ## Services
 
-* [Design Sprint](services/design-sprint.md)
-* [Architecture / Protocol Design](services/architecture-design-protocol/)
-* [Dapps / Wallets Development](services/dapps-wallets-development.md)
-* [GDPR Compliance Audit](services/gdpr.md)
+* [Design Sprint](design-thinking/design-sprint.md)
+* [Architecture / Protocol Design](architecture-design-protocol/)
+* [Dapps / Wallets Development](dapps-wallets-development.md)
+* [GDPR Compliance Audit](gdpr.md)
 
 ## Labs Researches
 
-* [Networks Governance](labs/governance/)
-  * [Funding Public Goods](labs/governance/funding-public-goods.md)
-  * [Signaling](labs/governance/ethereum-governance-signals.md)
-  * [Increasing engagement](labs/governance/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
-* [Web3](labs/web3/)
-  * [Developer tools and DevX](labs/web3/improving-developer-experience-devx/)
-  * [Interoperability](labs/web3/interoperability/)
-* [Fintech](labs/fintech.md)
+* [Networks Governance](temp/governance/)
+  * [Funding Public Goods](temp/governance/funding-public-goods.md)
+  * [Signaling](temp/governance/ethereum-governance-signals.md)
+  * [Increasing engagement](temp/governance/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
+* [Web3](web3/web3/)
+  * [Developer tools and DevX](web3/web3/improving-developer-experience-devx/)
+  * [Interoperability](web3/web3/interoperability/)
+* [Fintech]()
 
 ## About
 
@@ -40,7 +40,7 @@ Check out our [Blog](https://medium.com/practical-blockchain) & [Twitter](https:
 
 * [Tennagraph](case-studies/tennagraph.md) – Ethereum Signal Aggregator
 * [Terra bridge](https://github.com/ContractLand/terra-bridge-btc) – Connecting EVM based blockchain for Interchain DEX
-* [CryptoGraphica](labs/web3/encoding-seed-phrase-to-the-picture-steganography.md) – Solution for wallet \#Usability \#Security
+* [CryptoGraphica](web3/web3/encoding-seed-phrase-to-the-picture-steganography.md) – Solution for wallet \#Usability \#Security
 
 ### Commercial
 

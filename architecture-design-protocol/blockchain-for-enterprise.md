@@ -33,7 +33,7 @@
 
 ### Public Permissionless
 
-![](../../.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png)
 
 * Undefined legal status
 * Reputation in regards to unlawful uses  \(e.g. ML, black market\)
@@ -43,13 +43,13 @@
 
 ### **Private / Permissioned**
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 For Consortia / Government Uses
 
 ### Hybrid \(semi-public\)
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 ### Example: Escrow
 

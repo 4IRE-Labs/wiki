@@ -4,7 +4,7 @@ Protocol for interchain transfers between Ethereum and Bitcoin
 
 Problem: there were no mechanism for establishing in details the mechanism for permission-less transferring of assets between Ethereum and Bitcoin.
 
-Services: [Architecture / Protocol Design](../../../services/architecture-design-protocol/)
+Services: [Architecture / Protocol Design](../../../architecture-design-protocol/)
 
 Team: [Kirill Kirikov](../../../about/kirill-kirikov.md)
 

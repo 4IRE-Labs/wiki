@@ -75,7 +75,7 @@ Neighborhood, Fan projects etc
 
 [Ethereum Enterprise Alliance](https://entethalliance.org/)**,** Libra Network
 
-## Research [web3 solutions ](labs/web3/)by [Kirill](about/kirill-kirikov.md)
+## Research [web3 solutions ](web3/web3/)by [Kirill](about/kirill-kirikov.md)
 
 Solve complex technical RnD solutions and get support from the market innovators.
 
@@ -84,7 +84,7 @@ Solve complex technical RnD solutions and get support from the market innovators
 * DevX researches / FE smart contracts autofill
 * Adoption / Usability
 
-## Research[ fintech solutions](labs/fintech.md) by [Stas](about/stas-varetsky.md)
+## Research[ fintech solutions]() by [Stas](about/stas-varetsky.md)
 
 Research Nordic Fintech Product needs and help them close it. In 2-3 months we have relations with key fintech players, have some knowledge on their needs, help to realize at least +1 paid project.
 
