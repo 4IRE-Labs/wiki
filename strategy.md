@@ -1,6 +1,6 @@
 # Strategy & Goals
 
-**Purpose:** create more successful products
+## Purpose: Create Successful Innovative Products
 
 Aspirations:
 
@@ -11,13 +11,19 @@ Aspirations:
 * Lockheed Martin's [Skunk Works](https://en.wikipedia.org/wiki/Skunk_Works)
 
 Process: question + resources \(people, funds\) –&gt; answers  
-KPI: research productivity
+KPI: research productivity points
 
-## Increase the team capacity by [Max](about/max-semenchuk.md)
+### Research problems
 
-* Identifying the most important problem
-  * Collect interview with stakeholders on topics
-  * Create Partnerships work \(monthly working group call or else for more efficient research\) \#Governance \(advisors, experts\)
+1. [Platform Cooperatives](coop/platform-coops-summary.md) \(Max\)
+2. [Web3](web3/web3.md) \(Kirill\)
+3. [Fintech](fintech/fintech.md) \(Stas\)
+4. [Logistics](logistics/asset-tracking.md) \(Bohdan\)
+
+Through list gathering, interviews, group discussions, advisors & experts
+
+### Fund activities by Max
+
 * Getting sustainable funding
   * Collect / Monthly review grant programs, hackathons, [incubators / accelerators](https://wiki.4irelabs.com/docs/research/blockchain-accelerators-and-incubators)
   * Paid milestones
@@ -25,40 +31,20 @@ KPI: research productivity
   * Get customers  / +Develop the brand awareness, Publicize the work more
   * Build relationships with domain investors
   * Track grants and support the grant requests
-* Bring more expertise / people
-  * Make monthly blockchain developer meetups
-  * Engage more UX, marketing, PR people
-  * Attract advisors
-  * Internships \(Unit City, xteams\)
-* Improve research quality
-  * Setup research refinement method \(right question, stakeholders, links etc\)
-  * Refine interview practices
-  * Crash test / Ideation
-  * Advisory process
 
-## Research platform coops solutions by [Max](about/max-semenchuk.md)
+### Bring more expertise / people by Max
 
-## Research [web3 solutions ](web3/web3.md)by [Kirill](about/kirill-kirikov.md)
+* Make monthly blockchain developer meetups
+* Engage more UX, marketing, PR people
+* Attract advisors
+* Internships \(Unit City, xteams\)
 
-Solve complex technical RnD solutions and get support from the market innovators.
+### Improve research quality by Max
 
-* Research Pantheon, ConsesysLabs, EEA, build\_ua
-* Interoperability / BTC Bridge Web3 grant
-* DevX researches / FE smart contracts autofill
-* Adoption / Usability
-
-## Research[ fintech solutions]() by [Stas](about/stas-varetsky.md)
-
-Research Nordic Fintech Product needs and help them close it. In 2-3 months we have relations with key fintech players, have some knowledge on their needs, help to realize at least +1 paid project.
-
-* Market mapping \(какие типа, хабы и тд\)
-* Initiate the dialog on needs to find insights
-* Develop the offer based on the insights
-* Build Report on Nordic Fintech Innovation
-* Research Crossborder Payments Tech
-* Improve the speed of setup AML/KYC in the product by using aggregated KYC providers in 1 service
-* Allow faster, cheaper and contract signing for businesses
-* Go2 Finnovate Berlin Feb2020
+* Setup research refinement method \(right question, stakeholders, links etc\)
+* Refine interview practices
+* Crash test / Ideation
+* Advisory process
 
 ## Policies <a id="Labs-Policies"></a>
 

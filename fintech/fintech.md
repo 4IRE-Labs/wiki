@@ -85,3 +85,16 @@
 
 \*\*\*\*[**NEM Community Fund**](https://nem.io/community-fund/) – As of September 2018, funding process is undergoing a restructure. The funding pool consists of ~300 million NEM \($28M at current prices\) and is largely focused on the Asia-Pacific region.
 
+## Tasks
+
+Research Nordic Fintech Product needs and help them close it. In 2-3 months we have relations with key fintech players, have some knowledge on their needs, help to realize at least +1 paid project.
+
+* Market mapping \(какие типа, хабы и тд\)
+* Initiate the dialog on needs to find insights
+* Develop the offer based on the insights
+* Build Report on Nordic Fintech Innovation
+* Research Crossborder Payments Tech
+* Improve the speed of setup AML/KYC in the product by using aggregated KYC providers in 1 service
+* Allow faster, cheaper and contract signing for businesses
+* Go2 Finnovate Berlin Feb2020
+
