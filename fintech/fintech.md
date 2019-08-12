@@ -5,38 +5,50 @@
 ### Swedish individuals
 
 * Improve speed of setup AML/KYC in product
+* Use convenient services
+* Use cheap services 
 
 ### SME who need loans
+
+* Faster passing of AML/KYC
+* Cheaper loans
 
 ### Lending platforms
 
 * Improve speed of setup AML/KYC in product
-* Comply with PSD2
+* Comply with PSD2ё
 * Comply with GDPR
+* More customers
+* Bigger volume of transactions
 
 ### Exchanges \(fiat, crypto, bonds, futures\)
 
 * Improve speed of setup AML/KYC in product
 * Comply with PSD2
 * Comply with GDPR
+* More customers
+* Bigger volume of transactions
 
 ### Banks
 
 * Improve speed of setup AML/KYC in product
 * Comply with PSD2
 * Comply with GDPR
+* More customers
 
 ### Investment Platforms
 
 * Improve speed of setup AML/KYC in product
 * Comply with PSD2
 * Comply with GDPR
+* More customers
 
 ### Remittance Systems
 
 * Make cross-border payments to developing countries faster & cheaper
 * Improve speed of setup AML/KYC in product
 * Comply with GDPR
+* More customers
 
 ### Regtech startups
 
@@ -47,12 +59,10 @@
 * Improve speed of setup AML/KYC in product
 * Comply with PSD2
 * Comply with GDPR
+* More customers
 
 ## Challenges
 
-
-
-* Comply with GDPR
 * Increasing Liquidity with Asset Tokenization
 * Setup antifraud for crypto operations
 
