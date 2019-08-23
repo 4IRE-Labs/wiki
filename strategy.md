@@ -19,6 +19,7 @@ KPI: research productivity points
 2. [Web3](web3/web3.md) \(Kirill\)
 3. [Fintech](fintech/fintech.md) \(Stas\)
 4. [Logistics](logistics/asset-tracking.md) \(Bohdan\)
+5. Blockchain Networks \(Max\)
 
 Through list gathering, interviews, group discussions, advisors & experts
 
