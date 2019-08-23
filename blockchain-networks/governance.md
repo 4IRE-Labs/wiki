@@ -9,6 +9,7 @@ Network is a type of organization focused on connecting members for collaboratio
 * Bitcoin
 * Aragon
 * EOS
+* Decred
 * Libra Network
 
 ## Challenges
