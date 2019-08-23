@@ -9,6 +9,13 @@
 * [Dapps / Wallets Development](dapps-wallets-development.md)
 * [GDPR Compliance Audit](gdpr.md)
 
+## Blockchain Networks
+
+* [Blockchain Networks Summary](blockchain-networks/governance.md)
+* [Ethereum Governance / Signaling](blockchain-networks/ethereum-governance-signals.md)
+* [Funding Public Goods](blockchain-networks/funding-public-goods.md)
+* [Increasing the amount and quality of interactions in the community](blockchain-networks/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
+
 ## Platform Cooperatives <a id="coop"></a>
 
 * [Platform Coops Summary](coop/platform-coops-summary.md)
@@ -82,8 +89,4 @@
 
 * [Archive](temp/archive/README.md)
   * [Merging.Space – Project Management Tool](temp/archive/merge-space-overview.md)
-* [Network Governance](temp/governance/README.md)
-  * [Funding Public Goods](temp/governance/funding-public-goods.md)
-  * [Ethereum Governance / Signaling](temp/governance/ethereum-governance-signals.md)
-  * [Increasing the amount and quality of interactions in the community](temp/governance/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
 

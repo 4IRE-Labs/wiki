@@ -15,11 +15,11 @@ KPI: research productivity points
 
 ### Research problems
 
-1. [Platform Cooperatives](coop/platform-coops-summary.md) \(Max\)
-2. [Web3](web3/web3.md) \(Kirill\)
-3. [Fintech](fintech/fintech.md) \(Stas\)
-4. [Logistics](logistics/asset-tracking.md) \(Bohdan\)
-5. Blockchain Networks \(Max\)
+1. Blockchain Networks \(Max\)
+2. [Platform Cooperatives](coop/platform-coops-summary.md) \(Max\)
+3. [Web3](web3/web3.md) \(Kirill\)
+4. [Fintech](fintech/fintech.md) \(Stas\)
+5. [Logistics](logistics/asset-tracking.md) \(Bohdan\)
 
 Through list gathering, interviews, group discussions, advisors & experts
 

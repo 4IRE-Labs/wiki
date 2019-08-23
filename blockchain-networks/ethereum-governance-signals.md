@@ -11,7 +11,7 @@
 
 ## Challenges
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 Top 3 challenges:
 
@@ -25,7 +25,7 @@ Top 3 challenges:
 * Twitter polls and discussions
 * [https://www.reddit.com/r/ethereum/](https://www.reddit.com/r/ethereum/)
 * Magicians community \(forum + meetings\)
-* [Tennagraph](../../case-studies/tennagraph.md)
+* [Tennagraph](../case-studies/tennagraph.md)
   * Ask fro twitter API 
   * Introduce identity tenna
 * [Ethereum Governance Survey](https://ethereum-magicians.org/t/ethereum-governance-survey-call-to-action/3137)
