@@ -1,7 +1,7 @@
 # Table of contents
 
 * [4IRE Labs \| Navigation](README.md)
-* [Strategy & Goals](strategy.md)
+* [Policies & Processes](policies.md)
 * [Design Thinking / Service Design](design-thinking/README.md)
   * [Design Sprint](design-thinking/design-sprint.md)
 * [Architecture / Protocol Design](architecture-design-protocol/README.md)

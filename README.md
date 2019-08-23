@@ -1,24 +1,51 @@
 # 4IRE Labs \| Navigation
 
-We research & develop IT solutions, based on blockchain, cloud and mobile tech. Working in financial, e-commerce, logistics and other domains.
+## Purpose: Create Successful Innovative Products
 
-## Services
+Aspirations:
 
-* [Design Sprint](design-thinking/design-sprint.md)
-* [Architecture / Protocol Design](architecture-design-protocol/)
-* [Dapps / Wallets Development](dapps-wallets-development.md)
-* [GDPR Compliance Audit](gdpr.md)
+* [IDEO](https://www.ideo.com/eu) – first apple mouse, design thinking, 700 people
+* [L2 Thinktank](https://www.l2inc.com/) \(acquired by Gartner for $134M\)
+* [Human Ventures](https://humanventures.co/) \(12 products, 2 acquired\)
+* Whatever Elon Musk does
+* Lockheed Martin's [Skunk Works](https://en.wikipedia.org/wiki/Skunk_Works)
 
-## Labs Researches
+Process: question + resources \(people, funds\) –&gt; answers  
+KPI: research productivity points
 
-* [Networks Governance](blockchain-networks/governance.md)
-  * [Funding Public Goods](blockchain-networks/funding-public-goods.md)
-  * [Signaling](blockchain-networks/ethereum-governance-signals.md)
-  * [Increasing engagement](blockchain-networks/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
-* [Web3](web3/web3.md)
-  * [Developer tools and DevX](web3/improving-developer-experience-devx/)
-  * [Interoperability](web3/interoperability/)
-* [Fintech]()
+### Research problems
+
+1. [Blockchain Networks](blockchain-networks/governance.md) \(Max\)
+2. [Platform Cooperatives](coop/platform-coops-summary.md) \(Max\)
+3. [Web3](web3/web3.md) \(Kirill\)
+4. [Fintech](fintech/fintech.md) \(Stas\)
+5. [Logistics](logistics/asset-tracking.md) \(Bohdan\)
+
+Through list gathering, interviews, group discussions, advisors & experts
+
+### Fund activities by Max
+
+* Getting sustainable funding
+  * Collect / Monthly review grant programs, hackathons, [incubators / accelerators](https://wiki.4irelabs.com/docs/research/blockchain-accelerators-and-incubators)
+  * Paid milestones
+  * Token system redesign
+  * Get customers  / +Develop the brand awareness, Publicize the work more
+  * Build relationships with domain investors
+  * Track grants and support the grant requests
+
+### Bring more expertise / people by Max
+
+* Make monthly blockchain developer meetups
+* Engage more UX, marketing, PR people
+* Attract advisors
+* Internships \(Unit City, xteams\)
+
+### Improve research quality by Max
+
+* Setup research refinement method \(right question, stakeholders, links etc\)
+* Refine interview practices
+* Crash test / Ideation
+* Advisory process
 
 ## About
 
