@@ -7,6 +7,7 @@ Network is a type of organization focused on connecting members for collaboratio
 * Ethereum
 * Tezos
 * Bitcoin
+* Aragon
 * EOS
 * Libra Network
 
