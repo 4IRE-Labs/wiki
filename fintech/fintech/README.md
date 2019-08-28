@@ -68,7 +68,7 @@
 * [Compatible Blockchains for the Fintech Projects. Is Stellar one of them?](https://4irelabs.com/blockchain-fintech-stellar)
 * [4IRE labs Fintech Report: Results & Trends](https://4irelabs.com/fintech-report?utm_source=fb&utm_medium=groups&utm_campaign=fintech-report)
 * [Mapping the Decentralized Financial System](https://tokeneconomy.co/mapping-the-decentralized-financial-system-7c5af65e0335)
-* [List of DeFi Products](https://github.com/ong/awesome-decentralized-finance#decentralized-exchange-protocols)
+* [List of DeFi Products](https://defiprime.com/)
 * [Blockchain is Not Just Limited by Fintech ](https://medium.com/practical-blockchain/blockchain-is-not-just-limited-to-fintech-ca5c63ea8483)
 
 ## Grants
