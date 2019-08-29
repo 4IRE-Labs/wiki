@@ -3,7 +3,16 @@
 ## **Checklist**
 
 * [Доска](https://app.asana.com/0/884432933782249/board) + новые челленджи
-* [Таски](https://app.asana.com/0/1116270591138915/calendar)
 
 ## Max / 2 hour format + voting for the workshop topic
+
+Kiri, Stas: ++
+
+## Max / Next research
+
+selected the facilitation tool
+
+## Stas / Who needs help with the research
+
+Max needs help, will talk in the evening
 
