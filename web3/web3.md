@@ -151,3 +151,7 @@ Target Audience: crypto wallets owners
 * [DAO Incubator](http://daoincubator.org)
 * [Eth Metacartel Accelerator](https://medium.com/metacartel/calling-all-application-layer-projects-metacartel-dao-accelerator-applications-now-open-676d0a9409e)
 
+## Read more
+
+* [https://medium.com/l4-media/making-sense-of-web-3-c1a9e74dcae](https://medium.com/l4-media/making-sense-of-web-3-c1a9e74dcae)
+
