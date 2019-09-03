@@ -15,7 +15,7 @@ KPI: research productivity points
 
 ### Research problems
 
-1. [Blockchain Networks](blockchain-networks/governance.md) \(Max\)
+1. [Blockchain Networks](networks/governance.md) \(Max\)
 2. [Platform Cooperatives](coop/platform-coops-summary.md) \(Max\)
 3. [Web3](web3/web3.md) \(Kirill\)
 4. [Fintech](fintech/fintech.md) \(Stas\)

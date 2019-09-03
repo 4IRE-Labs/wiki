@@ -9,12 +9,12 @@
 * [Dapps / Wallets Development](dapps-wallets-development.md)
 * [GDPR Compliance Audit](gdpr.md)
 
-## Blockchain Networks
+## Networks
 
-* [Blockchain Networks Summary](blockchain-networks/governance.md)
-* [Ethereum Governance / Signaling](blockchain-networks/ethereum-governance-signals.md)
-* [Funding Public Goods](blockchain-networks/funding-public-goods.md)
-* [Increasing the amount and quality of interactions in the community](blockchain-networks/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
+* [Blockchain Networks Summary](networks/governance.md)
+* [Ethereum Governance / Signaling](networks/ethereum-governance-signals.md)
+* [Funding Public Goods](networks/funding-public-goods.md)
+* [Increasing the amount and quality of interactions in the community](networks/increasing-the-amount-and-quality-of-interactions-in-the-community.md)
 
 ## Platform Cooperatives <a id="coop"></a>
 
