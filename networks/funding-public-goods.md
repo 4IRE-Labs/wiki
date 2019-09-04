@@ -1,4 +1,0 @@
-# Funding Public Goods
-
-### 
-
