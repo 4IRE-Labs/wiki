@@ -74,6 +74,7 @@
   * [Tactical 08.08.2019](org/tacticals/tactical-08.08.2019.md)
   * [Tactical 15.08.2019](org/tacticals/tactical-15.08.2019.md)
   * [Tactical 29.08.2019](org/tacticals/tactical-29.08.2019.md)
+  * [Tactical 05.09.2019](org/tacticals/tactical-05.09.2019.md)
 
 ## Temp
 
