@@ -84,8 +84,8 @@ Craft a human story to inspire others toward action.
 
 ## Design thinking workshops done
 
-1. [Getting more insights from the Ethereum Carbonvote](https://medium.com/practical-blockchain/getting-more-insights-from-the-ethereum-carbonvote-9e4d2eb46e8)
-2. [Improving the crypto wallet authorization experience with security level selector](https://medium.com/practical-blockchain/improving-the-crypto-wallet-authorization-experience-with-security-level-selector-85dfa2a567b3)
-3. [Tribute](https://4irelabs.com/blog/design-thinking-workshop-tribute)
+1. [Improving the crypto wallet authorization experience with security level selector](https://medium.com/practical-blockchain/improving-the-crypto-wallet-authorization-experience-with-security-level-selector-85dfa2a567b3)
+2. [Getting more insights from the Ethereum Carbonvote](https://medium.com/practical-blockchain/getting-more-insights-from-the-ethereum-carbonvote-9e4d2eb46e8)
+3. [Make clear the potential value of the Tribute incentive](https://4irelabs.com/blog/design-thinking-workshop-tribute)
 4. [Encoding seed phrase to the picture \(steganography\)](https://wiki.4irelabs.com/docs/web3/encoding-seed-phrase-to-the-picture-steganography)
 
