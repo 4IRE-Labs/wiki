@@ -8,6 +8,12 @@
 * Is exploration safe for the organization?
 * Can we get the feedback from target audience in the short terms?
 
+## Problem Identification
+
+* History about the problem
+* Market potential \(volume, growth etc\)
+* Existent solution and what's missing
+
 ## Challenge Definition
 
 Identify a driving question that inspires others to search for creative solutions. Define better the current state & challenge the current understanding of right.
