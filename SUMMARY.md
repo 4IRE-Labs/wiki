@@ -2,6 +2,7 @@
 
 * [4IRE Labs \| Navigation](README.md)
 * [How we work](how-we-work.md)
+* [Looking for a partner](looking-for-a-partner.md)
 * [Policies & Processes](policies.md)
 * [Design Thinking / Service Design](design-thinking/README.md)
   * [Design Sprint](design-thinking/design-sprint.md)
