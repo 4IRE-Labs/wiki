@@ -2,6 +2,13 @@
 
 Hey,[ 4IRE labs](https://4irelabs.com/) is looking for a new partner.
 
+Looking for expertises:
+
+* Branding
+* Community management
+
+## Blockchain Genius
+
 We need to:
 
 * Consult customers at presale
