@@ -10,7 +10,7 @@ We're convinced that canonical approaches of software architecture in agile is a
 
 Case Studies: [Kidcoin](../case-studies/kidcoin.md), [Kepler Collective](../case-studies/kepler-collective.md), [Social. Media Market](../case-studies/social.-media-market.md), [Smart Documents](../case-studies/notarization-platform.md), [ORME](../case-studies/orme.md)
 
-Consultants: [Kirill Kirikov](../about/kirill-kirikov.md), [Oleg Bugrovoy](../about/oleg-bugrovoy.md), [Bohdan Malkevych](../about/bohdan-malkevych.md)
+Consultants: [Kirill Kirikov](../org-1/kirill-kirikov.md), [Oleg Bugrovoy](../org-1/oleg-bugrovoy.md), [Bohdan Malkevych](../org-1/bohdan-malkevych.md)
 
 ## Technologies
 

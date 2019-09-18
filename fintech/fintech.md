@@ -84,11 +84,11 @@
 
 ## Consultants
 
-* [Kirill Kirikov](../about/kirill-kirikov.md)
-* [Max Semenchuk](../about/max-semenchuk.md)
-* [Oleg Bugrovoy](../about/oleg-bugrovoy.md)
-* [Roman Malkevych](../about/roman-malkevych.md)
-* [Bohdan Malkevych](../about/bohdan-malkevych.md)
+* [Kirill Kirikov](../org-1/kirill-kirikov.md)
+* [Max Semenchuk](../org-1/max-semenchuk.md)
+* [Oleg Bugrovoy](../org-1/oleg-bugrovoy.md)
+* [Roman Malkevych](../org-1/roman-malkevych.md)
+* [Bohdan Malkevych](../org-1/bohdan-malkevych.md)
 
 ## Case Studies
 

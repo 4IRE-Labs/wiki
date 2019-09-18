@@ -4,7 +4,7 @@ We offer full-cycle development \(BA, UX, PM, Development, QA, DevOps\) for fint
 
 **Case Studies:** [Kidcoin](case-studies/kidcoin.md), [Kepler Collective](case-studies/kepler-collective.md), [Social. Media Market](case-studies/social.-media-market.md), [Smart Documents](case-studies/notarization-platform.md), [ORME](case-studies/orme.md)
 
-**Consultants:** [Kirill Kirikov](about/kirill-kirikov.md), [Oleg Bugrovoy](about/oleg-bugrovoy.md), [Bohdan Malkevych](about/bohdan-malkevych.md)
+**Consultants:** [Kirill Kirikov](org-1/kirill-kirikov.md), [Oleg Bugrovoy](org-1/oleg-bugrovoy.md), [Bohdan Malkevych](org-1/bohdan-malkevych.md)
 
 ## Design
 

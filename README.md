@@ -48,15 +48,15 @@ Through list gathering, interviews, group discussions, advisors & experts
 
 ## About
 
-* [Organization](about/organization.md)
-* [Kirill Kirikov](about/kirill-kirikov.md) 
-* [Oleg Bugrovoy](about/oleg-bugrovoy.md)
-* [Bohdan Malkevych](about/bohdan-malkevych.md)
-* [Helen Petrashchuk](about/helen-petrashchuk.md)
-* [Max Semenchuk](about/max-semenchuk.md)
-* [Yura Riznyk ](about/yura-riznyk.md)
-* [Andrey Krit ](about/andrey-krit.md)
-* [Roman Malkevych](about/roman-malkevych.md)
+* [Organization](org-1/organization.md)
+* [Kirill Kirikov](org-1/kirill-kirikov.md) 
+* [Oleg Bugrovoy](org-1/oleg-bugrovoy.md)
+* [Bohdan Malkevych](org-1/bohdan-malkevych.md)
+* [Helen Petrashchuk](org-1/helen-petrashchuk.md)
+* [Max Semenchuk](org-1/max-semenchuk.md)
+* [Yura Riznyk ](org-1/yura-riznyk.md)
+* [Andrey Krit ](org-1/andrey-krit.md)
+* [Roman Malkevych](org-1/roman-malkevych.md)
 
 Check out our [Blog](https://medium.com/practical-blockchain) & [Twitter](https://twitter.com/4irelabs)
 

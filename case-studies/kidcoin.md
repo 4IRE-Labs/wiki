@@ -7,7 +7,7 @@ The proven use cases of the dozen released hybrid wallets in Europe and Asia, ac
 
 Services: [Architecture / Protocol Design](../architecture-design-protocol/), [Dapps / Wallets Development](../dapps-wallets-development.md)
 
-Team: [Kirill Kirikov](../about/kirill-kirikov.md), [Oleg Bugrovoy](../about/oleg-bugrovoy.md)
+Team: [Kirill Kirikov](../org-1/kirill-kirikov.md), [Oleg Bugrovoy](../org-1/oleg-bugrovoy.md)
 
 Technical review, project assessment, solution architecture designing, consulting.
 

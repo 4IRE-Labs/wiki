@@ -1,4 +1,4 @@
-# Policies & Processes
+# Labs Policies
 
 ## Policies <a id="Labs-Policies"></a>
 

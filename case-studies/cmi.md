@@ -4,7 +4,7 @@ CMI is a global media ecosystem integrating blockchain into news, social media, 
 
 Services: [Architecture / Protocol Design](../architecture-design-protocol/)
 
-Team: [Kirill Kirikov](../about/kirill-kirikov.md), [Bohdan Malkevych](../about/bohdan-malkevych.md)
+Team: [Kirill Kirikov](../org-1/kirill-kirikov.md), [Bohdan Malkevych](../org-1/bohdan-malkevych.md)
 
 
 

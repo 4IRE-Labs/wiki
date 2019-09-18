@@ -1,15 +1,28 @@
 # Table of contents
 
 * [4IRE Labs \| Navigation](README.md)
-* [How we work](how-we-work.md)
 * [Looking for a partner](looking-for-a-partner.md)
-* [Policies & Processes](policies.md)
 * [Design Thinking / Service Design](design-thinking/README.md)
   * [Design Sprint](design-thinking/design-sprint.md)
 * [Architecture / Protocol Design](architecture-design-protocol/README.md)
   * [Blockchain for Enterprise](architecture-design-protocol/blockchain-for-enterprise.md)
 * [Dapps / Wallets Development](dapps-wallets-development.md)
 * [GDPR Compliance Audit](gdpr.md)
+
+## Organization <a id="org-1"></a>
+
+* [About](org-1/organization.md)
+* [How we work](org-1/how-we-work.md)
+* [Labs Policies](org-1/policies.md)
+* [Max Semenchuk](org-1/max-semenchuk.md)
+* [Kirill Kirikov](org-1/kirill-kirikov.md)
+* [Oleg Bugrovoy](org-1/oleg-bugrovoy.md)
+* [Bohdan Malkevych](org-1/bohdan-malkevych.md)
+* [Helen Petrashchuk](org-1/helen-petrashchuk.md)
+* [Stas Varetsky](org-1/stas-varetsky.md)
+* [Yura Riznyk](org-1/yura-riznyk.md)
+* [Andrey Krit](org-1/andrey-krit.md)
+* [Roman Malkevych](org-1/roman-malkevych.md)
 
 ## Fintech
 
@@ -38,19 +51,6 @@
 * [Expanding Supply Chaing Traceability with Blockchain](logistics/supply-chain-blockchain-tech-review-and-comparison.md)
 * [Secure Audit Trail for eDocuments with Blockchain](logistics/how-to-track-document-versions-and-signers-on-the-blockchain.md)
 * [Improving the recycling rates with recyclables open market on blockchain](logistics/recyclechain.md)
-
-## About
-
-* [Organization](about/organization.md)
-* [Max Semenchuk](about/max-semenchuk.md)
-* [Kirill Kirikov](about/kirill-kirikov.md)
-* [Oleg Bugrovoy](about/oleg-bugrovoy.md)
-* [Bohdan Malkevych](about/bohdan-malkevych.md)
-* [Helen Petrashchuk](about/helen-petrashchuk.md)
-* [Stas Varetsky](about/stas-varetsky.md)
-* [Yura Riznyk](about/yura-riznyk.md)
-* [Andrey Krit](about/andrey-krit.md)
-* [Roman Malkevych](about/roman-malkevych.md)
 
 ## Case Studies
 

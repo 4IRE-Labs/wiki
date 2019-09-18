@@ -4,7 +4,7 @@ CIF is the educational ecosystem that is built on the blockchain and is spreadin
 
 Works: Fixing the problems suffered by the CIF's software along with the dash fork development, technical support and consulting.
 
-Team: [Kirill Kirikov](../about/kirill-kirikov.md)
+Team: [Kirill Kirikov](../org-1/kirill-kirikov.md)
 
 ![](../.gitbook/assets/image%20%2868%29.png)
 

@@ -6,7 +6,7 @@ Problem: there were no mechanism for establishing in details the mechanism for p
 
 Services: [Architecture / Protocol Design](../../architecture-design-protocol/)
 
-Team: [Kirill Kirikov](../../about/kirill-kirikov.md)
+Team: [Kirill Kirikov](../../org-1/kirill-kirikov.md)
 
 ## **Benefit**
 

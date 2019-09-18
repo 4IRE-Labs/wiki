@@ -24,7 +24,7 @@ Native mobile development: Swift
 
 Video explanation on [https://www.facebook.com/maitresdining/videos/2431530593545586/](https://www.facebook.com/maitresdining/videos/2431530593545586/)
 
-Team Lead: [Oleg Bugrovoy](../about/oleg-bugrovoy.md) 
+Team Lead: [Oleg Bugrovoy](../org-1/oleg-bugrovoy.md) 
 
 Team composition:
 

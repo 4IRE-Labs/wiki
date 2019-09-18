@@ -1,4 +1,4 @@
-# Organization
+# About
 
 4irelabs works since on 2011, with HQ in Kyiv, Ukraine and representation in Singapore & Stockholm. We work under the holacracy self-organization framework, use lean and agile approaches for our work. Name "4IRE" \(pronounced as "fire"\) means 4th Industrial Revolution Engine, meaning our intention to improve the society with new technology \(blockchain, IoT etc\).
 

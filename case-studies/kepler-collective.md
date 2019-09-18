@@ -6,7 +6,7 @@ Find the campaigns that give preferences to the pools and establish solid relati
 
 Work: Integration of KYC capabilities, the deployment of smart contracts and addition of other blockchain-based features were the responsibilities of our team.
 
-Team: [Kirill Kirikov](../about/kirill-kirikov.md), [Oleg Burgovoy](../about/oleg-bugrovoy.md)
+Team: [Kirill Kirikov](../org-1/kirill-kirikov.md), [Oleg Burgovoy](../org-1/oleg-bugrovoy.md)
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
