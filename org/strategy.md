@@ -6,3 +6,5 @@ Goal: make 100 design thinking workshops
 
 Команда: Buidl, 4ire, buidl, blockchain for good etc
 
+Массаж в программу лабы? \)
+
