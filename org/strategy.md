@@ -8,3 +8,5 @@ Goal: make 100 design thinking workshops
 
 Массаж в программу лабы? \)
 
+[https://www.ideocolab.com/startupstudio/](https://www.ideocolab.com/startupstudio/)
+
