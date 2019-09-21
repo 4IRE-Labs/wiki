@@ -69,6 +69,10 @@
 * [Hybrid wallet](case-studies/hybrid-wallet-fiat-and-crypto-assets.md)
 * [Vork](case-studies/vork.md)
 
+## Better Orgs
+
+* [Facilitation Zoom](better-orgs/facilitation-zoom.md)
+
 ## org
 
 * [Strategy](org/strategy.md)
