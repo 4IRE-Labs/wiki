@@ -52,6 +52,8 @@ Self organization
 * Подключить Сердюка адвайзором
 * Collaborative budgeting \([https://cobudget.co/](https://cobudget.co/)\)
 
+Роль LL передавать в компании по кругу
+
 {% hint style="info" %}
 #### 4ire brand + community
 
