@@ -14,7 +14,7 @@
 
 Больше смелости и креатива
 
-## [🧸](https://emojipedia.org/teddy-bear/) Comfortable Work Environment by Max <a id="&#x1F9F8;-Comfortable-Work-Environment-by-Max"></a>
+## [🧸](https://emojipedia.org/teddy-bear/) Partners / Comfortable Work Environment by Max <a id="&#x1F9F8;-Comfortable-Work-Environment-by-Max"></a>
 
 Цели:
 
@@ -60,7 +60,7 @@ Self organization
 
 * Использовать внешние стены для всяких опросов
 
-## 🧪 Create Positive Innovation by Max <a id="&#x1F9EA;-Create-Positive-Innovation-by-Max"></a>
+## 🧪 Partners / Create Positive Innovation by Max <a id="&#x1F9EA;-Create-Positive-Innovation-by-Max"></a>
 
 Цели:
 
@@ -77,7 +77,7 @@ Self organization
 
 ### [Lab](https://wiki.4irelabs.com/docs/) <a id="Lab.1"></a>
 
-## ⛲ Self Development by Max <a id="&#x26F2;-Self-Development-by-Max"></a>
+## ⛲ Partners / Self Development by Max <a id="&#x26F2;-Self-Development-by-Max"></a>
 
 Цели:
 
@@ -91,6 +91,10 @@ Self organization
 * общаться с нетворком, коммьюнити
 * брать сложные проекты
 * переехать в кремниевую долину \(плотная тусовка\) – Рома хочет поехать
+
+### Stas
+
+writing, design thinking
 
 ### Personal Strategies <a id="Personal-Strategies"></a>
 
@@ -123,7 +127,7 @@ Self organization
 
 ## Fintech Innovators
 
-### SSF / Create Successful Innovation
+### Create Successful Innovation
 
 Focus on the Nordic market: education &gt; community &gt; taster &gt; product
 
@@ -175,19 +179,9 @@ _Примерный охват аудитории - 10000-50000 человек -
 
 * Design Thinking Workshop \(Max\*, Stas\) \(Design Sprint is a custom case\)
 * Contract
-* Лендинги + оптимизация \($360 one time\) 
+* Лендинги + оптимизация \($360 one time\)
 
-### Team Development by Max <a id="FintechInnovators-TeamDevelopmentbyMax"></a>
-
-* Stas: writing, design thinking
-
-#### For the future
-
-1 article per 3 months on the well known local media 1. Advertorial production of case incl. journalist and interview \(Danish version\)2. Publishing in TechSavvy.Media incl. post on TechSavvy´s LinkedIn, and Fintech + Digitization subsites on[www.businessinsights.dk](http://www.businessinsights.dk/)3. We'll send you links to the posts when online Process will be that our journalist contacts Cecilia for an scope and interview. Once the case has been written it will be sent to Cecilia \(or you\) for acceptance or changes. Once accepted we'll post the article on the selected platforms and inform you once done. You can find the platforms here:1. www.techsavvy.media \| [https://www.linkedin.com/company/techsavvy-media/](https://www.linkedin.com/company/techsavvy-media/)2.[www.businessinsights.dk/digitalisering](http://www.businessinsights.dk/digitalisering)&[www.businessinsights.dk/copenhagen-fintech](http://www.businessinsights.dk/copenhagen-fintech)I'll offer you a special first-try price: USD 1.000,- \(Normal USD 2.000,-\)If you are interested in a translation to an UK version it's an additional USD 250,- Looking forward to hear from you. PS. here's a link to fintech magazine published with the Danish business daily Børsen in June. [https://issuu.com/reach-media/docs/cph-fintech-2019](https://issuu.com/reach-media/docs/cph-fintech-2019)Best regards
-
-Чем больше мы рекламируем наших клиентов тем больше мотивация с нами работать
-
-### SSF / Develop short-term/side IT projects by Stas
+### Develop short-term/side IT projects by Stas
 
 Have capacity for 2-3 projects, have 2-3 requests.
 
@@ -232,7 +226,7 @@ Recycle our base
 
 #### Manage projects \(Stas\)
 
-### SSF / Save money on the dev team extension by Helen
+### Save money on the dev team extension by Helen
 
 Hypothesis: Мы сможем растить реализацию через продажу выделенных джунов. С 1 выделенного джуна вероятно сможем нарастить команду.
 
@@ -255,11 +249,11 @@ Hypothesis: Мы сможем растить реализацию через п�
 
 Нужны фулстеки за 3000-3500 в мес.
 
-### SSF / Be compliant with the regulation by Helen
+### Be compliant with the regulation by Helen
 
 * Помогать с комплаенсом / Connect with legal partners
 
-### SFF / Get funding by Helen
+### Get funding by Helen
 
 Есть сделаем инновационное известное решение – это повысить продажи
 
