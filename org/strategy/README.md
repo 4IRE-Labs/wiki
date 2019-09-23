@@ -1,6 +1,10 @@
 # Strategy
 
-## 🎂 Partners / Financial Well Being by Max <a id="&#x1F382;-Financial-Well-Being-by-Max"></a>
+## Partners <a id="&#x1F382;-Financial-Well-Being-by-Max"></a>
+
+* Самореализация
+
+### 🎂 Partners / Financial Well Being by Max
 
 Цели:
 
@@ -14,7 +18,7 @@
 
 Больше смелости и креатива
 
-## [🧸](https://emojipedia.org/teddy-bear/) Partners / Comfortable Work Environment by Max <a id="&#x1F9F8;-Comfortable-Work-Environment-by-Max"></a>
+### [🧸](https://emojipedia.org/teddy-bear/) Partners / Comfortable Work Environment by Max
 
 Цели:
 
@@ -22,13 +26,13 @@
 * Больше неформальный тусововок, разговоры за кофе
 * Хороший скрам \(процесс\)
 
-### Процесс разработки <a id="&#x41F;&#x440;&#x43E;&#x446;&#x435;&#x441;&#x441;-&#x440;&#x430;&#x437;&#x440;&#x430;&#x431;&#x43E;&#x442;&#x43A;&#x438;"></a>
+#### Процесс разработки
 
 * [https://wiki.4irelabs.com/docs/how-we-work](https://wiki.4irelabs.com/docs/how-we-work)
 * Decrease stress / risks
 * Clear start dates etc – меньше проблем с документами/оплатами
 
-### Governance Model <a id="Governance-Model"></a>
+#### Governance Model
 
 Transparency:
 
@@ -48,19 +52,21 @@ Self organization
 * Подключить Сердюка адвайзором
 * Collaborative budgeting \([https://cobudget.co/](https://cobudget.co/)\)
 
-### 4ire community <a id="4ire-community"></a>
+{% hint style="info" %}
+#### 4ire brand + community
 
 * Проводить общие тусовки
 * Кофе
 * Праздновать дни рождения
-* Human Resource Person in 4ire \(Stas\)?
+* Human Resource Person in 4ire \(Stas?\)
 * Подарок от компании как рефлексия
+{% endhint %}
 
-### Креативное пространство <a id="&#x41A;&#x440;&#x435;&#x430;&#x442;&#x438;&#x432;&#x43D;&#x43E;&#x435;-&#x43F;&#x440;&#x43E;&#x441;&#x442;&#x440;&#x430;&#x43D;&#x441;&#x442;&#x432;&#x43E;"></a>
+#### Креативное пространство
 
 * Использовать внешние стены для всяких опросов
 
-## 🧪 Partners / Create Positive Innovation by Max <a id="&#x1F9EA;-Create-Positive-Innovation-by-Max"></a>
+### 🧪 Partners / Create Positive Innovation by Max
 
 Цели:
 
@@ -75,9 +81,11 @@ Self organization
 * 4ire – креативное место
 * Гордиться
 
+{% hint style="info" %}
 ### [Lab](https://wiki.4irelabs.com/docs/) <a id="Lab.1"></a>
+{% endhint %}
 
-## ⛲ Partners / Self Development by Max <a id="&#x26F2;-Self-Development-by-Max"></a>
+### ⛲ Partners / Self Development by Max
 
 Цели:
 
@@ -92,11 +100,11 @@ Self organization
 * брать сложные проекты
 * переехать в кремниевую долину \(плотная тусовка\) – Рома хочет поехать
 
-### Stas
+#### Stas
 
 writing, design thinking
 
-### Personal Strategies <a id="Personal-Strategies"></a>
+#### Personal Strategies
 
 * Рестроспективные встречи и самоанализ с ребятами
 * Личные профессиональные стратегии
@@ -109,17 +117,17 @@ writing, design thinking
 * Дневник осознанности по работе \(рад, грущу, боюсь, инсайт\)
 * Развития навыков рефлексии
 
-### [Lab](https://wiki.4irelabs.com/docs/) <a id="Lab.2"></a>
+#### [Lab](https://wiki.4irelabs.com/docs/)
 
-### Education Fund <a id="Education-Fund"></a>
+#### Education Fund
 
 * Build UA meetups
 * Conferences budget
 * Отправлять на Хакатоны / находить бюджеты на поездки
 
-### Программа стажировки <a id="&#x41F;&#x440;&#x43E;&#x433;&#x440;&#x430;&#x43C;&#x43C;&#x430;-&#x441;&#x442;&#x430;&#x436;&#x438;&#x440;&#x43E;&#x432;&#x43A;&#x438;.1"></a>
+#### Программа стажировки
 
-### Partner recruiting campaign <a id="Partner-recruiting-campaign.1"></a>
+#### Partner recruiting campaign
 
 Больше общаться с компанией, регулярные тусовки и обмен смыслами
 
