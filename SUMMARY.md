@@ -75,7 +75,9 @@
 
 ## org
 
-* [Strategy](org/strategy.md)
+* [Strategy](org/strategy/README.md)
+  * [Labs](org/strategy/labs.md)
+  * [Brand](org/strategy/brand.md)
 * [Tacticals](org/tacticals/README.md)
   * [Tactical 01.08.2019](org/tacticals/tactical-01.08.2019.md)
   * [Tactical 08.08.2019](org/tacticals/tactical-08.08.2019.md)
