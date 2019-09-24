@@ -11,6 +11,12 @@ Goals:
 
 ### ⛰️ Self-Fulfillment
 
+Goals:
+
+* To have a positive impact on society \(to solve large / frequent / expensive / common problems\)
+* Have fun & Feel ownership
+* Get feedback and gratitude \(well done!\) Receive reconfiguration on conf To do what is not on the market \(technology, methods, culture\), a product that has some uniqueness To be professionals \(Coordinate innovations are made by professionals. In the United States, they made patents that fundamentally changed the computer field, I see that the dude has three degrees, physics, chemistry and computer technology. Therefore, it is not possible to do innovations without being a professional\) Be dreamers \(All the cool super-successful products were not made by pros, airbnb was not invented by the coolest traveler. Uber was not coined by the coolest taxi driver\) Find / receive projects with impact potential \(need mastery and our advise\) 4ire - creative place To be proud
+
 Цели:
 
 * Оказывать позитивное влияние на общество \(решать большие/частые/дорогие/распостраненные проблемы\)
