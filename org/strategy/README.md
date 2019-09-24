@@ -2,7 +2,7 @@
 
 ## Team by [Max](../../org-1/max-semenchuk.md) <a id="&#x1F382;-Financial-Well-Being-by-Max"></a>
 
-TA: Engineers, Design, Marketers, PMs
+TA: Engineers, Designers, Marketers, PMs
 
 ### ⛰️ Self-Fulfillment
 
