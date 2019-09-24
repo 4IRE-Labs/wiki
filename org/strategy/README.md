@@ -6,8 +6,10 @@ Goals:
 
 * Self-fulfilment
 * Financial Well Being
+* Comfortable Work Environment
+* Professional Development
 
-### 🧪 Self-Fulfillment
+### ⛰️ Self-Fulfillment
 
 Цели:
 
