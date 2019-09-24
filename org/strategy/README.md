@@ -139,7 +139,7 @@ writing, design thinking
 
 TA: startup founders, product managers and innovation officers in Nordic countries.
 
-### Create Successful Innovation
+### 💡Create Successful Innovation
 
 Goal: conduct 10 design thinking workshops for our TA in the next 6 month.
 
@@ -222,7 +222,7 @@ _Примерный охват аудитории - 10000-50000 человек -
 * Contract
 * Лендинги + оптимизация \($360 one time\)
 
-### Develop short-term/side IT projects by Stas
+### 🚧Develop short-term/side IT projects by Stas
 
 Have capacity for 2-3 projects, have 2-3 requests.
 
@@ -267,7 +267,7 @@ Recycle our base
 
 #### Manage projects \(Stas\)
 
-### Save money on the dev team extension by Helen
+### 👯Save money on the dev team extension by Helen
 
 Hypothesis: Мы сможем растить реализацию через продажу выделенных джунов. С 1 выделенного джуна вероятно сможем нарастить команду.
 
@@ -290,11 +290,11 @@ Hypothesis: Мы сможем растить реализацию через п�
 
 Нужны фулстеки за 3000-3500 в мес.
 
-### Be compliant with the regulation by Helen
+### 🛴 Be compliant with the regulation by Helen
 
 * Помогать с комплаенсом / Connect with legal partners
 
-### Get funding by Helen
+### 💵 Get funding by Helen
 
 Есть сделаем инновационное известное решение – это повысить продажи
 
@@ -317,7 +317,7 @@ Risks
 
 ## Web3
 
-### Developer Experience
+### ⚽Improve Developer Experience for protocols
 
 * исследования кто сейчас делает в этом направлении
 * анализ devX для платформ \(например remix\) - можно даже получить грант
@@ -328,7 +328,7 @@ Risks
 * Поддержку можем обеспечивать на постоянное основе
 * особенно хорошо для новых проектов
 
-### Blockchain Team Extension
+### [🤹](https://emojipedia.org/juggling/)Blockchain Team Extension
 
 Goal: $25-40k/mo.
 
