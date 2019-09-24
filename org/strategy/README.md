@@ -2,12 +2,7 @@
 
 ## Team <a id="&#x1F382;-Financial-Well-Being-by-Max"></a>
 
-Goals:
-
-* Self-fulfilment
-* Financial Well Being
-* Comfortable Work Environment
-* Professional Development
+TA: Engineers, Design, Marketers, PMs
 
 ### ⛰️ Self-Fulfillment
 
@@ -144,14 +139,16 @@ writing, design thinking
 
 ### Create Successful Innovation
 
+Цель: провести 10 дизайн спринтов для Nordic.
+
 Focus on the Nordic market: education &gt; community &gt; taster &gt; product
 
 {% hint style="info" %}
-[Design thinking workshop](../../design-thinking/)
+#### [Design thinking workshop](../../design-thinking/)
 {% endhint %}
 
 {% hint style="info" %}
-Blog
+#### Blog
 {% endhint %}
 
 #### Education by Stas
@@ -167,6 +164,15 @@ Blog
   * Why should I invest in Design Thinking
   * Why major players use design sprint?
   * How to make a worldwide project in fintech?
+
+Новые идеи:
+
+* Подключить инфлюенсеров \(топ позиции в крупных компаниях\)
+* Находить локальных партнеров по B2B \(McKinsey, E&Y\)
+* Фокусироваться на наших темам на митапах
+* Увеличить масштаб митапов
+* Писать о кейсах в Швеции
+* Участвовать в Help Reporter
 
 Conclusion: There's a significant SEO benefit in launching a Swedish language version of the site and using it for promotion. Relevant keywords in Swedish will generate at least 20 000 clicks per month and are in the low competition category \(1-18\) - new site can rank on page 1. The same applies for general therms - 10 000 searches per month are in Swedish. The absence of "outsource/freelancer" keywords in general phrases lowers the degree of relevance - I would use the parent topics phrases for content marketing and not for search campaigns.
 
@@ -292,7 +298,7 @@ Hypothesis: Мы сможем растить реализацию через п�
 * процессы в лидджен командах
 * автоматизация продаж
 
-### Risks
+Risks
 
 * Стремно брать чуваков издалека, особенно при работе с деньгами
 * Трудности взаимодействия без знания локального языка/культуры
