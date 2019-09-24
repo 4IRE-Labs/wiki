@@ -1,5 +1,13 @@
 # Brand
 
+![](../../.gitbook/assets/4ire-labs-logo.png)
+
+![](../../.gitbook/assets/fonts-+-colors-2.png)
+
+На квадратики 4ire - эффект огня?
+
+[style guide](https://www.figma.com/file/TBaNlFwSZ3i9mB7UdN1wCD44/4IRE-Style-Guide)
+
 * Дорого
 * Качественно
 * Финтех
