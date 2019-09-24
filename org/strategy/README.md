@@ -1,6 +1,6 @@
 # Strategy
 
-## Team <a id="&#x1F382;-Financial-Well-Being-by-Max"></a>
+## Team by [Max](../../org-1/max-semenchuk.md) <a id="&#x1F382;-Financial-Well-Being-by-Max"></a>
 
 TA: Engineers, Design, Marketers, PMs
 
@@ -99,7 +99,7 @@ TA: Engineers, Design, Marketers, PMs
 * Writing
 * Design thinking
 
-### Personal Strategies
+#### Personal Strategies
 
 * Рестроспективные встречи и самоанализ с ребятами
 * Личные профессиональные стратегии
@@ -193,11 +193,21 @@ Taster by Stas
   * Еженедельный и ежемесячные отчет о результатах
 {% endhint %}
 
-### 🚧Develop short-term/side IT projects by Stas
+### 🚧 Develop short-term/side IT projects by Stas
 
-Have capacity for 2-3 projects, have 2-3 requests.
+* Have capacity for 2-3 projects
+* Have 10 RFPs per month
 
-#### Generate RFPs by Helen
+{% hint style="info" %}
+#### Project Management
+{% endhint %}
+
+{% hint style="info" %}
+#### Portfolio
+{% endhint %}
+
+{% hint style="info" %}
+#### Account management process
 
 Мы вероятнее продадим там где есть партнеры. Канада, Австралия, Нидерланды, Швеция и Сингапур интересный рынок. UK, Германия.
 
@@ -205,6 +215,10 @@ Recycle our base
 
 * Monthly updates newsletter
 * Mark leads based on location, domain, interest + send updates based on interest
+{% endhint %}
+
+{% hint style="info" %}
+#### Partnership program
 
 Партнеры дают лучших лидов. Партнеры в других странах смогут нам клоузить
 
@@ -233,12 +247,13 @@ Recycle our base
   7. Dev companies \(blockchain but not only\) – Helen
   8. Еще через tech carrot.
 * Collect feedback to our services in Twitter
+{% endhint %}
 
-#### Build offers \(Stas\)
+{% hint style="info" %}
+#### Offer
+{% endhint %}
 
-#### Manage projects \(Stas\)
-
-### 👯Save money on the dev team extension by Helen
+### 👯 Save money on the dev team extension by Helen
 
 Hypothesis: Мы сможем растить реализацию через продажу выделенных джунов. С 1 выделенного джуна вероятно сможем нарастить команду.
 
