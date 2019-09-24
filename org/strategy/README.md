@@ -137,11 +137,19 @@ writing, design thinking
 
 ## Fintech Innovators
 
+TA: startup founders, product managers and innovation officers in Nordic countries.
+
 ### Create Successful Innovation
 
-Цель: провести 10 дизайн спринтов для Nordic.
+Goal: conduct 10 design thinking workshops for our TA in the next 6 month.
 
-Focus on the Nordic market: education &gt; community &gt; taster &gt; product
+Strategy:
+
+1. Education &gt;
+2. Community &gt;
+3. Taster &gt;
+4. Workshop &gt;
+5. Development
 
 {% hint style="info" %}
 #### [Design thinking workshop](../../design-thinking/)
@@ -149,6 +157,10 @@ Focus on the Nordic market: education &gt; community &gt; taster &gt; product
 
 {% hint style="info" %}
 #### Blog
+{% endhint %}
+
+{% hint style="info" %}
+#### Fintech innovation community  / Meetups
 {% endhint %}
 
 #### Education by Stas
