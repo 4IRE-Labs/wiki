@@ -1,6 +1,6 @@
 # Strategy
 
-## Partners <a id="&#x1F382;-Financial-Well-Being-by-Max"></a>
+## Team <a id="&#x1F382;-Financial-Well-Being-by-Max"></a>
 
 Goals:
 
