@@ -81,6 +81,7 @@
   * [Internship](org/strategy/internship.md)
   * [Partner Recruiting Campaign](org/strategy/partner-recruiting-campaign.md)
   * [Brand / Community](org/strategy/brand.md)
+  * [Education Fund](org/strategy/education-fund.md)
   * [Governance](org/strategy/governance.md)
 * [Tacticals](org/tacticals/README.md)
   * [Tactical 01.08.2019](org/tacticals/tactical-01.08.2019.md)

@@ -6,27 +6,23 @@ TA: Engineers, Design, Marketers, PMs
 
 ### ⛰️ Self-Fulfillment
 
-Goals:
-
-* To have a positive impact on society \(to solve large / frequent / expensive / common problems\)
-* Have fun & Feel ownership
-* Get feedback and gratitude \(well done!\) Receive reconfiguration on conf To do what is not on the market \(technology, methods, culture\), a product that has some uniqueness To be professionals \(Coordinate innovations are made by professionals. In the United States, they made patents that fundamentally changed the computer field, I see that the dude has three degrees, physics, chemistry and computer technology. Therefore, it is not possible to do innovations without being a professional\) Be dreamers \(All the cool super-successful products were not made by pros, airbnb was not invented by the coolest traveler. Uber was not coined by the coolest taxi driver\) Find / receive projects with impact potential \(need mastery and our advise\) 4ire - creative place To be proud
-
-Цели:
-
-* Оказывать позитивное влияние на общество \(решать большие/частые/дорогие/распостраненные проблемы\)
-* Получать кайф, чувствовать ownership
-* Получать отклик и благодарность \(вот это чуваки молодцы\)
-* Получать рекогнишен на конфах
-* Делать то, чего нет на рынке \(технологии, методы, культура\), продукт у которого есть какая-то уникальность
-* Быть профессионалами \(Координальные инновации делаются профессионалами. В США сделали патенты которые которые координально изменили компьютерную область, я смотрю что у чувака три образования, физика химия и компьютерные технологии. Поэтому не возможно делать инновации не будучи профессионалом\)
-* Быть мечтателями \(Все крутые суперуспешные продукты не были сделаны профи, airbnb был придуман не самым классным путешественником. Убер не был придуман самым классным таксистом\)
-* Находить/получать проекты с потенциалом импакта \(need mastery and our advise\)
-* 4ire – креативное место
-* Гордиться
+* Create a significant impact on society. Solve large, frequent, expensive and common problems
+* Have fun & feel ownership over our products
+* Get positive feedback, gratitude, recognition \(e.g. speak on conferences\)
+* Develop innovative technology, methods, culture, products that have some uniqueness
+* Be the professionals \(need deep knowledge for important innovations, grow it further\)
+* Be dreamers \(uber was not started by the coolest taxi driver\)
+* Be creative and brave \(develop a creative place\)
+* Be proud of what we do
 
 {% hint style="info" %}
 #### [Lab](https://wiki.4irelabs.com/docs/)
+
+* Solve complex fintech and web3 problems
+{% endhint %}
+
+{% hint style="info" %}
+#### [Brand](brand.md)
 {% endhint %}
 
 ### 🎂 Financial Well Being by Max
@@ -100,9 +96,10 @@ Goals:
 
 #### Stas
 
-writing, design thinking
+* Writing
+* Design thinking
 
-#### Personal Strategies
+### Personal Strategies
 
 * Рестроспективные встречи и самоанализ с ребятами
 * Личные профессиональные стратегии
@@ -120,20 +117,12 @@ writing, design thinking
 {% endhint %}
 
 {% hint style="info" %}
-#### Education fund
-
-* Build UA meetups
-* Conferences budget
-* Отправлять на Хакатоны / находить бюджеты на поездки
+#### [Education fund](education-fund.md)
 {% endhint %}
 
-#### Программа стажировки
-
-#### Partner recruiting campaign
-
-Больше общаться с компанией, регулярные тусовки и обмен смыслами
-
-Давать оценки друг другу
+{% hint style="info" %}
+#### [Partner recruiting campaign](partner-recruiting-campaign.md)
+{% endhint %}
 
 ## Fintech Innovators
 
@@ -152,30 +141,20 @@ Strategy:
 5. Development
 
 {% hint style="info" %}
-#### [Design thinking workshop](../../design-thinking/)
-{% endhint %}
+#### Education / Blog
 
-{% hint style="info" %}
-#### Blog
-{% endhint %}
+Articles – Max: makes drafts, SBA: rewrites, SEO optimization, Sharing, Analytics, rewrite on Medium \($200-250\), Johan: adds intro in Swedish
 
-{% hint style="info" %}
-#### Fintech innovation community  / Meetups
-{% endhint %}
-
-#### Education by Stas
-
-* Articles – Max: makes drafts, SBA: rewrites, SEO optimization, Sharing, Analytics, rewrite on Medium \($200-250\), Johan: adds intro in Swedish
-  * How other companies prioritize and validate ideas? What tools do they use?
-  * How to proof the idea is worthy?
-  * How to attract funding?
-  * Is it enough to have a validates idea \(instead of MVP\) to get funding?
-  * How to find product/market fit?
-  * How to make an innovative product?
-  * How to find market insights?
-  * Why should I invest in Design Thinking
-  * Why major players use design sprint?
-  * How to make a worldwide project in fintech?
+* How other companies prioritize and validate ideas? What tools do they use?
+* How to proof the idea is worthy?
+* How to attract funding?
+* Is it enough to have a validates idea \(instead of MVP\) to get funding?
+* How to find product/market fit?
+* How to make an innovative product?
+* How to find market insights?
+* Why should I invest in Design Thinking
+* Why major players use design sprint?
+* How to make a worldwide project in fintech?
 
 Новые идеи:
 
@@ -186,25 +165,25 @@ Strategy:
 * Писать о кейсах в Швеции
 * Участвовать в Help Reporter
 
-Conclusion: There's a significant SEO benefit in launching a Swedish language version of the site and using it for promotion. Relevant keywords in Swedish will generate at least 20 000 clicks per month and are in the low competition category \(1-18\) - new site can rank on page 1. The same applies for general therms - 10 000 searches per month are in Swedish. The absence of "outsource/freelancer" keywords in general phrases lowers the degree of relevance - I would use the parent topics phrases for content marketing and not for search campaigns.
-
-Sweden  
-Swe&gt; Low competition, more relevance, 10x traffic [http://prntscr.com/on3n8o](http://prntscr.com/on3n8o)  
-Eng&gt; Keywords in English are in high competition range and receive 10 times less traffic [http://prntscr.com/on3nkr](http://prntscr.com/on3nkr) 
-
 [based on our content plan](https://docs.google.com/spreadsheets/d/1vvkTCBm3xvJ2VYVrQTLo1vZB5MD5BMoU8BofBqpyxiw/edit#gid=1490906225) - discover more about the design sprint + hot topics in FinTech &gt; close to Design sprint\) 
 
 * Webinars
 * Interviews
+{% endhint %}
 
-#### Community by Helen
+{% hint style="info" %}
+#### Fintech innovation community  / Meetups
 
 * Meetup: Product Innovation in Fintech \(Sthm, Sep 5\)
 * Meetup: Women in Fintech \(Nov\)
 * Build Telegram group "Product Innovation in Fintech" \(en\)
 * Publish event reports
+{% endhint %}
 
-#### Taster by Stas
+{% hint style="info" %}
+#### [Design thinking workshop](../../design-thinking/)
+
+Taster by Stas
 
 * Calendly \(Max\*, Stas\)
 * Ремаркетинг \(FB, Instagram\) – SBA \($450 + $350 ads/mo.\) – Алена
@@ -212,15 +191,7 @@ Eng&gt; Keywords in English are in high competition range and receive 10 times l
   * Настройка и запуск таргетированной рекламы
   * Создание креативов - 4 поста + 4 изображения
   * Еженедельный и ежемесячные отчет о результатах
-
-_Примерный охват аудитории - 10000-50000 человек - зависит от услуги и ЦА  
-Примерно переходов 100-300 за продвижение в течение месяца - зависит от услуги и ЦА_
-
-#### Product by Stas
-
-* Design Thinking Workshop \(Max\*, Stas\) \(Design Sprint is a custom case\)
-* Contract
-* Лендинги + оптимизация \($360 one time\)
+{% endhint %}
 
 ### 🚧Develop short-term/side IT projects by Stas
 
