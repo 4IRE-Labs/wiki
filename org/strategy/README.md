@@ -26,8 +26,6 @@ Goals:
 #### [Lab](https://wiki.4irelabs.com/docs/)
 {% endhint %}
 
-
-
 ### 🎂 Financial Well Being by Max
 
 * More courage and creativity
