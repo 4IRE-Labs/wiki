@@ -185,6 +185,14 @@ writing, design thinking
 
 Focus on the Nordic market: education &gt; community &gt; taster &gt; product
 
+{% hint style="info" %}
+[Design thinking workshop](../../design-thinking/)
+{% endhint %}
+
+{% hint style="info" %}
+Blog
+{% endhint %}
+
 #### Education by Stas
 
 * Articles – Max: makes drafts, SBA: rewrites, SEO optimization, Sharing, Analytics, rewrite on Medium \($200-250\), Johan: adds intro in Swedish
