@@ -329,6 +329,14 @@ Risks
 * Поддержку можем обеспечивать на постоянное основе
 * особенно хорошо для новых проектов
 
+Projects
+
+* Near
+* Libra
+* Minter
+* Parity
+* Chromia
+
 ### [🤹](https://emojipedia.org/juggling/)Blockchain Team Extension
 
 Goal: $25-40k/mo.
