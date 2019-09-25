@@ -200,6 +200,8 @@ Articles – Max: makes drafts, SBA: rewrites, SEO optimization, Sharing, Analyt
 
 Taster by Stas
 
+В финтехе дизайн является решающим факторов
+
 * Calendly \(Max\*, Stas\)
 * Ремаркетинг \(FB, Instagram\) – SBA \($450 + $350 ads/mo.\) – Алена
   * Анализ конкурентов и ЦА
