@@ -11,6 +11,7 @@
 * Whitelabel решения
 * Аппка \(в сторе\)
 * Выделять всю пятницу на создание всяких штук
+* 482 do it great: select the case and try the new tech to solve it strictly in 3 weeks
 {% endhint %}
 
 ### Web3 Research
