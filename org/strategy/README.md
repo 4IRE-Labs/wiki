@@ -193,7 +193,6 @@ Articles – Max: makes drafts, SBA: rewrites, SEO optimization, Sharing, Analyt
 * Meetup: Women in Fintech \(Nov\)
 * Build Telegram group "Product Innovation in Fintech" \(en\)
 * Publish event reports
-* Research their needs more
 {% endhint %}
 
 {% hint style="info" %}
