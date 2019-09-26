@@ -76,7 +76,6 @@
 ## org
 
 * [Strategy](org/strategy/README.md)
-  * [Labs](org/strategy/labs.md)
   * [Motivation Program](org/strategy/motivation-program.md)
   * [Internship](org/strategy/internship.md)
   * [Partner Recruiting Campaign](org/strategy/partner-recruiting-campaign.md)
