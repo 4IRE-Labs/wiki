@@ -343,6 +343,8 @@ Projects
 * Minter
 * Parity
 * Chromia
+* Cosmos
+* Tezos
 
 ### [🤹](https://emojipedia.org/juggling/)Blockchain Team Extension
 
