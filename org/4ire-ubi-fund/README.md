@@ -1,6 +1,8 @@
 # 4ire community
 
-Partners
+Purpose: support partners self realization
+
+## Partners
 
 * Max Semenchuk
 * Helen Petrashchuk
@@ -32,10 +34,6 @@ $48k for 6 months.
 {% endhint %}
 
 {% hint style="info" %}
-#### [Internship program]()
-{% endhint %}
-
-{% hint style="info" %}
 #### [Partner recruiting campaign](partner-recruiting-campaign.md)
 {% endhint %}
 
@@ -50,8 +48,6 @@ $48k for 6 months.
 * Be creative and brave \(develop a creative place\)
 * Be proud of what we do
 * Проработанная идея
-
-
 
 ### ⛲ Professional Development by Max
 
