@@ -9,59 +9,15 @@
 * Alina Uvarova
 * Helen Linnik
 
-### ⛰️ Self-Fulfillment
-
-* Create a significant impact on society. Solve large, frequent, expensive and common problems
-* Have fun & feel ownership over our products
-* Get positive feedback, gratitude, recognition \(e.g. speak on conferences\)
-* Develop innovative technology, methods, culture, products that have some uniqueness
-* Be the professionals \(need deep knowledge for important innovations, grow it further\)
-* Be dreamers \(uber was not started by the coolest taxi driver\)
-* Be creative and brave \(develop a creative place\)
-* Be proud of what we do
-* Проработанная идея
+### 
 
 {% hint style="info" %}
 #### [Brand](brand.md)
 {% endhint %}
 
-### 🎂 Financial Well Being by Max
-
-* 
-{% hint style="info" %}
-#### [Lab](https://wiki.4irelabs.com/docs/)
-
-* Develop investable products
-{% endhint %}
-
-{% hint style="info" %}
-#### [Brand Campaign](brand.md)
-{% endhint %}
-
 ### [🧸](https://emojipedia.org/teddy-bear/) Comfortable Work Environment by Max
 
-Цели:
-
-* Комфортная нагрузка
-* Больше неформальный тусововок, разговоры за кофе
-* Хороший скрам \(процесс\)
-* Адекватный клиент
-* Работать по 8 часов
-
-{% hint style="info" %}
-#### [Процесс разработки](https://wiki.4irelabs.com/docs/how-we-work)
-
-* Decrease stress / risks
-* Clear start dates etc – меньше проблем с документами/оплатами
-{% endhint %}
-
-{% hint style="info" %}
-#### [Governance Model](governance.md)
-{% endhint %}
-
-{% hint style="info" %}
 ####  [Brand](brand.md)
-{% endhint %}
 
 ### ⛲ Professional Development by Max
 
