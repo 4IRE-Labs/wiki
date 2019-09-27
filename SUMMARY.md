@@ -70,7 +70,8 @@
 
 ## org
 
-* [Strategy](org/strategy/README.md)
+* [4ire UBI fund](org/4ire-ubi-fund.md)
+* [Fintech Innovation Strategy](org/strategy/README.md)
   * [Labs](org/strategy/policies.md)
   * [Motivation Program](org/strategy/motivation-program.md)
   * [Internship](org/strategy/internship.md)
