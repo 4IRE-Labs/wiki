@@ -13,7 +13,6 @@
 
 * [About](org-1/organization.md)
 * [How we work](org-1/how-we-work.md)
-* [Labs Policies](org-1/policies.md)
 * [Max Semenchuk](org-1/max-semenchuk.md)
 * [Kirill Kirikov](org-1/kirill-kirikov.md)
 * [Oleg Bugrovoy](org-1/oleg-bugrovoy.md)
@@ -69,13 +68,10 @@
 * [Hybrid wallet](case-studies/hybrid-wallet-fiat-and-crypto-assets.md)
 * [Vork](case-studies/vork.md)
 
-## Better Orgs
-
-* [Facilitation Zoom](better-orgs/facilitation-zoom.md)
-
 ## org
 
 * [Strategy](org/strategy/README.md)
+  * [Labs](org/strategy/policies.md)
   * [Motivation Program](org/strategy/motivation-program.md)
   * [Internship](org/strategy/internship.md)
   * [Partner Recruiting Campaign](org/strategy/partner-recruiting-campaign.md)

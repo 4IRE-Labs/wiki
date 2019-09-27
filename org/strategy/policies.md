@@ -1,4 +1,4 @@
-# Labs Policies
+# Labs
 
 ## Policies <a id="Labs-Policies"></a>
 
