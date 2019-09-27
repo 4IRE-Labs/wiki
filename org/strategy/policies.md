@@ -1,5 +1,12 @@
 # Labs
 
+## List <a id="Labs-Policies"></a>
+
+* Facilitation Skype
+* Condominium
+* KiriTravel
+* CrossBorder payments
+
 ## Policies <a id="Labs-Policies"></a>
 
 * WIP limit = 2 tasks per person
