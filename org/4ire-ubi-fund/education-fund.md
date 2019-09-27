@@ -1,4 +1,6 @@
-# Education Fund
+# Personal Development
+
+## Fund
 
 {% hint style="info" %}
 * Build UA meetups

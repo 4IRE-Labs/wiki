@@ -70,15 +70,13 @@
 
 ## org
 
-* [4ire UBI fund](org/4ire-ubi-fund.md)
+* [4ire community](org/4ire-ubi-fund/README.md)
+  * [Motivation Program](org/4ire-ubi-fund/motivation-program.md)
+  * [Personal Development](org/4ire-ubi-fund/education-fund.md)
+  * [Partner Recruiting Campaign](org/4ire-ubi-fund/partner-recruiting-campaign.md)
+  * [Governance](org/4ire-ubi-fund/governance.md)
 * [Fintech Innovation Strategy](org/strategy/README.md)
-  * [Labs](org/strategy/policies.md)
-  * [Motivation Program](org/strategy/motivation-program.md)
-  * [Internship](org/strategy/internship.md)
-  * [Partner Recruiting Campaign](org/strategy/partner-recruiting-campaign.md)
   * [Brand / Community](org/strategy/brand.md)
-  * [Education Fund](org/strategy/education-fund.md)
-  * [Governance](org/strategy/governance.md)
 * [Tacticals](org/tacticals/README.md)
   * [Tactical 01.08.2019](org/tacticals/tactical-01.08.2019.md)
   * [Tactical 08.08.2019](org/tacticals/tactical-08.08.2019.md)

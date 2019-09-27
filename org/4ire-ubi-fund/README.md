@@ -1,4 +1,4 @@
-# 4ire UBI fund
+# 4ire community
 
 Partners
 
@@ -28,15 +28,15 @@ $48k for 6 months.
 * Бюджет на длительный период
 
 {% hint style="info" %}
-#### [Motivation Program](strategy/motivation-program.md)
+#### [Motivation Program](motivation-program.md)
 {% endhint %}
 
 {% hint style="info" %}
-#### [Internship program](strategy/internship.md)
+#### [Internship program]()
 {% endhint %}
 
 {% hint style="info" %}
-#### [Partner recruiting campaign](strategy/partner-recruiting-campaign.md)
+#### [Partner recruiting campaign](partner-recruiting-campaign.md)
 {% endhint %}
 
 ## Personal Growth
@@ -109,6 +109,6 @@ $48k for 6 months.
 {% endhint %}
 
 {% hint style="info" %}
-#### [Governance Model](strategy/governance.md)
+#### [Governance Model](governance.md)
 {% endhint %}
 

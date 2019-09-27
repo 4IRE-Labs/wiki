@@ -1,6 +1,6 @@
 # Governance
 
-Transparency:
+## Transparency
 
 {% hint style="info" %}
 * Не замалчивать, поднимать проблемы и вопросы которые тебя беспокоят. И обсуждать это открыто.
