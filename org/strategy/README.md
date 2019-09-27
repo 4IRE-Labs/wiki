@@ -19,6 +19,8 @@
 
   Лена: согласна. Прикольная проблема у Боди
 
+* Делать шоу из работы в 4ire
+
 ## Team by [Max](../../org-1/max-semenchuk.md) <a id="&#x1F382;-Financial-Well-Being-by-Max"></a>
 
 TA: Engineers, Designers, Marketers, PMs
