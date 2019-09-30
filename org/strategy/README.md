@@ -37,6 +37,8 @@ Strategy:
 4. Workshop &gt;
 5. Development
 
+Собрать все финтех идеи над которыми мы работали в лабе
+
 {% hint style="info" %}
 #### Education / Blog
 
