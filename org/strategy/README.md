@@ -23,6 +23,7 @@ TA: startup founders, product managers and innovation officers in Nordic countri
 * Качать скиллы продакт менеджера
 * Делать шоу из работы в 4ire
 * не жопой повернутой к клиентам, клиентоориентированы
+* Usability research defi приложений
 
 ### 💡Create Successful Innovation
 
