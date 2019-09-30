@@ -17,7 +17,7 @@ Purpose: support partners self realization
 
 $48k for 6 months.
 
-## Sustainability
+## Care
 
 ### UBI Fund
 
@@ -108,15 +108,17 @@ $48k for 6 months.
 * Дневник осознанности по работе \(рад, грущу, боюсь, инсайт\)
 * Развития навыков рефлексии
 
+## Knowledge
 
-
-## Knowledge / Education
+Кири
 
 {% hint style="info" %}
 #### Education Fund
 {% endhint %}
 
-## Innovation
+## Creation
+
+Innovation
 
 ### 
 
