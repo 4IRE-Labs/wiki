@@ -56,6 +56,11 @@ $48k for 6 months.
 * Clear start dates etc – меньше проблем с документами/оплатами
 {% endhint %}
 
+### Partnership
+
+* С кем сотрудничает 4ire? Я менеджер по партнерствам?
+* Может быть нам нужен партнер в Индии или в Африке по недорогой разработке?
+
 {% hint style="info" %}
 #### [Governance Model](governance.md)
 {% endhint %}
