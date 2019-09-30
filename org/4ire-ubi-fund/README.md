@@ -121,7 +121,8 @@ $48k for 6 months.
 #### Education Fund
 {% endhint %}
 
-Knowledge base, Library
+* Knowledge base, Library
+* Офис - место для совместной работы, а не индивидуальной
 
 ## Creation
 
