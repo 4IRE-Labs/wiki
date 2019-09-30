@@ -13,11 +13,11 @@ Purpose: support partners self realization
 * Sveta Semenchuk
 * Oleg Bugrovoy
 
-8 x $1k = $8k/mo.
-
-$48k for 6 months.
-
 ## Care
+
+### Open Value Network
+
+* Запросы на фандинг в семью
 
 ### UBI Fund
 
@@ -60,6 +60,7 @@ $48k for 6 months.
 
 * С кем сотрудничает 4ire? Я менеджер по партнерствам?
 * Может быть нам нужен партнер в Индии или в Африке по недорогой разработке?
+* Друзья 4ire по миру \(где нам нужны друзья\)?
 
 {% hint style="info" %}
 #### [Governance Model](governance.md)
