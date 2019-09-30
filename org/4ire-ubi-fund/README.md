@@ -18,6 +18,7 @@ Purpose: support partners self realization
 ### Open Value Network
 
 * Запросы на фандинг в семью
+* 4ire family тусы
 
 {% hint style="info" %}
 #### [Motivation Program](motivation-program.md)
