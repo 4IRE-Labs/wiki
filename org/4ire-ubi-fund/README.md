@@ -116,6 +116,8 @@ $48k for 6 months.
 #### Education Fund
 {% endhint %}
 
+Knowledge base, Library
+
 ## Creation
 
 Innovation
