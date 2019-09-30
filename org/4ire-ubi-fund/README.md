@@ -17,7 +17,9 @@ Purpose: support partners self realization
 
 $48k for 6 months.
 
-## UBI Fund
+## Sustainability
+
+### UBI Fund
 
 * мало времени идет на создание внутренних продуктов
 * зарабатывать 10к на партнера
@@ -37,7 +39,9 @@ $48k for 6 months.
 #### [Partner recruiting campaign](partner-recruiting-campaign.md)
 {% endhint %}
 
-## Personal Growth
+## Leadership
+
+### Personal Growth
 
 * Create a significant impact on society. Solve large, frequent, expensive and common problems
 * Have fun & feel ownership over our products
@@ -83,9 +87,17 @@ $48k for 6 months.
 * Дневник осознанности по работе \(рад, грущу, боюсь, инсайт\)
 * Развития навыков рефлексии
 
+
+
+## Knowledge / Education
+
 {% hint style="info" %}
 #### Education Fund
 {% endhint %}
+
+## Innovation
+
+### 
 
 ## Working Space
 
