@@ -2,7 +2,7 @@
 
 Purpose: support partners self realization
 
-## Partners
+### Partners
 
 * Max Semenchuk
 * Helen Petrashchuk
@@ -39,6 +39,27 @@ $48k for 6 months.
 #### [Partner recruiting campaign](partner-recruiting-campaign.md)
 {% endhint %}
 
+### Working Space
+
+Цели:
+
+* Комфортная нагрузка
+* Больше неформальный тусововок, разговоры за кофе
+* Хороший скрам \(процесс\)
+* Адекватный клиент
+* Работать по 8 часов
+
+{% hint style="info" %}
+#### [Процесс разработки](https://wiki.4irelabs.com/docs/how-we-work)
+
+* Decrease stress / risks
+* Clear start dates etc – меньше проблем с документами/оплатами
+{% endhint %}
+
+{% hint style="info" %}
+#### [Governance Model](governance.md)
+{% endhint %}
+
 ## Leadership
 
 ### Personal Growth
@@ -53,7 +74,7 @@ $48k for 6 months.
 * Be proud of what we do
 * Проработанная идея
 
-### ⛲ Professional Development by Max
+### Professional Development by Max
 
 Цели:
 
@@ -99,24 +120,5 @@ $48k for 6 months.
 
 ### 
 
-## Working Space
 
-Цели:
-
-* Комфортная нагрузка
-* Больше неформальный тусововок, разговоры за кофе
-* Хороший скрам \(процесс\)
-* Адекватный клиент
-* Работать по 8 часов
-
-{% hint style="info" %}
-#### [Процесс разработки](https://wiki.4irelabs.com/docs/how-we-work)
-
-* Decrease stress / risks
-* Clear start dates etc – меньше проблем с документами/оплатами
-{% endhint %}
-
-{% hint style="info" %}
-#### [Governance Model](governance.md)
-{% endhint %}
 
