@@ -70,7 +70,7 @@
 
 ## org
 
-* [4ire community](org/4ire-ubi-fund/README.md)
+* [4ire strategy](org/4ire-ubi-fund/README.md)
   * [Motivation Program](org/4ire-ubi-fund/motivation-program.md)
   * [Personal Development](org/4ire-ubi-fund/education-fund.md)
   * [Partner Recruiting Campaign](org/4ire-ubi-fund/partner-recruiting-campaign.md)

@@ -1,4 +1,4 @@
-# 4ire community
+# 4ire strategy
 
 Purpose: support partners self realization
 
