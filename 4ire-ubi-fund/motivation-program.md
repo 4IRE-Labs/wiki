@@ -29,5 +29,4 @@ Insurance policy: company covers 50% of the lay-up risk.
 * Бюджет на длительный период
 * Can be different in theory
 * Командой голосовать за размер UBI
-* Начать выплачивать ubi хоть по 100 баксов
 
