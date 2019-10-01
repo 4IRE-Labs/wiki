@@ -9,6 +9,8 @@
 * Alina Uvarova
 * Helen Linnik
 
+Goal: 5 warm leads
+
 ## Fintech Innovators
 
 TA: startup founders, product managers and innovation officers in Nordic countries.
