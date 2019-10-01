@@ -1,6 +1,6 @@
 # Encoding seed phrase to the picture \(steganography\)
 
- **Challenge:** How might we ease up private key storing for cryptowallet users?
+**Challenge:** How might we ease up private key storing for cryptowallet users?
 
 **End goal:** users can recover their private keys without the need to memorize or store them.
 

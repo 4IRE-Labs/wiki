@@ -1,6 +1,6 @@
 # Partner Recruiting Campaign
 
-See [Looking for a partner](../../looking-for-a-partner.md)
+See [Looking for a partner](../looking-for-a-partner.md)
 
 {% hint style="info" %}
 Ищем людей с экспертизой: блокчейн девелопмент, дизайн

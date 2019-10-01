@@ -1,13 +1,18 @@
 # Table of contents
 
-* [4IRE Labs \| Navigation](README.md)
+* [4IRE Labs](README.md)
+* [4ire strategy](4ire-ubi-fund/README.md)
+  * [Motivation Program](4ire-ubi-fund/motivation-program.md)
+  * [Personal Development](4ire-ubi-fund/education-fund.md)
+  * [Partner Recruiting Campaign](4ire-ubi-fund/partner-recruiting-campaign.md)
+  * [Governance](4ire-ubi-fund/governance.md)
+  * [Brand](4ire-ubi-fund/brand.md)
 * [Looking for a partner](looking-for-a-partner.md)
 * [Design Thinking / Service Design](design-thinking/README.md)
   * [Design Sprint](design-thinking/design-sprint.md)
 * [Architecture / Protocol Design](architecture-design-protocol/README.md)
   * [Blockchain for Enterprise](architecture-design-protocol/blockchain-for-enterprise.md)
 * [Dapps / Wallets Development](dapps-wallets-development.md)
-* [GDPR Compliance Audit](gdpr.md)
 
 ## Organization <a id="org-1"></a>
 
@@ -23,26 +28,10 @@
 * [Andrey Krit](org-1/andrey-krit.md)
 * [Roman Malkevych](org-1/roman-malkevych.md)
 
-## Fintech
-
-* [Fintech Summary](fintech/fintech.md)
-* [KYC Compliance](fintech/kyc-module-integartion.md)
-* [Transparent Cross Border Payments with Blockchain](fintech/enabling-fast-transparent-and-compliant-cross-border-payments-with-the-blockchain.md)
-* [Increasing Liquidity with Asset Tokenization](fintech/asset-tokenization.md)
-* [Blockchain for Insurance Case Studies](fintech/blockchain-for-insurance.md)
-* [Calculating the Crypto Address Reputation for Antifraud](fintech/complaince-scoring.md)
-
 ## Web3
 
-* [Web3 Summary](web3/web3.md)
 * [Improving the cryptowallet authorization experience with security level selector](web3/security-level.md)
 * [Encoding seed phrase to the picture \(steganography\)](web3/encoding-seed-phrase-to-the-picture-steganography.md)
-* [Developer tools & DevX](web3/improving-developer-experience-devx/README.md)
-  * [Automate transmission of the smart contract address to the front-end](web3/improving-developer-experience-devx/automate-transmission-of-the-smart-contract-address-to-the-front-end.md)
-  * [Improving Developer Experience in Aragon](web3/improving-developer-experience-devx/improving-developer-experience-in-aragon.md)
-* [Interoperability](web3/interoperability/README.md)
-  * [Use Cases for Terrabridge \(ETH&lt;&gt;BTC\)](web3/interoperability/extending-maker-dao-scalability-with-btc-collateral.md)
-  * [Enabling Decentralized Interchain Transactions between ETH and BTC with Parachains](web3/interoperability/ethereum-bitcoin-bridge-wip.md)
 
 ## Logistics
 
@@ -70,24 +59,14 @@
 
 ## org
 
-* [4ire strategy](org/4ire-ubi-fund/README.md)
-  * [Motivation Program](org/4ire-ubi-fund/motivation-program.md)
-  * [Personal Development](org/4ire-ubi-fund/education-fund.md)
-  * [Partner Recruiting Campaign](org/4ire-ubi-fund/partner-recruiting-campaign.md)
-  * [Governance](org/4ire-ubi-fund/governance.md)
-* [Fintech Innovation Strategy](org/strategy/README.md)
-  * [Brand](org/strategy/brand.md)
-  * [Community](org/strategy/community.md)
-  * [Design Thinking](org/strategy/design-thinking.md)
-* [Tacticals](org/tacticals/README.md)
-  * [Tactical 01.08.2019](org/tacticals/tactical-01.08.2019.md)
-  * [Tactical 08.08.2019](org/tacticals/tactical-08.08.2019.md)
-  * [Tactical 15.08.2019](org/tacticals/tactical-15.08.2019.md)
-  * [Tactical 29.08.2019](org/tacticals/tactical-29.08.2019.md)
-  * [Tactical 05.09.2019](org/tacticals/tactical-05.09.2019.md)
-
 ## Temp
 
+* [Tacticals](temp/tacticals/README.md)
+  * [Tactical 01.08.2019](temp/tacticals/tactical-01.08.2019.md)
+  * [Tactical 08.08.2019](temp/tacticals/tactical-08.08.2019.md)
+  * [Tactical 15.08.2019](temp/tacticals/tactical-15.08.2019.md)
+  * [Tactical 29.08.2019](temp/tacticals/tactical-29.08.2019.md)
+  * [Tactical 05.09.2019](temp/tacticals/tactical-05.09.2019.md)
 * [Archive](temp/archive/README.md)
   * [Merging.Space – Project Management Tool](temp/archive/merge-space-overview.md)
 
