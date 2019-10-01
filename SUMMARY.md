@@ -1,7 +1,7 @@
 # Table of contents
 
 * [4IRE Labs](README.md)
-* [4IRE strategy](4ire-ubi-fund/README.md)
+* [4IRE Strategy](4ire-ubi-fund/README.md)
   * [Motivation Program](4ire-ubi-fund/motivation-program.md)
   * [Personal Development](4ire-ubi-fund/education-fund.md)
   * [Partner Recruiting Campaign](4ire-ubi-fund/partner-recruiting-campaign.md)

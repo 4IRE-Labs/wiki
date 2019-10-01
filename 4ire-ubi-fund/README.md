@@ -1,4 +1,4 @@
-# 4IRE strategy
+# 4IRE Strategy
 
 Purpose: support partners self realization
 
@@ -116,7 +116,8 @@ Purpose: support partners self realization
 
 ## Creation
 
-
+* Fintech Innovation
+* BUIDL ua
 
 ### 
 
