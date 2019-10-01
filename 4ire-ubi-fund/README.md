@@ -1,4 +1,4 @@
-# 4ire strategy
+# 4IRE strategy
 
 Purpose: support partners self realization
 
@@ -116,23 +116,7 @@ Purpose: support partners self realization
 
 ## Creation
 
-Innovation
 
-### Unity, Solidarity
-
-Вдохновлять на эти 5 ценностей
-
-### UBI Fund
-
-* мало времени идет на создание внутренних продуктов
-* зарабатывать 10к на партнера
-* делать то что создаёт пассивный доход
-* More courage and creativity
-* Create passive income $10k/mo. per partner
-* Enough money in the reserve \(how much?\)
-* Lower risks ~regulation
-* Product & client diversification
-* Бюджет на длительный период
 
 ### 
 
