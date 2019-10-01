@@ -37,6 +37,7 @@ Purpose: support partners self realization
 * Хороший скрам \(процесс\)
 * Адекватный клиент
 * Работать по 8 часов
+* Украсить офис
 
 {% hint style="info" %}
 #### [Процесс разработки](https://wiki.4irelabs.com/docs/how-we-work)
