@@ -7,7 +7,6 @@
   * [Partner Recruiting Campaign](4ire-ubi-fund/partner-recruiting-campaign.md)
   * [Governance](4ire-ubi-fund/governance.md)
   * [Brand](4ire-ubi-fund/brand.md)
-* [Looking for a partner](looking-for-a-partner.md)
 * [Design Thinking / Service Design](design-thinking/README.md)
   * [Design Sprint](design-thinking/design-sprint.md)
 * [Architecture / Protocol Design](architecture-design-protocol/README.md)
