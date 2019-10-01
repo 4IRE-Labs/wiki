@@ -4,6 +4,7 @@ Ideas:
 
 * Head of design
 * На квадратики 4ire - эффект огня?
+* self organization / teal culture
 
 [style guide](https://www.figma.com/file/TBaNlFwSZ3i9mB7UdN1wCD44/4IRE-Style-Guide)
 
