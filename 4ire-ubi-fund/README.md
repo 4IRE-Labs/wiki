@@ -58,6 +58,8 @@ Purpose: support partners self realization
 
 ## Leadership
 
+Создать и поквартально обновлять 1\) риск менеджмент 2\) процедуры 3\) фин дисциплина 4\) стратегия
+
 ### Personal Growth
 
 * Create a significant impact on society. Solve large, frequent, expensive and common problems
