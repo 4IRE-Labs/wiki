@@ -21,7 +21,7 @@ Purpose: support partners self realization
 * 4ire family тусы
 
 {% hint style="info" %}
-#### [Motivation Program](motivation-program.md)
+#### [Sustainability Program](motivation-program.md)
 {% endhint %}
 
 {% hint style="info" %}
