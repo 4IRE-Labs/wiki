@@ -16,7 +16,7 @@
 ### Lending platforms
 
 * Improve speed of setup AML/KYC in product
-* Comply with PSD2ё
+* Comply with PSD2
 * Comply with GDPR
 * More customers
 * Bigger volume of transactions
@@ -116,8 +116,6 @@
 * [Mapping the Decentralized Financial System](https://tokeneconomy.co/mapping-the-decentralized-financial-system-7c5af65e0335)
 * [List of DeFi Products](https://github.com/ong/awesome-decentralized-finance#decentralized-exchange-protocols)
 * [Blockchain is Not Just Limited by Fintech ](https://medium.com/practical-blockchain/blockchain-is-not-just-limited-to-fintech-ca5c63ea8483)
-
-## 
 
 ## Tasks
 
