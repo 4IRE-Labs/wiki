@@ -1,7 +1,5 @@
 # Partner Recruiting Campaign
 
-See [Looking for a partner]()
-
 {% hint style="info" %}
 Ищем людей с экспертизой: блокчейн девелопмент, дизайн
 
