@@ -1,18 +1,5 @@
 # 4IRE Strategy
 
-Purpose: support partners self realization
-
-### Partners
-
-* Max Semenchuk
-* Helen Petrashchuk
-* Kirill Kirikov
-* Stas Varetsky
-* Bohdan Malkevych
-* Helen Linnik
-* Sveta Semenchuk
-* Oleg Bugrovoy
-
 ## Care
 
 ### Open Value Network
@@ -119,8 +106,8 @@ Purpose: support partners self realization
 
 ## Creation
 
-* Fintech Innovation
-* BUIDL ua
+* Fintech Innovation \(Stas, Helen\)
+* BUIDL ua \(Max, Polina\)
 
 ### 
 
