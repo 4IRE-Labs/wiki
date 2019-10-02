@@ -1,12 +1,6 @@
 # Table of contents
 
 * [4IRE Labs](README.md)
-* [4IRE Strategy](4ire-ubi-fund/README.md)
-  * [Sustainability](4ire-ubi-fund/motivation-program.md)
-  * [Personal Development](4ire-ubi-fund/education-fund.md)
-  * [Partner Recruiting Campaign](4ire-ubi-fund/partner-recruiting-campaign.md)
-  * [Governance](4ire-ubi-fund/governance.md)
-  * [Brand](4ire-ubi-fund/brand.md)
 * [Design Thinking / Service Design](design-thinking/README.md)
   * [Design Sprint](design-thinking/design-sprint.md)
 * [Architecture / Protocol Design](architecture-design-protocol/README.md)
