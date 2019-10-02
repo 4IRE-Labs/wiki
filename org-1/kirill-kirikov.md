@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/frame-10.jpg)
 
-Lead Blockchain Developer: Ethereum/Solidity, Hyperledger, Multichain. 12+ years dev experience, managing team \(up to 30 specialists\), released more than 100 apps. Worked on software for Chrysler & Ferrari. Teaching courses on iOS and Blockchain.
+Senior Solution Architect: Full-stack Engineer with background in enterprise development and blockchain. 12+ years dev experience, managing team \(up to 30 specialists\), released more than 100 apps. Worked on software for Chrysler & Ferrari. Teaching courses for junior engineers.
 
 [Github](https://github.com/KiriKiri), [Linkedin](https://www.linkedin.com/in/kirill-kirikov-96507425/)
 
@@ -18,6 +18,7 @@ Mobile financial management tool, Environment monitoring system/ enterprise app 
 
 * Django
 * Flask
+* C\#
 * JavaScript
 * Kubernetes
 * Mongo DB
@@ -46,10 +47,14 @@ Libraries/Frameworks/Tools: CSS, XML, HTML, JSON, ODBC, REST, FIREBASE, STL, IPF
 
 ## **Recent Projects**
 
-* Contractland - public chain built for the decentralized exchanges
-* [Smart Documents](../case-studies/notarization-platform.md)
-* [Kidcoin](../case-studies/kidcoin.md)
-* Bokoredo – accounting automation tool with access to online banks \(wip\)
+
+
+* [HiveOnline](../case-studies/hiveonline.md) – The financial trust platform for SME in Denmark \(wip\) 
+* [Green Assets Wallet ](https://greenassetswallet.org/about) - a  blockchain based platform for a transparent and efficient green debt market in Sweden formed under the lead of [Stockholm Green Digital Finance](http://stockholmgreenfin.tech/). More about the case study on [https://4irelabs.com/green-assets-wallet-defi-case](https://4irelabs.com/green-assets-wallet-defi-case) 
+* [Contractland](https://www.contractland.io/) - public chain built for the decentralized exchanges
+* [Smart Documents](../case-studies/notarization-platform.md) - the docs management platform in the Netherlands with over 400 K users.
+* [Kidcoin](../case-studies/kidcoin.md) - hybdid wallet for parents and kids
+* [Bokoredo](https://www.bokoredo.se/) – accounting automation tool with access to online banks in Sweden \(wip\)
 * [ORME Smart Contract](../case-studies/orme.md) – tokens are minted, whenever a bitcoin is mined
 * BitRent Smart Contract Audit - provided the security audit for 10 smart contracts before launching the ICO
 * [Crypto Improvement Fund](../case-studies/crypto-improvement-fund.md) - we created a CIF coin \(dash fork\) for a client, the CIF coin is a custom blockchain that will be responsible for a variety of core business functions.
