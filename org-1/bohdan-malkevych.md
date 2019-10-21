@@ -6,11 +6,9 @@ description: Lead Blockchain Engineer/ Solution Architect
 
 Blockchain Engineer
 
-* Blockchain: Ethereum, Solidity, Truffle, Mocha, Ethermint, Tendermint, Testerpc, Ganache,  Infura, Geth, Mist, OppenZeppelin, Hyperledger Fabric, Bitcoin, Nem
+* Blockchain: Ethereum, Solidity, Truffle, Mocha, Ethermint, Tendermint, Testerpc, Ganache,  Infura, Geth, Mist, OppenZeppelin, Hyperledger Fabric, Bitcoin, Nem, ZK-snark
 * Backend: Python \(Django\), NodeJS
 * Frontend: Vue.js, Vuetify, Javascript, HTML, CSS
-
-
 
 [Github profile](https://github.com/malkevych), [Twiter profile](https://twitter.com/bomalkevych), [Peepeth](https://peepeth.com/malkevych)
 
@@ -18,7 +16,7 @@ Projects: [CMI](../case-studies/cmi.md), [Tennagraph](../case-studies/tennagraph
 
 ### INDUSTRY EXPERIENCE
 
-Education & Science, Blockchain & Cryptocurrency, Entertainment & Games
+Education & Science, Blockchain & Cryptocurrency, Entertainment & FinTech
 
 ### PRODUCT EXPERIENCE
 
@@ -88,7 +86,11 @@ MBFileAttachLib \( Objective-c\) - This library gives you an ability browse thro
 
 **Winstars.io** – providing the tech support for whole ICO and integration the ICONX cabinet for launching the ICO
 
-**Tennagraph** – a website in the community that we can trust - a fairly high source of truth in terms of recognized people and their skill sets. More info about the project here https://ethsignals.gitbook.io/wiki/
+**Tennagraph** – a website in the community that we can trust - a fairly high source of truth in terms of recognized people and their skill sets. More info about the project here h[ttps://ethsignals.gitbook.io/wiki/](https://ethsignals.gitbook.io/wiki/tennagraph/tennagraph-ethereum-signal-aggregator)
+
+[Aztec Protocol](https://www.aztecprotocol.com/) - uses cutting-edge zero-knowledge proofs to enable private transactions on Ethereum. This enables the logic of transactions to be validated, whilst keeping the values encrypted. Funded by Joe Lubin. AZTEC also allows companies like CreditMint to provide financial services with privacy on the public chain. It can also be used by existing digital assets on Ethereum, such as ERC-20 tokens.
+
+\*\*\*\*
 
 **Languages**
 
