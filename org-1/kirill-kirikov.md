@@ -94,6 +94,10 @@ Kirill likes traveling, cooking, hosting friend parties and is a big fan of owls
 
 {% embed url="https://youtu.be/RWH\_FXWSr3A" %}
 
+{% embed url="https://youtu.be/RWH\_FXWSr3A" %}
+
+
+
 {% embed url="https://www.loom.com/embed/78cce37eecbe4cf7911580dbf322e3dc" caption="" %}
 
 {% embed url="https://www.youtube.com/watch?v=u\_xioPOoSuE&feature=youtu.be" caption="" %}
