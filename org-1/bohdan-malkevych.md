@@ -6,8 +6,8 @@ description: Lead Blockchain Engineer/ Solution Architect
 
 ## TECH STACK
 
-* Blockchain: Ethereum, Solidity, Truffle, Mocha, Ethermint, Tendermint, Testerpc, Ganache,  Infura, Geth, Mist, OppenZeppelin, Hyperledger Fabric \( Sawthooth\), Bitcoin, Nem, ZK-snark, Atomic swap
-* Backend: Python \(Django\), NodeJS
+* Skills: Ethereum, Solidity, Truffle, Mocha, Jest, Gas Station \(GSN\), Ethermint, Tendermint, Ganache,  Infura, Geth, Mist, OppenZeppelin, Hyperledger Fabric \(Sawthooth\), Bitcoin, Nem, ZK-snark, Atomic swap, Google Crome extension, NoSQL, SQL, IndexedDB, Dexie.js, Postgres, sh scripts, aws lambda, aws ec2, aws s3, IaC \(aws sam\), Docker,
+* Backend: Python \(Django\), NodeJS,
 * Frontend: React, Vue.js, Vuetify, Javascript ES6, HTML, CSS, webpack
 
 [Github profile](https://github.com/malkevych), [Twiter profile](https://twitter.com/bomalkevych)
@@ -20,7 +20,7 @@ Education & Science, Blockchain & Cryptocurrency, Entertainment & FinTech
 
 ## PRODUCT EXPERIENCE
 
-SDK, News portals, Blockchain-based platform, Deals & Rewards, ICO, Cryptocurrency, e-learning gamification solution, Notarization on blockchain
+SDK development, News portals, Blockchain-based platform, Deals & Rewards, ICO, Cryptocurrency, e-learning gamification solution, Notarization on blockchain, sync 
 
 ## FULL STACK DEVELOPMENT FRONT END BACK END DLT <a id="prof-tech-stack"></a>
 
@@ -67,6 +67,10 @@ MBFileAttachLib \( Objective-c\) - This library gives you an ability browse thro
 [https://github.com/webslesar/MBFileAttachLib](https://github.com/webslesar/MBFileAttachLib)
 
 **Blockchain project:**
+
+**Aztec Protocol** - uses cutting-edge zero-knowledge proofs to enable private transactions on Ethereum. This enables the logic of transactions to be validated, whilst keeping the values encrypted. Funded by Joe Lubin. AZTEC also allows companies like CreditMint to provide financial services with privacy on the public chain. It can also be used by existing digital assets on Ethereum, such as ERC-20 tokens.
+
+More on [https://www.aztecprotocol.com/](https://www.aztecprotocol.com/) 
 
 **Motive 8** – [https://github.com/SeductiveMobile/motive8](https://github.com/SeductiveMobile/motive8). - the traditional gamification space – as motivatona tool for good moves and work
 
