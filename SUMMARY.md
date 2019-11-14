@@ -50,8 +50,6 @@
 * [Hybrid wallet](case-studies/hybrid-wallet-fiat-and-crypto-assets.md)
 * [Vork](case-studies/vork.md)
 
-## org
-
 ## Temp
 
 * [Tacticals](temp/tacticals/README.md)

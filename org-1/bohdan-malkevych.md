@@ -4,30 +4,25 @@ description: Lead Blockchain Engineer/ Solution Architect
 
 # Bohdan Malkevych
 
-Blockchain Engineer
+## TECH STACK
 
-* Blockchain: Ethereum, Solidity, Truffle, Mocha, Ethermint, Tendermint, Testerpc, Ganache,  Infura, Geth, Mist, OppenZeppelin, Hyperledger Fabric, Bitcoin, Nem, ZK-snark
+* Blockchain: Ethereum, Solidity, Truffle, Mocha, Ethermint, Tendermint, Testerpc, Ganache,  Infura, Geth, Mist, OppenZeppelin, Hyperledger Fabric \( Sawthooth\), Bitcoin, Nem, ZK-snark, Atomic swap
 * Backend: Python \(Django\), NodeJS
-* Frontend: Vue.js, Vuetify, Javascript, HTML, CSS
+* Frontend: React, Vue.js, Vuetify, Javascript ES6, HTML, CSS, webpack
 
-[Github profile](https://github.com/malkevych), [Twiter profile](https://twitter.com/bomalkevych), [Peepeth](https://peepeth.com/malkevych)
+[Github profile](https://github.com/malkevych), [Twiter profile](https://twitter.com/bomalkevych)
 
-Projects: [CMI](../case-studies/cmi.md), [Tennagraph](../case-studies/tennagraph.md), [ICONX](../case-studies/iconx-wip.md), [Blockchain-based notarization platform](../case-studies/notarization-platform.md)
+Projects: [Aztec Protocol](https://www.aztecprotocol.com/), [Tennagraph](../case-studies/tennagraph.md), [ICONX](../case-studies/iconx-wip.md), [Blockchain-based notarization platform](../case-studies/notarization-platform.md) 
 
-### INDUSTRY EXPERIENCE
+## INDUSTRY EXPERIENCE
 
 Education & Science, Blockchain & Cryptocurrency, Entertainment & FinTech
 
-### PRODUCT EXPERIENCE
+## PRODUCT EXPERIENCE
 
-News portals, Blockchain-based platform, Deals & Rewards, ICO, Cryptocurrency, e-learning gamification solution, Notarization on blockchain 
+SDK, News portals, Blockchain-based platform, Deals & Rewards, ICO, Cryptocurrency, e-learning gamification solution, Notarization on blockchain
 
-### TECH STACK <a id="prof-tech-stack"></a>
-
-* iOS: Objective-C, Swift 1.0-4, C++
-* Other languages: JAVA, C, C++
-
-### FULL STACK DEVELOPMENT FRONT END BACK END DLT <a id="prof-tech-stack"></a>
+## FULL STACK DEVELOPMENT FRONT END BACK END DLT <a id="prof-tech-stack"></a>
 
 Strong knowledge in OOP  
 Strong knowledge in architecture patterns: MVC, MVP, VIPER
@@ -38,14 +33,14 @@ Programming Languages: Python, Solidity, SWIFT, Objective-C, C, C++, Java, Node.
 
 RDBMS: MONGODB POSTGRESQL SQL REALM
 
-Operating Systems: 
+Operating Systems:
 
 * Linux
 * Ubuntu
 * Mac OS
 * Windows
 
-Development Tools: 
+Development Tools:
 
 * DOCKER 
 * PYCHARM
@@ -53,9 +48,7 @@ Development Tools:
 * XCODE 
 * SUBLIME TEXT 3 
 
-
-
-Other skills: AWS, Google analytics, Flurry, Mixpanel, HEROKU, GIT/SVN, GIT Flow, Npm, Yarn,  Ethereum Hyperladger,  Quorum, Hyperledger Fabric, OpenZeppelin, Cocoapods, Core-Data, Realm Database, SQL, Parse Server, GCD, NSOperation, AFNetworking, Alomofire, ObjectMapper, AutoLayout, SizeClasses, Interface builder,, Social SDKs, Xamarin IOS, Google Analytics, Flurry, Mixpanel, AdMob, HTML, CSS, Machine Learning 
+Other skills: AWS, Google analytics, Flurry, Mixpanel, HEROKU, GIT/SVN, GIT Flow, Npm, Yarn, Ethereum Hyperladger, Quorum, Hyperledger Fabric, OpenZeppelin, Cocoapods, Core-Data, Realm Database, SQL, Parse Server, GCD, NSOperation, AFNetworking, Alomofire, ObjectMapper, AutoLayout, SizeClasses, Interface builder,, Social SDKs, Xamarin IOS, Google Analytics, Flurry, Mixpanel, AdMob, HTML, CSS, Machine Learning
 
 Libraries/Frameworks/Tools: DJANGO MOCHA VUE.JS WEB3.JS TRUFFLE AXIOS
 
@@ -75,12 +68,11 @@ MBFileAttachLib \( Objective-c\) - This library gives you an ability browse thro
 
 **Blockchain project:**
 
-**Motive 8** – https://github.com/SeductiveMobile/motive8. - the traditional gamification space – as motivatona tool for good moves and work
+**Motive 8** – [https://github.com/SeductiveMobile/motive8](https://github.com/SeductiveMobile/motive8). - the traditional gamification space – as motivatona tool for good moves and work
 
-[https://github.com/SeductiveMobile/M8BadgeToken](https://github.com/SeductiveMobile/M8BadgeToken).  
+[https://github.com/SeductiveMobile/M8BadgeToken](https://github.com/SeductiveMobile/M8BadgeToken).
 
-
-**Icon X** –  the crowdfunding platform where Bohdan was engaged as Solution Architect. 
+**Icon X** – the crowdfunding platform where Bohdan was engaged as Solution Architect.
 
 **Recycle Chain** – is an open market for recyclables. Core of the system is the blockchain database, that's stored and synced between all users.
 
@@ -98,9 +90,5 @@ MBFileAttachLib \( Objective-c\) - This library gives you an ability browse thro
 * Ukrainian- native 
 * Russian - native
 
-
-
-{% embed url="https://www.youtube.com/watch?v=I4qJ2fNQNTg" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=I4qJ2fNQNTg" caption="" %}
 

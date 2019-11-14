@@ -47,8 +47,6 @@ Libraries/Frameworks/Tools: CSS, XML, HTML, JSON, ODBC, REST, FIREBASE, STL, IPF
 
 ## **Recent Projects**
 
-
-
 * [HiveOnline](../case-studies/hiveonline.md) – The financial trust platform for SME in Denmark \(wip\) 
 * [Green Assets Wallet ](https://greenassetswallet.org/about) - a  blockchain based platform for a transparent and efficient green debt market in Sweden formed under the lead of [Stockholm Green Digital Finance](http://stockholmgreenfin.tech/). More about the case study on [https://4irelabs.com/green-assets-wallet-defi-case](https://4irelabs.com/green-assets-wallet-defi-case) 
 * [Contractland](https://www.contractland.io/) - public chain built for the decentralized exchanges
@@ -66,8 +64,6 @@ Libraries/Frameworks/Tools: CSS, XML, HTML, JSON, ODBC, REST, FIREBASE, STL, IPF
 * [CMI](../case-studies/cmi.md) – a global media ecosystem integrating blockchain into news, social media, trade, finance, education and technology innovation.
 * [HiveOnline](../case-studies/hiveonline.md) – blockchain trust record platform for SME \(wip\)
 * [Green Assets Wallet ](https://greenassetswallet.org/about) - a  blockchain based platform for a transparent and efficient green debt market in Sweden formed under the lead of [Stockholm Green Digital Finance](http://stockholmgreenfin.tech/). More about the case study on [https://4irelabs.com/green-assets-wallet-defi-case](https://4irelabs.com/green-assets-wallet-defi-case) 
-
-
 
 ## **Work history**
 
@@ -90,13 +86,9 @@ Kirill likes traveling, cooking, hosting friend parties and is a big fan of owls
 * [https://4irelabs.com/blockchain\_cards](https://4irelabs.com/blockchain_cards)
 * [https://github.com/ContractLand/terra-bridge-btc](https://github.com/ContractLand/terra-bridge-btc)
 
+{% embed url="https://youtu.be/RWH\_FXWSr3A" caption="" %}
 
-
-{% embed url="https://youtu.be/RWH\_FXWSr3A" %}
-
-{% embed url="https://youtu.be/RWH\_FXWSr3A" %}
-
-
+{% embed url="https://youtu.be/RWH\_FXWSr3A" caption="" %}
 
 {% embed url="https://www.loom.com/embed/78cce37eecbe4cf7911580dbf322e3dc" caption="" %}
 
