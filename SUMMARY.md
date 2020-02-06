@@ -1,6 +1,6 @@
 # Table of contents
 
-* [4IRE Labs](README.md)
+* [Scope](README.md)
 * [Design Thinking / Service Design](design-thinking/README.md)
   * [Design Sprint](design-thinking/design-sprint.md)
 * [Architecture / Protocol Design](architecture-design-protocol/README.md)
@@ -9,6 +9,7 @@
 
 ## Organization <a id="org-1"></a>
 
+* [4IRE labs](org-1/4ire-labs.md)
 * [About](org-1/organization.md)
 * [How we work](org-1/how-we-work.md)
 * [Max Semenchuk](org-1/max-semenchuk.md)
