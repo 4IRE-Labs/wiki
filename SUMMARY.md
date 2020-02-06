@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Scope](README.md)
+* [Fintech Innovation Network](README.md)
 * [Design Thinking / Service Design](design-thinking/README.md)
   * [Design Sprint](design-thinking/design-sprint.md)
 * [Architecture / Protocol Design](architecture-design-protocol/README.md)
