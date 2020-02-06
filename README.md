@@ -9,6 +9,7 @@ Purpose: increase innovation adoption in the fintech space
 * [Engineer](https://www.notion.so/Engineer-b916518e73094dff9d50d497d427f997)
 * [Fintech Journalist](https://docs.google.com/spreadsheets/d/1wArciMrCSR6KO5uJF-ae7FRPYhosiga0BfxdamidD-4/edit#gid=315561510)
 * Accelerators / Incubators
+* Investors
 
 ## Products
 
