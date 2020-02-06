@@ -7,21 +7,6 @@
   * [Blockchain for Enterprise](architecture-design-protocol/blockchain-for-enterprise.md)
   * [Dapps / Wallets Development](architecture-design-protocol/dapps-wallets-development.md)
 
-## Organization <a id="org-1"></a>
-
-* [4IRE labs](org-1/4ire-labs.md)
-* [About](org-1/organization.md)
-* [How we work](org-1/how-we-work.md)
-* [Max Semenchuk](org-1/max-semenchuk.md)
-* [Kirill Kirikov](org-1/kirill-kirikov.md)
-* [Oleg Bugrovoy](org-1/oleg-bugrovoy.md)
-* [Bohdan Malkevych](org-1/bohdan-malkevych.md)
-* [Helen Petrashchuk](org-1/helen-petrashchuk.md)
-* [Stas Varetsky](org-1/stas-varetsky.md)
-* [Yura Riznyk](org-1/yura-riznyk.md)
-* [Andrey Krit](org-1/andrey-krit.md)
-* [Roman Malkevych](org-1/roman-malkevych.md)
-
 ## Web3
 
 * [Improving the cryptowallet authorization experience with security level selector](web3/security-level.md)
@@ -50,6 +35,21 @@
 * [ICONX](case-studies/iconx-wip.md)
 * [Hybrid wallet](case-studies/hybrid-wallet-fiat-and-crypto-assets.md)
 * [Vork](case-studies/vork.md)
+
+## Organization <a id="org-1"></a>
+
+* [4IRE labs](org-1/4ire-labs.md)
+* [About](org-1/organization.md)
+* [How we work](org-1/how-we-work.md)
+* [Max Semenchuk](org-1/max-semenchuk.md)
+* [Kirill Kirikov](org-1/kirill-kirikov.md)
+* [Oleg Bugrovoy](org-1/oleg-bugrovoy.md)
+* [Bohdan Malkevych](org-1/bohdan-malkevych.md)
+* [Helen Petrashchuk](org-1/helen-petrashchuk.md)
+* [Stas Varetsky](org-1/stas-varetsky.md)
+* [Yura Riznyk](org-1/yura-riznyk.md)
+* [Andrey Krit](org-1/andrey-krit.md)
+* [Roman Malkevych](org-1/roman-malkevych.md)
 
 ## Temp
 
