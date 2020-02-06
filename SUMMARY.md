@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Fintech Innovation Network](README.md)
+* [Fintech Innovation Report](README.md)
 * [Service Design](design-thinking/README.md)
   * [Design Sprint](design-thinking/design-sprint.md)
 * [Blockchain](architecture-design-protocol/README.md)
