@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Fintech Innovation Network](README.md)
-* [Design Thinking / Service Design](design-thinking/README.md)
+* [Service Design](design-thinking/README.md)
   * [Design Sprint](design-thinking/design-sprint.md)
-* [Architecture / Protocol Design](architecture-design-protocol/README.md)
+* [Blockchain](architecture-design-protocol/README.md)
   * [Blockchain for Enterprise](architecture-design-protocol/blockchain-for-enterprise.md)
-* [Dapps / Wallets Development](dapps-wallets-development.md)
+  * [Dapps / Wallets Development](architecture-design-protocol/dapps-wallets-development.md)
 
 ## Organization <a id="org-1"></a>
 

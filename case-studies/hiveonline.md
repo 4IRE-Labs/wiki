@@ -16,7 +16,7 @@ hiveonline’s app takes the pain out of managing projects as a small business F
 
 ![](../.gitbook/assets/image%20%2886%29.png)
 
-[Dapps / Wallets development](../dapps-wallets-development.md) \(iOS, backend\)
+[Dapps / Wallets development](../architecture-design-protocol/dapps-wallets-development.md) \(iOS, backend\)
 
 The app was launched into production in November 2018.
 

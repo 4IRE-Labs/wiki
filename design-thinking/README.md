@@ -1,4 +1,4 @@
-# Design Thinking / Service Design
+# Service Design
 
 ## Before the start checklist
 

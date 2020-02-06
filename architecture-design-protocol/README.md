@@ -1,4 +1,4 @@
-# Architecture / Protocol Design
+# Blockchain
 
 **For:** Fintech Products/Protocols on the pre-development stage
 

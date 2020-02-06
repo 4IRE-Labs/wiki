@@ -6,7 +6,7 @@ We're working on a website in the community that we can trust - a fairly high so
 
 The end goal is a community-curated hub that clears out some of the noise around key developments and decisions facing Ethereum
 
-Services: [Architecture / Protocol Design](../architecture-design-protocol/), [Dapps / Wallets Development](../dapps-wallets-development.md)
+Services: [Architecture / Protocol Design](../architecture-design-protocol/), [Dapps / Wallets Development](../architecture-design-protocol/dapps-wallets-development.md)
 
 Team: [Bohdan Malkevych](../org-1/bohdan-malkevych.md), James Hancock, [Max Semenchuk](../org-1/max-semenchuk.md), Griff Green, Deam, Anna Rose
 
