@@ -4,13 +4,16 @@
 
 **Need:** Define the components of the system and how they operate on the paper to avoid costly changes in future. 
 
+* Stablecoins
+* Lending & Derivatives
+* Decentralized Exchanges
+* DAO
+
 We investigate your niche to find out whether you need blockchain or not. Analysis, a deep examination of the industry and a sober assessment of the goals and available resources is the way to mitigate most of the risks. It is the way we get things done.
 
 We're convinced that canonical approaches of software architecture in agile is a huge work upfront. That's why we think that the solution architecture and development only the high-level diagrams is enough to start the development in our very fast changing world. 
 
 Case Studies: [Kidcoin](../case-studies/kidcoin.md), [Kepler Collective](../case-studies/kepler-collective.md), [Social. Media Market](../case-studies/social.-media-market.md), [Smart Documents](../case-studies/notarization-platform.md), [ORME](../case-studies/orme.md)
-
-Consultants: [Kirill Kirikov](../org-1/kirill-kirikov.md), [Oleg Bugrovoy](../org-1/oleg-bugrovoy.md), [Bohdan Malkevych](../org-1/bohdan-malkevych.md)
 
 ## Technologies
 

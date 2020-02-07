@@ -27,7 +27,7 @@ Goals:
 
 * PSD2 / APIs
 * [Service Design](design-thinking/)
-* [Blockchain](architecture-design-protocol/)
+* [Decentralized Finance](architecture-design-protocol/)
 * AI / ML
 
 ![](.gitbook/assets/image%20%2883%29.png)
