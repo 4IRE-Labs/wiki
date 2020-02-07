@@ -51,14 +51,3 @@
 * [Andrey Krit](org-1/andrey-krit.md)
 * [Roman Malkevych](org-1/roman-malkevych.md)
 
-## Temp
-
-* [Tacticals](temp/tacticals/README.md)
-  * [Tactical 01.08.2019](temp/tacticals/tactical-01.08.2019.md)
-  * [Tactical 08.08.2019](temp/tacticals/tactical-08.08.2019.md)
-  * [Tactical 15.08.2019](temp/tacticals/tactical-15.08.2019.md)
-  * [Tactical 29.08.2019](temp/tacticals/tactical-29.08.2019.md)
-  * [Tactical 05.09.2019](temp/tacticals/tactical-05.09.2019.md)
-* [Archive](temp/archive/README.md)
-  * [Merging.Space – Project Management Tool](temp/archive/merge-space-overview.md)
-
