@@ -34,5 +34,5 @@ Goals:
 
 Mapping: [https://graphcommons.com/graphs/8e845315-ed51-4437-9348-ae316c992aec](https://graphcommons.com/graphs/8e845315-ed51-4437-9348-ae316c992aec)
 
-Thanks to ...
+Contributors: Helen Petrashchuk, Max Semenchuk, Johan Lundin, Alex Meads
 
