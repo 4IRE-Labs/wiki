@@ -4,16 +4,16 @@ Purpose: increase innovation adoption in the fintech space
 
 Goals:
 
-1. Выстроить максимально эффективные интегративные коммуникации между лидерами в финтехе;
-2. Сделать максимально доступной и понятной публичную информацию о целях, задачах и видах экспертизы;
-3. Построить регулярную систему обмена знаниями и ресурсами между экспертами.
+1. Build effective integrative communications between the leaders in the fintech space;
+2. Provide public information about participants goals, objectives and types of expertise as accessible and understandable as possible; 
+3. Build regular knowledge and resources exchange between experts.
 
 ### For
 
-* [Fintech Startup Founder](https://www.notion.so/Fintech-Startup-Founder-af380d7dfa6a4158879c91c333506e55)
-* [Digital Banking Head](https://www.notion.so/Digital-Banking-Head-d158b8ac8ab249d4bcb846c05251a782)
-* [Engineer](https://www.notion.so/Engineer-b916518e73094dff9d50d497d427f997)
-* [Fintech Journalist](https://docs.google.com/spreadsheets/d/1wArciMrCSR6KO5uJF-ae7FRPYhosiga0BfxdamidD-4/edit#gid=315561510)
+* Digital Banking Heads
+* Fintech Startup Founder
+* Engineers
+* Fintech Journalist
 * Accelerators / Incubators
 * Investors
 
@@ -28,7 +28,7 @@ Goals:
 * PSD2 / APIs
 * [Service Design](design-thinking/)
 * [Decentralized Finance](architecture-design-protocol/)
-* AI / ML
+* [Machine Learning](machine-learning.md)
 
 ![](.gitbook/assets/image%20%2883%29.png)
 

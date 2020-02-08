@@ -6,6 +6,7 @@
 * [Blockchain](architecture-design-protocol/README.md)
   * [Blockchain for Enterprise](architecture-design-protocol/blockchain-for-enterprise.md)
   * [Dapps / Wallets Development](architecture-design-protocol/dapps-wallets-development.md)
+* [Machine Learning](machine-learning.md)
 
 ## Web3
 
