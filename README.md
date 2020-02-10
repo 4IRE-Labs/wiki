@@ -22,7 +22,8 @@ Goals:
 * [Fintech Innovation Map](https://graphcommons.com/graphs/8e845315-ed51-4437-9348-ae316c992aec)
 * Mastermind Groups
 * Crash Tests / Ideathons
-* [Sales Partnerships](https://www.notion.so/Partnerships-ca1ea09a5f134493bac019e73ed99448)
+* Design Thinking Workshops
+* Sales Partnerships
 
 ## Technologies
 
