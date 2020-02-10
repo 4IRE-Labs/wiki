@@ -13,15 +13,16 @@ Goals:
 * Digital Banking Heads
 * Fintech Startup Founder
 * Engineers
-* Fintech Journalist
 * Accelerators / Incubators
 * Investors
+* Fintech Media
 
 ## Products
 
-* [Meetup](https://www.notion.so/Meetup-ec0700a397e0484f8031c2849dddc994)
-* [Blog](https://www.notion.so/Blog-51591d6b9d1f40cfb6c2e40aa4e07195)
-* [Partnerships](https://www.notion.so/Partnerships-ca1ea09a5f134493bac019e73ed99448)
+* [Fintech Innovation Map](https://graphcommons.com/graphs/8e845315-ed51-4437-9348-ae316c992aec)
+* Mastermind Groups
+* Crash Tests / Ideathons
+* [Sales Partnerships](https://www.notion.so/Partnerships-ca1ea09a5f134493bac019e73ed99448)
 
 ## Technologies
 
@@ -29,10 +30,6 @@ Goals:
 * [Service Design](design-thinking/)
 * [Decentralized Finance](architecture-design-protocol/)
 * [Machine Learning](machine-learning.md)
-
-![](.gitbook/assets/image%20%2883%29.png)
-
-Mapping: [https://graphcommons.com/graphs/8e845315-ed51-4437-9348-ae316c992aec](https://graphcommons.com/graphs/8e845315-ed51-4437-9348-ae316c992aec)
 
 Contributors: Helen Petrashchuk, Max Semenchuk, Johan Lundin, Alex Meads
 
