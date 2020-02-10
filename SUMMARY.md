@@ -8,12 +8,12 @@
   * [Dapps / Wallets Development](architecture-design-protocol/dapps-wallets-development.md)
 * [Machine Learning](machine-learning.md)
 
-## Web3
+## Product Management <a id="product"></a>
 
-* [Improving the cryptowallet authorization experience with security level selector](web3/security-level.md)
-* [Encoding seed phrase to the picture \(steganography\)](web3/encoding-seed-phrase-to-the-picture-steganography.md)
+* [Improving the cryptowallet authorization experience with security level selector](product/security-level.md)
+* [Encoding seed phrase to the picture \(steganography\)](product/encoding-seed-phrase-to-the-picture-steganography.md)
 
-## Logistics
+## RegTech <a id="logistics"></a>
 
 * [Logistics Summary](logistics/asset-tracking.md)
 * [Expanding Supply Chaing Traceability with Blockchain](logistics/supply-chain-blockchain-tech-review-and-comparison.md)
