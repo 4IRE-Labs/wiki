@@ -6,7 +6,7 @@
 * How clear is the solution? \(if clear – no need\)
 * How ambiguous and complex is the challenge?
 * Is exploration safe for the organization?
-* Can we get the feedback from target audience in the short terms?
+* Can we get the feedback from target audience in the short terms? 
 
 ## Problem Identification
 

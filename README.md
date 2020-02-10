@@ -1,5 +1,7 @@
 # Fintech Innovation Report
 
+![](.gitbook/assets/group-32.png)
+
 Purpose: increase innovation adoption in the fintech space
 
 Goals:
